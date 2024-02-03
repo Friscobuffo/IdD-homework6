@@ -1,6 +1,15 @@
-prima di tutto
-script che converte tutti i csv/xml in json per uniformità (da anche una sistemata ai json presenti)
-
 dipendenze python
-pandas
-xlrd
+pandas (dovrebbe essere inclusa con flexmatcher)
+xlrd (per i file xls)
+flexmatcher (custom)
+valentine
+
+prima di tutto
+ - script che converte tutti i csv/xml in json per uniformità (da anche una sistemata ai json presenti)
+ - provato a creare un prompt per fare lo schema mediato tramite chatgpt
+ - buoni risultati, fare test piu ciotti
+ - libreria flexmatcher ha roba deprecata non si puo usare
+ - risolte a mano le robe deprecate
+ - tempo addestramento sul tostapane mio: 4 min e mezzo
+ - da risultati discreti, fare test piu ciotti
+ 
