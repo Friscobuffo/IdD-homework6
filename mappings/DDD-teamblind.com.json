@@ -1,0 +1,9 @@
+{
+    "": "id",
+    "name": "company_name",
+    "website": "website",
+    "locations": "city_location",
+    "size": "number_of_employees",
+    "industry": "sector",
+    "founded": "founding_year"
+}

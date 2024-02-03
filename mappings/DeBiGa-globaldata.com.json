@@ -1,0 +1,11 @@
+{
+    "name": "company_name",
+    "headquarters": "country",
+    "number_of_employees": "number_of_employees",
+    "address": "address",
+    "industry": "industry",
+    "website": "website",
+    "market_cap": "market_cap",
+    "telephone": "telephone",
+    "revenue": "revenue"
+}
