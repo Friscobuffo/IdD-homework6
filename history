@@ -1,2 +1,6 @@
 prima di tutto
-script che converte tutti i csv in json per uniformità
+script che converte tutti i csv/xml in json per uniformità (da anche una sistemata ai json presenti)
+
+dipendenze python
+pandas
+xlrd
