@@ -1,0 +1,22 @@
+"Name","Industry","headQuarters","Founded","Area Served"
+"10.or","Smartphones","Taipei","2004; 18 years ago (2004)","Worldwide"
+
+
+"Industry","Founded","Revenue","Name","Location"
+"Diversified Financials","1939","$276.1B","Berkshire Hathaway","Omaha, Nebraska"
+
+
+,name,website,locations,size,industry,founded
+0,Proteus Digital Health Careers,www.proteus.com,"Redwood City, CA",201 to 500 employees,Pharmaceuticals,2004
+
+
+"name": "Enel Spa", "address": "VIALE REGINA MARGHERITA 137. ROMA. 00198. ROMA. ITALY", "nation": "IT00934061003", "industry": "Finance. Insurance. and Real Estate", "type": "Corporation", "est_of_ownership": "1962"}
+
+
+via, sede, settore, fatturato, nome, 
+"Piazza IV Novembre 4","Milano","Vendita al dettaglio & all'ingrosso","13.889","Euro Top Brand S.r.l.s."
+
+
+
+valori in comune su tutte le tabelle
+name, industria, location citta, ///location nazione, location via, area served, data fondazione, revenue, sito, size
