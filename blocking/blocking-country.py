@@ -6,7 +6,6 @@ import os
 def block_creator(entry, blocks, counter):
     
     country = coco.convert(entry["Headquarter"], to='name', enforce_list=False)
-    print(entry["Name"])
     if type(country) == list:
         counter += 1
     else:
@@ -27,7 +26,6 @@ with open(json_file_path, 'r') as json_file:
         for entry in data:
             counter = block_creator(entry, blocks, counter)
 print(blocks)
-print(counter)
 
     
     
