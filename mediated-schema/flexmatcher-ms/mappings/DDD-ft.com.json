@@ -1,0 +1,13 @@
+{
+    "": "id",
+    "name": "company_name",
+    "country": "country",
+    "sector": "sector",
+    "absolute_growth_rate_pct": "absolute_growth_rate_pct",
+    "compound_annual_growth_rate_cagr_pct": "compound_annual_growth_rate_cagr_pct",
+    "revenue_2020_euro": "revenue",
+    "revenue_2017_euro": "revenue_2017_euro",
+    "number_of_employees_2020": "number_of_employees",
+    "number_of_employees_2017": "number_of_employees_2017",
+    "founding_year": "founding_year"
+}

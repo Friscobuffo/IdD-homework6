@@ -1,0 +1,11 @@
+{
+    "id": "id",
+    "name": "company_name",
+    "address": "address",
+    "nation": "nation_code",
+    "hhid": "hhid",
+    "industry": "industry",
+    "sic_code": "sic_code",
+    "type": "type",
+    "est_of_ownership": "founding_year"
+}
