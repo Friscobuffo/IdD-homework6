@@ -11,5 +11,9 @@ for fileName in allMatches:
         m = pickle.load(pickleFile)
     for key in m:
         score = m[key]
+        print(key)
+        print()
+        print(score)
+        print()
         matches[key] = score
-print(len(matches))
+# print(len(matches))
