@@ -12,7 +12,6 @@ for fileName in allMatches:
         m = pickle.load(pickleFile)
     for key in m:
         score = m[key]
-        # filtrare gli score bassi? quanto bassi?
         if score>0.3: matches[key] = score
 sets = []
 for key in matches:

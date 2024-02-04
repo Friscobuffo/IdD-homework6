@@ -1,4 +1,4 @@
+('iGMM-cbinsights.com.json', 'selectinvestors')
+('gren-ft.com.json', 'sector')
 ('GioPonSpiz-wikipedia.org.json', 'Sector')
 ('silvestri-disfold.com.json', 'sector')
-('gren-ft.com.json', 'sector')
-('iGMM-cbinsights.com.json', 'selectinvestors')
