@@ -7,7 +7,8 @@ from valentine.algorithms import Coma
 import pandas as pd
 import shutil
 
-MATCHES_DIRECTORY = os.path.abspath(os.getcwd())+"/matches"
+absPath = os.path.dirname(os.path.abspath(__file__))
+MATCHES_DIRECTORY = absPath + "/matches"
 
 def parseChunk(chunk, schemaList, schemaNames, processNumber):
     matcher = Coma(use_instances=True, java_xmx="2048m")
@@ -20,7 +21,8 @@ def parseChunk(chunk, schemaList, schemaNames, processNumber):
         j = comparison[1]
         result = valentine_match(schemaList[i], schemaList[j], matcher, schemaNames[i], schemaNames[j])
         for key in result:
-            matches[key] = result
+            score = result[key]
+            matches[key] = score
     print(f"finished {processNumber} process")
     pickle.dump(matches, open(MATCHES_DIRECTORY+"/matches"+str(processNumber), 'wb'))
 
@@ -30,7 +32,7 @@ if __name__ == "__main__":
     numProcs = 2
     procs = []
     parsers = []
-    dataSource = "sources-json"
+    dataSource = absPath + "/sources-json"
     files = os.listdir(dataSource)
     schemaList = []
     schemaNames = []

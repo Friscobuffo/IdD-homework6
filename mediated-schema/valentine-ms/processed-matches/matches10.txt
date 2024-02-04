@@ -1,0 +1,3 @@
+('slytherin-disfold.com.json', 'link')
+('DeBiGa-disfold.com.json', 'stock')
+('silvestri-disfold.com.json', 'stock')

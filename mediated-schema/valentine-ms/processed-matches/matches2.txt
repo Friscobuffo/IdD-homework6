@@ -1,0 +1,6 @@
+('slytherin-forbes.com.json', 'revenue')
+('gren-value.today.json', 'annual_revenue_USD')
+('valueToday_dataset.json', 'annual_revenue_in_usd')
+('gren-ft.com.json', 'revenue_2020_EU')
+('gren-ft.com.json', 'revenue_2017_EU')
+('FR_forbes.json', 'Revenue')
