@@ -1,29 +1,31 @@
 import country_converter as coco
 import json
 import os
-from multiprocessing import Pool, Manager
+from multiprocessing import Pool, Manager, cpu_count
 
 
 def block_creator(args):
     entry,blocks, blocks_lock = args
     country = coco.convert(entry["Headquarter"], to='name', enforce_list=False) # Da modificare in "country"
-    
+    print(country)
     if type(country) == list:
-        return 1
+        with blocks_lock:
+            if len(country) == 3 and country[2] in blocks:
+                blocks[coco.convert(country[2], to='name')].append(entry)
+            elif len(country) == 2 and country[1] in blocks:
+                blocks[coco.convert(country[1], to='name')].append(entry)
+                
     else:
         with blocks_lock:
             if country in blocks:
                 blocks[country].append(entry)
             else:
                 blocks[country] = [entry]
-        return 0    
 
 def process_chunk(args):
     chunk, blocks, blocks_lock = args
-    result = 0
     for entry in chunk:
-        result += block_creator((entry, blocks, blocks_lock))
-    return result
+        block_creator((entry, blocks, blocks_lock))
 
 def main():
     with Pool(processes=num_processes) as pool:
@@ -39,17 +41,14 @@ def main():
         blocks = manager.dict()
         blocks_lock = manager.Lock()
 
-        results = pool.map(process_chunk, [(chunk, blocks, blocks_lock) for chunk in chunks])
-    
-    counter = sum(results)
-    print(f"Blocks dictionary: {len(blocks)}")
-    print(f"Errori nell blocking del country: {counter}")
-        
-if __name__ == "__main__":
-    num_processes = 8
-    main()
+        pool.map(process_chunk, [(chunk, blocks, blocks_lock) for chunk in chunks])
 
         
+if __name__ == "__main__":
+    num_processes = 2 #cpu_count()
+    main()
+
+      
         
             
 
