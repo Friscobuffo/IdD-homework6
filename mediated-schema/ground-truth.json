@@ -9,8 +9,8 @@
         "compound_annual_growth_rate_cagr_pct": "compound_annual_growth_rate_cagr_pct",
         "revenue_2020_euro": "revenue",
         "revenue_2017_euro": "revenue_2017",
-        "number_of_employees_2020": "number_of_employees",
-        "number_of_employees_2017": "number_of_employees_2017",
+        "number_of_employees_2020": "employees_number",
+        "number_of_employees_2017": "employees_number_2017",
         "founding_year": "founding_year"
     },
     {
@@ -19,7 +19,7 @@
         "name": "company_name",
         "website": "website",
         "locations": "location_city",
-        "size": "number_of_employees",
+        "size": "employees_number",
         "industry": "industry",
         "founded": "founding_year"
     },
@@ -33,14 +33,14 @@
         "industry": "industry",
         "headquarters": "location_city",
         "founded": "founding_year",
-        "employees": "number_of_employees",
+        "employees": "employees_number",
         "ceo": "ceo"
     },
     {
         "dataset": "DeBiGa-globaldata.com.json",
         "name": "company_name",
         "headquarters": "country",
-        "number_of_employees": "number_of_employees",
+        "number_of_employees": "employees_number",
         "address": "address",
         "industry": "industry",
         "website": "website",
@@ -86,8 +86,8 @@
         "sector": "sector",
         "revenue_2020_EU": "revenue",
         "revenue_2017_EU": "revenue_2017",
-        "employees_number_2020": "number_of_employees",
-        "employees_number_2017": "number_of_employees_2017",
+        "employees_number_2020": "employees_number",
+        "employees_number_2017": "employees_number_2017",
         "founding_year": "founding_year"
     },
     {
@@ -96,7 +96,7 @@
         "annual_revenue_USD": "revenue",
         "annual_net_income_USD": "net_income",
         "market_capitalization_2022": "market_cap",
-        "employees_number": "number_of_employees",
+        "employees_number": "employees_number",
         "CEO": "ceo",
         "headquarters_country": "country",
         "wikipedia_page_url": "wikipedia",
@@ -164,7 +164,7 @@
         "link": "website",
         "name": "company_name",
         "headquarters": "location_city",
-        "employees": "number_of_employees",
+        "employees": "employees_number",
         "ceo": "ceo",
         "market_cap": "market_cap"
     },
@@ -176,7 +176,7 @@
         "founded": "founding_year",
         "country": "country",
         "ceo": "ceo",
-        "employees": "number_of_employees",
+        "employees": "employees_number",
         "revenue": "revenue"
     }
 ]

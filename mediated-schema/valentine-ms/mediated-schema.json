@@ -86,7 +86,7 @@
         "Name": "company_name",
         "Industry": "industry",
         "Headquarter": "country",
-        "Ownership": "fouding_year",
+        "Ownership": "founding_year",
         "Foundation Year": "founding_year",
         "dataset": "MarScoToc-ambitionbox.com.json"
     },
@@ -138,7 +138,7 @@
         "industry": "industry",
         "sic_code": "sic_code",
         "type": "type",
-        "est_of_ownership": "fouding_year",
+        "est_of_ownership": "founding_year",
         "dataset": "hitHorizons_dataset.json"
     },
     {
