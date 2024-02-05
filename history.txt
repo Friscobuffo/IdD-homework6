@@ -47,5 +47,7 @@ MEDIATED SCHEMA:
      trovare troppi pochi match, quindi diventa necessario piu lavoro manuale)
 
 BLOCKING:
-
+  > country
+    - prima startegia di blocking utilizzata, è molto molto lento, è necessario parallelizzare (al momaneto solo su un dataset)
+    - Aggiunta paralelizzazione, problema nella scelta del country
 PAIRWISE MATCHING:
