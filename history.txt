@@ -41,10 +41,12 @@ MEDIATED SCHEMA:
    - creato script che processa e insieme i match tra tutte le coppie possibili e crea lo schema mediato (processMatches.py)
    - il valore di tuning della soglia di confidenza che sembra comportarsi meglio è 0.3 (forse provare un pochino 
      piu alta, con 0.3 mette in comune industry e country)
+     0.33 si comporta meglio
    - lo schema mediato è un json: mediated-schema.json
    - non riesce a cogliere differenze tra ad esempio revenue2017 e revenue2020 nonostante dovrebbe tenere in considerazione
      anche i nomi delle colonne oltre che i valori (aumentare troppo la soglia per provare a risolvere ciò però fa
      trovare troppi pochi match, quindi diventa necessario piu lavoro manuale)
+  > creato script per fare il mega tabellone dato lo schema mediato (makeTable.py)
 
 BLOCKING:
   > country
