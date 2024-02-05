@@ -76,7 +76,7 @@
         "dataset": "gren-companiesmarketcap.com.json",
         "name": "company_name",
         "market_capitalization_USD": "market_cap",
-        "price": "130", # aoaoaoao
+        "price": "price",
         "country": "country"
     },
     {
@@ -156,7 +156,27 @@
         "name": "company_name",
         "country": "country",
         "market_value_apr_2022": "market_cap",
-        "sector": "",
-        "stock": "sector"
+        "sector": "sector",
+        "stock": "stock"
     },
+    {
+        "dataset": "slytherin-disfold.com.json",
+        "link": "website",
+        "name": "company_name",
+        "headquarters": "location_city",
+        "employees": "number_of_employees",
+        "ceo": "ceo",
+        "market_cap": "market_cap"
+    },
+    {
+        "dataset": "slytherin-forbes.com.json",
+        "link": "website",
+        "name": "company_name",
+        "industry": "industry",
+        "founded": "founding_year",
+        "country": "country",
+        "ceo": "ceo",
+        "employees": "number_of_employees",
+        "revenue": "revenue"
+    }
 ]

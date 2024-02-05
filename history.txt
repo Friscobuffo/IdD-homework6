@@ -1,0 +1,51 @@
+===========================
+DIPENDENZE PYTHON
+===========================
+ - pandas (dovrebbe essere inclusa con flexmatcher)
+ - xlrd (per i file xls)
+ - flexmatcher (custom)
+ - valentine
+
+===========================
+FONTI SCOMODE
+===========================
+FR_sole24ore -> non ha i nomi delle colonne, tocca aggiungerli a mano (risolvibile comunque)
+valueToday_dataset -> è scomoda in quanto ci sono campi con liste, conviene cambiarla
+
+===========================
+HISTORY
+===========================
+script che converte tutti i csv/xml in json per uniformità (da anche una sistemata ai json presenti 
+per migliore leggibilità) (script: filesConverter.py)
+
+MEDIATED SCHEMA:
+ > chatgpt
+   - prompt per fare lo schema mediato tramite chatgpt
+   - buoni risultati, fare test piu ciotti?
+   - BISOGNA METTERE I PROMP E I RESULT IN DEI TXT
+ > flexmatcher
+   - libreria flexmatcher ha roba deprecata non si puo usare
+   - risolte a mano le robe deprecate
+   - tempo addestramento sul tostapane mio: 4 min e mezzo (/flexmatcher-ms/main.py)
+   - da risultati discreti, fare test piu ciotti?
+   - non tenendo in considerazione i nomi delle colonne non riesce ovviemente a cogliere differenze tra
+     ad esempio revenue2017 e revenue2020
+   - richiede di fare il labeling prima di fare i match, e quindi fondamentalmente richiede di avere gia uno schema mediato
+   - durante il training da spesso dei warning dicendo che non raggiunge la piena convergenza l'algoritmo di scikitlearn
+     usato dalla libreria, per averla toccherebbe mettere le mani in pasta ed aumentare le iterazioni massime (rischiando 
+     overfitting), un po' una palla
+ > valentine (con coma, provare bene anche altri matcher?)
+   - a fare i comparisons (192) ci mette l'ira di dio, tempo tot: 32min (sempre sul tostapane)
+   - parallelizzando sto scempio (ci mette circa 20 minuti ora, collo di bottiglia non sono le cpu ma la ram 
+     disponibile -> ergo sul pc mio posso usare solo 2 sub-processi)
+   - creato script che processa e insieme i match tra tutte le coppie possibili e crea lo schema mediato (processMatches.py)
+   - il valore di tuning della soglia di confidenza che sembra comportarsi meglio è 0.3 (forse provare un pochino 
+     piu alta, con 0.3 mette in comune industry e country)
+   - lo schema mediato è un json: mediated-schema.json
+   - non riesce a cogliere differenze tra ad esempio revenue2017 e revenue2020 nonostante dovrebbe tenere in considerazione
+     anche i nomi delle colonne oltre che i valori (aumentare troppo la soglia per provare a risolvere ciò però fa
+     trovare troppi pochi match, quindi diventa necessario piu lavoro manuale)
+
+BLOCKING:
+
+PAIRWISE MATCHING:

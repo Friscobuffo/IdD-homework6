@@ -1,0 +1,182 @@
+[
+    {
+        "": "id",
+        "name": "company_name",
+        "country": "country",
+        "sector": "sector",
+        "absolute_growth_rate_pct": "absolute_growth_rate_pct",
+        "compound_annual_growth_rate_cagr_pct": "compound_annual_growth_rate_cagr_pct",
+        "revenue_2020_euro": "revenue",
+        "revenue_2017_euro": "revenue",
+        "number_of_employees_2020": "number_of_employees",
+        "number_of_employees_2017": "number_of_employees",
+        "founding_year": "founding_year",
+        "dataset": "DDD-ft.com.json"
+    },
+    {
+        "": "id",
+        "name": "company_name",
+        "website": "website",
+        "locations": "country",
+        "size": "number_of_employees",
+        "industry": "country",
+        "founded": "founding_year",
+        "dataset": "DDD-teamblind.com.json"
+    },
+    {
+        "name": "company_name",
+        "market_cap": "market_cap",
+        "stock": "website",
+        "country": "country",
+        "sector": "sector",
+        "industry": "country",
+        "headquarters": "country",
+        "founded": "founding_year",
+        "employees": "number_of_employees",
+        "ceo": "ceo",
+        "dataset": "DeBiGa-disfold.com.json"
+    },
+    {
+        "name": "company_name",
+        "headquarters": "country",
+        "number_of_employees": "number_of_employees",
+        "address": "address",
+        "industry": "country",
+        "website": "website",
+        "market_cap": "market_cap",
+        "telephone": "telephone",
+        "revenue": "revenue",
+        "dataset": "DeBiGa-globaldata.com.json"
+    },
+    {
+        "Company": "company_name",
+        "Facebook": "facebook",
+        "Twitter": "twitter",
+        "Instagram": "instagram",
+        "Pinterest": "pinterest",
+        "dataset": "FR_company_social_urls.json"
+    },
+    {
+        "Industry": "country",
+        "Founded": "founding_year",
+        "Revenue": "revenue",
+        "Name": "company_name",
+        "Location": "country",
+        "dataset": "FR_forbes.json"
+    },
+    {
+        "Name": "company_name",
+        "Industry": "country",
+        "Sector": "sector",
+        "Headquarters": "country",
+        "Founded": "founding_year",
+        "dataset": "GioPonSpiz-wikipedia.org.json"
+    },
+    {
+        "Unnamed: 0": "number_of_employees",
+        "Name": "company_name",
+        "Country": "country",
+        "Sales": "sales",
+        "Profit": "revenue",
+        "Assets": "assets",
+        "Market Value": "market_cap",
+        "dataset": "MalPatSaj-forbes.com.json"
+    },
+    {
+        "Name": "company_name",
+        "Industry": "country",
+        "Headquarter": "country",
+        "Ownership": "founding_year",
+        "Foundation Year": "founding_year",
+        "dataset": "MarScoToc-ambitionbox.com.json"
+    },
+    {
+        "Name": "company_name",
+        "Industry": "country",
+        "headQuarters": "country",
+        "Founded": "founding_year",
+        "Area Served": "area_served",
+        "dataset": "MarScoToc-wikipedia.org.json"
+    },
+    {
+        "name": "company_name",
+        "market_capitalization_USD": "market_cap",
+        "price": "number_of_employees",
+        "country": "country",
+        "dataset": "gren-companiesmarketcap.com.json"
+    },
+    {
+        "name": "company_name",
+        "country": "country",
+        "sector": "sector",
+        "revenue_2020_EU": "revenue",
+        "revenue_2017_EU": "revenue",
+        "employees_number_2020": "number_of_employees",
+        "employees_number_2017": "number_of_employees",
+        "founding_year": "founding_year",
+        "dataset": "gren-ft.com.json"
+    },
+    {
+        "name": "company_name",
+        "annual_revenue_USD": "revenue",
+        "annual_net_income_USD": "revenue",
+        "market_capitalization_2022": "market_cap",
+        "employees_number": "number_of_employees",
+        "CEO": "ceo",
+        "headquarters_country": "country",
+        "wikipedia_page_url": "wikipedia",
+        "twitter_page_url": "twitter",
+        "facebook_page_url": "facebook",
+        "dataset": "gren-value.today.json"
+    },
+    {
+        "id": "id",
+        "name": "company_name",
+        "address": "address",
+        "nation": "country",
+        "hhid": "hhid",
+        "industry": "country",
+        "sic_code": "sic_code",
+        "type": "type",
+        "est_of_ownership": "founding_year",
+        "dataset": "hitHorizons_dataset.json"
+    },
+    {
+        "company": "company_name",
+        "valuation": "country",
+        "datejoined": "founding_date",
+        "country": "country",
+        "city": "location_city",
+        "industry": "country",
+        "selectinvestors": "sector",
+        "dataset": "iGMM-cbinsights.com.json"
+    },
+    {
+        "name": "company_name",
+        "country": "country",
+        "market_value_apr_2022": "market_cap",
+        "sector": "sector",
+        "stock": "website",
+        "dataset": "silvestri-disfold.com.json"
+    },
+    {
+        "link": "website",
+        "name": "company_name",
+        "headquarters": "country",
+        "employees": "number_of_employees",
+        "ceo": "ceo",
+        "market_cap": "market_cap",
+        "dataset": "slytherin-disfold.com.json"
+    },
+    {
+        "link": "website",
+        "name": "company_name",
+        "industry": "country",
+        "founded": "founding_year",
+        "country": "country",
+        "ceo": "ceo",
+        "employees": "number_of_employees",
+        "revenue": "revenue",
+        "dataset": "slytherin-forbes.com.json"
+    }
+]

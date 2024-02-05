@@ -1,6 +1,7 @@
 import os
 import pickle
 import shutil
+import json
 
 absPath = os.path.dirname(os.path.abspath(__file__))
 MATCHES_DIRECTORY = absPath + "/matches"
@@ -45,3 +46,42 @@ for i, s in enumerate(sets):
     with open(filePath, 'w') as f:
         for elem in s:
             f.write(str(elem) + '\n')
+
+labelsMediatedSchema = []
+for s in sets:
+    print(s)
+    print("what name do you want to give to this set of attibutes?")
+    name = input()
+    print()
+    labelsMediatedSchema.append(name)
+
+SOURCES_DIRECTORY = absPath + "/sources-json"
+files = os.listdir(SOURCES_DIRECTORY)
+schemas = []
+for file in files:
+    filePath = SOURCES_DIRECTORY + "/" + file
+    with open(filePath, 'r') as jsonfile:
+        data = json.load(jsonfile)[0]
+    for key in data:
+        label = None
+        for i, s in enumerate(sets):
+            for elem in s:
+                dataset = elem[0]
+                column = elem[1]
+                if dataset != file: continue
+                if key != column: continue
+                label = labelsMediatedSchema[i]
+                break
+            if label: break
+        if not label:
+            print(f"{key} from {file} needs a label, input wanted label:")
+            label = input()
+        data[key] = label
+    data["dataset"] = file
+    schemas.append(data)
+
+mediatedSchemaPath = absPath + "/mediated-schema.json"
+if os.path.exists(mediatedSchemaPath):
+    os.remove(mediatedSchemaPath)
+with open(mediatedSchemaPath, "w") as json_file:
+    json.dump(schemas, json_file, indent=4)
