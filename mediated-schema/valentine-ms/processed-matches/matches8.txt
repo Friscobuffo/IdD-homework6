@@ -1,2 +1,2 @@
-('slytherin-forbes.com.json', 'link')
-('slytherin-disfold.com.json', 'link')
+('DDD-teamblind.com.json', 'locations')
+('FR_forbes.json', 'Location')

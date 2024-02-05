@@ -1,2 +1,2 @@
-('gren-value.today.json', 'facebook_page_url')
-('FR_company_social_urls.json', 'Facebook')
+('gren-value.today.json', 'twitter_page_url')
+('FR_company_social_urls.json', 'Twitter')
