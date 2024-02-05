@@ -1,3 +1,2 @@
 ('silvestri-disfold.com.json', 'stock')
 ('DeBiGa-disfold.com.json', 'stock')
-('slytherin-disfold.com.json', 'link')

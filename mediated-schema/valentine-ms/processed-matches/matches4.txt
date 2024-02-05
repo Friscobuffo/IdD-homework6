@@ -1,2 +1,2 @@
-('hitHorizons_dataset.json', 'id')
-('valueToday_dataset.json', 'id')
+('silvestri-disfold.com.json', 'sector')
+('iGMM-cbinsights.com.json', 'selectinvestors')

@@ -1,5 +1,2 @@
-('gren-value.today.json', 'CEO')
-('slytherin-forbes.com.json', 'ceo')
-('valueToday_dataset.json', 'ceo')
-('slytherin-disfold.com.json', 'ceo')
-('DeBiGa-disfold.com.json', 'ceo')
+('FR_company_social_urls.json', 'Company')
+('iGMM-cbinsights.com.json', 'company')

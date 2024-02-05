@@ -13,7 +13,7 @@ for fileName in allMatches:
         m = pickle.load(pickleFile)
     for key in m:
         score = m[key]
-        if score>0.3: matches[key] = score
+        if score>0.33: matches[key] = score
 sets = []
 for key in matches:
     dataset0 = key[0]

@@ -1,2 +1,3 @@
-('gren-value.today.json', 'annual_net_income_USD')
-('valueToday_dataset.json', 'annual_net_income_in_usd')
+('GioPonSpiz-wikipedia.org.json', 'Sector')
+('gren-ft.com.json', 'sector')
+('silvestri-disfold.com.json', 'sector')
