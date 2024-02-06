@@ -2,8 +2,11 @@ import os
 import recordlinkage
 from recordlinkage.datasets import load_febrl4
 import pandas as pd
+import unicodedata as uc
 import json
 
+def normalize_text(stringa):
+    return uc.normalize('NFKD', stringa).encode('ascii', 'ignore').decode('utf-8')
 
 def match(dfA, dfB, min_score = 3):
     # Indexation step
@@ -33,13 +36,19 @@ def match(dfA, dfB, min_score = 3):
 if __name__ == "__main__":    
     absPath = os.path.dirname(os.path.abspath(__file__))
 
+    tot_matches = 0
     dataSource = absPath + "/custom-blocks"
     files = os.listdir(dataSource)
     for file in files:
         json_file_path = absPath + '/custom-blocks/' + file
         dfA = pd.read_json(json_file_path)
+        dfA = dfA.map(lambda x: normalize_text(x) if isinstance(x, str) else x)
+        dfA = dfA.astype(str)
         matches = match(dfA, dfA, 3)
-        print(file, len(dfA), len(matches))
+        tot_matches += len(matches)
+    
+    print(tot_matches)
+        
 
 
 ################### sperimentale ###################
