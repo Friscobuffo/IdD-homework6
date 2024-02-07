@@ -70,8 +70,8 @@ if __name__ == "__main__":
     dataSource = absPath + "/custom-blocks"
     files = os.listdir(dataSource)
     for file in files:
-        if file == "":
-            pass
+        if file == ".json":
+            continue
         print(file)
         json_file_path = absPath + '/custom-blocks/' + file
         dfA = pd.read_json(json_file_path)
