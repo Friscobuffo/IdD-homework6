@@ -1,6 +1,5 @@
 import os
 import recordlinkage
-from recordlinkage.datasets import load_febrl4
 import pandas as pd
 import unicodedata as uc
 import Levenshtein
@@ -50,7 +49,7 @@ def personal_match(dfA, dfB, keys, threshold = 0.1, min_score = 3):
             score = dict()
             for key in keys:
                 if rowA[key] == "" or rowB[key] == "":
-                    score[key] = 0
+                    score[key] = 1
                 else:
                     score[key] = normalizedDistance(rowA[key], rowB[key])
             scores[(indexA,indexB)] = score
@@ -60,6 +59,7 @@ def personal_match(dfA, dfB, keys, threshold = 0.1, min_score = 3):
     matches = {k: v for k, v in scores.items() if sum(v.values()) < threshold * min_score}
 
     print("from %d got %d matches" %(len(dfA), len(matches)))
+    return len(matches)
             
 
 
@@ -70,12 +70,14 @@ if __name__ == "__main__":
     dataSource = absPath + "/custom-blocks"
     files = os.listdir(dataSource)
     for file in files:
+        if file == "":
+            pass
         print(file)
         json_file_path = absPath + '/custom-blocks/' + file
         dfA = pd.read_json(json_file_path)
         dfA = dfA.map(lambda x: normalize_text(x) if isinstance(x, str) else x)
         dfA = dfA.astype(str)
-        personal_match(dfA, dfA, ["company_name", "country"], 0.1, 2)
+        tot_matches += personal_match(dfA, dfA, ["company_name", "country"], 0.1, 2)
     
     print(tot_matches)
         
