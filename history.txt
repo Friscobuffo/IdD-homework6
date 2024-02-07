@@ -52,4 +52,10 @@ BLOCKING:
   > country
     - prima startegia di blocking utilizzata, è molto molto lento, è necessario parallelizzare (al momaneto solo su un dataset)
     - Aggiunta paralelizzazione, problema nella scelta del country
+  > founding year
+    - fatto con preprocessing manuale delle entry di founding_year di final table, e qualora non è presente si fa un ulteriore
+      tentativo su founding_date.
+    - bisogna valutare se è il caso di fare il preprocessing prima del blocking, secondo me ci sta
+    - funziona piuttosto bene, il problema è che ci sono molti elementi senza una data di fondazione (ca 44k su 65k)
+
 PAIRWISE MATCHING:
