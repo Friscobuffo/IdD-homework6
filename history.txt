@@ -5,6 +5,9 @@ DIPENDENZE PYTHON
  - xlrd (per i file xls)
  - flexmatcher (custom)
  - valentine
+ - country_converter
+ - geopy
+ - translators
 
 ===========================
 FONTI SCOMODE
