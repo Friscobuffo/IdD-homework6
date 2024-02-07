@@ -28,18 +28,12 @@ def save_blocks(blocks):
         with open(json_file_path, 'w') as file:
             json.dump(blocks, file, indent=4)
             
-json_file_path = os.path.join('mediated-schema', 'final-table.json') 
+blocks = load_blocks()
+countries = []
+not_found = []
 
-with open(json_file_path, 'r') as json_file:
-    data = json.load(json_file)
-    
-chunk_size = len(data) // (8**2)
-chunks = [data[i:i+chunk_size] for i in range(0, len(data), chunk_size)]
-i = 0
-for chunk in chunks:
-    table_name = 'table_' + str(i) + '.json'
-    json_file_path = os.path.join('blocking', 'tabels', table_name)
-    blocks = chunk
-    with open(json_file_path, 'w') as file:
-            json.dump(blocks, file, indent=4)
-    i += 1
+
+for key, value in blocks.items():
+    print(f"{key} : {len(value)}")
+
+
