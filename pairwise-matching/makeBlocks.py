@@ -1,25 +1,29 @@
 import os
 import json
-
-
+import shutil
 
 def makeBlocks(keys, char_num):
     absPath = os.path.dirname(os.path.abspath(__file__))
     
-    finaTablePath = absPath + "/../mediated-schema/final-table.json"
+    finaTablePath = absPath + "/../mediated-schema/processed-final-table2.json"
     with open(finaTablePath, 'r') as jsonfile:
         finalTable = json.load(jsonfile)
 
     blocks = dict()
     for key in keys:
         for row in finalTable:
-            new_key = row[key][0:char_num]
+            new_key = row[key]
 
             if new_key not in blocks:
                 blocks[new_key] = []
             blocks[new_key].append(row)
     
     print(len(blocks))
+
+    
+    if os.path.exists(absPath + "/custom-blocks"):
+        shutil.rmtree(absPath + "/custom-blocks")
+    os.mkdir(absPath + "/custom-blocks")
 
     for key in blocks.keys():
         blockPath = absPath + "/custom-blocks/%s.json" %key
@@ -29,7 +33,5 @@ def makeBlocks(keys, char_num):
             json.dump(blocks[key], json_file, indent=4)
 
 
-
-
 if __name__ == "__main__":
-    makeBlocks(["company_name"], 2)
+    makeBlocks(["country"], 2)

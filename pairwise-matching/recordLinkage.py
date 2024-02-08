@@ -48,7 +48,7 @@ def personal_match(dfA, dfB, keys, threshold = 0.1, min_score = 3):
         for indexB, rowB in dfB.iterrows():
             score = dict()
             for key in keys:
-                if rowA[key] == "" or rowB[key] == "":
+                if rowA[key] == "" and rowB[key] == "":
                     score[key] = 1
                 else:
                     score[key] = normalizedDistance(rowA[key], rowB[key])
@@ -77,7 +77,7 @@ if __name__ == "__main__":
         dfA = pd.read_json(json_file_path)
         dfA = dfA.map(lambda x: normalize_text(x) if isinstance(x, str) else x)
         dfA = dfA.astype(str)
-        tot_matches += personal_match(dfA, dfA, ["company_name", "country"], 0.1, 2)
+        tot_matches += personal_match(dfA, dfA, ["company_name"], 0.1, 1)
     
     print(tot_matches)
         
