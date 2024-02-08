@@ -99,34 +99,30 @@ int main() {
     int i = 0;
     int comparisonsDone = 0;
     int matchesFound = 0;
-    json_item_outer = json_array->child;
-    while (json_item_outer) {
+    for (json_item_outer = json_array->child; json_item_outer != NULL; json_item_outer = json_item_outer->next, i++) {
+        if (removed[i])
+            continue;
         cJSON* name_outer = cJSON_GetObjectItemCaseSensitive(json_item_outer, "company_name");
         char* company_name_outer = name_outer->valuestring;
         char* company_name_outer_cleaned = removeNonAlphanumeric(company_name_outer);
         int j = i+1;
-        json_item_inner = json_item_outer->next;
-        while (json_item_inner) {
+        for (json_item_inner = json_item_outer->next; json_item_inner != NULL; json_item_inner = json_item_inner->next, j++) {
+            if (removed[j])
+                continue;
             comparisonsDone++;
-            if (!removed[j]) {
-                cJSON* name_inner = cJSON_GetObjectItemCaseSensitive(json_item_inner, "company_name");
-                char* company_name_inner = name_inner->valuestring;
-                char* company_name_inner_cleaned = removeNonAlphanumeric(company_name_inner);
-                float distance = levenshteinDistance(company_name_outer_cleaned, company_name_inner_cleaned);
-                if (distance < 0.13) {
-                    removed[j] = 1;
-                    mergeSecondJsonIntoFirst(json_item_inner, json_item_outer);
-                    matchesFound++;
-                }
-                free(company_name_inner_cleaned);
+            cJSON* name_inner = cJSON_GetObjectItemCaseSensitive(json_item_inner, "company_name");
+            char* company_name_inner = name_inner->valuestring;
+            char* company_name_inner_cleaned = removeNonAlphanumeric(company_name_inner);
+            float distance = levenshteinDistance(company_name_outer_cleaned, company_name_inner_cleaned);
+            if (distance < 0.13) {
+                removed[j] = 1;
+                mergeSecondJsonIntoFirst(json_item_inner, json_item_outer);
+                matchesFound++;
             }
-            j++;
-            json_item_inner = json_item_inner->next;
+            free(company_name_inner_cleaned);
         }
         printf("\rcurrent elem: %d, comparisons done: %d, matches found: %d", i, comparisonsDone, matchesFound);
         fflush(stdout);
-        i++;
-        json_item_outer = json_item_outer->next;
         free(company_name_outer_cleaned);
     }
     printf("\n");
