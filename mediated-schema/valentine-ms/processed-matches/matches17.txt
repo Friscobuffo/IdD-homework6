@@ -1,2 +1,2 @@
-('FR_company_social_urls.json', 'Facebook')
-('gren-value.today.json', 'facebook_page_url')
+('DDD-teamblind.com.json', 'website')
+('DeBiGa-globaldata.com.json', 'website')

@@ -1,2 +1,6 @@
-('silvestri-disfold.com.json', 'sector')
-('iGMM-cbinsights.com.json', 'selectinvestors')
+('GioPonSpiz-wikipedia.org.json', 'Founded')
+('MarScoToc-ambitionbox.com.json', 'Foundation Year')
+('MarScoToc-wikipedia.org.json', 'Founded')
+('FR_forbes.json', 'Founded')
+('gren-ft.com.json', 'founding_year')
+('slytherin-forbes.com.json', 'founded')

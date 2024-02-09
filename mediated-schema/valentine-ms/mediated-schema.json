@@ -2,6 +2,20 @@
     {
         "": "id",
         "name": "company_name",
+        "valuation": "country",
+        "dateJoined": "founding_date",
+        "country": "country",
+        "city": "location_city",
+        "industry": "industry",
+        "investors": "investors",
+        "founded": "founding_year",
+        "stage": "stock",
+        "totalRaised": "revenue",
+        "dataset": "DDD-cbinsight.com.json"
+    },
+    {
+        "": "id",
+        "name": "company_name",
         "country": "country",
         "sector": "sector",
         "absolute_growth_rate_pct": "absolute_growth_rate_pct",
@@ -18,7 +32,7 @@
         "name": "company_name",
         "website": "website",
         "locations": "location_city",
-        "size": "employees_number",
+        "size": "stock",
         "industry": "industry",
         "founded": "founding_year",
         "dataset": "DDD-teamblind.com.json"
@@ -61,8 +75,16 @@
         "Founded": "founding_year",
         "Revenue": "revenue",
         "Name": "company_name",
-        "Location": "location_city",
+        "Location": "country",
         "dataset": "FR_forbes.json"
+    },
+    {
+        "address": "address",
+        "location_city": "country",
+        "sector": "sector",
+        "revenue": "revenue",
+        "company_name": "company_name",
+        "dataset": "FR_sole24ore.json"
     },
     {
         "Name": "company_name",
@@ -101,7 +123,7 @@
     {
         "name": "company_name",
         "market_capitalization_USD": "market_cap",
-        "price": "employees_number",
+        "price": "price",
         "country": "country",
         "dataset": "gren-companiesmarketcap.com.json"
     },
@@ -119,7 +141,7 @@
     {
         "name": "company_name",
         "annual_revenue_USD": "revenue",
-        "annual_net_income_USD": "revenue",
+        "annual_net_income_USD": "income",
         "market_capitalization_2022": "market_cap",
         "employees_number": "employees_number",
         "CEO": "ceo",
@@ -133,7 +155,7 @@
         "id": "id",
         "name": "company_name",
         "address": "address",
-        "nation": "location_city",
+        "nation": "country",
         "hhid": "hhid",
         "industry": "industry",
         "sic_code": "sic_code",
@@ -143,12 +165,12 @@
     },
     {
         "company": "company_name",
-        "valuation": "location_city",
+        "valuation": "country",
         "datejoined": "founding_date",
         "country": "country",
         "city": "location_city",
         "industry": "industry",
-        "selectinvestors": "sector",
+        "selectinvestors": "investors",
         "dataset": "iGMM-cbinsights.com.json"
     },
     {

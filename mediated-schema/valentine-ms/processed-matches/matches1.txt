@@ -1,3 +1,2 @@
-('GioPonSpiz-wikipedia.org.json', 'Sector')
-('gren-ft.com.json', 'sector')
-('silvestri-disfold.com.json', 'sector')
+('MarScoToc-ambitionbox.com.json', 'Ownership')
+('hitHorizons_dataset.json', 'est_of_ownership')

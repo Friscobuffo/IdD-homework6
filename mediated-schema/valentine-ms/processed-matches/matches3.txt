@@ -1,3 +1,5 @@
-('FR_forbes.json', 'Location')
-('hitHorizons_dataset.json', 'nation')
-('iGMM-cbinsights.com.json', 'valuation')
+('gren-ft.com.json', 'revenue_2020_EU')
+('FR_sole24ore.json', 'revenue')
+('gren-ft.com.json', 'revenue_2017_EU')
+('FR_forbes.json', 'Revenue')
+('slytherin-forbes.com.json', 'revenue')

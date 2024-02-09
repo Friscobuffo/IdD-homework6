@@ -1,0 +1,8 @@
+('FR_sole24ore.json', 'revenue')
+('gren-ft.com.json', 'revenue_2020_EU')
+('FR_forbes.json', 'Revenue')
+('DDD-ft.com.json', 'revenue_2020_euro')
+('DeBiGa-globaldata.com.json', 'revenue')
+('gren-ft.com.json', 'revenue_2017_EU')
+('DDD-ft.com.json', 'revenue_2017_euro')
+('slytherin-forbes.com.json', 'revenue')

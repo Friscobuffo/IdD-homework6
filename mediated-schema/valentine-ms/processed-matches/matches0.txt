@@ -1,2 +1,2 @@
-('MarScoToc-ambitionbox.com.json', 'Ownership')
-('hitHorizons_dataset.json', 'est_of_ownership')
+('FR_sole24ore.json', 'address')
+('hitHorizons_dataset.json', 'address')

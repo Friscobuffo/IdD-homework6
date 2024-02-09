@@ -1,0 +1,3152 @@
+[
+    {
+        "address": "Via Maurizio Gonzaga 5",
+        "location_city": "",
+        "sector": "E-commerce",
+        "revenue": "7.337",
+        "company_name": "Winelivery S.r.l."
+    },
+    {
+        "address": "Via Damiano Chiesa 53",
+        "location_city": "Bitritto",
+        "sector": "Servizi generali",
+        "revenue": "8.375",
+        "company_name": "Pegaso Security S.r.l."
+    },
+    {
+        "address": "Piazza IV Novembre 4",
+        "location_city": "Milano",
+        "sector": "Vendita al dettaglio & all'ingrosso",
+        "revenue": "13.889",
+        "company_name": "Euro Top Brand S.r.l.s."
+    },
+    {
+        "address": "Piazza Manifattura 1",
+        "location_city": "Rovereto",
+        "sector": "Energia",
+        "revenue": "3.585",
+        "company_name": "Infinityhub S.p.A. Benefit"
+    },
+    {
+        "address": "Via Solferino 36",
+        "location_city": "Milano",
+        "sector": "Servizi finanziari",
+        "revenue": "11.302",
+        "company_name": "Credimi S.p.a."
+    },
+    {
+        "address": "Via Fratelli Galliari - 6",
+        "location_city": "Treviglio",
+        "sector": "Vendita al dettaglio & all'ingrosso",
+        "revenue": "5.722",
+        "company_name": "H.K.Trading S.r.l."
+    },
+    {
+        "address": "Via Confienza 10",
+        "location_city": "Torino",
+        "sector": "Servizi generali",
+        "revenue": "2.496",
+        "company_name": "CheTariffa.it"
+    },
+    {
+        "address": "Via Medina, 5",
+        "location_city": "Napoli",
+        "sector": "Pubblicit\u00e0 & marketing",
+        "revenue": "4.009",
+        "company_name": "Spin Up S.r.l."
+    },
+    {
+        "address": "Via Marcandreola 5",
+        "location_city": "Ciampino",
+        "sector": "E-commerce",
+        "revenue": "6.945",
+        "company_name": "Tsunami Nutrition S.r.l."
+    },
+    {
+        "address": "Via Degli Insorti, 2",
+        "location_city": "Faenza",
+        "sector": "Servizi generali",
+        "revenue": "43.195",
+        "company_name": "Consorzio Blu Soc. Coop. Sociale"
+    },
+    {
+        "address": "Via Claudio Coccia 12",
+        "location_city": "Caserta",
+        "sector": "Sanit\u00e0",
+        "revenue": "6.394",
+        "company_name": "Eukon S.r.l."
+    },
+    {
+        "address": "Via di Vigna Fabbri 5",
+        "location_city": "Roma",
+        "sector": "Pubblicit\u00e0 & marketing",
+        "revenue": "14.176",
+        "company_name": "Evolution Adv S.r.l."
+    },
+    {
+        "address": "Viale Bianca Maria 23",
+        "location_city": "Milano",
+        "sector": "E-commerce",
+        "revenue": "109.248",
+        "company_name": "Everli S.p.A."
+    },
+    {
+        "address": "Via Lucullo 71",
+        "location_city": "Bacoli",
+        "sector": "Farmaceutica",
+        "revenue": "20.151",
+        "company_name": "eFarma Group S.r.l."
+    },
+    {
+        "address": "Via San Leonardo Da Porto Maurizio 24/26/28",
+        "location_city": "Prato",
+        "sector": "Beni personali",
+        "revenue": "4.459",
+        "company_name": "Rebecca S.r.l."
+    },
+    {
+        "address": "Via Torre Della Catena 150",
+        "location_city": "Benevento",
+        "sector": "Moda",
+        "revenue": "4.898",
+        "company_name": "World Trade Group S.r.l."
+    },
+    {
+        "address": "Viale Roma 203",
+        "location_city": "Forl\u00ec",
+        "sector": "Beni personali",
+        "revenue": "3.500",
+        "company_name": "Cbweed S.r.l."
+    },
+    {
+        "address": "Contrada Ponte, 1",
+        "location_city": "Cassano Irpino",
+        "sector": "Prodotti industriali",
+        "revenue": "2.611",
+        "company_name": "M.G.I. Meccaniche Generali Irpine S.r.l."
+    },
+    {
+        "address": "Viale Marconi, 14",
+        "location_city": "Imola",
+        "sector": "Pubblicit\u00e0 & marketing",
+        "revenue": "5.765",
+        "company_name": "MyAppFree S.p.A."
+    },
+    {
+        "address": "Via Montenapoleone 8",
+        "location_city": "Milano",
+        "sector": "Pubblicit\u00e0 & marketing",
+        "revenue": "1.880",
+        "company_name": "Marketers Company S.r.l."
+    },
+    {
+        "address": "Strada Vicinale Agostinone, 4",
+        "location_city": "Montesilvano",
+        "sector": "Beni personali",
+        "revenue": "2.852",
+        "company_name": "Sbamm S.r.l."
+    },
+    {
+        "address": "Via Marsala 29 H/I",
+        "location_city": "Roma",
+        "sector": "Tecnologia",
+        "revenue": "10.050",
+        "company_name": "Filo S.r.l."
+    },
+    {
+        "address": "Via Volturno 5",
+        "location_city": "Monza",
+        "sector": "Immobiliare",
+        "revenue": "1.604",
+        "company_name": "Homepal A Better Place S.r.l."
+    },
+    {
+        "address": "Viale Augusto Righi 66",
+        "location_city": "Firenze",
+        "sector": "Servizi generali",
+        "revenue": "6.710",
+        "company_name": "Treedom S.r.l. SB"
+    },
+    {
+        "address": "Dei Belfiore 71",
+        "location_city": "Valverde",
+        "sector": "Bellezza & igiene",
+        "revenue": "1.831",
+        "company_name": "Gyada Cosmetics S.r.l."
+    },
+    {
+        "address": "Via Monte Asolone 8",
+        "location_city": "Roma",
+        "sector": "Consulenza aziendale",
+        "revenue": "3.230",
+        "company_name": "Increso S.r.l."
+    },
+    {
+        "address": "Viale Gramsci, 20",
+        "location_city": "Firenze",
+        "sector": "Trasporti & logistica",
+        "revenue": "8.873",
+        "company_name": "LSG - Logistic & Service Group S.r.l."
+    },
+    {
+        "address": "Via De Chirico 36/G",
+        "location_city": "Reggio nell'Emilia",
+        "sector": "Alimentari & bevande",
+        "revenue": "4.892",
+        "company_name": "Pinsalab S.r.l."
+    },
+    {
+        "address": "Piazza Cavour, 11",
+        "location_city": "Tirano",
+        "sector": "Servizi generali",
+        "revenue": "2.016",
+        "company_name": "Comservice S.r.l."
+    },
+    {
+        "address": "Via Chiusure 329",
+        "location_city": "Brescia",
+        "sector": "Prodotti industriali",
+        "revenue": "2.997",
+        "company_name": "Falcor S.r.l."
+    },
+    {
+        "address": "Largo Mariano D'Abbateggio,Snc",
+        "location_city": "L'Aquila",
+        "sector": "Vendita al dettaglio & all'ingrosso",
+        "revenue": "1.569",
+        "company_name": "Audiosalus S.r.l."
+    },
+    {
+        "address": "Viale Matteotti 23",
+        "location_city": "Salsomaggiore Terme",
+        "sector": "Farmaceutica",
+        "revenue": "26.633",
+        "company_name": "Theras Biocare S.r.l."
+    },
+    {
+        "address": "Via Villa Mirabello 6",
+        "location_city": "Milano",
+        "sector": "Tecnologia",
+        "revenue": "7.387",
+        "company_name": "Tantosvago S.r.l."
+    },
+    {
+        "address": "Via Bixio 167",
+        "location_city": "Maddaloni",
+        "sector": "Sanit\u00e0",
+        "revenue": "4.436",
+        "company_name": "Cura Farma S.r.l."
+    },
+    {
+        "address": "Via G.Gigante 142",
+        "location_city": "Villaricca",
+        "sector": "Vendita al dettaglio & all'ingrosso",
+        "revenue": "2.806",
+        "company_name": "C.D. S.r.l."
+    },
+    {
+        "address": "Via Cesare Balbo, 35",
+        "location_city": "Fabriano",
+        "sector": "E-commerce",
+        "revenue": "2.108",
+        "company_name": "Savait S.r.l."
+    },
+    {
+        "address": "Via Padre Rovagnati 2",
+        "location_city": "Mariano Comense",
+        "sector": "Sanit\u00e0",
+        "revenue": "11.586",
+        "company_name": "Multix solutions S.r.l."
+    },
+    {
+        "address": "Via Carlo Viola, 65",
+        "location_city": "Pont Saint Martin",
+        "sector": "Automobili",
+        "revenue": "18.026",
+        "company_name": "Podium Engineering S.r.l."
+    },
+    {
+        "address": "Via San Gregorio, 55",
+        "location_city": "Milano",
+        "sector": "Consulenza aziendale",
+        "revenue": "18.939",
+        "company_name": "Soluzione Tasse S.p.A."
+    },
+    {
+        "address": "Via Pietro Cella,11, Gemco",
+        "location_city": "Piacenza",
+        "sector": "Costruzioni & impiantistica",
+        "revenue": "3.942",
+        "company_name": "Gemco S.r.l."
+    },
+    {
+        "address": "Via Fratelli Fontana 34",
+        "location_city": "Trento",
+        "sector": "Costruzioni & impiantistica",
+        "revenue": "6.740",
+        "company_name": "4Streets S.r.l."
+    },
+    {
+        "address": "Casale Vacca 6",
+        "location_city": "Combai Di Miane",
+        "sector": "Alimentari & bevande",
+        "revenue": "9.022",
+        "company_name": "Serre S.r.l."
+    },
+    {
+        "address": "Via Lucullo 8",
+        "location_city": "Roma",
+        "sector": "Tecnologia",
+        "revenue": "3.917",
+        "company_name": "Sixth Sense S.r.l."
+    },
+    {
+        "address": "Via Vincenzo Stefano Breda 26",
+        "location_city": "Limena",
+        "sector": "Sicurezza informatica",
+        "revenue": "3.961",
+        "company_name": "Nethive S.p.A."
+    },
+    {
+        "address": "Corso Cavallotti 29",
+        "location_city": "Novara",
+        "sector": "Tecnologia",
+        "revenue": "4.253",
+        "company_name": "The Information Lab Italia S.r.l."
+    },
+    {
+        "address": "V.Le Bartolomeo Cavaceppi 113",
+        "location_city": "Roma",
+        "sector": "Tecnologia",
+        "revenue": "3.956",
+        "company_name": "Wakala S.r.l."
+    },
+    {
+        "address": "Via Medardo Rosso 5",
+        "location_city": "Milano",
+        "sector": "Tecnologia",
+        "revenue": "7.320",
+        "company_name": "Tecma Solutions S.p.A."
+    },
+    {
+        "address": "Via G. Carducci, 8",
+        "location_city": "Milano",
+        "sector": "Pubblicit\u00e0 & marketing",
+        "revenue": "2.993",
+        "company_name": "Instilla S.r.l."
+    },
+    {
+        "address": "Via Nicola Coviello 46A",
+        "location_city": "Gravina Di Catania",
+        "sector": "Costruzioni & impiantistica",
+        "revenue": "6.789",
+        "company_name": "SPC General Service S.r.l."
+    },
+    {
+        "address": "Via Carroccio, 16",
+        "location_city": "Milano",
+        "sector": "Tecnologia",
+        "revenue": "6.516",
+        "company_name": "Mia S.r.l."
+    },
+    {
+        "address": "P.Le Cocchi, 12",
+        "location_city": "Vedano Olona",
+        "sector": "Sanit\u00e0",
+        "revenue": "9.552",
+        "company_name": "Tecnimed S.r.l."
+    },
+    {
+        "address": "Via Vittorio Veneto, 29",
+        "location_city": "Benevento",
+        "sector": "Costruzioni & impiantistica",
+        "revenue": "45.278",
+        "company_name": "Consorzio Stabile Medil S.c.p.a."
+    },
+    {
+        "address": "Via Francesco Daverio 6",
+        "location_city": "Milano",
+        "sector": "Vendita al dettaglio & all'ingrosso",
+        "revenue": "2.746",
+        "company_name": "Gco S.r.l."
+    },
+    {
+        "address": "Via Nairobi 40",
+        "location_city": "Roma",
+        "sector": "Consulenza aziendale",
+        "revenue": "25.667",
+        "company_name": "NexumStp S.p.A."
+    },
+    {
+        "address": "Via Benedetto Brin 63",
+        "location_city": "Napoli",
+        "sector": "Sanit\u00e0",
+        "revenue": "3.510",
+        "company_name": "K Link S.r.l."
+    },
+    {
+        "address": "Via Degli Olmetti 5/B",
+        "location_city": "Formello",
+        "sector": "Tecnologia",
+        "revenue": "1.901",
+        "company_name": "Egomnia S.r.l."
+    },
+    {
+        "address": "Via Dei Mille, 16",
+        "location_city": "Napoli",
+        "sector": "Tecnologia",
+        "revenue": "4.683",
+        "company_name": "Contrader S.r.l."
+    },
+    {
+        "address": "Via Antonio Fogazzaro, 71",
+        "location_city": "Cornedo Vicentino",
+        "sector": "Costruzioni & impiantistica",
+        "revenue": "4.528",
+        "company_name": "Sirive S.r.l."
+    },
+    {
+        "address": "Via Riva di Trento 11A",
+        "location_city": "Milano",
+        "sector": "Pubblicit\u00e0 & marketing",
+        "revenue": "2.072",
+        "company_name": "Chef in Camicia S.r.l"
+    },
+    {
+        "address": "Via Generale Enrico Cialdini 94",
+        "location_city": "Meda",
+        "sector": "Automobili",
+        "revenue": "4.619",
+        "company_name": "Auto Zago S.r.l."
+    },
+    {
+        "address": "Via Tommaso Campanella 30/E",
+        "location_city": "Catanzaro",
+        "sector": "Prodotti agricoli",
+        "revenue": "2.857",
+        "company_name": "Agricodem S.r.l."
+    },
+    {
+        "address": "Riviera di Chiaia 267",
+        "location_city": "Napoli",
+        "sector": "E-commerce",
+        "revenue": "32.039",
+        "company_name": "Brandon Group S.r.l."
+    },
+    {
+        "address": "Via Einaudi 50",
+        "location_city": "Saccolongo",
+        "sector": "Prodotti industriali",
+        "revenue": "5.150",
+        "company_name": "Soprano S.r.l."
+    },
+    {
+        "address": "Viale Ugo Foscolo, 3",
+        "location_city": "Lecce",
+        "sector": "Sanit\u00e0",
+        "revenue": "2.701",
+        "company_name": "Pharmagrin S.r.l."
+    },
+    {
+        "address": "Piazzetta Walterpertoldo, 4",
+        "location_city": "Spilimbergo",
+        "sector": "Viaggi & tempo libero",
+        "revenue": "1.990",
+        "company_name": "BizAway S.r.l."
+    },
+    {
+        "address": "Via Foscolo 1",
+        "location_city": "Montecatini Terme",
+        "sector": "Moda",
+        "revenue": "4.284",
+        "company_name": "Morpheus Advisor S.r.l."
+    },
+    {
+        "address": "Via Loggia Dei Pisani, 25",
+        "location_city": "Napoli",
+        "sector": "E-commerce",
+        "revenue": "7.790",
+        "company_name": "I.G.L.M. Electronic S.r.l."
+    },
+    {
+        "address": "Strada Alla Villa D Aglie 26",
+        "location_city": "Torino",
+        "sector": "Energia",
+        "revenue": "4.131",
+        "company_name": "Enerbrain S.r.l."
+    },
+    {
+        "address": "Via Panoramica, 47",
+        "location_city": "Corteno Golgi",
+        "sector": "Costruzioni & impiantistica",
+        "revenue": "6.256",
+        "company_name": "LMG Building S.r.l."
+    },
+    {
+        "address": "Via F. Cangiullo 24",
+        "location_city": "Roma",
+        "sector": "Telecomunicazioni",
+        "revenue": "8.208",
+        "company_name": "MG Project S.r.l."
+    },
+    {
+        "address": "Via Gianni Cozzi 1",
+        "location_city": "Santo Stefano Al Mare",
+        "sector": "Viaggi & tempo libero",
+        "revenue": "3.059",
+        "company_name": "OY International S.r.l."
+    },
+    {
+        "address": "Via Ricotti 15",
+        "location_city": "Milano",
+        "sector": "E-commerce",
+        "revenue": "2.051",
+        "company_name": "Banale S.p.A."
+    },
+    {
+        "address": "Flaminia Nuova 260",
+        "location_city": "Roma",
+        "sector": "Farmaceutico",
+        "revenue": "2.557",
+        "company_name": "Esserre Pharma S.r.l."
+    },
+    {
+        "address": "Via Lima 4",
+        "location_city": "Roma",
+        "sector": "Energia",
+        "revenue": "35.126",
+        "company_name": "EnerFin S.r.l."
+    },
+    {
+        "address": "Via Domicella,63",
+        "location_city": "Roma",
+        "sector": "Vendita al dettaglio & all'ingrosso",
+        "revenue": "1.994",
+        "company_name": "Mr. Christmas S.r.l."
+    },
+    {
+        "address": "Via Ugo Foscolo, 26/Bis",
+        "location_city": "San Marcellino",
+        "sector": "Trasporti & logistica",
+        "revenue": "18.168",
+        "company_name": "Mega Trasporti S.r.l."
+    },
+    {
+        "address": "Via Patriarcato 46",
+        "location_city": "Pianiga",
+        "sector": "Arredamento",
+        "revenue": "3.598",
+        "company_name": "Stufe A Pellet Italia S.r.l."
+    },
+    {
+        "address": "Via Cellaro,",
+        "location_city": "Sora",
+        "sector": "Telecomunicazioni",
+        "revenue": "3.174",
+        "company_name": "Global Work S.r.l."
+    },
+    {
+        "address": "Viale Edison, 126",
+        "location_city": "Sesto San Giovanni",
+        "sector": "Automobili",
+        "revenue": "21.818",
+        "company_name": "Abc Rent S.r.l."
+    },
+    {
+        "address": "Via Murada 130",
+        "location_city": "Talamona",
+        "sector": "Prodotti industriali",
+        "revenue": "2.344",
+        "company_name": "Mazzoni Etech S.r.l."
+    },
+    {
+        "address": "Via Sardegna 50",
+        "location_city": "Roma",
+        "sector": "Consulenza aziendale",
+        "revenue": "2.943",
+        "company_name": "Business Analysis & Legal Expertise - B.A.L.E. S.r.l."
+    },
+    {
+        "address": "Via Dante 6",
+        "location_city": "Termoli",
+        "sector": "Consulenza aziendale",
+        "revenue": "1.741",
+        "company_name": "Studio Eko' S.r.l."
+    },
+    {
+        "address": "Via Cividale 322",
+        "location_city": "Udine",
+        "sector": "Servizi generali",
+        "revenue": "4.641",
+        "company_name": "Gallas Group S.r.l."
+    },
+    {
+        "address": "Via Rossaghe 45/F",
+        "location_city": "Lumezzane",
+        "sector": "E-commerce",
+        "revenue": "22.953",
+        "company_name": "Etracom S.r.l."
+    },
+    {
+        "address": "Via Leonardo Da Vinci, 128",
+        "location_city": "Portici",
+        "sector": "Sanit\u00e0",
+        "revenue": "7.264",
+        "company_name": "Labevolution S.r.l."
+    },
+    {
+        "address": "S.P. 231 Km 1.400",
+        "location_city": "Modugno",
+        "sector": "Arredamento",
+        "revenue": "3.401",
+        "company_name": "Kuadra S.r.l."
+    },
+    {
+        "address": "Bernardino Telesio 12",
+        "location_city": "Milano",
+        "sector": "Automobili",
+        "revenue": "2.988",
+        "company_name": "Romar S.r.l."
+    },
+    {
+        "address": "Via Della Moscova, 47",
+        "location_city": "Milano",
+        "sector": "Costruzioni & impiantistica",
+        "revenue": "3.004",
+        "company_name": "S.F.R.E. S.r.l."
+    },
+    {
+        "address": "Via Carrara, 10",
+        "location_city": "Grezzana",
+        "sector": "Smaltimento rifiuti & riciclaggio",
+        "revenue": "2.037",
+        "company_name": "Falzi S.r.l."
+    },
+    {
+        "address": "Piazza Del Popolo 24",
+        "location_city": "Cesena",
+        "sector": "Costruzioni & impiantistica",
+        "revenue": "4.298",
+        "company_name": "Il Cantiere Costruzioni S.r.l."
+    },
+    {
+        "address": "Viale Bruno Buozzi 17",
+        "location_city": "Velletri",
+        "sector": "Automobili",
+        "revenue": "1.842",
+        "company_name": "FC Motors S.r.l. Unipersonale"
+    },
+    {
+        "address": "Via San Francesco D'Assisi 19",
+        "location_city": "Voghera",
+        "sector": "Smaltimento rifiuti & riciclaggio",
+        "revenue": "6.673",
+        "company_name": "GEA Service S.r.l."
+    },
+    {
+        "address": "Via Isonzo 55/2",
+        "location_city": "Casalecchio Di Reno",
+        "sector": "Tecnologia",
+        "revenue": "5.582",
+        "company_name": "Gellify S.r.l."
+    },
+    {
+        "address": "Via Della Meccanica 4",
+        "location_city": "Vicenza",
+        "sector": "Energia",
+        "revenue": "22.073",
+        "company_name": "Westrafo S.r.l."
+    },
+    {
+        "address": "Via Ada Negri 18",
+        "location_city": "Pessano Con Bornago",
+        "sector": "Servizi generali",
+        "revenue": "4.267",
+        "company_name": "Multiservice Ambrosiana S.r.l."
+    },
+    {
+        "address": "Via Archimede 57",
+        "location_city": "Milano",
+        "sector": "Sanit\u00e0",
+        "revenue": "58.423",
+        "company_name": "Gruppo Gheron S.r.l."
+    },
+    {
+        "address": "Via San Pasquale A Chiaia 79",
+        "location_city": "Napoli",
+        "sector": "Pubblicit\u00e0 & marketing",
+        "revenue": "7.318",
+        "company_name": "Voice S.r.l."
+    },
+    {
+        "address": "Via Ettore Ciccotti,3",
+        "location_city": "Milano",
+        "sector": "Tecnologia",
+        "revenue": "1.696",
+        "company_name": "DyFlowing S.r.l."
+    },
+    {
+        "address": "Via Crocefisso, 5",
+        "location_city": "Milano",
+        "sector": "Costruzioni & impiantistica",
+        "revenue": "9.694",
+        "company_name": "SVS S.r.l."
+    },
+    {
+        "address": "Viale Sant'Ambrogio, 17",
+        "location_city": "Piacenza",
+        "sector": "E-commerce",
+        "revenue": "16.089",
+        "company_name": "e-Pol S.r.l. Unipersonale"
+    },
+    {
+        "address": "Viale Brianza 22",
+        "location_city": "Milano",
+        "sector": "Istruzione & formazione",
+        "revenue": "9.018",
+        "company_name": "Dynamicom Education S.r.l."
+    },
+    {
+        "address": "Viale Leonardo Sciascia 240",
+        "location_city": "Agrigento",
+        "sector": "Arredamento",
+        "revenue": "2.800",
+        "company_name": "Ideal Ceramiche di Giacomo La Russa Srl"
+    },
+    {
+        "address": "Via Sant'Annibale Maria di Francia 11-13",
+        "location_city": "Locorotondo",
+        "sector": "Servizi generali",
+        "revenue": "3.581",
+        "company_name": "Prometeo S.r.l."
+    },
+    {
+        "address": "Via Dante 71/E",
+        "location_city": "Fabriano",
+        "sector": "Prodotti industriali",
+        "revenue": "2.297",
+        "company_name": "Zara S.r.l."
+    },
+    {
+        "address": "Via Colle Ramole 20",
+        "location_city": "Impruneta",
+        "sector": "Sanit\u00e0",
+        "revenue": "4.829",
+        "company_name": "Isimed S.r.l."
+    },
+    {
+        "address": "Via Nicola Costantini 229",
+        "location_city": "Popoli",
+        "sector": "E-commerce",
+        "revenue": "4.842",
+        "company_name": "Piscor Srl"
+    },
+    {
+        "address": "Piazzetta Pescheria 4",
+        "location_city": "Pordenone",
+        "sector": "Automobili",
+        "revenue": "5.083",
+        "company_name": "Marwincar S.r.l."
+    },
+    {
+        "address": "Via Liutprando 3F",
+        "location_city": "Pavia",
+        "sector": "Costruzioni & impiantistica",
+        "revenue": "5.912",
+        "company_name": "Alloni Impianti S.r.l."
+    },
+    {
+        "address": "Viale A. G. Eiffel 100",
+        "location_city": "Roma",
+        "sector": "Tecnologia",
+        "revenue": "15.901",
+        "company_name": "VmWay S.r.l."
+    },
+    {
+        "address": "Via Pratese 201",
+        "location_city": "Firenze",
+        "sector": "Tecnologia",
+        "revenue": "2.262",
+        "company_name": "Benefind S.r.l."
+    },
+    {
+        "address": "Circonvallazione 46",
+        "location_city": "Dairago",
+        "sector": "Servizi generali",
+        "revenue": "2.310",
+        "company_name": "AB Oil & Gas Service S.r.l."
+    },
+    {
+        "address": "Via C.Da Primogenito",
+        "location_city": "Polistena",
+        "sector": "Servizi generali",
+        "revenue": "1.601",
+        "company_name": "Macingo Technologies S.r.l."
+    },
+    {
+        "address": "Via Cesario Console 3",
+        "location_city": "Napoli",
+        "sector": "Telecomunicazioni",
+        "revenue": "3.769",
+        "company_name": "Start S.r.l."
+    },
+    {
+        "address": "Via Mazzini 3/A",
+        "location_city": "Cernusco Sul Naviglio",
+        "sector": "Sanit\u00e0",
+        "revenue": "40.391",
+        "company_name": "Ames Centro Polidiagnostico Strumentale S.r.l."
+    },
+    {
+        "address": "Via Perugino 4",
+        "location_city": "Roma",
+        "sector": "Energia",
+        "revenue": "3.249",
+        "company_name": "Arcadia Italia S.r.l."
+    },
+    {
+        "address": "Via Della Conca 48",
+        "location_city": "Ascoli Piceno",
+        "sector": "Costruzioni & impiantistica",
+        "revenue": "4.604",
+        "company_name": "Travaglini Costruzioni S.r.l."
+    },
+    {
+        "address": "Via Tommaso Grossi, 2",
+        "location_city": "Milano",
+        "sector": "Tecnologia",
+        "revenue": "10.827",
+        "company_name": "Ayes S.r.l."
+    },
+    {
+        "address": "Via Mar di Norvegia 47",
+        "location_city": "Porto Sant'Elpidio",
+        "sector": "Pubblicit\u00e0 & marketing",
+        "revenue": "2.719",
+        "company_name": "BrandUp Group S.r.l."
+    },
+    {
+        "address": "Via Carlo Espinasse 163",
+        "location_city": "Milano",
+        "sector": "Servizi finanziari",
+        "revenue": "4.168",
+        "company_name": "Business Innovation Lab S.p.A."
+    },
+    {
+        "address": "Vicolo Degli Olmi, 57",
+        "location_city": "Ceggia",
+        "sector": "Costruzioni & impiantistica",
+        "revenue": "13.479",
+        "company_name": "Seingim Global Service S.r.l."
+    },
+    {
+        "address": "Frazione Martini - Strada Martini 2/D",
+        "location_city": "Sanfr\u00e8",
+        "sector": "Costruzioni & impiantistica",
+        "revenue": "9.720",
+        "company_name": "Martino S.r.l."
+    },
+    {
+        "address": "Via Emanuele Gianturco, 23",
+        "location_city": "Napoli",
+        "sector": "Vendita al dettaglio & all'ingrosso",
+        "revenue": "3.376",
+        "company_name": "Fazio S.r.l."
+    },
+    {
+        "address": "Via Nazionale 52R",
+        "location_city": "Tavagnacco",
+        "sector": "Automobili",
+        "revenue": "22.704",
+        "company_name": "Dealernet S.r.l."
+    },
+    {
+        "address": "Strada 12 Ovest, C. 27",
+        "location_city": "Arborea",
+        "sector": "Prodotti agricoli",
+        "revenue": "1.589",
+        "company_name": "Sarda Solution Unipersonale S.r.l."
+    },
+    {
+        "address": "Via Nobel 2",
+        "location_city": "Aversa",
+        "sector": "Costruzioni & impiantistica",
+        "revenue": "1.573",
+        "company_name": "GDR Costruzioni S.r.l."
+    },
+    {
+        "address": "Via Tetto Nuovo 43",
+        "location_city": "Poirino",
+        "sector": "E-commerce",
+        "revenue": "1.979",
+        "company_name": "Emporio Elettrico S.r.l."
+    },
+    {
+        "address": "Viale XI Febbraio 1B",
+        "location_city": "Bassano Del Grappa",
+        "sector": "Tecnologia",
+        "revenue": "3.337",
+        "company_name": "Crispy Bacon S.r.l."
+    },
+    {
+        "address": "Strada Poggino, 70/72",
+        "location_city": "Viterbo",
+        "sector": "Alimentari & bevande",
+        "revenue": "4.134",
+        "company_name": "Blife S.r.l."
+    },
+    {
+        "address": "Via Marittima 69B",
+        "location_city": "San Giorgio Di Nogaro",
+        "sector": "Tecnologia",
+        "revenue": "4.785",
+        "company_name": "Nohup S.r.l."
+    },
+    {
+        "address": "Via Molveno 5",
+        "location_city": "Cervia",
+        "sector": "Tecnologia",
+        "revenue": "3.059",
+        "company_name": "Technacy S.r.l."
+    },
+    {
+        "address": "Via Della Repubblica, 11/C",
+        "location_city": "Tavazzano Con Villavesco",
+        "sector": "Prodotti industriali",
+        "revenue": "2.021",
+        "company_name": "Lazzari Macchine Utensili S.r.l."
+    },
+    {
+        "address": "Via Vittor Pisani 7",
+        "location_city": "Milano",
+        "sector": "Energia",
+        "revenue": "117.997",
+        "company_name": "Adamant BioNRG S.r.l."
+    },
+    {
+        "address": "Corso Giacomo Matteotti, 54",
+        "location_city": "Brescia",
+        "sector": "Architettura",
+        "revenue": "2.626",
+        "company_name": "Pelizzari S.r.l."
+    },
+    {
+        "address": "Via S. Orsola, 7",
+        "location_city": "Correggio",
+        "sector": "Smaltimento rifiuti & riciclaggio",
+        "revenue": "9.753",
+        "company_name": "Consorzio Stabile Ambientemilia"
+    },
+    {
+        "address": "Via Cairoli 142",
+        "location_city": "Salice Salentino",
+        "sector": "E-commerce",
+        "revenue": "3.294",
+        "company_name": "Yocabe' S.r.l."
+    },
+    {
+        "address": "Piazzale Donatello, 2",
+        "location_city": "Firenze",
+        "sector": "Trasporti & logistica",
+        "revenue": "2.415",
+        "company_name": "Mint Italia S.r.l."
+    },
+    {
+        "address": "Via Alfredo Baccarini, 46",
+        "location_city": "Roma",
+        "sector": "Tecnologia",
+        "revenue": "1.898",
+        "company_name": "Datakey Software Engineering S.r.l."
+    },
+    {
+        "address": "Corso Alcide De Gasperi, 169",
+        "location_city": "Castellammare Di Stabia",
+        "sector": "Istruzione & formazione",
+        "revenue": "2.793",
+        "company_name": "Time Vision S.c.r.l"
+    },
+    {
+        "address": "Via Edmondo Caccuri, 7",
+        "location_city": "Bari",
+        "sector": "Energia",
+        "revenue": "2.050",
+        "company_name": "Selferg S.r.l."
+    },
+    {
+        "address": "Piazza Iv Novembre 7",
+        "location_city": "Milano",
+        "sector": "Servizi generali",
+        "revenue": "1.580",
+        "company_name": "Radar Consulting Italia S.r.l."
+    },
+    {
+        "address": "Via Della Posta, 8",
+        "location_city": "Milano",
+        "sector": "Metalli preziosi",
+        "revenue": "41.130",
+        "company_name": "Confinvest F.L. S.p.A."
+    },
+    {
+        "address": "Viafrancesco Restelli, 3",
+        "location_city": "Milano",
+        "sector": "Telecomunicazioni",
+        "revenue": "71.291",
+        "company_name": "Bomax S.r.l."
+    },
+    {
+        "address": "Via Pietro Donadio Km.10",
+        "location_city": "Cardito",
+        "sector": "E-commerce",
+        "revenue": "20.223",
+        "company_name": "Gruppo Tera S.r.l."
+    },
+    {
+        "address": "Via B.Salvadori 19",
+        "location_city": "Castel Mella",
+        "sector": "Tecnologia",
+        "revenue": "3.068",
+        "company_name": "CodicePlastico S.r.l."
+    },
+    {
+        "address": "Via Canale 300",
+        "location_city": "Sant'Antonino Di Casalgrande",
+        "sector": "Chimica",
+        "revenue": "2.780",
+        "company_name": "Nanoprom Chemicals S.r.l."
+    },
+    {
+        "address": "Piazza Iv Novembre 4",
+        "location_city": "Milano",
+        "sector": "E-commerce",
+        "revenue": "2.544",
+        "company_name": "StampaSi S.r.l."
+    },
+    {
+        "address": "Via Monteu Roero 12/4",
+        "location_city": "Carmagnola",
+        "sector": "Prodotti industriali",
+        "revenue": "12.280",
+        "company_name": "C.A.M. S.r.l. Costruzione Attrezzature Meccaniche"
+    },
+    {
+        "address": "Via Olindo Guerrini",
+        "location_city": "Roma",
+        "sector": "Tecnologia",
+        "revenue": "2.025",
+        "company_name": "Engenie Group S.r.l."
+    },
+    {
+        "address": "Via Generale Giuseppe Vaccari 67",
+        "location_city": "Montebello Vicentino",
+        "sector": "Prodotti industriali",
+        "revenue": "1.791",
+        "company_name": "Ilsman S.r.l."
+    },
+    {
+        "address": "Corso Filippo Turati 13 A",
+        "location_city": "Torino",
+        "sector": "Media",
+        "revenue": "1.514",
+        "company_name": "La Sarraz Pictures S.r.l."
+    },
+    {
+        "address": "Via Adami, 2/A",
+        "location_city": "Fasano",
+        "sector": "Consulenza manageriale",
+        "revenue": "2.430",
+        "company_name": "Sidea Group S.r.l."
+    },
+    {
+        "address": "Via Del Plebiscito, 107",
+        "location_city": "Roma",
+        "sector": "Pubblicit\u00e0 & marketing",
+        "revenue": "4.011",
+        "company_name": "MGvision S.r.l."
+    },
+    {
+        "address": "Via Cuzzi 2",
+        "location_city": "Missaglia",
+        "sector": "Servizi generali",
+        "revenue": "1.539",
+        "company_name": "New General Service S.r.l."
+    },
+    {
+        "address": "Via Dei Mestieri 5",
+        "location_city": "Castiglione Del Lago",
+        "sector": "Prodotti industriali",
+        "revenue": "2.284",
+        "company_name": "M.D.G. Components S.r.l. Unipersonale"
+    },
+    {
+        "address": "Via Clemente Cancelli 11",
+        "location_city": "Monopoli",
+        "sector": "Costruzioni & impiantistica",
+        "revenue": "43.356",
+        "company_name": "Manelli Impresa S.r.l."
+    },
+    {
+        "address": "Traversa Pistoiese 12/Q",
+        "location_city": "Prato",
+        "sector": "Automobili",
+        "revenue": "11.790",
+        "company_name": "Finauto S.p.A."
+    },
+    {
+        "address": "Via Monte Nero, 26C",
+        "location_city": "Guidonia Montecelio",
+        "sector": "Energia",
+        "revenue": "7.624",
+        "company_name": "GeoTeam S.p.a."
+    },
+    {
+        "address": "Galleria Francesco Crispi 5",
+        "location_city": "Vicenza",
+        "sector": "Immobiliare",
+        "revenue": "3.729",
+        "company_name": "Fisenar S.r.l."
+    },
+    {
+        "address": "Via Lima 4",
+        "location_city": "Roma",
+        "sector": "Energia",
+        "revenue": "41.475",
+        "company_name": "B1gas S.p.A"
+    },
+    {
+        "address": "Via Malta, 10",
+        "location_city": "Brescia",
+        "sector": "Costruzioni & impiantistica",
+        "revenue": "6.189",
+        "company_name": "Filva S.r.l."
+    },
+    {
+        "address": "Via Perroncito 10",
+        "location_city": "Torino",
+        "sector": "Costruzioni & impiantistica",
+        "revenue": "3.515",
+        "company_name": "Archingest S.r.l."
+    },
+    {
+        "address": "Viale Italia 94",
+        "location_city": "La Spezia",
+        "sector": "Alimentari & bevande",
+        "revenue": "3.055",
+        "company_name": "Pharmateam S.r.l."
+    },
+    {
+        "address": "Via Dorsale 23A",
+        "location_city": "Massa",
+        "sector": "Consulenza manageriale",
+        "revenue": "4.090",
+        "company_name": "F&R Consulting S.r.l."
+    },
+    {
+        "address": "Piazzale Del Mutilato 3/4",
+        "location_city": "Vicenza",
+        "sector": "Pubblicit\u00e0 & marketing",
+        "revenue": "2.075",
+        "company_name": "TIkato S.r.l."
+    },
+    {
+        "address": "Corso XXII Marzo,5",
+        "location_city": "Milano",
+        "sector": "Energia",
+        "revenue": "2.347",
+        "company_name": "Suntronic S.r.l."
+    },
+    {
+        "address": "Via Ugo Foscolo 7",
+        "location_city": "Barberino Di Mugello",
+        "sector": "Smaltimento rifiuti & riciclaggio",
+        "revenue": "3.680",
+        "company_name": "Smile Ambiente S.r.l."
+    },
+    {
+        "address": "Colombaie, 2B",
+        "location_city": "Brescia",
+        "sector": "Automobili",
+        "revenue": "2.794",
+        "company_name": "RR 1985 S.r.l."
+    },
+    {
+        "address": "Via Emilia Est, 903",
+        "location_city": "Modena",
+        "sector": "Alimentari & bevande",
+        "revenue": "26.824",
+        "company_name": "Emilia Foods S.r.l."
+    },
+    {
+        "address": "Via Pietro Carrera 23",
+        "location_city": "Catania",
+        "sector": "Sanit\u00e0",
+        "revenue": "3.370",
+        "company_name": "T.E.A.M. - Ti educa a migliorare Soc. Coop. Sociale"
+    },
+    {
+        "address": "Via Friuli 42/B",
+        "location_city": "Motta Di Livenza",
+        "sector": "Costruzioni & impiantistica",
+        "revenue": "2.676",
+        "company_name": "Assitech S.r.l."
+    },
+    {
+        "address": "Via Del Beato 2",
+        "location_city": "Fontaniva",
+        "sector": "Energia",
+        "revenue": "3.299",
+        "company_name": "Alba S.r.l."
+    },
+    {
+        "address": "Via Santarcangiolese 4259",
+        "location_city": "Poggio Torriana",
+        "sector": "Costruzioni & impiantistica",
+        "revenue": "4.028",
+        "company_name": "Global Edilizia S.r.l."
+    },
+    {
+        "address": "Via De' Carbonesi, 11",
+        "location_city": "Bologna",
+        "sector": "Pubblicit\u00e0 & marketing",
+        "revenue": "4.014",
+        "company_name": "LGS Organization S.r.l."
+    },
+    {
+        "address": "Via Delle Magliaie, 12",
+        "location_city": "Carpi",
+        "sector": "Servizi finanziari",
+        "revenue": "5.855",
+        "company_name": "GDB S.r.l."
+    },
+    {
+        "address": "Zona Industriale Asi Pascarola",
+        "location_city": "Caivano",
+        "sector": "Costruzioni & impiantistica",
+        "revenue": "5.293",
+        "company_name": "ALA S.r.l."
+    },
+    {
+        "address": "Via Del Pino, 45",
+        "location_city": "Monteriggioni",
+        "sector": "Consulenza manageriale",
+        "revenue": "10.190",
+        "company_name": "Join Business Management Consulting S.r.l."
+    },
+    {
+        "address": "Via Leonardo Da Vinci 22",
+        "location_city": "Lonate Pozzolo",
+        "sector": "Costruzioni & impiantistica",
+        "revenue": "2.009",
+        "company_name": "Costruzioni F.lli Urso S.r.l.s."
+    },
+    {
+        "address": "Via Fratelli Rosselli",
+        "location_city": "San Salvo",
+        "sector": "Trasporti & logistica",
+        "revenue": "57.057",
+        "company_name": "Adrilog Societ\u00e0 Cooperativa"
+    },
+    {
+        "address": "S.S. 388 Km 6 e 700",
+        "location_city": "Simaxis",
+        "sector": "Costruzioni & impiantistica",
+        "revenue": "33.372",
+        "company_name": "Conglomerati Bituminosi S.r.l."
+    },
+    {
+        "address": "Viale Dell'Arte 25",
+        "location_city": "Roma",
+        "sector": "Tecnologia",
+        "revenue": "3.869",
+        "company_name": "Esyen S.r.l."
+    },
+    {
+        "address": "Via G. Falcone 10",
+        "location_city": "Bibbiano",
+        "sector": "Alimentari & bevande",
+        "revenue": "2.803",
+        "company_name": "Armonie Alimentari S.r.l."
+    },
+    {
+        "address": "Via Giovanni Falcone, 4",
+        "location_city": "Montichiari",
+        "sector": "Tecnologia",
+        "revenue": "5.313",
+        "company_name": "Maverick Group S.r.l."
+    },
+    {
+        "address": "Via Torino, 44",
+        "location_city": "Conversano",
+        "sector": "Pubblicit\u00e0 & marketing",
+        "revenue": "4.264",
+        "company_name": "Brain Pull Societ\u00e0 Cooperativa"
+    },
+    {
+        "address": "Via Ilaria Alpi, 8",
+        "location_city": "Medesano - Localit\u00e0 Felegara",
+        "sector": "Costruzioni & impiantistica",
+        "revenue": "2.554",
+        "company_name": "F.G. Service S.r.l."
+    },
+    {
+        "address": "Piazza Matteotti 1",
+        "location_city": "Fidenza",
+        "sector": "Trasporti & logistica",
+        "revenue": "9.569",
+        "company_name": "Allways Logistics System S.r.l."
+    },
+    {
+        "address": "Via Stampatori 4",
+        "location_city": "Torino",
+        "sector": "Tecnologia",
+        "revenue": "2.131",
+        "company_name": "Visualitics S.r.l."
+    },
+    {
+        "address": "Via Lecce 87",
+        "location_city": "Galatina",
+        "sector": "Moda",
+        "revenue": "20.746",
+        "company_name": "GDA S.r.l."
+    },
+    {
+        "address": "Via Fabio Filzi 27",
+        "location_city": "Milano",
+        "sector": "Tecnologia",
+        "revenue": "2.696",
+        "company_name": "Nexid S.r.l."
+    },
+    {
+        "address": "Via Brescia, 132/L",
+        "location_city": "Montichiari",
+        "sector": "Energia",
+        "revenue": "2.087",
+        "company_name": "GS Service S.r.l."
+    },
+    {
+        "address": "Via Orzinuovi 20",
+        "location_city": "Brescia",
+        "sector": "Tecnologia",
+        "revenue": "16.367",
+        "company_name": "Neosperience S.p.A."
+    },
+    {
+        "address": "Via F. Franchi, 1",
+        "location_city": "Gela",
+        "sector": "Costruzioni & impiantistica",
+        "revenue": "10.456",
+        "company_name": "Meic Costruzioni S.r.l."
+    },
+    {
+        "address": "Via Luigi Busi 15/2",
+        "location_city": "Bologna",
+        "sector": "Servizi generali",
+        "revenue": "2.129",
+        "company_name": "Gruppo Ingegneria Gestionale S.r.l."
+    },
+    {
+        "address": "Via Antonino Pio 18",
+        "location_city": "Roma",
+        "sector": "Telecomunicazioni",
+        "revenue": "1.970",
+        "company_name": "3A Informatica S.r.l."
+    },
+    {
+        "address": "Via Nicola Marchese, 8",
+        "location_city": "Roma",
+        "sector": "Costruzioni & impiantistica",
+        "revenue": "6.738",
+        "company_name": "Saico S.r.l."
+    },
+    {
+        "address": "Via Visitazione 27",
+        "location_city": "Santa Maria La Carita'",
+        "sector": "Alimentari & bevande",
+        "revenue": "6.567",
+        "company_name": "Nutis S.r.l."
+    },
+    {
+        "address": "Via Bertola 40",
+        "location_city": "Torino",
+        "sector": "Tecnologia",
+        "revenue": "3.352",
+        "company_name": "Enhancers S.p.A."
+    },
+    {
+        "address": "Via Robbioni 39",
+        "location_city": "Varese",
+        "sector": "Prodotti industriali",
+        "revenue": "9.481",
+        "company_name": "Next Turbo Technologies S.p.A."
+    },
+    {
+        "address": "Via Delle Querce 7",
+        "location_city": "Castelfranco Veneto",
+        "sector": "Pubblicit\u00e0 & marketing",
+        "revenue": "5.411",
+        "company_name": "Velvet Media Italia"
+    },
+    {
+        "address": "Via Crispi 51",
+        "location_city": "Napoli",
+        "sector": "E-commerce",
+        "revenue": "44.091",
+        "company_name": "Farmacosmo S.r.l."
+    },
+    {
+        "address": "Via Per Campomolino, 1/B",
+        "location_city": "Gaiarine",
+        "sector": "Arredamento",
+        "revenue": "2.201",
+        "company_name": "Maxfel S.r.l."
+    },
+    {
+        "address": "Via Varese, 10",
+        "location_city": "Selargius",
+        "sector": "Prodotti industriali",
+        "revenue": "3.835",
+        "company_name": "Manitech S.r.l."
+    },
+    {
+        "address": "Via Radici In Piano, 590",
+        "location_city": "Sassuolo",
+        "sector": "Prodotti industriali",
+        "revenue": "5.890",
+        "company_name": "Tradeco S.r.l."
+    },
+    {
+        "address": "Via Ottavio Bottecchia, 6",
+        "location_city": "Pasiano Di Pordenone",
+        "sector": "Arredamento",
+        "revenue": "11.898",
+        "company_name": "G.D. & C. S.r.l."
+    },
+    {
+        "address": "Via Baracchini 2",
+        "location_city": "Milano",
+        "sector": "Servizi generali",
+        "revenue": "2.401",
+        "company_name": "Jointly il welfare condiviso S.r.l."
+    },
+    {
+        "address": "Via Del Melo, Snc - Loc. Semonte",
+        "location_city": "Gubbio",
+        "sector": "Telecomunicazioni",
+        "revenue": "15.140",
+        "company_name": "Eagleprojects S.r.l."
+    },
+    {
+        "address": "Via Manzoni, 30",
+        "location_city": "Milano",
+        "sector": "Tecnologia",
+        "revenue": "5.590",
+        "company_name": "Agile Lab S.r.l."
+    },
+    {
+        "address": "Via P.R. Giuliani 10A",
+        "location_city": "Milano",
+        "sector": "Servizi generali",
+        "revenue": "2.412",
+        "company_name": "Way2Global S.r.l. SB"
+    },
+    {
+        "address": "S.S. 96 Km 97 e 235",
+        "location_city": "Grumo Appula",
+        "sector": "Costruzioni & impiantistica",
+        "revenue": "9.308",
+        "company_name": "New Euroart S.r.l."
+    },
+    {
+        "address": "Via Prima Strada Lungarno, 78",
+        "location_city": "Terranuova Bracciolini",
+        "sector": "Bellezza & igiene",
+        "revenue": "1.659",
+        "company_name": "Capelli For You S.r.l."
+    },
+    {
+        "address": "Via Caltana, 116/C",
+        "location_city": "Santa Maria Di Sala",
+        "sector": "Consulenza aziendale",
+        "revenue": "55.564",
+        "company_name": "FiloBlu S.p.A."
+    },
+    {
+        "address": "Viale Martiri Della Libert\u00e0 44",
+        "location_city": "Fabriano",
+        "sector": "Tecnologia",
+        "revenue": "3.040",
+        "company_name": "DoIT S.r.l."
+    },
+    {
+        "address": "Piazza Navona 43",
+        "location_city": "Roma",
+        "sector": "Servizi generali",
+        "revenue": "1.513",
+        "company_name": "Pirene S.r.l."
+    },
+    {
+        "address": "Via Casilina Km 74,200, Snc",
+        "location_city": "Ferentino",
+        "sector": "Prodotti industriali",
+        "revenue": "4.504",
+        "company_name": "Cepo S.r.l."
+    },
+    {
+        "address": "Via Bianzana, 31",
+        "location_city": "Bergamo",
+        "sector": "Tecnologia",
+        "revenue": "1.640",
+        "company_name": "Nemesi Italia S.r.l."
+    },
+    {
+        "address": "Viale Gian Giacomo Felissent 116",
+        "location_city": "Treviso",
+        "sector": "Arredamento",
+        "revenue": "5.468",
+        "company_name": "Giopato & Coombes S.r.l"
+    },
+    {
+        "address": "Via Cervino 6",
+        "location_city": "Roma",
+        "sector": "Sanit\u00e0",
+        "revenue": "2.436",
+        "company_name": "Salus Sempione S.r.l.s."
+    },
+    {
+        "address": "Via Cirla 43",
+        "location_city": "Gravellona Toce",
+        "sector": "Arredamento",
+        "revenue": "6.364",
+        "company_name": "Zinox Laser S.r.l."
+    },
+    {
+        "address": "Via Romena 7/9",
+        "location_city": "Poppi",
+        "sector": "Prodotti industriali",
+        "revenue": "4.988",
+        "company_name": "Tera Automation S.r.l."
+    },
+    {
+        "address": "Via Oltrecolle 139",
+        "location_city": "Como",
+        "sector": "Sanit\u00e0",
+        "revenue": "8.792",
+        "company_name": "Innova Hts S.r.l."
+    },
+    {
+        "address": "Via Brigate Alpine 9",
+        "location_city": "Palazzolo S/O",
+        "sector": "Sanit\u00e0",
+        "revenue": "11.281",
+        "company_name": "LM Medical Division S.r.l."
+    },
+    {
+        "address": "Via Verdi 1",
+        "location_city": "Ozieri",
+        "sector": "Costruzioni & impiantistica",
+        "revenue": "3.454",
+        "company_name": "CO.GE.SA. Costruzioni Generali Saba S.r.l."
+    },
+    {
+        "address": "Via Pellegrino Rossi, 11 N05",
+        "location_city": "Milano",
+        "sector": "Automobili",
+        "revenue": "2.791",
+        "company_name": "Autonova Milano S.r.l."
+    },
+    {
+        "address": "Via Nazionale, 107",
+        "location_city": "Angri",
+        "sector": "E-commerce",
+        "revenue": "1.610",
+        "company_name": "Albamatic S.r.l."
+    },
+    {
+        "address": "Via Villaggio Europa, 3",
+        "location_city": "Bassano Del Grappa",
+        "sector": "Istruzione & formazione",
+        "revenue": "34.411",
+        "company_name": "Campustore S.r.l."
+    },
+    {
+        "address": "Via Conca D'Oro 285",
+        "location_city": "Roma",
+        "sector": "Servizi generali",
+        "revenue": "2.835",
+        "company_name": "Cemir Security S.r.l."
+    },
+    {
+        "address": "Via Dei Genieri, 20",
+        "location_city": "Torri Di Quartesolo",
+        "sector": "Servizi generali",
+        "revenue": "5.502",
+        "company_name": "Proteko S.p.A."
+    },
+    {
+        "address": "Via Cesare Battisti 30",
+        "location_city": "Barlassina",
+        "sector": "Smaltimento rifiuti & riciclaggio",
+        "revenue": "2.151",
+        "company_name": "Consorzio Nazionale Qualit\u00e0 S.c.r.l."
+    },
+    {
+        "address": "Via Don Pogolotto 58",
+        "location_city": "Giaveno",
+        "sector": "Prodotti industriali",
+        "revenue": "16.505",
+        "company_name": "G.Engineering S.r.l."
+    },
+    {
+        "address": "Via Solferino 7",
+        "location_city": "Milano",
+        "sector": "E-commerce",
+        "revenue": "25.356",
+        "company_name": "Giglio.com S.r.l."
+    },
+    {
+        "address": "Via Toffetti, 71",
+        "location_city": "Milano",
+        "sector": "Alimentari & bevande",
+        "revenue": "2.357",
+        "company_name": "Reveg Fruit S.r.l."
+    },
+    {
+        "address": "Via Giovanni Palatucci, 6",
+        "location_city": "Isernia",
+        "sector": "Telecomunicazioni",
+        "revenue": "3.348",
+        "company_name": "Democom S.r.l."
+    },
+    {
+        "address": "Via L. Settembrini 13",
+        "location_city": "Telese Terme",
+        "sector": "Farmaceutica",
+        "revenue": "4.021",
+        "company_name": "Erbagil S.r.l."
+    },
+    {
+        "address": "Via Astengo, 11",
+        "location_city": "San Giovanni In Persiceto",
+        "sector": "Automobili",
+        "revenue": "5.394",
+        "company_name": "Advanced Composites Solutions S.r.l."
+    },
+    {
+        "address": "Via Calabria 11",
+        "location_city": "Roma",
+        "sector": "Viaggi & tempo libero",
+        "revenue": "5.195",
+        "company_name": "Spartivento Group S.r.l."
+    },
+    {
+        "address": "Corso Re Umberto 67",
+        "location_city": "Torino",
+        "sector": "Trasporti & logistica",
+        "revenue": "14.113",
+        "company_name": "LMM Logistics S.p.A."
+    },
+    {
+        "address": "Via Jacopo Peri 41/B",
+        "location_city": "Modena",
+        "sector": "Prodotti industriali",
+        "revenue": "2.127",
+        "company_name": "Nuova MG S.r.l."
+    },
+    {
+        "address": "Via Enrico Reginato 53",
+        "location_city": "Treviso",
+        "sector": "Servizi generali",
+        "revenue": "1.880",
+        "company_name": "Radit S.r.l."
+    },
+    {
+        "address": "Via Gioberti, 18",
+        "location_city": "Torino",
+        "sector": "Tecnologia",
+        "revenue": "2.685",
+        "company_name": "Welol Next S.r.l."
+    },
+    {
+        "address": "Via Spartaco 10",
+        "location_city": "Bologna",
+        "sector": "Sanit\u00e0",
+        "revenue": "6.377",
+        "company_name": "Aferetica S.r.l."
+    },
+    {
+        "address": "Via Italia 61",
+        "location_city": "Collegno",
+        "sector": "Energia",
+        "revenue": "42.000",
+        "company_name": "Ubroker S.r.l."
+    },
+    {
+        "address": "Piazza Giorgione 22",
+        "location_city": "Castelfranco Veneto",
+        "sector": "Servizi generali",
+        "revenue": "2.805",
+        "company_name": "3E Studio S.r.l."
+    },
+    {
+        "address": "Via Montenapoleone 18",
+        "location_city": "Milano",
+        "sector": "Moda",
+        "revenue": "23.579",
+        "company_name": "Nice Footwear S.p.A."
+    },
+    {
+        "address": "Via dei Trasporti 5",
+        "location_city": "Pesaro",
+        "sector": "Bellezza & igiene",
+        "revenue": "6.305",
+        "company_name": "La Saponaria S.r.l."
+    },
+    {
+        "address": "Via Silvio Pellico 24",
+        "location_city": "Roma",
+        "sector": "Ristoranti",
+        "revenue": "1.672",
+        "company_name": "Arte e Passione S.r.l."
+    },
+    {
+        "address": "Via E. Reginato, 87",
+        "location_city": "Treviso",
+        "sector": "Tecnologia",
+        "revenue": "37.386",
+        "company_name": "Targa Telematics S.p.A."
+    },
+    {
+        "address": "Via Castelli Romani 41",
+        "location_city": "Pomezia",
+        "sector": "Tecnologia",
+        "revenue": "2.011",
+        "company_name": "Soteco Engineering S.r.l."
+    },
+    {
+        "address": "Via Cristoforo Colombo 329",
+        "location_city": "Biancavilla",
+        "sector": "Energia",
+        "revenue": "1.711",
+        "company_name": "Energetic Efficiency S.r.l."
+    },
+    {
+        "address": "Via Guglielmo Melisurgo 15",
+        "location_city": "Napoli",
+        "sector": "Trasporti & logistica",
+        "revenue": "5.278",
+        "company_name": "Marfreight S.r.l."
+    },
+    {
+        "address": "Toscana 12",
+        "location_city": "Manerbio",
+        "sector": "Moda",
+        "revenue": "3.356",
+        "company_name": "Confezioni Velvet S.r.l."
+    },
+    {
+        "address": "Via Bolognese 49R",
+        "location_city": "Firenze",
+        "sector": "E-commerce",
+        "revenue": "5.300",
+        "company_name": "Family Nation S.r.l."
+    },
+    {
+        "address": "Via Berte E Scacciavolpe 7",
+        "location_city": "Collesalvetti",
+        "sector": "E-commerce",
+        "revenue": "2.349",
+        "company_name": "Fashion commerce S.r.l."
+    },
+    {
+        "address": "Via Bartolomeo Bosco 57/9",
+        "location_city": "Genova",
+        "sector": "Prodotti industriali",
+        "revenue": "3.407",
+        "company_name": "Wingeco S.r.l."
+    },
+    {
+        "address": "Via Bardoline Nr.2/B",
+        "location_city": "Pescantina",
+        "sector": "Costruzioni & impiantistica",
+        "revenue": "2.041",
+        "company_name": "Idropower S.r.l."
+    },
+    {
+        "address": "Via Altabella 21",
+        "location_city": "Bologna",
+        "sector": "Consulenza manageriale",
+        "revenue": "2.739",
+        "company_name": "Archita Engineering S.r.l."
+    },
+    {
+        "address": "Via San Tommaso D'Aquino 18A",
+        "location_city": "Cagliari",
+        "sector": "Servizi generali",
+        "revenue": "1.731",
+        "company_name": "Digitalpa S.r.l."
+    },
+    {
+        "address": "Via Pancore, 4",
+        "location_city": "Serravalle - Pt",
+        "sector": "Beni personali",
+        "revenue": "24.742",
+        "company_name": "Laca Trade S.r.l."
+    },
+    {
+        "address": "Via Della Rocca 15",
+        "location_city": "Torino",
+        "sector": "Tecnologia",
+        "revenue": "5.927",
+        "company_name": "Coolshop S.r.l."
+    },
+    {
+        "address": "Via Enrico Toti 112",
+        "location_city": "San Cesareo",
+        "sector": "E-commerce",
+        "revenue": "8.995",
+        "company_name": "DND Distribuzione S.r.l."
+    },
+    {
+        "address": "Via Trento 41",
+        "location_city": "Parma",
+        "sector": "Istruzione & formazione",
+        "revenue": "2.137",
+        "company_name": "osteocom.net S.r.l."
+    },
+    {
+        "address": "Via San Martino 23",
+        "location_city": "Reggio nell'Emilia",
+        "sector": "Tecnologia",
+        "revenue": "2.657",
+        "company_name": "Buildo S.r.l."
+    },
+    {
+        "address": "Viale Santuario, 20",
+        "location_city": "Seregno",
+        "sector": "Energia",
+        "revenue": "23.803",
+        "company_name": "Nova S.r.l."
+    },
+    {
+        "address": "Piazza Armando Diaz 7",
+        "location_city": "Milano",
+        "sector": "Immobiliare",
+        "revenue": "26.774",
+        "company_name": "GVA Redilco S.p.A."
+    },
+    {
+        "address": "Via Dorsale 13",
+        "location_city": "Massa",
+        "sector": "Trasporti & logistica",
+        "revenue": "10.606",
+        "company_name": "Power Marine Shipyard S.r.l."
+    },
+    {
+        "address": "Viale Ruggeri 6/A",
+        "location_city": "Guastalla",
+        "sector": "Prodotti industriali",
+        "revenue": "17.369",
+        "company_name": "Almac S.r.l."
+    },
+    {
+        "address": "Via Norico 8",
+        "location_city": "Roma",
+        "sector": "Servizi generali",
+        "revenue": "1.782",
+        "company_name": "H501 S.r.l."
+    },
+    {
+        "address": "Via Del Commercio 11 E 12",
+        "location_city": "Viillanova D'Albenga",
+        "sector": "Servizi finanziari",
+        "revenue": "13.906",
+        "company_name": "We-Unit Group S.p.A."
+    },
+    {
+        "address": "Corso Re Umberto I 1",
+        "location_city": "Torino",
+        "sector": "Tecnologia",
+        "revenue": "6.085",
+        "company_name": "Synesthesia S.r.l."
+    },
+    {
+        "address": "Via Santa Sofia 27",
+        "location_city": "Milano",
+        "sector": "Tecnologia",
+        "revenue": "1.823",
+        "company_name": "Kwantis S.r.l."
+    },
+    {
+        "address": "Piazza Bovio 22",
+        "location_city": "Napoli",
+        "sector": "Costruzioni & impiantistica",
+        "revenue": "2.307",
+        "company_name": "W.E.E. Water Environment Energy S.r.l."
+    },
+    {
+        "address": "Via Pola, 9",
+        "location_city": "Milano",
+        "sector": "Tecnologia",
+        "revenue": "63.701",
+        "company_name": "Growens S.p.A."
+    },
+    {
+        "address": "Via Molinasso 4",
+        "location_city": "Savigliano",
+        "sector": "Tecnologia",
+        "revenue": "2.527",
+        "company_name": "Azerouno S.r.l."
+    },
+    {
+        "address": "S.S. 131 Bis",
+        "location_city": "Thiesi",
+        "sector": "Alimentari & bevande",
+        "revenue": "22.147",
+        "company_name": "Reparo S.r.l."
+    },
+    {
+        "address": "Via Sile, 24",
+        "location_city": "Castelfranco Veneto",
+        "sector": "Prodotti industriali",
+        "revenue": "12.317",
+        "company_name": "Epaper S.r.l."
+    },
+    {
+        "address": "Via Dina Sassoli 24",
+        "location_city": "Rimini",
+        "sector": "Servizi generali",
+        "revenue": "3.401",
+        "company_name": "Prime Solution Soc. Consortile Cooperativa"
+    },
+    {
+        "address": "Via Pirandello 23/A",
+        "location_city": "Chieri",
+        "sector": "Servizi generali",
+        "revenue": "10.808",
+        "company_name": "C&P S.r.l."
+    },
+    {
+        "address": "Via Treppo 18",
+        "location_city": "Udine",
+        "sector": "Pubblicit\u00e0 & marketing",
+        "revenue": "1.641",
+        "company_name": "Koki S.r.l."
+    },
+    {
+        "address": "Via Vecchia Montesardo, 21",
+        "location_city": "Alessano",
+        "sector": "Sanit\u00e0",
+        "revenue": "6.959",
+        "company_name": "Mylav S.r.l.u."
+    },
+    {
+        "address": "Via Cropani 118 A/B",
+        "location_city": "Roma",
+        "sector": "Sanit\u00e0",
+        "revenue": "4.401",
+        "company_name": "Gruppo Europeo di Ortodonzia S.r.l."
+    },
+    {
+        "address": "Via Cosseria 2",
+        "location_city": "Roma",
+        "sector": "Media",
+        "revenue": "8.541",
+        "company_name": "Cookies Factory S.r.l."
+    },
+    {
+        "address": "Via Crocifissa di Rosa 15",
+        "location_city": "Brescia",
+        "sector": "Consulenza manageriale",
+        "revenue": "1.757",
+        "company_name": "Future Age S.r.l."
+    },
+    {
+        "address": "Via Turati,7/E",
+        "location_city": "Erba",
+        "sector": "Prodotti industriali",
+        "revenue": "2.099",
+        "company_name": "Novatec Engineering S.r.l."
+    },
+    {
+        "address": "Via Della Stazione 27",
+        "location_city": "Trento",
+        "sector": "Costruzioni & impiantistica",
+        "revenue": "20.099",
+        "company_name": "SWS Engineering S.p.A."
+    },
+    {
+        "address": "Via Giosue' Carducci 8",
+        "location_city": "Milano",
+        "sector": "Pubblicit\u00e0 & marketing",
+        "revenue": "3.412",
+        "company_name": "Noonic S.r.l."
+    },
+    {
+        "address": "Via Concetta Bonaventura 15",
+        "location_city": "Catania",
+        "sector": "Farmaceutica",
+        "revenue": "3.647",
+        "company_name": "A.B. Pharm S.r.l."
+    },
+    {
+        "address": "Via Tommaso Grossi, 2",
+        "location_city": "Milano",
+        "sector": "Vendita al dettaglio & all'ingrosso",
+        "revenue": "83.814",
+        "company_name": "Gima S.p.a."
+    },
+    {
+        "address": "Bartolini 52",
+        "location_city": "Milano",
+        "sector": "Bellezza & igiene",
+        "revenue": "2.097",
+        "company_name": "Redcoil S.r.l."
+    },
+    {
+        "address": "Via Alberico Albricci 8",
+        "location_city": "Milano",
+        "sector": "Ristoranti",
+        "revenue": "7.272",
+        "company_name": "Nima Sushi Italia S.r.l."
+    },
+    {
+        "address": "Via Del Monte, 1",
+        "location_city": "Gubbio",
+        "sector": "Moda",
+        "revenue": "9.106",
+        "company_name": "Ti Style iT S.r.l."
+    },
+    {
+        "address": "Via Santo Celli, 6",
+        "location_city": "Vasanello",
+        "sector": "Costruzioni & impiantistica",
+        "revenue": "2.376",
+        "company_name": "Isoltech Societ\u00e0 Cooperativa"
+    },
+    {
+        "address": "Via Cesare Lombroso, 54",
+        "location_city": "Milano",
+        "sector": "Alimentari & bevande",
+        "revenue": "12.958",
+        "company_name": "Italfrutta Distribuzioni S.r.l."
+    },
+    {
+        "address": "Via A. Meucci, 18",
+        "location_city": "Mirano",
+        "sector": "Prodotti agricoli",
+        "revenue": "5.113",
+        "company_name": "Cast Group S.r.l."
+    },
+    {
+        "address": "Domenico Scarlatti 30",
+        "location_city": "Milano",
+        "sector": "Energia",
+        "revenue": "68.627",
+        "company_name": "Union Gas Metano S.p.A."
+    },
+    {
+        "address": "Via Andrea Moretti, 34",
+        "location_city": "Bergamo",
+        "sector": "Costruzioni & impiantistica",
+        "revenue": "149.520",
+        "company_name": "Impresa Percassi S.p.A."
+    },
+    {
+        "address": "Via Alcide De Gasperi 113",
+        "location_city": "Merate",
+        "sector": "Costruzioni & impiantistica",
+        "revenue": "13.709",
+        "company_name": "Carimi S.r.l."
+    },
+    {
+        "address": "Via A. Manzoni, Snc",
+        "location_city": "Mosciano S.A.",
+        "sector": "Prodotti industriali",
+        "revenue": "3.102",
+        "company_name": "Nova Cartotecnica Roberto S.r.l."
+    },
+    {
+        "address": "Viale Dell'Industria 11-13",
+        "location_city": "Novi Ligure",
+        "sector": "Farmaceutica",
+        "revenue": "8.480",
+        "company_name": "Innate S.r.l."
+    },
+    {
+        "address": "Via Monte Rosa 9",
+        "location_city": "Chiampo",
+        "sector": "Prodotti industriali",
+        "revenue": "25.575",
+        "company_name": "Italcarrelli S.p.A."
+    },
+    {
+        "address": "Via Tiziano 63",
+        "location_city": "Arcore",
+        "sector": "Pubblicit\u00e0 & marketing",
+        "revenue": "2.568",
+        "company_name": "C 41 S.r.l."
+    },
+    {
+        "address": "Via di Pianvallico, 5",
+        "location_city": "Scarperia E San Piero",
+        "sector": "Tecnologia",
+        "revenue": "13.124",
+        "company_name": "Temera S.r.l."
+    },
+    {
+        "address": "Centro Direzionale Isola E7",
+        "location_city": "Napoli",
+        "sector": "Istruzione & formazione",
+        "revenue": "5.200",
+        "company_name": "Begear S.r.l."
+    },
+    {
+        "address": "Via R. Luxemburg 14",
+        "location_city": "Castelfranco Di Sotto",
+        "sector": "Prodotti industriali",
+        "revenue": "2.103",
+        "company_name": "Lift Up S.r.l."
+    },
+    {
+        "address": "Via S. D'Acquisto 16/A",
+        "location_city": "Pozzuolo Martesana",
+        "sector": "Prodotti industriali",
+        "revenue": "6.714",
+        "company_name": "Iwe S.r.l."
+    },
+    {
+        "address": "Via Solferino, 1",
+        "location_city": "Lodi",
+        "sector": "Tecnologia",
+        "revenue": "958.660",
+        "company_name": "Zucchetti"
+    },
+    {
+        "address": "Via Difesa Maddalena, 6",
+        "location_city": "Campagna",
+        "sector": "Prodotti industriali",
+        "revenue": "5.266",
+        "company_name": "General Service S.r.l."
+    },
+    {
+        "address": "Via Flaminia Ternana 292",
+        "location_city": "Narni",
+        "sector": "Arredamento",
+        "revenue": "15.865",
+        "company_name": "Paolini S.p.A."
+    },
+    {
+        "address": "S.P. 150, Km. 3.400",
+        "location_city": "Gallese",
+        "sector": "Alimentari & bevande",
+        "revenue": "10.039",
+        "company_name": "Deangelis S.r.l."
+    },
+    {
+        "address": "Via Principe Tommaso 36",
+        "location_city": "Torino",
+        "sector": "E-commerce",
+        "revenue": "4.874",
+        "company_name": "Ausilium S.r.l."
+    },
+    {
+        "address": "Via Larga 8",
+        "location_city": "Milano",
+        "sector": "Pubblicit\u00e0 & marketing",
+        "revenue": "3.090",
+        "company_name": "Ready 2 Fly S.r.l."
+    },
+    {
+        "address": "Via Belvedere, 101",
+        "location_city": "Napoli",
+        "sector": "Tecnologia",
+        "revenue": "10.470",
+        "company_name": "Citel Group S.r.l."
+    },
+    {
+        "address": "Via Baione",
+        "location_city": "Monopoli",
+        "sector": "Alimentari & bevande",
+        "revenue": "43.748",
+        "company_name": "Mare Gioioso S.r.l. Di Sebastiano"
+    },
+    {
+        "address": "Viale Piacenza 12/B",
+        "location_city": "Parma",
+        "sector": "Alimentari & bevande",
+        "revenue": "82.586",
+        "company_name": "Gandolfi International Trading S.r.l."
+    },
+    {
+        "address": "Piazza Don Mapelli 60",
+        "location_city": "Sesto San Giovanni",
+        "sector": "Tecnologia",
+        "revenue": "2.101",
+        "company_name": "Smartblue S.r.l."
+    },
+    {
+        "address": "Provinciale Selice 51",
+        "location_city": "Imola",
+        "sector": "Tecnologia",
+        "revenue": "3.755",
+        "company_name": "Antreem S.r.l."
+    },
+    {
+        "address": "Via Ge C.A. Dalla Chiesa 1",
+        "location_city": "Desenzano Del Garda",
+        "sector": "Pubblicit\u00e0 & marketing",
+        "revenue": "57.006",
+        "company_name": "Promotica S.p.A."
+    },
+    {
+        "address": "Via Giorgio Almirante, 15/17",
+        "location_city": "Grumo Appula",
+        "sector": "Arredamento",
+        "revenue": "7.978",
+        "company_name": "Tenda Sistem S.r.l."
+    },
+    {
+        "address": "Via Per Mirandola, 30",
+        "location_city": "Concordia Sulla Secchia",
+        "sector": "Costruzioni & impiantistica",
+        "revenue": "1.558",
+        "company_name": "DI2 S.r.l."
+    },
+    {
+        "address": "Via Lima 7",
+        "location_city": "Roma",
+        "sector": "Servizi generali",
+        "revenue": "2.646",
+        "company_name": "La Rosa dei Venti - Societ\u00e0 Cooperativa di Servizi"
+    },
+    {
+        "address": "Loc. Santa Maria S.P. 25",
+        "location_city": "Irgoli",
+        "sector": "Alimentari & bevande",
+        "revenue": "3.120",
+        "company_name": "Panificio Battacone S.r.l."
+    },
+    {
+        "address": "Via Valentino Mazzola 16/18",
+        "location_city": "Roma",
+        "sector": "Servizi generali",
+        "revenue": "3.337",
+        "company_name": "Indoor Ambiente S.r.l."
+    },
+    {
+        "address": "Provinciale 2763",
+        "location_city": "Urgnano",
+        "sector": "Arredamento",
+        "revenue": "9.359",
+        "company_name": "The Italian Decking Company S.p.A."
+    },
+    {
+        "address": "Via Sante Vandi 100",
+        "location_city": "Roma",
+        "sector": "Costruzioni & impiantistica",
+        "revenue": "24.809",
+        "company_name": "Impre.do S.r.l."
+    },
+    {
+        "address": "Via Achille Grandi, 80",
+        "location_city": "Arcore",
+        "sector": "Ristoranti",
+        "revenue": "7.006",
+        "company_name": "Ristoservice S.r.l."
+    },
+    {
+        "address": "Via Oratorio 12A",
+        "location_city": "Correggio",
+        "sector": "Pubblicit\u00e0 & marketing",
+        "revenue": "22.282",
+        "company_name": "Webranking S.r.l."
+    },
+    {
+        "address": "Via Larga, 8",
+        "location_city": "Milano",
+        "sector": "Farmaceutica",
+        "revenue": "8.204",
+        "company_name": "Kolinpharma S.p.A"
+    },
+    {
+        "address": "Via Lecce 265",
+        "location_city": "Soleto",
+        "sector": "Arredamento",
+        "revenue": "7.007",
+        "company_name": "San Marco S.r.l."
+    },
+    {
+        "address": "Via Del Gallitello, 215",
+        "location_city": "Potenza",
+        "sector": "Costruzioni & impiantistica",
+        "revenue": "5.132",
+        "company_name": "Mancusimmobiliare S.r.l."
+    },
+    {
+        "address": "Via Buratti, 21",
+        "location_city": "Bergamo",
+        "sector": "Costruzioni & impiantistica",
+        "revenue": "5.825",
+        "company_name": "Seriana Edilizia S.r.l."
+    },
+    {
+        "address": "Via Don Milani 4",
+        "location_city": "Pescantina",
+        "sector": "Istruzione & formazione",
+        "revenue": "1.588",
+        "company_name": "Bambi & Bimbi S.r.l."
+    },
+    {
+        "address": "Via Livorno 64",
+        "location_city": "Potenza",
+        "sector": "Costruzioni & impiantistica",
+        "revenue": "2.200",
+        "company_name": "C. Costruzioni S.r.l."
+    },
+    {
+        "address": "Via Paolo Borsellino 27/A",
+        "location_city": "Rovato",
+        "sector": "Energia",
+        "revenue": "4.574",
+        "company_name": "Ecotek S.r.l."
+    },
+    {
+        "address": "Via Maestri Del Lavoro 33",
+        "location_city": "Forli",
+        "sector": "E-commerce",
+        "revenue": "6.105",
+        "company_name": "Mentor S.r.l."
+    },
+    {
+        "address": "Via Pianodardine 23",
+        "location_city": "Avellino",
+        "sector": "Farmaceutica",
+        "revenue": "4.238",
+        "company_name": "Agaton S.r.l."
+    },
+    {
+        "address": "Via Contrari 10",
+        "location_city": "Ferrara",
+        "sector": "Farmaceutica",
+        "revenue": "10.848",
+        "company_name": "Pharma Niche Products S.r.l."
+    },
+    {
+        "address": "Nuova Circonvallazione 23",
+        "location_city": "Rimini",
+        "sector": "Prodotti industriali",
+        "revenue": "3.235",
+        "company_name": "RGM Commerciale S.r.l."
+    },
+    {
+        "address": "Via Emilia Est 776/A",
+        "location_city": "Modena",
+        "sector": "Automobili",
+        "revenue": "65.226",
+        "company_name": "Motorsclub S.r.l."
+    },
+    {
+        "address": "Via Andrea Doria,5",
+        "location_city": "Milano",
+        "sector": "Trasporti & logistica",
+        "revenue": "35.729",
+        "company_name": "Tservice S.p.A."
+    },
+    {
+        "address": "Corso di Porta Romana 6",
+        "location_city": "Milano",
+        "sector": "E-commerce",
+        "revenue": "4.250",
+        "company_name": "Frhome S.r.l."
+    },
+    {
+        "address": "Via Bernardino Telesio 12",
+        "location_city": "Milano",
+        "sector": "Pubblicit\u00e0 & marketing",
+        "revenue": "1.604",
+        "company_name": "Jungle S.r.l."
+    },
+    {
+        "address": "Via San Martino Della Battaglia 31",
+        "location_city": "Roma",
+        "sector": "Pubblicit\u00e0 & marketing",
+        "revenue": "6.519",
+        "company_name": "Digital Angels srl a socio unico"
+    },
+    {
+        "address": "Corso Umberto Angolo Via De Gasperi",
+        "location_city": "Caivano",
+        "sector": "Farmaceutica",
+        "revenue": "55.609",
+        "company_name": "Farmacia S.Caterina S.r.l."
+    },
+    {
+        "address": "Via G. Pergolesi, 1",
+        "location_city": "Napoli",
+        "sector": "Automobili",
+        "revenue": "21.090",
+        "company_name": "Lever Touch S.r.l."
+    },
+    {
+        "address": "Strada Padana Superiore 2B",
+        "location_city": "Cernusco Sul Naviglio",
+        "sector": "Pubblicit\u00e0 & marketing",
+        "revenue": "2.700",
+        "company_name": "Playground S.r.l"
+    },
+    {
+        "address": "Via Vincenzo Monti 32",
+        "location_city": "Milano",
+        "sector": "Tecnologia",
+        "revenue": "1.948",
+        "company_name": "Mitobit S.r.l."
+    },
+    {
+        "address": "Via Sornianese, 91",
+        "location_city": "Prato",
+        "sector": "Energia",
+        "revenue": "95.639",
+        "company_name": "NWG Energia S.p.a. Societ\u00e0 Benefit"
+    },
+    {
+        "address": "Via G. Marconi 40",
+        "location_city": "Sernaglia Della Battaglia",
+        "sector": "Arredamento",
+        "revenue": "8.834",
+        "company_name": "Vanita Docce S.r.l."
+    },
+    {
+        "address": "Via G.L Radice, 12",
+        "location_city": "San Miniato",
+        "sector": "Prodotti industriali",
+        "revenue": "5.592",
+        "company_name": "Tecnomacchine S.r.l."
+    },
+    {
+        "address": "Via Turati, 6",
+        "location_city": "Milano",
+        "sector": "Consulenza manageriale",
+        "revenue": "6.393",
+        "company_name": "Mind The Value S.r.l."
+    },
+    {
+        "address": "Largo Stazione 12",
+        "location_city": "Secl\u00ec",
+        "sector": "Arredamento",
+        "revenue": "7.138",
+        "company_name": "Palumbo S.r.l."
+    },
+    {
+        "address": "Via Dell'Artigianato,1",
+        "location_city": "Gruaro",
+        "sector": "Bellezza & igiene",
+        "revenue": "16.959",
+        "company_name": "Trilab S.r.l."
+    },
+    {
+        "address": "Corso Umberto I, 145",
+        "location_city": "Taranto",
+        "sector": "Prodotti industriali",
+        "revenue": "9.967",
+        "company_name": "Fusar Bassini Management S.r.l."
+    },
+    {
+        "address": "Galleria Crispi, 11",
+        "location_city": "Vicenza",
+        "sector": "Chimica",
+        "revenue": "8.289",
+        "company_name": "Agenzia Chimica Italiana S.r.l."
+    },
+    {
+        "address": "Via Michele Mummolo Z.I",
+        "location_city": "Putignano",
+        "sector": "Prodotti industriali",
+        "revenue": "2.100",
+        "company_name": "Joker Imballaggi S.r.l."
+    },
+    {
+        "address": "Via Berna 12/14",
+        "location_city": "Sassuolo",
+        "sector": "Arredamento",
+        "revenue": "6.294",
+        "company_name": "Glamora S.r.l."
+    },
+    {
+        "address": "Via Casino Bizzarro 6",
+        "location_city": "Cervinara",
+        "sector": "E-commerce",
+        "revenue": "1.880",
+        "company_name": "Hidrobrico S.r.l."
+    },
+    {
+        "address": "Via Donizetti 47",
+        "location_city": "Milano",
+        "sector": "Moda",
+        "revenue": "4.200",
+        "company_name": "Dolly Noire S.r.l."
+    },
+    {
+        "address": "Viale Ungheria 89/91",
+        "location_city": "Zagarolo",
+        "sector": "Tecnologia",
+        "revenue": "4.151",
+        "company_name": "Intent S.r.l."
+    },
+    {
+        "address": "S.P. Novoli-Trepuzzi Km 1,5",
+        "location_city": "Novoli",
+        "sector": "Arredamento",
+        "revenue": "50.038",
+        "company_name": "Deghi S.p.A."
+    },
+    {
+        "address": "Via Silvio Pellico 19",
+        "location_city": "Saluzzo",
+        "sector": "Energia",
+        "revenue": "48.568",
+        "company_name": "Eviso S.p.A."
+    },
+    {
+        "address": "Via Del Pino 21",
+        "location_city": "Santarcangelo Di Romagna",
+        "sector": "Arredamento",
+        "revenue": "4.258",
+        "company_name": "International Design S.r.l."
+    },
+    {
+        "address": "Via di Tor Pagnotta , 94",
+        "location_city": "Roma",
+        "sector": "Sicurezza informatica",
+        "revenue": "8.399",
+        "company_name": "Information Sharing Company S.r.l."
+    },
+    {
+        "address": "Via Giorgio Stephenson 29",
+        "location_city": "Milano",
+        "sector": "Telecomunicazioni",
+        "revenue": "6.108",
+        "company_name": "Consorzio HQ"
+    },
+    {
+        "address": "Via La Spezia 90",
+        "location_city": "Parma",
+        "sector": "Pubblicit\u00e0 & marketing",
+        "revenue": "8.782",
+        "company_name": "Caffeina S.p.A."
+    },
+    {
+        "address": "Via Dei Santi, 149",
+        "location_city": "Brescia",
+        "sector": "Prodotti industriali",
+        "revenue": "3.325",
+        "company_name": "DGS S.r.l."
+    },
+    {
+        "address": "Via Pesa 19A",
+        "location_city": "Montebello Vicentino",
+        "sector": "Prodotti industriali",
+        "revenue": "8.388",
+        "company_name": "General S.r.l."
+    },
+    {
+        "address": "Via Don Sturzo 32/A",
+        "location_city": "Bologna",
+        "sector": "Costruzioni & impiantistica",
+        "revenue": "3.351",
+        "company_name": "Air Innovation S.r.l."
+    },
+    {
+        "address": "Via Nazionale 83",
+        "location_city": "Baldichieri D'Asti",
+        "sector": "Prodotti industriali",
+        "revenue": "5.958",
+        "company_name": "Green Gear Trasmissioni S.r.l."
+    },
+    {
+        "address": "Corso Sempione 44",
+        "location_city": "Milano",
+        "sector": "Consulenza manageriale",
+        "revenue": "2.317",
+        "company_name": "Arpe Group S.r.l."
+    },
+    {
+        "address": "Via Castegnato,19",
+        "location_city": "Rodengo Saiano",
+        "sector": "Costruzioni & impiantistica",
+        "revenue": "9.390",
+        "company_name": "FBG S.r.l."
+    },
+    {
+        "address": "Via A. M. Calefati 197",
+        "location_city": "Bari",
+        "sector": "Tecnologia",
+        "revenue": "5.383",
+        "company_name": "Idea75 S.r.l."
+    },
+    {
+        "address": "Viale Delle Nazioni 9",
+        "location_city": "Verona",
+        "sector": "Servizi finanziari",
+        "revenue": "35.226",
+        "company_name": "Signor Prestito S.p.A."
+    },
+    {
+        "address": "Via Rieti 4",
+        "location_city": "Brescia",
+        "sector": "Sicurezza informatica",
+        "revenue": "2.532",
+        "company_name": "Verxo S.r.l."
+    },
+    {
+        "address": "Corso Milano 23",
+        "location_city": "Monza",
+        "sector": "E-commerce",
+        "revenue": "6.222",
+        "company_name": "Import For Me S.r.l."
+    },
+    {
+        "address": "Via Indonesia 23",
+        "location_city": "Roma",
+        "sector": "Tecnologia",
+        "revenue": "34.014",
+        "company_name": "Translated S.r.l."
+    },
+    {
+        "address": "Via di Santa Maria In Via 12",
+        "location_city": "Roma",
+        "sector": "Servizi generali",
+        "revenue": "4.210",
+        "company_name": "Utopia Lab S.r.l."
+    },
+    {
+        "address": "Via Matteo Renato Imbriani 226/228",
+        "location_city": "Catania",
+        "sector": "Sicurezza informatica",
+        "revenue": "2.839",
+        "company_name": "Next04 S.r.l."
+    },
+    {
+        "address": "Via Traversa Canonica 1",
+        "location_city": "Revello",
+        "sector": "Prodotti agricoli",
+        "revenue": "6.908",
+        "company_name": "Ribotta Group Societ\u00e0 Cooperativa Agricola"
+    },
+    {
+        "address": "Via San Martino 51",
+        "location_city": "Pisa",
+        "sector": "Telecomunicazioni",
+        "revenue": "1.774",
+        "company_name": "Link.it S.r.l."
+    },
+    {
+        "address": "Via Abbadia 15",
+        "location_city": "Montelabbate",
+        "sector": "Arredamento",
+        "revenue": "3.884",
+        "company_name": "Decor Leader S.r.l."
+    },
+    {
+        "address": "Via Gandhi,9",
+        "location_city": "Forl\u00ec",
+        "sector": "Costruzioni & impiantistica",
+        "revenue": "3.798",
+        "company_name": "Global Sistemi S.r.l."
+    },
+    {
+        "address": "Via Trapani 32",
+        "location_city": "San Giovanni La Punta",
+        "sector": "Prodotti industriali",
+        "revenue": "2.428",
+        "company_name": "Fimarsud S.r.l."
+    },
+    {
+        "address": "Via I Nievo 33",
+        "location_city": "Milano",
+        "sector": "Moda",
+        "revenue": "13.501",
+        "company_name": "Modo Eyewear S.r.l."
+    },
+    {
+        "address": "Via Roma, 398",
+        "location_city": "Bellizzi",
+        "sector": "Alimentari & bevande",
+        "revenue": "1.614",
+        "company_name": "Dea Terra S.r.l."
+    },
+    {
+        "address": "Via Vittor Pisani 20",
+        "location_city": "Milano",
+        "sector": "Tecnologia",
+        "revenue": "21.385",
+        "company_name": "Lab ID S.r.l."
+    },
+    {
+        "address": "Via Viviani 8",
+        "location_city": "Milano",
+        "sector": "Energia",
+        "revenue": "4.230",
+        "company_name": "CMP S.c.r.l."
+    },
+    {
+        "address": "Viale Roma 13/A",
+        "location_city": "Novara",
+        "sector": "Prodotti industriali",
+        "revenue": "4.719",
+        "company_name": "Imperialgroup S.r.l."
+    },
+    {
+        "address": "Via Provinciale Cotignola 20/9",
+        "location_city": "Lugo",
+        "sector": "Tecnologia",
+        "revenue": "133.691",
+        "company_name": "Unitec S.p.A."
+    },
+    {
+        "address": "Via Adolfo Tommasi, 133",
+        "location_city": "Roma",
+        "sector": "Automobili",
+        "revenue": "2.360",
+        "company_name": "Bylogix S.r.l."
+    },
+    {
+        "address": "Viale Primo Maggio 13",
+        "location_city": "Barberino Di Mugello",
+        "sector": "Costruzioni & impiantistica",
+        "revenue": "1.584",
+        "company_name": "Aesse Vita S.r.l."
+    },
+    {
+        "address": "Via Alessandro Volta 18",
+        "location_city": "San Paolo D'Argon",
+        "sector": "Chimica",
+        "revenue": "7.504",
+        "company_name": "Itaflon S.r.l."
+    },
+    {
+        "address": "Via Enrico Caviglia 3/A",
+        "location_city": "Milano",
+        "sector": "Costruzioni & impiantistica",
+        "revenue": "7.162",
+        "company_name": "Teicos Ue S.r.l."
+    },
+    {
+        "address": "Gerolamo Zanchi 10",
+        "location_city": "Bergamo",
+        "sector": "Alimentari & bevande",
+        "revenue": "3.565",
+        "company_name": "Ghilardi Selezioni S.r.l."
+    },
+    {
+        "address": "Viale Ergisto Bezzi 2",
+        "location_city": "Milano",
+        "sector": "Servizi generali",
+        "revenue": "1.686",
+        "company_name": "IQM selezione S.r.l."
+    },
+    {
+        "address": "Via Sandro Pertini, 1",
+        "location_city": "Montegranaro",
+        "sector": "E-commerce",
+        "revenue": "8.273",
+        "company_name": "Drop S.r.l."
+    },
+    {
+        "address": "Via Delle Fornaci, 22",
+        "location_city": "Sant'Arcangelo",
+        "sector": "Arredamento",
+        "revenue": "1.657",
+        "company_name": "Iocoli S.r.l."
+    },
+    {
+        "address": "Via Roma Parco San Giacomo, 127",
+        "location_city": "Cimitile",
+        "sector": "Costruzioni & impiantistica",
+        "revenue": "23.734",
+        "company_name": "Edil San Felice S.p.A."
+    },
+    {
+        "address": "Via Vigonovese, 79 B",
+        "location_city": "Padova",
+        "sector": "Tecnologia",
+        "revenue": "3.119",
+        "company_name": "Keytech S.r.l."
+    },
+    {
+        "address": "Largo Giambellino 4/B",
+        "location_city": "Reggio nell'Emilia",
+        "sector": "Pubblicit\u00e0 & marketing",
+        "revenue": "1.522",
+        "company_name": "Lovemark S.r.l."
+    },
+    {
+        "address": "Via Torquato Tasso, 1",
+        "location_city": "Cologno Monzese",
+        "sector": "Tecnologia",
+        "revenue": "4.931",
+        "company_name": "HiFuture S.r.l."
+    },
+    {
+        "address": "Via Vivaldi, 7",
+        "location_city": "Borgomanero",
+        "sector": "Tecnologia",
+        "revenue": "4.460",
+        "company_name": "Edilclima S.r.l."
+    },
+    {
+        "address": "Via Limido, 1",
+        "location_city": "Castelnovo Di Sotto",
+        "sector": "Prodotti industriali",
+        "revenue": "3.632",
+        "company_name": "Sitem S.r.l."
+    },
+    {
+        "address": "Largo Brasilia 6",
+        "location_city": "Milano",
+        "sector": "Tecnologia",
+        "revenue": "8.861",
+        "company_name": "Venticento S.r.l."
+    },
+    {
+        "address": "Corso Protopisani 91",
+        "location_city": "Napoli",
+        "sector": "Alimentari & bevande",
+        "revenue": "13.337",
+        "company_name": "Acetificio Andrea Milano"
+    },
+    {
+        "address": "Via Del Perlar 37/A",
+        "location_city": "Verona",
+        "sector": "Costruzioni & impiantistica",
+        "revenue": "1.958",
+        "company_name": "Ferretti Costruzioni S.r.l."
+    },
+    {
+        "address": "Via Don Angeli, 2",
+        "location_city": "Livorno",
+        "sector": "Beni personali",
+        "revenue": "24.646",
+        "company_name": "Graziani S.r.l."
+    },
+    {
+        "address": "Stradone San Fermo 21",
+        "location_city": "Verona",
+        "sector": "Tecnofinanza",
+        "revenue": "3.978",
+        "company_name": "Fairmat S.r.l."
+    },
+    {
+        "address": "Via Iolanda, 66",
+        "location_city": "Tezze Sul Brenta",
+        "sector": "Tecnologia",
+        "revenue": "6.913",
+        "company_name": "Infoteam S.r.l."
+    },
+    {
+        "address": "Via Mantova 267",
+        "location_city": "Montichiari",
+        "sector": "Tecnologia",
+        "revenue": "29.035",
+        "company_name": "Piramis S.r.l."
+    },
+    {
+        "address": "Via Appia, 126",
+        "location_city": "Castello Del Lago",
+        "sector": "Servizi generali",
+        "revenue": "1.782",
+        "company_name": "Disa S.r.l."
+    },
+    {
+        "address": "Via Niccolo' Tommaseo, 6",
+        "location_city": "Altamura",
+        "sector": "Alimentari & bevande",
+        "revenue": "43.383",
+        "company_name": "Latentia Winery S.p.A."
+    },
+    {
+        "address": "Viale Giulio Cesare, 20, Scala A - 1 Piano",
+        "location_city": "Bergamo",
+        "sector": "Pubblicit\u00e0 & marketing",
+        "revenue": "1.521",
+        "company_name": "Publifarm S.r.l."
+    },
+    {
+        "address": "Via Delle Cave, 17",
+        "location_city": "Cividate Camuno",
+        "sector": "Costruzioni & impiantistica",
+        "revenue": "2.175",
+        "company_name": "GS Elettrotecnica Automazioni Industriali S.r.l."
+    },
+    {
+        "address": "Via Lombardia, 32",
+        "location_city": "Castronno",
+        "sector": "Sanit\u00e0",
+        "revenue": "8.322",
+        "company_name": "Hospital Forniture S.r.l."
+    },
+    {
+        "address": "Via Del Progresso 5",
+        "location_city": "Pedaso",
+        "sector": "Difesa & Aerospaziale",
+        "revenue": "17.347",
+        "company_name": "Civitanavi Systems"
+    },
+    {
+        "address": "Via A. Botticelli",
+        "location_city": "Fiumicino",
+        "sector": "Tecnologia",
+        "revenue": "8.250",
+        "company_name": "Soluzioni Prodotti Sistemi S.r.l."
+    },
+    {
+        "address": "Via Del Gregge 100",
+        "location_city": "Lonate Pozzolo",
+        "sector": "Trasporti & logistica",
+        "revenue": "6.824",
+        "company_name": "Freedom in Sales S.r.l."
+    },
+    {
+        "address": "Via C. A. Ciasca 9",
+        "location_city": "Bari",
+        "sector": "Sanit\u00e0",
+        "revenue": "5.623",
+        "company_name": "Predict S.r.l."
+    },
+    {
+        "address": "Circonvallazione Clodia",
+        "location_city": "Roma",
+        "sector": "Servizi finanziari",
+        "revenue": "3.197",
+        "company_name": "PrestitoS\u00ec Finance S.p.A."
+    },
+    {
+        "address": "Corte Europa, 12",
+        "location_city": "Spilimbergo",
+        "sector": "Tecnologia",
+        "revenue": "2.398",
+        "company_name": "Webformat S.r.l."
+    },
+    {
+        "address": "Via Montebello 27",
+        "location_city": "Milano",
+        "sector": "Servizi finanziari",
+        "revenue": "2.312",
+        "company_name": "Accounting Partners S.p.A."
+    },
+    {
+        "address": "Via Marsala, 29H",
+        "location_city": "Roma",
+        "sector": "Servizi finanziari",
+        "revenue": "3.947",
+        "company_name": "LVenture Group S.p.A."
+    },
+    {
+        "address": "Via Lombardini 22",
+        "location_city": "Milano",
+        "sector": "Architettura",
+        "revenue": "19.015",
+        "company_name": "Lombardini22 S.p.A."
+    },
+    {
+        "address": "Via Durini, 15",
+        "location_city": "Milano",
+        "sector": "Costruzioni & impiantistica",
+        "revenue": "14.386",
+        "company_name": "Kostruire S.r.l."
+    },
+    {
+        "address": "Via Abate Crippa 19",
+        "location_city": "Treviglio",
+        "sector": "Servizi generali",
+        "revenue": "5.444",
+        "company_name": "Materia Prima S.r.l."
+    },
+    {
+        "address": "Via Torquato Tasso,5",
+        "location_city": "Barlassina",
+        "sector": "Servizi generali",
+        "revenue": "5.624",
+        "company_name": "QSGroup S.r.l. Unipersonale"
+    },
+    {
+        "address": "Largo R.Lanciani 24",
+        "location_city": "Roma",
+        "sector": "Vendita al dettaglio & all'ingrosso",
+        "revenue": "4.270",
+        "company_name": "Superior S.r.l."
+    },
+    {
+        "address": "Via Belgio 20",
+        "location_city": "Villafranca Di Verona",
+        "sector": "Alimentari & bevande",
+        "revenue": "6.071",
+        "company_name": "LikeMore Italia S.r.l."
+    },
+    {
+        "address": "Via Giuseppe Arimondi 3A",
+        "location_city": "Roma",
+        "sector": "Costruzioni & impiantistica",
+        "revenue": "4.030",
+        "company_name": "Imprendiroma S.r.l."
+    },
+    {
+        "address": "Via Pompei Snc",
+        "location_city": "Pontecagnano Faiano",
+        "sector": "Prodotti industriali",
+        "revenue": "4.629",
+        "company_name": "Maf S.r.l"
+    },
+    {
+        "address": "Zona Industriale 2 Pini, Via Aurelia Km 113",
+        "location_city": "Montalto Di Castro",
+        "sector": "Energia",
+        "revenue": "22.649",
+        "company_name": "Comal S.p.A."
+    },
+    {
+        "address": "Corso Vittorio Emanuele Ii\u00b0 71",
+        "location_city": "Torino",
+        "sector": "Energia",
+        "revenue": "2.975",
+        "company_name": "Trigenia S.r.l."
+    },
+    {
+        "address": "Via Immacolata di Lourdes, 29",
+        "location_city": "Conegliano",
+        "sector": "Servizi generali",
+        "revenue": "38.616",
+        "company_name": "Tempi Moderni S.p.A."
+    },
+    {
+        "address": "S.P. 97",
+        "location_city": "Polesine Zibello",
+        "sector": "Alimentari & bevande",
+        "revenue": "31.536",
+        "company_name": "Foodlab S.r.l."
+    },
+    {
+        "address": "Via San Martino di Nisocco 2",
+        "location_city": "Mont\u00e0",
+        "sector": "Vendita al dettaglio & all'ingrosso",
+        "revenue": "1.531",
+        "company_name": "Adisport S.r.l."
+    },
+    {
+        "address": "S.P.15 di Calestano Ro 12",
+        "location_city": "Collecchio",
+        "sector": "Automobili",
+        "revenue": "4.964",
+        "company_name": "Ycom S.r.l."
+    },
+    {
+        "address": "Via Sommacampagna 61",
+        "location_city": "Verona",
+        "sector": "Alimentari & bevande",
+        "revenue": "2.200",
+        "company_name": "ReinaGreen Italia S.r.l."
+    },
+    {
+        "address": "Interporto di Nola Lotto A",
+        "location_city": "Nola",
+        "sector": "Trasporti & logistica",
+        "revenue": "32.953",
+        "company_name": "Tgroup S.p.A."
+    },
+    {
+        "address": "Via Nomentana, 761",
+        "location_city": "Roma",
+        "sector": "Costruzioni & impiantistica",
+        "revenue": "8.826",
+        "company_name": "Compagnia Appalti e Progettazione S.r.l."
+    },
+    {
+        "address": "Via Lungomonte 147",
+        "location_city": "Santa Maria A Monte",
+        "sector": "Arredamento",
+        "revenue": "4.428",
+        "company_name": "Castellani.it S.r.l."
+    },
+    {
+        "address": "Via Temperanza, 6",
+        "location_city": "Milano",
+        "sector": "Sanit\u00e0",
+        "revenue": "37.490",
+        "company_name": "Societ\u00e0 e Salute S.p.A."
+    },
+    {
+        "address": "Via Palmanova 67",
+        "location_city": "Milano",
+        "sector": "Tecnologia",
+        "revenue": "20.350",
+        "company_name": "S2E Sprint S.r.l."
+    },
+    {
+        "address": "Via G.A. Longhin 11",
+        "location_city": "Padova",
+        "sector": "Telecomunicazioni",
+        "revenue": "2.880",
+        "company_name": "Esosphera S.r.l."
+    },
+    {
+        "address": "Via Mattatoio 3",
+        "location_city": "Saluzzo",
+        "sector": "Servizi generali",
+        "revenue": "1.738",
+        "company_name": "Geatop S.r.l."
+    },
+    {
+        "address": "Via Caduti Sul Lavoro, 4",
+        "location_city": "Senigallia",
+        "sector": "Tecnologia",
+        "revenue": "35.485",
+        "company_name": "Namirial S.p.A."
+    },
+    {
+        "address": "Via Venezia 4",
+        "location_city": "Pescara",
+        "sector": "Servizi generali",
+        "revenue": "16.941",
+        "company_name": "Pomilio Blumm S.r.l."
+    },
+    {
+        "address": "Via Cascina Verde 2",
+        "location_city": "Villafranca Di Verona",
+        "sector": "Tecnologia",
+        "revenue": "19.658",
+        "company_name": "Nicolis Project S.r.l."
+    },
+    {
+        "address": "Via Prima Dorsale Zir, Snc",
+        "location_city": "Trapani",
+        "sector": "Vendita al dettaglio & all'ingrosso",
+        "revenue": "3.117",
+        "company_name": "Centro Sistemi Innovativi S.r.l."
+    },
+    {
+        "address": "Pescara 46",
+        "location_city": "Atessa",
+        "sector": "Vendita al dettaglio & all\u2019ingrosso",
+        "revenue": "7.916",
+        "company_name": "Color Max S.r.l."
+    },
+    {
+        "address": "Via G. Peroni 400/402",
+        "location_city": "Roma",
+        "sector": "Consulenza manageriale",
+        "revenue": "2.860",
+        "company_name": "Ithude S.r.l."
+    },
+    {
+        "address": "Viale Giuseppe Verdi,33",
+        "location_city": "Salerno",
+        "sector": "Trasporti & logistica",
+        "revenue": "7.247",
+        "company_name": "GTProject S.r.l."
+    },
+    {
+        "address": "Via Cavour 54",
+        "location_city": "Stornara",
+        "sector": "Trasporti & logistica",
+        "revenue": "3.403",
+        "company_name": "Transporent S.r.l."
+    }
+]

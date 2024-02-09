@@ -1,0 +1,3 @@
+('FR_sole24ore.json', 'company_name')
+('iGMM-cbinsights.com.json', 'company')
+('FR_company_social_urls.json', 'Company')

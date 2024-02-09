@@ -1,2 +1,3 @@
-('FR_company_social_urls.json', 'Company')
-('iGMM-cbinsights.com.json', 'company')
+('FR_forbes.json', 'Location')
+('DDD-teamblind.com.json', 'locations')
+('FR_sole24ore.json', 'location_city')

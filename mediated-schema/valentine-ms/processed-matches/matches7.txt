@@ -1,2 +1,5 @@
-('DeBiGa-globaldata.com.json', 'website')
-('DDD-teamblind.com.json', 'website')
+('gren-companiesmarketcap.com.json', 'market_capitalization_USD')
+('silvestri-disfold.com.json', 'market_value_apr_2022')
+('slytherin-disfold.com.json', 'market_cap')
+('gren-value.today.json', 'market_capitalization_2022')
+('MalPatSaj-forbes.com.json', 'Market Value')

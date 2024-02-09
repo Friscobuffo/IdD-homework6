@@ -1,0 +1,7 @@
+('DeBiGa-disfold.com.json', 'headquarters')
+('gren-value.today.json', 'headquarters_country')
+('DeBiGa-globaldata.com.json', 'headquarters')
+('MarScoToc-ambitionbox.com.json', 'Headquarter')
+('GioPonSpiz-wikipedia.org.json', 'Headquarters')
+('slytherin-disfold.com.json', 'headquarters')
+('MarScoToc-wikipedia.org.json', 'headQuarters')

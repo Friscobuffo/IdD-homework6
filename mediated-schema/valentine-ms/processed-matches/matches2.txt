@@ -1,4 +1,4 @@
-('slytherin-forbes.com.json', 'revenue')
-('FR_forbes.json', 'Revenue')
-('gren-ft.com.json', 'revenue_2020_EU')
-('gren-ft.com.json', 'revenue_2017_EU')
+('silvestri-disfold.com.json', 'sector')
+('gren-ft.com.json', 'sector')
+('FR_sole24ore.json', 'sector')
+('GioPonSpiz-wikipedia.org.json', 'Sector')

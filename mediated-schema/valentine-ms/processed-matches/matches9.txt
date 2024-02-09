@@ -1,5 +1,3 @@
-('GioPonSpiz-wikipedia.org.json', 'Sector')
-('DDD-ft.com.json', 'sector')
-('gren-ft.com.json', 'sector')
-('silvestri-disfold.com.json', 'sector')
-('DeBiGa-disfold.com.json', 'sector')
+('gren-value.today.json', 'CEO')
+('slytherin-disfold.com.json', 'ceo')
+('slytherin-forbes.com.json', 'ceo')
