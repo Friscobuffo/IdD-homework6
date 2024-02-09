@@ -6,14 +6,16 @@
         "country": "Palau",
         "founding_year": "1984",
         "id": "",
+        "founding_date": "",
+        "location_city": "Palau-solit\u00e0 i Plegamans",
+        "investors": "",
+        "stock": "",
+        "revenue": "",
         "absolute_growth_rate_pct": "",
         "compound_annual_growth_rate_cagr_pct": "",
-        "revenue": "",
         "employees_number": "",
         "website": "",
-        "location_city": "Palau-solit\u00e0 i Plegamans",
         "market_cap": "",
-        "stock": "",
         "ceo": "",
         "address": "",
         "telephone": "",
@@ -24,10 +26,11 @@
         "sales": "",
         "assets": "",
         "area_served": "",
+        "price": "",
+        "income": "",
         "wikipedia": "",
         "hhid": "",
         "sic_code": "",
-        "type": "",
-        "founding_date": ""
+        "type": ""
     }
 ]

@@ -1,6 +1,7 @@
 import os
 import json
 from geopy.geocoders import Nominatim
+from geopy.geocoders import Bing
 import country_converter as coco
 import translators as ts
 import re
@@ -18,7 +19,8 @@ for entry in processedFinalTable:
     city = entry["location_city"]
     if not country and city:
         total += 1
-geolocator = Nominatim(user_agent="gino")
+# geolocator = Nominatim(user_agent="gino")
+geolocator = Bing(user_agent="piripicchio", api_key="")
 i = 0
 
 countryLabels = dict()

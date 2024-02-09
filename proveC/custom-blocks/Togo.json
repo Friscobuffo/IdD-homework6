@@ -10,12 +10,14 @@
         "telephone": "234 22 210303",
         "revenue": "$2.3B",
         "id": "",
+        "founding_date": "",
+        "location_city": "Togo",
+        "investors": "",
+        "founding_year": "",
+        "stock": "",
         "sector": "",
         "absolute_growth_rate_pct": "",
         "compound_annual_growth_rate_cagr_pct": "",
-        "founding_year": "",
-        "location_city": "Togo",
-        "stock": "",
         "ceo": "",
         "facebook": "",
         "twitter": "",
@@ -24,10 +26,11 @@
         "sales": "",
         "assets": "",
         "area_served": "",
+        "price": "",
+        "income": "",
         "wikipedia": "",
         "hhid": "",
         "sic_code": "",
-        "type": "",
-        "founding_date": ""
+        "type": ""
     }
 ]

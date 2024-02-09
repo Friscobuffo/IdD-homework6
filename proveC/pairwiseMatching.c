@@ -34,9 +34,9 @@ void toLowercase(char *str) {
 
 #define MIN3(a, b, c) ((a) < (b) ? ((a) < (c) ? (a) : (c)) : ((b) < (c) ? (b) : (c)))
 
-#define INSERTION_COST 0.4
-#define DELETION_COST 0.4
-#define SUBSTITUTION_COST 2
+#define INSERTION_COST 1
+#define DELETION_COST 1
+#define SUBSTITUTION_COST 2.5
 
 float levenshteinDistance(char *s1, char *s2) {
     int len1 = strlen(s1);
@@ -137,7 +137,7 @@ void computePairwiseMatchingOnJson(char* jsonFilePath, char* outputFilePath, int
             char* company_name_inner_cleaned = removeNonAlphanumeric(company_name_inner);
             toLowercase(company_name_inner_cleaned);
             float distance = levenshteinDistance(company_name_outer_cleaned, company_name_inner_cleaned);
-            if (distance < 0.13) {
+            if (distance < 0.21) {
                 removed[j] = 1;
                 mergeSecondJsonIntoFirst(json_item_outer, json_item_inner);
                 matchesFound++;
