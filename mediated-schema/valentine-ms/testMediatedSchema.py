@@ -21,6 +21,18 @@ for schema in groundTrouth:
     name = schema.pop("dataset")
     temp[name] = schema
 groundTrouth = temp
+
+
+values = []
+for datasetName in mediatedSchema:
+    schema = mediatedSchema[datasetName]
+    for value in schema.values():
+        if value not in values:
+            values.append(value)
+
+print(values)
+quit()
+
 wrongOnes = 0
 totalAttributesChecked = 0
 for datasetName in mediatedSchema:

@@ -4,6 +4,7 @@ from geopy.geocoders import Nominatim
 import country_converter as coco
 import translators as ts
 import re
+import sys
 
 ABS_PATH = os.path.dirname(os.path.abspath(__file__))
 PROCESSED_FINAL_TABLE_PATH = ABS_PATH + "/processed-final-table.json"
@@ -17,7 +18,7 @@ for entry in processedFinalTable:
     city = entry["location_city"]
     if not country and city:
         total += 1
-geolocator = Nominatim(user_agent="frisco")
+geolocator = Nominatim(user_agent="gino")
 i = 0
 
 countryLabels = dict()
@@ -28,7 +29,7 @@ def processCountryCoco(country, labels):
     if processedCountry != "not found":
         labels[country] = processedCountry
         return processedCountry
-    label = ts.translate_text(country, translator="bing")
+    label = ts.translate_text(country, translator="google")
     label = coco.convert(label, to="name")
     labels[country] = label
     return label
@@ -37,16 +38,20 @@ def geolocate(city, errors=0):
     try:
         location = geolocator.geocode(city)
     except Exception:
-        if errors == 20:
-            print("too many errors, saving now before exiting")
-            PROCESSED_FINAL_TABLE_PATH2 = ABS_PATH + "/processed-final-table2.json"
-            with open(PROCESSED_FINAL_TABLE_PATH2, "w") as jsonFile:
-                json.dump(processedFinalTable, jsonFile, indent=4)
-            raise Exception
+        if errors == 3:
+            print("too many errors, saving cache before exiting")
+            with open(CACHE_PATH, "w") as jsonFile:
+                json.dump(cache, jsonFile, indent=4)
+            sys.exit()
         location = geolocate(city, errors+1)
     return location
 
-cache = dict()
+CACHE_PATH = ABS_PATH + "/cache.json"
+if os.path.exists(CACHE_PATH):
+    with open(CACHE_PATH, 'r') as jsonfile:
+        cache = json.load(jsonfile)
+else:
+    cache = dict()
 cacheHits = 0
 errors = 0
 print(total)

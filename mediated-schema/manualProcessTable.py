@@ -39,7 +39,6 @@ def parseChunk(chunk, processNumber):
             entry["founding_year"] = ""
             continue
         if len(foundingYear) == 4:
-            entry["founding_year"] =  foundingYear
             continue
         onlyNumbers = removeAlpha(foundingYear)
         onlyNumbersList = onlyNumbers.split()
@@ -59,7 +58,7 @@ def parseChunk(chunk, processNumber):
     for entry in chunk:
         i+=1
         if i%15==0:
-            print("process "+str(processNumber)+": "+str(i/len(chunk)*100)+"%")
+            print("process "+str(processNumber)+": "+str(round(i/len(chunk)*100, 2))+"%")
         country = entry["country"]
         components = country.split(",")
         if country.strip() == "":
@@ -127,3 +126,4 @@ if __name__ == "__main__":
         for proc in procs:
             proc.terminate()
         print("closed all processes")
+        quit()
