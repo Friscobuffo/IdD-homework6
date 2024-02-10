@@ -1,0 +1,2915 @@
+{
+  "id": "http://dbpedia.org/resource/List_of_largest_European_manufacturing_companies_by_revenue?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d0_1",
+  "cells": [
+    {
+      "isHeader": true,
+      "Coordinates": {
+        "row": 0,
+        "column": 0
+      },
+      "cleanedText": "Company"
+    },
+    {
+      "isHeader": true,
+      "Coordinates": {
+        "row": 0,
+        "column": 1
+      },
+      "cleanedText": "Headquarters"
+    },
+    {
+      "isHeader": true,
+      "Coordinates": {
+        "row": 0,
+        "column": 2
+      },
+      "cleanedText": "Industry"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 1,
+        "column": 0
+      },
+      "cleanedText": "Volkswagen"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 1,
+        "column": 1
+      },
+      "cleanedText": "23x15px Germany"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 1,
+        "column": 2
+      },
+      "cleanedText": "Automotive"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 2,
+        "column": 0
+      },
+      "cleanedText": "Daimler"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 2,
+        "column": 1
+      },
+      "cleanedText": "23x15px Germany"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 2,
+        "column": 2
+      },
+      "cleanedText": "Automotive"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 3,
+        "column": 0
+      },
+      "cleanedText": "Exor"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 3,
+        "column": 1
+      },
+      "cleanedText": "23x15px Italy"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 3,
+        "column": 2
+      },
+      "cleanedText": "Automotive"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 4,
+        "column": 0
+      },
+      "cleanedText": "BASF"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 4,
+        "column": 1
+      },
+      "cleanedText": "23x15px Germany"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 4,
+        "column": 2
+      },
+      "cleanedText": "Chemicals"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 5,
+        "column": 0
+      },
+      "cleanedText": "Nestle"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 5,
+        "column": 1
+      },
+      "cleanedText": "23x16px Switzerland"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 5,
+        "column": 2
+      },
+      "cleanedText": "Food"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 6,
+        "column": 0
+      },
+      "cleanedText": "Siemens"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 6,
+        "column": 1
+      },
+      "cleanedText": "23x15px Germany"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 6,
+        "column": 2
+      },
+      "cleanedText": "Engineering, various"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 7,
+        "column": 0
+      },
+      "cleanedText": "BMW"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 7,
+        "column": 1
+      },
+      "cleanedText": "23x15px Germany"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 7,
+        "column": 2
+      },
+      "cleanedText": "Automotive"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 8,
+        "column": 0
+      },
+      "cleanedText": "ArcelorMittal"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 8,
+        "column": 1
+      },
+      "cleanedText": "23x15px Luxembourg"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 8,
+        "column": 2
+      },
+      "cleanedText": "Metals"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 9,
+        "column": 0
+      },
+      "cleanedText": "Airbus"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 9,
+        "column": 1
+      },
+      "cleanedText": "23x15px France 23x15px Germany"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 9,
+        "column": 2
+      },
+      "cleanedText": "Aerospace \u0026 Defence"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 10,
+        "column": 0
+      },
+      "cleanedText": "Peugeot"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 10,
+        "column": 1
+      },
+      "cleanedText": "23x15px France"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 10,
+        "column": 2
+      },
+      "cleanedText": "Automotive"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 11,
+        "column": 0
+      },
+      "cleanedText": "Bosch*"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 11,
+        "column": 1
+      },
+      "cleanedText": "23x15px Germany"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 11,
+        "column": 2
+      },
+      "cleanedText": "Engineering, various"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 12,
+        "column": 0
+      },
+      "cleanedText": "Unilever"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 12,
+        "column": 1
+      },
+      "cleanedText": "23x15px United Kingdom/23x15px Netherlands"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 12,
+        "column": 2
+      },
+      "cleanedText": "Food, Household \u0026 Personal Care"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 13,
+        "column": 0
+      },
+      "cleanedText": "Repsol"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 13,
+        "column": 1
+      },
+      "cleanedText": "23x15px Spain"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 13,
+        "column": 2
+      },
+      "cleanedText": "Oil \u0026 Gas"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 14,
+        "column": 0
+      },
+      "cleanedText": "Saint-Gobain"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 14,
+        "column": 1
+      },
+      "cleanedText": "23x15px France"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 14,
+        "column": 2
+      },
+      "cleanedText": "Building materials"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 15,
+        "column": 0
+      },
+      "cleanedText": "Novartis"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 15,
+        "column": 1
+      },
+      "cleanedText": "23x16px Switzerland"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 15,
+        "column": 2
+      },
+      "cleanedText": "Pharmaceuticals"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 16,
+        "column": 0
+      },
+      "cleanedText": "Renault"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 16,
+        "column": 1
+      },
+      "cleanedText": "23x15px France"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 16,
+        "column": 2
+      },
+      "cleanedText": "Automotive"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 17,
+        "column": 0
+      },
+      "cleanedText": "Bayer"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 17,
+        "column": 1
+      },
+      "cleanedText": "23x15px Germany"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 17,
+        "column": 2
+      },
+      "cleanedText": "Pharmaceuticals, Chemicals"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 18,
+        "column": 0
+      },
+      "cleanedText": "ThyssenKrupp"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 18,
+        "column": 1
+      },
+      "cleanedText": "23x15px Germany"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 18,
+        "column": 2
+      },
+      "cleanedText": "Metals"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 19,
+        "column": 0
+      },
+      "cleanedText": "Rio Tinto"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 19,
+        "column": 1
+      },
+      "cleanedText": "23x15px United Kingdom"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 19,
+        "column": 2
+      },
+      "cleanedText": "Metals"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 20,
+        "column": 0
+      },
+      "cleanedText": "Hoffmann-La Roche"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 20,
+        "column": 1
+      },
+      "cleanedText": "23x16px Switzerland"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 20,
+        "column": 2
+      },
+      "cleanedText": "Pharmaceuticals"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 21,
+        "column": 0
+      },
+      "cleanedText": "Koc Holding"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 21,
+        "column": 1
+      },
+      "cleanedText": "23x15px Turkey"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 21,
+        "column": 2
+      },
+      "cleanedText": "Consumer durables"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 22,
+        "column": 0
+      },
+      "cleanedText": "Volvo"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 22,
+        "column": 1
+      },
+      "cleanedText": "23x15px Sweden"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 22,
+        "column": 2
+      },
+      "cleanedText": "Automotive"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 23,
+        "column": 0
+      },
+      "cleanedText": "LyondellBasell"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 23,
+        "column": 1
+      },
+      "cleanedText": "23x15px Netherlands"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 23,
+        "column": 2
+      },
+      "cleanedText": "Chemicals"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 24,
+        "column": 0
+      },
+      "cleanedText": "Sanofi"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 24,
+        "column": 1
+      },
+      "cleanedText": "23x15px France"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 24,
+        "column": 2
+      },
+      "cleanedText": "Pharmaceuticals"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 25,
+        "column": 0
+      },
+      "cleanedText": "Continental"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 25,
+        "column": 1
+      },
+      "cleanedText": "23x15px Germany"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 25,
+        "column": 2
+      },
+      "cleanedText": "Tyres"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 26,
+        "column": 0
+      },
+      "cleanedText": "GlaxoSmithKline"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 26,
+        "column": 1
+      },
+      "cleanedText": "23x15px United Kingdom"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 26,
+        "column": 2
+      },
+      "cleanedText": "Pharmaceuticals"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 27,
+        "column": 0
+      },
+      "cleanedText": "ABB"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 27,
+        "column": 1
+      },
+      "cleanedText": "23x16px Switzerland"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 27,
+        "column": 2
+      },
+      "cleanedText": "Engineering, various"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 28,
+        "column": 0
+      },
+      "cleanedText": "Inditex"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 28,
+        "column": 1
+      },
+      "cleanedText": "23x15px Spain"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 28,
+        "column": 2
+      },
+      "cleanedText": "Textile"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 29,
+        "column": 0
+      },
+      "cleanedText": "Anheuser-Busch InBev"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 29,
+        "column": 1
+      },
+      "cleanedText": "23x15px Belgium"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 29,
+        "column": 2
+      },
+      "cleanedText": "Beverages"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 30,
+        "column": 0
+      },
+      "cleanedText": "Nokia"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 30,
+        "column": 1
+      },
+      "cleanedText": "23x15px Finland"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 30,
+        "column": 2
+      },
+      "cleanedText": "Telecommunications equipment"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 31,
+        "column": 0
+      },
+      "cleanedText": "Christian Dior"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 31,
+        "column": 1
+      },
+      "cleanedText": "23x15px France"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 31,
+        "column": 2
+      },
+      "cleanedText": "Apparel \u0026 Accessories"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 32,
+        "column": 0
+      },
+      "cleanedText": "Heraeus Holding*"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 32,
+        "column": 1
+      },
+      "cleanedText": "23x15px Germany"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 32,
+        "column": 2
+      },
+      "cleanedText": "Engineering, various"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 33,
+        "column": 0
+      },
+      "cleanedText": "Ericsson"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 33,
+        "column": 1
+      },
+      "cleanedText": "23x15px Sweden"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 33,
+        "column": 2
+      },
+      "cleanedText": "Telecommunications equipment"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 34,
+        "column": 0
+      },
+      "cleanedText": "Ineos*"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 34,
+        "column": 1
+      },
+      "cleanedText": "23x15px United Kingdom"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 34,
+        "column": 2
+      },
+      "cleanedText": "Chemicals"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 35,
+        "column": 0
+      },
+      "cleanedText": "Philips"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 35,
+        "column": 1
+      },
+      "cleanedText": "23x15px Netherlands"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 35,
+        "column": 2
+      },
+      "cleanedText": "Electronics"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 36,
+        "column": 0
+      },
+      "cleanedText": "Schneider Electric"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 36,
+        "column": 1
+      },
+      "cleanedText": "23x15px France"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 36,
+        "column": 2
+      },
+      "cleanedText": "Engineering, various"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 37,
+        "column": 0
+      },
+      "cleanedText": "Anglo American"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 37,
+        "column": 1
+      },
+      "cleanedText": "23x15px United Kingdom"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 37,
+        "column": 2
+      },
+      "cleanedText": "Metals"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 38,
+        "column": 0
+      },
+      "cleanedText": "L\u0027Oreal"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 38,
+        "column": 1
+      },
+      "cleanedText": "23x15px France"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 38,
+        "column": 2
+      },
+      "cleanedText": "Cosmetics"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 39,
+        "column": 0
+      },
+      "cleanedText": "AstraZeneca"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 39,
+        "column": 1
+      },
+      "cleanedText": "23x15px United Kingdom"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 39,
+        "column": 2
+      },
+      "cleanedText": "Pharmaceuticals"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 40,
+        "column": 0
+      },
+      "cleanedText": "Michelin"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 40,
+        "column": 1
+      },
+      "cleanedText": "23x15px France"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 40,
+        "column": 2
+      },
+      "cleanedText": "Tyres"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 41,
+        "column": 0
+      },
+      "cleanedText": "Danone"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 41,
+        "column": 1
+      },
+      "cleanedText": "23x15px France"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 41,
+        "column": 2
+      },
+      "cleanedText": "Food"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 42,
+        "column": 0
+      },
+      "cleanedText": "Alstom"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 42,
+        "column": 1
+      },
+      "cleanedText": "23x15px France"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 42,
+        "column": 2
+      },
+      "cleanedText": "Engineering, various"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 43,
+        "column": 0
+      },
+      "cleanedText": "BAE Systems"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 43,
+        "column": 1
+      },
+      "cleanedText": "23x15px United Kingdom"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 43,
+        "column": 2
+      },
+      "cleanedText": "Aerospace \u0026 Defence"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 44,
+        "column": 0
+      },
+      "cleanedText": "Fresenius"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 44,
+        "column": 1
+      },
+      "cleanedText": "23x15px Germany"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 44,
+        "column": 2
+      },
+      "cleanedText": "Medical equipment"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 45,
+        "column": 0
+      },
+      "cleanedText": "CRH"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 45,
+        "column": 1
+      },
+      "cleanedText": "23x15px Ireland"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 45,
+        "column": 2
+      },
+      "cleanedText": "Building materials"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 46,
+        "column": 0
+      },
+      "cleanedText": "Heineken Holding"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 46,
+        "column": 1
+      },
+      "cleanedText": "23x15px Netherlands"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 46,
+        "column": 2
+      },
+      "cleanedText": "Beverages"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 47,
+        "column": 0
+      },
+      "cleanedText": "British American Tobacco"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 47,
+        "column": 1
+      },
+      "cleanedText": "23x15px United Kingdom"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 47,
+        "column": 2
+      },
+      "cleanedText": "Tobacco"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 48,
+        "column": 0
+      },
+      "cleanedText": "Imperial Tobacco Group"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 48,
+        "column": 1
+      },
+      "cleanedText": "23x15px United Kingdom"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 48,
+        "column": 2
+      },
+      "cleanedText": "Tobacco"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 49,
+        "column": 0
+      },
+      "cleanedText": "Holcim"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 49,
+        "column": 1
+      },
+      "cleanedText": "23x16px Switzerland"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 49,
+        "column": 2
+      },
+      "cleanedText": "Building materials"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 50,
+        "column": 0
+      },
+      "cleanedText": "Leonardo-Finmeccanica"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 50,
+        "column": 1
+      },
+      "cleanedText": "23x15px Italy"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 50,
+        "column": 2
+      },
+      "cleanedText": "Aerospace \u0026 Defence"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 51,
+        "column": 0
+      },
+      "cleanedText": "Henkel"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 51,
+        "column": 1
+      },
+      "cleanedText": "23x15px Germany"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 51,
+        "column": 2
+      },
+      "cleanedText": "Household \u0026 Personal Care"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 52,
+        "column": 0
+      },
+      "cleanedText": "Wolseley"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 52,
+        "column": 1
+      },
+      "cleanedText": "23x16px Switzerland"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 52,
+        "column": 2
+      },
+      "cleanedText": "Building materials"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 53,
+        "column": 0
+      },
+      "cleanedText": "Lafarge"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 53,
+        "column": 1
+      },
+      "cleanedText": "23x15px France"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 53,
+        "column": 2
+      },
+      "cleanedText": "Building materials"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 54,
+        "column": 0
+      },
+      "cleanedText": "Akzo Nobel"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 54,
+        "column": 1
+      },
+      "cleanedText": "23x15px Netherlands"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 54,
+        "column": 2
+      },
+      "cleanedText": "Chemicals"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 55,
+        "column": 0
+      },
+      "cleanedText": "Air Liquide"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 55,
+        "column": 1
+      },
+      "cleanedText": "23x15px France"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 55,
+        "column": 2
+      },
+      "cleanedText": "Chemicals"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 56,
+        "column": 0
+      },
+      "cleanedText": "Linde"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 56,
+        "column": 1
+      },
+      "cleanedText": "23x15px Germany"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 56,
+        "column": 2
+      },
+      "cleanedText": "Chemicals"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 57,
+        "column": 0
+      },
+      "cleanedText": "Associated British Foods"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 57,
+        "column": 1
+      },
+      "cleanedText": "23x15px United Kingdom"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 57,
+        "column": 2
+      },
+      "cleanedText": "Food"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 58,
+        "column": 0
+      },
+      "cleanedText": "Rolls-Royce plc"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 58,
+        "column": 1
+      },
+      "cleanedText": "23x15px United Kingdom"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 58,
+        "column": 2
+      },
+      "cleanedText": "Aerospace \u0026 Defence"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 59,
+        "column": 0
+      },
+      "cleanedText": "Adidas"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 59,
+        "column": 1
+      },
+      "cleanedText": "23x15px Germany"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 59,
+        "column": 2
+      },
+      "cleanedText": "Apparel \u0026 Accessories"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 60,
+        "column": 0
+      },
+      "cleanedText": "Johnson Matthey"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 60,
+        "column": 1
+      },
+      "cleanedText": "23x15px United Kingdom"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 60,
+        "column": 2
+      },
+      "cleanedText": "Chemicals"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 61,
+        "column": 0
+      },
+      "cleanedText": "Alcatel-Lucent"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 61,
+        "column": 1
+      },
+      "cleanedText": "23x15px France"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 61,
+        "column": 2
+      },
+      "cleanedText": "Telecommunications equipment"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 62,
+        "column": 0
+      },
+      "cleanedText": "Thales Group"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 62,
+        "column": 1
+      },
+      "cleanedText": "23x15px France"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 62,
+        "column": 2
+      },
+      "cleanedText": "Aerospace \u0026 Defence"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 63,
+        "column": 0
+      },
+      "cleanedText": "Heidelberg Cement"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 63,
+        "column": 1
+      },
+      "cleanedText": "23x15px Germany"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 63,
+        "column": 2
+      },
+      "cleanedText": "Building materials"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 64,
+        "column": 0
+      },
+      "cleanedText": "Safran"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 64,
+        "column": 1
+      },
+      "cleanedText": "23x15px France"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 64,
+        "column": 2
+      },
+      "cleanedText": "Aerospace \u0026 Defence"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 65,
+        "column": 0
+      },
+      "cleanedText": "Aurubis"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 65,
+        "column": 1
+      },
+      "cleanedText": "23x15px Germany"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 65,
+        "column": 2
+      },
+      "cleanedText": "Metals"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 66,
+        "column": 0
+      },
+      "cleanedText": "Diageo"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 66,
+        "column": 1
+      },
+      "cleanedText": "23x15px United Kingdom"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 66,
+        "column": 2
+      },
+      "cleanedText": "Beverages"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 67,
+        "column": 0
+      },
+      "cleanedText": "Electrolux"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 67,
+        "column": 1
+      },
+      "cleanedText": "23x15px Sweden"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 67,
+        "column": 2
+      },
+      "cleanedText": "Consumer durables"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 68,
+        "column": 0
+      },
+      "cleanedText": "SAB Miller"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 68,
+        "column": 1
+      },
+      "cleanedText": "23x15px United Kingdom"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 68,
+        "column": 2
+      },
+      "cleanedText": "Beverages"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 69,
+        "column": 0
+      },
+      "cleanedText": "Umicore"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 69,
+        "column": 1
+      },
+      "cleanedText": "23x15px Belgium"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 69,
+        "column": 2
+      },
+      "cleanedText": "Metals"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 70,
+        "column": 0
+      },
+      "cleanedText": "Evraz"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 70,
+        "column": 1
+      },
+      "cleanedText": "23x15px United Kingdom"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 70,
+        "column": 2
+      },
+      "cleanedText": "Metals"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 71,
+        "column": 0
+      },
+      "cleanedText": "Solvay"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 71,
+        "column": 1
+      },
+      "cleanedText": "23x15px Belgium"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 71,
+        "column": 2
+      },
+      "cleanedText": "Chemicals"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 72,
+        "column": 0
+      },
+      "cleanedText": "Eaton"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 72,
+        "column": 1
+      },
+      "cleanedText": "23x15px Ireland"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 72,
+        "column": 2
+      },
+      "cleanedText": "Engineering, various"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 73,
+        "column": 0
+      },
+      "cleanedText": "Seagate Technology"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 73,
+        "column": 1
+      },
+      "cleanedText": "23x15px Ireland"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 73,
+        "column": 2
+      },
+      "cleanedText": "Electronics"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 74,
+        "column": 0
+      },
+      "cleanedText": "Voestalpine"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 74,
+        "column": 1
+      },
+      "cleanedText": "23x15px Austria"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 74,
+        "column": 2
+      },
+      "cleanedText": "Metals"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 75,
+        "column": 0
+      },
+      "cleanedText": "Reckitt Benckiser"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 75,
+        "column": 1
+      },
+      "cleanedText": "23x15px United Kingdom"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 75,
+        "column": 2
+      },
+      "cleanedText": "Household \u0026 Personal Care"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 76,
+        "column": 0
+      },
+      "cleanedText": "Delphi Automotive"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 76,
+        "column": 1
+      },
+      "cleanedText": "23x15px United Kingdom"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 76,
+        "column": 2
+      },
+      "cleanedText": "Automotive components"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 77,
+        "column": 0
+      },
+      "cleanedText": "Sandvik"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 77,
+        "column": 1
+      },
+      "cleanedText": "23x15px Sweden"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 77,
+        "column": 2
+      },
+      "cleanedText": "Engineering, various"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 78,
+        "column": 0
+      },
+      "cleanedText": "Valeo"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 78,
+        "column": 1
+      },
+      "cleanedText": "23x15px France"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 78,
+        "column": 2
+      },
+      "cleanedText": "Automotive components"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 79,
+        "column": 0
+      },
+      "cleanedText": "Yara International"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 79,
+        "column": 1
+      },
+      "cleanedText": "23x15px Norway"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 79,
+        "column": 2
+      },
+      "cleanedText": "Chemicals"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 80,
+        "column": 0
+      },
+      "cleanedText": "Syngenta"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 80,
+        "column": 1
+      },
+      "cleanedText": "23x16px Switzerland"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 80,
+        "column": 2
+      },
+      "cleanedText": "Chemicals"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 81,
+        "column": 0
+      },
+      "cleanedText": "Stora Enso"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 81,
+        "column": 1
+      },
+      "cleanedText": "23x15px Finland"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 81,
+        "column": 2
+      },
+      "cleanedText": "Pulp \u0026 Paper"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 82,
+        "column": 0
+      },
+      "cleanedText": "Severstal"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 82,
+        "column": 1
+      },
+      "cleanedText": "23x15px Russia"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 82,
+        "column": 2
+      },
+      "cleanedText": "Metals"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 83,
+        "column": 0
+      },
+      "cleanedText": "Ingersoll-Rand"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 83,
+        "column": 1
+      },
+      "cleanedText": "23x15px Ireland"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 83,
+        "column": 2
+      },
+      "cleanedText": "Engineering, various"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 84,
+        "column": 0
+      },
+      "cleanedText": "Vedanta Resources"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 84,
+        "column": 1
+      },
+      "cleanedText": "23x15px United Kingdom"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 84,
+        "column": 2
+      },
+      "cleanedText": "Metals"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 85,
+        "column": 0
+      },
+      "cleanedText": "Merck"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 85,
+        "column": 1
+      },
+      "cleanedText": "23x15px Germany"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 85,
+        "column": 2
+      },
+      "cleanedText": "Pharmaceuticals"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 86,
+        "column": 0
+      },
+      "cleanedText": "Novo Nordisk"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 86,
+        "column": 1
+      },
+      "cleanedText": "23x15px Denmark"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 86,
+        "column": 2
+      },
+      "cleanedText": "Pharmaceuticals"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 87,
+        "column": 0
+      },
+      "cleanedText": "UPM Kymmene"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 87,
+        "column": 1
+      },
+      "cleanedText": "23x15px Finland"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 87,
+        "column": 2
+      },
+      "cleanedText": "Pulp \u0026 Paper"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 88,
+        "column": 0
+      },
+      "cleanedText": "Atlas Copco"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 88,
+        "column": 1
+      },
+      "cleanedText": "23x15px Sweden"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 88,
+        "column": 2
+      },
+      "cleanedText": "Engineering, various"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 89,
+        "column": 0
+      },
+      "cleanedText": "Salzgitter AG"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 89,
+        "column": 1
+      },
+      "cleanedText": "23x15px Germany"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 89,
+        "column": 2
+      },
+      "cleanedText": "Metals"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 90,
+        "column": 0
+      },
+      "cleanedText": "TE Connectivity"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 90,
+        "column": 1
+      },
+      "cleanedText": "23x16px Switzerland"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 90,
+        "column": 2
+      },
+      "cleanedText": "Electronics"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 91,
+        "column": 0
+      },
+      "cleanedText": "SCA"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 91,
+        "column": 1
+      },
+      "cleanedText": "23x15px Sweden"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 91,
+        "column": 2
+      },
+      "cleanedText": "Pulp \u0026 Paper"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 92,
+        "column": 0
+      },
+      "cleanedText": "Kering"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 92,
+        "column": 1
+      },
+      "cleanedText": "23x15px France"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 92,
+        "column": 2
+      },
+      "cleanedText": "Apparel \u0026 Accessories"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 93,
+        "column": 0
+      },
+      "cleanedText": "Norilsk Nickel"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 93,
+        "column": 1
+      },
+      "cleanedText": "23x15px Russia"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 93,
+        "column": 2
+      },
+      "cleanedText": "Metals"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 94,
+        "column": 0
+      },
+      "cleanedText": "Novolipetsk Steel"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 94,
+        "column": 1
+      },
+      "cleanedText": "23x15px Russia"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 94,
+        "column": 2
+      },
+      "cleanedText": "Metals"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 95,
+        "column": 0
+      },
+      "cleanedText": "Covidien"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 95,
+        "column": 1
+      },
+      "cleanedText": "23x15px Ireland"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 95,
+        "column": 2
+      },
+      "cleanedText": "Medical equipment"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 96,
+        "column": 0
+      },
+      "cleanedText": "DSM"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 96,
+        "column": 1
+      },
+      "cleanedText": "23x15px Netherlands"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 96,
+        "column": 2
+      },
+      "cleanedText": "Chemicals"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 97,
+        "column": 0
+      },
+      "cleanedText": "Lanxess"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 97,
+        "column": 1
+      },
+      "cleanedText": "23x15px Germany"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 97,
+        "column": 2
+      },
+      "cleanedText": "Chemicals"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 98,
+        "column": 0
+      },
+      "cleanedText": "Norsk Hydro"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 98,
+        "column": 1
+      },
+      "cleanedText": "23x15px Norway"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 98,
+        "column": 2
+      },
+      "cleanedText": "Metals"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 99,
+        "column": 0
+      },
+      "cleanedText": "Carlsberg"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 99,
+        "column": 1
+      },
+      "cleanedText": "23x15px Denmark"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 99,
+        "column": 2
+      },
+      "cleanedText": "Beverages"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 100,
+        "column": 0
+      },
+      "cleanedText": "Mechel"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 100,
+        "column": 1
+      },
+      "cleanedText": "23x15px Russia"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 100,
+        "column": 2
+      },
+      "cleanedText": "Metals"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 101,
+        "column": 0
+      },
+      "cleanedText": "Tenaris"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 101,
+        "column": 1
+      },
+      "cleanedText": "23x15px Luxembourg"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 101,
+        "column": 2
+      },
+      "cleanedText": "Oil \u0026 Gas equipment"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 102,
+        "column": 0
+      },
+      "cleanedText": "UC Rusal"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 102,
+        "column": 1
+      },
+      "cleanedText": "23x15px Russia"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 102,
+        "column": 2
+      },
+      "cleanedText": "Metals"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 103,
+        "column": 0
+      },
+      "cleanedText": "GKN"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 103,
+        "column": 1
+      },
+      "cleanedText": "23x15px United Kingdom"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 103,
+        "column": 2
+      },
+      "cleanedText": "Automotive components"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 104,
+        "column": 0
+      },
+      "cleanedText": "Tyco International"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 104,
+        "column": 1
+      },
+      "cleanedText": "23x16px Switzerland"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 104,
+        "column": 2
+      },
+      "cleanedText": "Engineering, various"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 105,
+        "column": 0
+      },
+      "cleanedText": "Pernod Ricard"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 105,
+        "column": 1
+      },
+      "cleanedText": "23x15px France"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 105,
+        "column": 2
+      },
+      "cleanedText": "Beverages"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 106,
+        "column": 0
+      },
+      "cleanedText": "Prysmian Group"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 106,
+        "column": 1
+      },
+      "cleanedText": "23x15px Italy"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 106,
+        "column": 2
+      },
+      "cleanedText": "Cable"
+    }
+  ],
+  "maxDimensions": {
+    "row": 106,
+    "column": 2
+  },
+  "columns": [
+    {
+      "tableName": "http://dbpedia.org/resource/List_of_largest_European_manufacturing_companies_by_revenue?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d0_1",
+      "columnName": "Company",
+      "fields": [
+        "Volkswagen",
+        "Daimler",
+        "Exor",
+        "BASF",
+        "Nestle",
+        "Siemens",
+        "BMW",
+        "ArcelorMittal",
+        "Airbus",
+        "Peugeot",
+        "Bosch*",
+        "Unilever",
+        "Repsol",
+        "Saint-Gobain",
+        "Novartis",
+        "Renault",
+        "Bayer",
+        "ThyssenKrupp",
+        "Rio Tinto",
+        "Hoffmann-La Roche",
+        "Koc Holding",
+        "Volvo",
+        "LyondellBasell",
+        "Sanofi",
+        "Continental",
+        "GlaxoSmithKline",
+        "ABB",
+        "Inditex",
+        "Anheuser-Busch InBev",
+        "Nokia",
+        "Christian Dior",
+        "Heraeus Holding*",
+        "Ericsson",
+        "Ineos*",
+        "Philips",
+        "Schneider Electric",
+        "Anglo American",
+        "L\u0027Oreal",
+        "AstraZeneca",
+        "Michelin",
+        "Danone",
+        "Alstom",
+        "BAE Systems",
+        "Fresenius",
+        "CRH",
+        "Heineken Holding",
+        "British American Tobacco",
+        "Imperial Tobacco Group",
+        "Holcim",
+        "Leonardo-Finmeccanica",
+        "Henkel",
+        "Wolseley",
+        "Lafarge",
+        "Akzo Nobel",
+        "Air Liquide",
+        "Linde",
+        "Associated British Foods",
+        "Rolls-Royce plc",
+        "Adidas",
+        "Johnson Matthey",
+        "Alcatel-Lucent",
+        "Thales Group",
+        "Heidelberg Cement",
+        "Safran",
+        "Aurubis",
+        "Diageo",
+        "Electrolux",
+        "SAB Miller",
+        "Umicore",
+        "Evraz",
+        "Solvay",
+        "Eaton",
+        "Seagate Technology",
+        "Voestalpine",
+        "Reckitt Benckiser",
+        "Delphi Automotive",
+        "Sandvik",
+        "Valeo",
+        "Yara International",
+        "Syngenta",
+        "Stora Enso",
+        "Severstal",
+        "Ingersoll-Rand",
+        "Vedanta Resources",
+        "Merck",
+        "Novo Nordisk",
+        "UPM Kymmene",
+        "Atlas Copco",
+        "Salzgitter AG",
+        "TE Connectivity",
+        "SCA",
+        "Kering",
+        "Norilsk Nickel",
+        "Novolipetsk Steel",
+        "Covidien",
+        "DSM",
+        "Lanxess",
+        "Norsk Hydro",
+        "Carlsberg",
+        "Mechel",
+        "Tenaris",
+        "UC Rusal",
+        "GKN",
+        "Tyco International",
+        "Pernod Ricard",
+        "Prysmian Group"
+      ]
+    },
+    {
+      "tableName": "http://dbpedia.org/resource/List_of_largest_European_manufacturing_companies_by_revenue?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d0_1",
+      "columnName": "Headquarters",
+      "fields": [
+        "23x15px Germany",
+        "23x15px Germany",
+        "23x15px Italy",
+        "23x15px Germany",
+        "23x16px Switzerland",
+        "23x15px Germany",
+        "23x15px Germany",
+        "23x15px Luxembourg",
+        "23x15px France 23x15px Germany",
+        "23x15px France",
+        "23x15px Germany",
+        "23x15px United Kingdom/23x15px Netherlands",
+        "23x15px Spain",
+        "23x15px France",
+        "23x16px Switzerland",
+        "23x15px France",
+        "23x15px Germany",
+        "23x15px Germany",
+        "23x15px United Kingdom",
+        "23x16px Switzerland",
+        "23x15px Turkey",
+        "23x15px Sweden",
+        "23x15px Netherlands",
+        "23x15px France",
+        "23x15px Germany",
+        "23x15px United Kingdom",
+        "23x16px Switzerland",
+        "23x15px Spain",
+        "23x15px Belgium",
+        "23x15px Finland",
+        "23x15px France",
+        "23x15px Germany",
+        "23x15px Sweden",
+        "23x15px United Kingdom",
+        "23x15px Netherlands",
+        "23x15px France",
+        "23x15px United Kingdom",
+        "23x15px France",
+        "23x15px United Kingdom",
+        "23x15px France",
+        "23x15px France",
+        "23x15px France",
+        "23x15px United Kingdom",
+        "23x15px Germany",
+        "23x15px Ireland",
+        "23x15px Netherlands",
+        "23x15px United Kingdom",
+        "23x15px United Kingdom",
+        "23x16px Switzerland",
+        "23x15px Italy",
+        "23x15px Germany",
+        "23x16px Switzerland",
+        "23x15px France",
+        "23x15px Netherlands",
+        "23x15px France",
+        "23x15px Germany",
+        "23x15px United Kingdom",
+        "23x15px United Kingdom",
+        "23x15px Germany",
+        "23x15px United Kingdom",
+        "23x15px France",
+        "23x15px France",
+        "23x15px Germany",
+        "23x15px France",
+        "23x15px Germany",
+        "23x15px United Kingdom",
+        "23x15px Sweden",
+        "23x15px United Kingdom",
+        "23x15px Belgium",
+        "23x15px United Kingdom",
+        "23x15px Belgium",
+        "23x15px Ireland",
+        "23x15px Ireland",
+        "23x15px Austria",
+        "23x15px United Kingdom",
+        "23x15px United Kingdom",
+        "23x15px Sweden",
+        "23x15px France",
+        "23x15px Norway",
+        "23x16px Switzerland",
+        "23x15px Finland",
+        "23x15px Russia",
+        "23x15px Ireland",
+        "23x15px United Kingdom",
+        "23x15px Germany",
+        "23x15px Denmark",
+        "23x15px Finland",
+        "23x15px Sweden",
+        "23x15px Germany",
+        "23x16px Switzerland",
+        "23x15px Sweden",
+        "23x15px France",
+        "23x15px Russia",
+        "23x15px Russia",
+        "23x15px Ireland",
+        "23x15px Netherlands",
+        "23x15px Germany",
+        "23x15px Norway",
+        "23x15px Denmark",
+        "23x15px Russia",
+        "23x15px Luxembourg",
+        "23x15px Russia",
+        "23x15px United Kingdom",
+        "23x16px Switzerland",
+        "23x15px France",
+        "23x15px Italy"
+      ]
+    },
+    {
+      "tableName": "http://dbpedia.org/resource/List_of_largest_European_manufacturing_companies_by_revenue?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d0_1",
+      "columnName": "Industry",
+      "fields": [
+        "Automotive",
+        "Automotive",
+        "Automotive",
+        "Chemicals",
+        "Food",
+        "Engineering, various",
+        "Automotive",
+        "Metals",
+        "Aerospace \u0026 Defence",
+        "Automotive",
+        "Engineering, various",
+        "Food, Household \u0026 Personal Care",
+        "Oil \u0026 Gas",
+        "Building materials",
+        "Pharmaceuticals",
+        "Automotive",
+        "Pharmaceuticals, Chemicals",
+        "Metals",
+        "Metals",
+        "Pharmaceuticals",
+        "Consumer durables",
+        "Automotive",
+        "Chemicals",
+        "Pharmaceuticals",
+        "Tyres",
+        "Pharmaceuticals",
+        "Engineering, various",
+        "Textile",
+        "Beverages",
+        "Telecommunications equipment",
+        "Apparel \u0026 Accessories",
+        "Engineering, various",
+        "Telecommunications equipment",
+        "Chemicals",
+        "Electronics",
+        "Engineering, various",
+        "Metals",
+        "Cosmetics",
+        "Pharmaceuticals",
+        "Tyres",
+        "Food",
+        "Engineering, various",
+        "Aerospace \u0026 Defence",
+        "Medical equipment",
+        "Building materials",
+        "Beverages",
+        "Tobacco",
+        "Tobacco",
+        "Building materials",
+        "Aerospace \u0026 Defence",
+        "Household \u0026 Personal Care",
+        "Building materials",
+        "Building materials",
+        "Chemicals",
+        "Chemicals",
+        "Chemicals",
+        "Food",
+        "Aerospace \u0026 Defence",
+        "Apparel \u0026 Accessories",
+        "Chemicals",
+        "Telecommunications equipment",
+        "Aerospace \u0026 Defence",
+        "Building materials",
+        "Aerospace \u0026 Defence",
+        "Metals",
+        "Beverages",
+        "Consumer durables",
+        "Beverages",
+        "Metals",
+        "Metals",
+        "Chemicals",
+        "Engineering, various",
+        "Electronics",
+        "Metals",
+        "Household \u0026 Personal Care",
+        "Automotive components",
+        "Engineering, various",
+        "Automotive components",
+        "Chemicals",
+        "Chemicals",
+        "Pulp \u0026 Paper",
+        "Metals",
+        "Engineering, various",
+        "Metals",
+        "Pharmaceuticals",
+        "Pharmaceuticals",
+        "Pulp \u0026 Paper",
+        "Engineering, various",
+        "Metals",
+        "Electronics",
+        "Pulp \u0026 Paper",
+        "Apparel \u0026 Accessories",
+        "Metals",
+        "Metals",
+        "Medical equipment",
+        "Chemicals",
+        "Chemicals",
+        "Metals",
+        "Beverages",
+        "Metals",
+        "Oil \u0026 Gas equipment",
+        "Metals",
+        "Automotive components",
+        "Engineering, various",
+        "Beverages",
+        "Cable"
+      ]
+    }
+  ]
+}

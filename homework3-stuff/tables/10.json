@@ -1,0 +1,5453 @@
+{
+  "id": "http://dbpedia.org/resource/S\u0026P/ASX_200?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d3_2",
+  "cells": [
+    {
+      "isHeader": true,
+      "Coordinates": {
+        "row": 0,
+        "column": 0
+      },
+      "cleanedText": "Company"
+    },
+    {
+      "isHeader": true,
+      "Coordinates": {
+        "row": 0,
+        "column": 1
+      },
+      "cleanedText": "GICS"
+    },
+    {
+      "isHeader": true,
+      "Coordinates": {
+        "row": 0,
+        "column": 2
+      },
+      "cleanedText": "Headquarters"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 1,
+        "column": 0
+      },
+      "cleanedText": "Australian Agricultural Company Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 1,
+        "column": 1
+      },
+      "cleanedText": "?"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 1,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 2,
+        "column": 0
+      },
+      "cleanedText": "Ardent Leisure Group"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 2,
+        "column": 1
+      },
+      "cleanedText": "25"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 2,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 3,
+        "column": 0
+      },
+      "cleanedText": "Adelaide Brighton Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 3,
+        "column": 1
+      },
+      "cleanedText": "?"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 3,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 4,
+        "column": 0
+      },
+      "cleanedText": "Abacus Property Group"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 4,
+        "column": 1
+      },
+      "cleanedText": "40"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 4,
+        "column": 2
+      },
+      "cleanedText": "23x15px Sydney"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 5,
+        "column": 0
+      },
+      "cleanedText": "AGL Energy Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 5,
+        "column": 1
+      },
+      "cleanedText": "55"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 5,
+        "column": 2
+      },
+      "cleanedText": "23x15px Sydney"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 6,
+        "column": 0
+      },
+      "cleanedText": "Automotive Holdings Group Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 6,
+        "column": 1
+      },
+      "cleanedText": "?"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 6,
+        "column": 2
+      },
+      "cleanedText": "23x15px Perth"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 7,
+        "column": 0
+      },
+      "cleanedText": "Asaleo Care Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 7,
+        "column": 1
+      },
+      "cleanedText": "?"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 7,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 8,
+        "column": 0
+      },
+      "cleanedText": "Asciano Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 8,
+        "column": 1
+      },
+      "cleanedText": "?"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 8,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 9,
+        "column": 0
+      },
+      "cleanedText": "Aristocrat Leisure Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 9,
+        "column": 1
+      },
+      "cleanedText": "25"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 9,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 10,
+        "column": 0
+      },
+      "cleanedText": "ALS Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 10,
+        "column": 1
+      },
+      "cleanedText": "?"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 10,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 11,
+        "column": 0
+      },
+      "cleanedText": "Altium Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 11,
+        "column": 1
+      },
+      "cleanedText": "?"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 11,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 12,
+        "column": 0
+      },
+      "cleanedText": "Amcor Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 12,
+        "column": 1
+      },
+      "cleanedText": "15"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 12,
+        "column": 2
+      },
+      "cleanedText": "23x15px Melbourne"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 13,
+        "column": 0
+      },
+      "cleanedText": "AMP Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 13,
+        "column": 1
+      },
+      "cleanedText": "40"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 13,
+        "column": 2
+      },
+      "cleanedText": "23x15px Sydney"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 14,
+        "column": 0
+      },
+      "cleanedText": "Ansell Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 14,
+        "column": 1
+      },
+      "cleanedText": "?"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 14,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 15,
+        "column": 0
+      },
+      "cleanedText": "Australia and New Zealand Banking Group Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 15,
+        "column": 1
+      },
+      "cleanedText": "40"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 15,
+        "column": 2
+      },
+      "cleanedText": "23x15px Melbourne"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 16,
+        "column": 0
+      },
+      "cleanedText": "Aveo Group"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 16,
+        "column": 1
+      },
+      "cleanedText": "40"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 16,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 17,
+        "column": 0
+      },
+      "cleanedText": "APA Group"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 17,
+        "column": 1
+      },
+      "cleanedText": "55"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 17,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 18,
+        "column": 0
+      },
+      "cleanedText": "Australian Pharmaceutical Industries Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 18,
+        "column": 1
+      },
+      "cleanedText": "?"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 18,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 19,
+        "column": 0
+      },
+      "cleanedText": "APN News \u0026 Media Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 19,
+        "column": 1
+      },
+      "cleanedText": "25"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 19,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 20,
+        "column": 0
+      },
+      "cleanedText": "Apn Outdoor Group Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 20,
+        "column": 1
+      },
+      "cleanedText": "25"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 20,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 21,
+        "column": 0
+      },
+      "cleanedText": "ARB Corporation Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 21,
+        "column": 1
+      },
+      "cleanedText": "10"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 21,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 22,
+        "column": 0
+      },
+      "cleanedText": "Austal Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 22,
+        "column": 1
+      },
+      "cleanedText": "?"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 22,
+        "column": 2
+      },
+      "cleanedText": "23x15px Perth"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 23,
+        "column": 0
+      },
+      "cleanedText": "Ausnet Services Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 23,
+        "column": 1
+      },
+      "cleanedText": "55"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 23,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 24,
+        "column": 0
+      },
+      "cleanedText": "ASX Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 24,
+        "column": 1
+      },
+      "cleanedText": "40"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 24,
+        "column": 2
+      },
+      "cleanedText": "23x15px Sydney"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 25,
+        "column": 0
+      },
+      "cleanedText": "Alumina Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 25,
+        "column": 1
+      },
+      "cleanedText": "15"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 25,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 26,
+        "column": 0
+      },
+      "cleanedText": "AWE Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 26,
+        "column": 1
+      },
+      "cleanedText": "10"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 26,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 27,
+        "column": 0
+      },
+      "cleanedText": "Aurizon Holdings Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 27,
+        "column": 1
+      },
+      "cleanedText": "20"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 27,
+        "column": 2
+      },
+      "cleanedText": "23x15px Brisbane"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 28,
+        "column": 0
+      },
+      "cleanedText": "Burson Group Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 28,
+        "column": 1
+      },
+      "cleanedText": "25"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 28,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 29,
+        "column": 0
+      },
+      "cleanedText": "Bendigo and Adelaide Bank Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 29,
+        "column": 1
+      },
+      "cleanedText": "40"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 29,
+        "column": 2
+      },
+      "cleanedText": "23x15px Melbourne"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 30,
+        "column": 0
+      },
+      "cleanedText": "Bega Cheese Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 30,
+        "column": 1
+      },
+      "cleanedText": "?"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 30,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 31,
+        "column": 0
+      },
+      "cleanedText": "BHP Billiton Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 31,
+        "column": 1
+      },
+      "cleanedText": "15"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 31,
+        "column": 2
+      },
+      "cleanedText": "23x15px Melbourne / 23x15px London"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 32,
+        "column": 0
+      },
+      "cleanedText": "Blackmores Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 32,
+        "column": 1
+      },
+      "cleanedText": "?"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 32,
+        "column": 2
+      },
+      "cleanedText": "23x15px Warriewood, New South Wales"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 33,
+        "column": 0
+      },
+      "cleanedText": "Boral Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 33,
+        "column": 1
+      },
+      "cleanedText": "15"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 33,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 34,
+        "column": 0
+      },
+      "cleanedText": "Bank of Queensland Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 34,
+        "column": 1
+      },
+      "cleanedText": "40"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 34,
+        "column": 2
+      },
+      "cleanedText": "23x15px Brisbane"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 35,
+        "column": 0
+      },
+      "cleanedText": "Beach Energy Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 35,
+        "column": 1
+      },
+      "cleanedText": "10"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 35,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 36,
+        "column": 0
+      },
+      "cleanedText": "Breville Group Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 36,
+        "column": 1
+      },
+      "cleanedText": "25"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 36,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 37,
+        "column": 0
+      },
+      "cleanedText": "Broadspectrum Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 37,
+        "column": 1
+      },
+      "cleanedText": "?"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 37,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 38,
+        "column": 0
+      },
+      "cleanedText": "Bluescope Steel Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 38,
+        "column": 1
+      },
+      "cleanedText": "15"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 38,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 39,
+        "column": 0
+      },
+      "cleanedText": "BT Investment Management Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 39,
+        "column": 1
+      },
+      "cleanedText": "40"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 39,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 40,
+        "column": 0
+      },
+      "cleanedText": "BWP Trust Ord Units"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 40,
+        "column": 1
+      },
+      "cleanedText": "40"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 40,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 41,
+        "column": 0
+      },
+      "cleanedText": "Brambles Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 41,
+        "column": 1
+      },
+      "cleanedText": "20"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 41,
+        "column": 2
+      },
+      "cleanedText": "23x15px Sydney"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 42,
+        "column": 0
+      },
+      "cleanedText": "Cabcharge Australia Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 42,
+        "column": 1
+      },
+      "cleanedText": "?"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 42,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 43,
+        "column": 0
+      },
+      "cleanedText": "Carsales.com Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 43,
+        "column": 1
+      },
+      "cleanedText": "?"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 43,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 44,
+        "column": 0
+      },
+      "cleanedText": "Commonwealth Bank of Australia"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 44,
+        "column": 1
+      },
+      "cleanedText": "40"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 44,
+        "column": 2
+      },
+      "cleanedText": "23x15px Sydney"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 45,
+        "column": 0
+      },
+      "cleanedText": "Coca-Cola Amatil Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 45,
+        "column": 1
+      },
+      "cleanedText": "30"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 45,
+        "column": 2
+      },
+      "cleanedText": "23x15px Sydney"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 46,
+        "column": 0
+      },
+      "cleanedText": "Credit Corp Group Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 46,
+        "column": 1
+      },
+      "cleanedText": "?"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 46,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 47,
+        "column": 0
+      },
+      "cleanedText": "Costa Group Holdings Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 47,
+        "column": 1
+      },
+      "cleanedText": "40"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 47,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 48,
+        "column": 0
+      },
+      "cleanedText": "Challenger Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 48,
+        "column": 1
+      },
+      "cleanedText": "40"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 48,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 49,
+        "column": 0
+      },
+      "cleanedText": "Charter Hall Group Forus"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 49,
+        "column": 1
+      },
+      "cleanedText": "40"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 49,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 50,
+        "column": 0
+      },
+      "cleanedText": "CIMIC Group Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 50,
+        "column": 1
+      },
+      "cleanedText": "?"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 50,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 51,
+        "column": 0
+      },
+      "cleanedText": "Cromwell Property Group"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 51,
+        "column": 1
+      },
+      "cleanedText": "40"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 51,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 52,
+        "column": 0
+      },
+      "cleanedText": "Cochlear Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 52,
+        "column": 1
+      },
+      "cleanedText": "?"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 52,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 53,
+        "column": 0
+      },
+      "cleanedText": "Computershare Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 53,
+        "column": 1
+      },
+      "cleanedText": "45"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 53,
+        "column": 2
+      },
+      "cleanedText": "23x15px Melbourne"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 54,
+        "column": 0
+      },
+      "cleanedText": "Charter Hall Retail Reit Unit"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 54,
+        "column": 1
+      },
+      "cleanedText": "40"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 54,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 55,
+        "column": 0
+      },
+      "cleanedText": "CSL Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 55,
+        "column": 1
+      },
+      "cleanedText": "35"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 55,
+        "column": 2
+      },
+      "cleanedText": "23x15px Melbourne"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 56,
+        "column": 0
+      },
+      "cleanedText": "CSR Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 56,
+        "column": 1
+      },
+      "cleanedText": "15"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 56,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 57,
+        "column": 0
+      },
+      "cleanedText": "Corporate Travel Management Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 57,
+        "column": 1
+      },
+      "cleanedText": "40"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 57,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 58,
+        "column": 0
+      },
+      "cleanedText": "Caltex Australia Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 58,
+        "column": 1
+      },
+      "cleanedText": "10"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 58,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 59,
+        "column": 0
+      },
+      "cleanedText": "Cover-more Group Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 59,
+        "column": 1
+      },
+      "cleanedText": "40"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 59,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 60,
+        "column": 0
+      },
+      "cleanedText": "Crown Resorts Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 60,
+        "column": 1
+      },
+      "cleanedText": "25"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 60,
+        "column": 2
+      },
+      "cleanedText": "23x15px Melbourne"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 61,
+        "column": 0
+      },
+      "cleanedText": "Duluxgroup Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 61,
+        "column": 1
+      },
+      "cleanedText": "15"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 61,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 62,
+        "column": 0
+      },
+      "cleanedText": "Domino\u0027s Pizza Enterprises Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 62,
+        "column": 1
+      },
+      "cleanedText": "40"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 62,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 63,
+        "column": 0
+      },
+      "cleanedText": "Downer Group Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 63,
+        "column": 1
+      },
+      "cleanedText": "?"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 63,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 64,
+        "column": 0
+      },
+      "cleanedText": "Duet Group Forus"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 64,
+        "column": 1
+      },
+      "cleanedText": "55"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 64,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 65,
+        "column": 0
+      },
+      "cleanedText": "Dexus Property Group"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 65,
+        "column": 1
+      },
+      "cleanedText": "?"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 65,
+        "column": 2
+      },
+      "cleanedText": "23x15px Sydney"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 66,
+        "column": 0
+      },
+      "cleanedText": "Estia Health Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 66,
+        "column": 1
+      },
+      "cleanedText": "35"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 66,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 67,
+        "column": 0
+      },
+      "cleanedText": "Evolution Mining Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 67,
+        "column": 1
+      },
+      "cleanedText": "15"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 67,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 68,
+        "column": 0
+      },
+      "cleanedText": "Fletcher Building Limited NZ"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 68,
+        "column": 1
+      },
+      "cleanedText": "15"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 68,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 69,
+        "column": 0
+      },
+      "cleanedText": "Flight Centre Travel Group Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 69,
+        "column": 1
+      },
+      "cleanedText": "25"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 69,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 70,
+        "column": 0
+      },
+      "cleanedText": "Fortescue Metals Group Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 70,
+        "column": 1
+      },
+      "cleanedText": "15"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 70,
+        "column": 2
+      },
+      "cleanedText": "23x15px Perth"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 71,
+        "column": 0
+      },
+      "cleanedText": "Fisher \u0026 Paykel Healthcare Corporation Limited NZ"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 71,
+        "column": 1
+      },
+      "cleanedText": "?"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 71,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 72,
+        "column": 0
+      },
+      "cleanedText": "Fairfax Media Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 72,
+        "column": 1
+      },
+      "cleanedText": "40"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 72,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 73,
+        "column": 0
+      },
+      "cleanedText": "Flexigroup Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 73,
+        "column": 1
+      },
+      "cleanedText": "40"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 73,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 74,
+        "column": 0
+      },
+      "cleanedText": "G8 Education Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 74,
+        "column": 1
+      },
+      "cleanedText": "40"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 74,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 75,
+        "column": 0
+      },
+      "cleanedText": "Genworth Mortgage Insurance Australia Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 75,
+        "column": 1
+      },
+      "cleanedText": "40"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 75,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 76,
+        "column": 0
+      },
+      "cleanedText": "Goodman Group"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 76,
+        "column": 1
+      },
+      "cleanedText": "40"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 76,
+        "column": 2
+      },
+      "cleanedText": "23x15px Sydney"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 77,
+        "column": 0
+      },
+      "cleanedText": "Graincorp Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 77,
+        "column": 1
+      },
+      "cleanedText": "?"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 77,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 78,
+        "column": 0
+      },
+      "cleanedText": "Growthpoint Properties Australia"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 78,
+        "column": 1
+      },
+      "cleanedText": "40"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 78,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 79,
+        "column": 0
+      },
+      "cleanedText": "GPT Group"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 79,
+        "column": 1
+      },
+      "cleanedText": "40"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 79,
+        "column": 2
+      },
+      "cleanedText": "23x15px Sydney"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 80,
+        "column": 0
+      },
+      "cleanedText": "Gateway Lifestyle Group"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 80,
+        "column": 1
+      },
+      "cleanedText": "40"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 80,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 81,
+        "column": 0
+      },
+      "cleanedText": "G.u.d. Holdings Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 81,
+        "column": 1
+      },
+      "cleanedText": "40"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 81,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 82,
+        "column": 0
+      },
+      "cleanedText": "GWA Group Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 82,
+        "column": 1
+      },
+      "cleanedText": "?"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 82,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 83,
+        "column": 0
+      },
+      "cleanedText": "Greencross Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 83,
+        "column": 1
+      },
+      "cleanedText": "?"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 83,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 84,
+        "column": 0
+      },
+      "cleanedText": "Henderson Group PLC"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 84,
+        "column": 1
+      },
+      "cleanedText": "40"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 84,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 85,
+        "column": 0
+      },
+      "cleanedText": "Healthscope Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 85,
+        "column": 1
+      },
+      "cleanedText": "?"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 85,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 86,
+        "column": 0
+      },
+      "cleanedText": "Harvey Norman Holdings Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 86,
+        "column": 1
+      },
+      "cleanedText": "25"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 86,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 87,
+        "column": 0
+      },
+      "cleanedText": "Insurance Australia Group Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 87,
+        "column": 1
+      },
+      "cleanedText": "40"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 87,
+        "column": 2
+      },
+      "cleanedText": "23x15px Sydney"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 88,
+        "column": 0
+      },
+      "cleanedText": "Ioof Holdings Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 88,
+        "column": 1
+      },
+      "cleanedText": "40"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 88,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 89,
+        "column": 0
+      },
+      "cleanedText": "Independence Group NL"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 89,
+        "column": 1
+      },
+      "cleanedText": "15"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 89,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 90,
+        "column": 0
+      },
+      "cleanedText": "Iluka Resources Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 90,
+        "column": 1
+      },
+      "cleanedText": "15"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 90,
+        "column": 2
+      },
+      "cleanedText": "23x15px Perth"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 91,
+        "column": 0
+      },
+      "cleanedText": "Investa Office Fund"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 91,
+        "column": 1
+      },
+      "cleanedText": "40"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 91,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 92,
+        "column": 0
+      },
+      "cleanedText": "Incitec Pivot Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 92,
+        "column": 1
+      },
+      "cleanedText": "15"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 92,
+        "column": 2
+      },
+      "cleanedText": "23x15px Melbourne"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 93,
+        "column": 0
+      },
+      "cleanedText": "Iress Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 93,
+        "column": 1
+      },
+      "cleanedText": "?"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 93,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 94,
+        "column": 0
+      },
+      "cleanedText": "Isentia Group Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 94,
+        "column": 1
+      },
+      "cleanedText": "?"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 94,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 95,
+        "column": 0
+      },
+      "cleanedText": "Invocare Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 95,
+        "column": 1
+      },
+      "cleanedText": "25"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 95,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 96,
+        "column": 0
+      },
+      "cleanedText": "JB Hi-fi Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 96,
+        "column": 1
+      },
+      "cleanedText": "25"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 96,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 97,
+        "column": 0
+      },
+      "cleanedText": "Japara Healthcare Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 97,
+        "column": 1
+      },
+      "cleanedText": "35"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 97,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 98,
+        "column": 0
+      },
+      "cleanedText": "James Hardie Industries PLC"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 98,
+        "column": 1
+      },
+      "cleanedText": "15"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 98,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 99,
+        "column": 0
+      },
+      "cleanedText": "Karoon Gas Australia Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 99,
+        "column": 1
+      },
+      "cleanedText": "10"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 99,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 100,
+        "column": 0
+      },
+      "cleanedText": "Lendlease Group"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 100,
+        "column": 1
+      },
+      "cleanedText": "40"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 100,
+        "column": 2
+      },
+      "cleanedText": "23x15px Sydney"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 101,
+        "column": 0
+      },
+      "cleanedText": "Liquefied Natural Gas Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 101,
+        "column": 1
+      },
+      "cleanedText": "10"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 101,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 102,
+        "column": 0
+      },
+      "cleanedText": "Magellan Financial Group Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 102,
+        "column": 1
+      },
+      "cleanedText": "40"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 102,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 103,
+        "column": 0
+      },
+      "cleanedText": "Mirvac Group"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 103,
+        "column": 1
+      },
+      "cleanedText": "40"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 103,
+        "column": 2
+      },
+      "cleanedText": "23x15px Sydney"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 104,
+        "column": 0
+      },
+      "cleanedText": "Mineral Resources Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 104,
+        "column": 1
+      },
+      "cleanedText": "?"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 104,
+        "column": 2
+      },
+      "cleanedText": "23x15px Perth"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 105,
+        "column": 0
+      },
+      "cleanedText": "Mcmillan Shakespeare Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 105,
+        "column": 1
+      },
+      "cleanedText": "?"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 105,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 106,
+        "column": 0
+      },
+      "cleanedText": "Monadelphous Group Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 106,
+        "column": 1
+      },
+      "cleanedText": "?"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 106,
+        "column": 2
+      },
+      "cleanedText": "23x15px Perth"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 107,
+        "column": 0
+      },
+      "cleanedText": "Medibank Private Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 107,
+        "column": 1
+      },
+      "cleanedText": "40"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 107,
+        "column": 2
+      },
+      "cleanedText": "23x15px Melbourne"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 108,
+        "column": 0
+      },
+      "cleanedText": "Macquarie Atlas Roads Group"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 108,
+        "column": 1
+      },
+      "cleanedText": "?"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 108,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 109,
+        "column": 0
+      },
+      "cleanedText": "Macquarie Group Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 109,
+        "column": 1
+      },
+      "cleanedText": "40"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 109,
+        "column": 2
+      },
+      "cleanedText": "23x15px Sydney"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 110,
+        "column": 0
+      },
+      "cleanedText": "Mesoblast Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 110,
+        "column": 1
+      },
+      "cleanedText": "?"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 110,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 111,
+        "column": 0
+      },
+      "cleanedText": "Mantra Group Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 111,
+        "column": 1
+      },
+      "cleanedText": "25"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 111,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 112,
+        "column": 0
+      },
+      "cleanedText": "Metcash Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 112,
+        "column": 1
+      },
+      "cleanedText": "?"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 112,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 113,
+        "column": 0
+      },
+      "cleanedText": "M2 Group Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 113,
+        "column": 1
+      },
+      "cleanedText": "?"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 113,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 114,
+        "column": 0
+      },
+      "cleanedText": "Myob Group Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 114,
+        "column": 1
+      },
+      "cleanedText": "?"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 114,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 115,
+        "column": 0
+      },
+      "cleanedText": "Myer Holdings Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 115,
+        "column": 1
+      },
+      "cleanedText": "25"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 115,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 116,
+        "column": 0
+      },
+      "cleanedText": "Mayne Pharma Group Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 116,
+        "column": 1
+      },
+      "cleanedText": "?"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 116,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 117,
+        "column": 0
+      },
+      "cleanedText": "National Australia Bank Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 117,
+        "column": 1
+      },
+      "cleanedText": "40"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 117,
+        "column": 2
+      },
+      "cleanedText": "23x15px Melbourne"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 118,
+        "column": 0
+      },
+      "cleanedText": "Newcrest Mining Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 118,
+        "column": 1
+      },
+      "cleanedText": "15"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 118,
+        "column": 2
+      },
+      "cleanedText": "23x15px Melbourne"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 119,
+        "column": 0
+      },
+      "cleanedText": "Nine Entertainment Co. Holdings Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 119,
+        "column": 1
+      },
+      "cleanedText": "25"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 119,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 120,
+        "column": 0
+      },
+      "cleanedText": "National Storage Reit"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 120,
+        "column": 1
+      },
+      "cleanedText": "40"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 120,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 121,
+        "column": 0
+      },
+      "cleanedText": "Northern Star Resources Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 121,
+        "column": 1
+      },
+      "cleanedText": "15"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 121,
+        "column": 2
+      },
+      "cleanedText": "23x15px Perth"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 122,
+        "column": 0
+      },
+      "cleanedText": "Nufarm Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 122,
+        "column": 1
+      },
+      "cleanedText": "15"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 122,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 123,
+        "column": 0
+      },
+      "cleanedText": "Navitas Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 123,
+        "column": 1
+      },
+      "cleanedText": "25"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 123,
+        "column": 2
+      },
+      "cleanedText": "23x15px Perth"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 124,
+        "column": 0
+      },
+      "cleanedText": "News Corporation"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 124,
+        "column": 1
+      },
+      "cleanedText": "25"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 124,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 125,
+        "column": 0
+      },
+      "cleanedText": "Ozforex Group Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 125,
+        "column": 1
+      },
+      "cleanedText": "40"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 125,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 126,
+        "column": 0
+      },
+      "cleanedText": "Orora Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 126,
+        "column": 1
+      },
+      "cleanedText": "15"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 126,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 127,
+        "column": 0
+      },
+      "cleanedText": "Origin Energy Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 127,
+        "column": 1
+      },
+      "cleanedText": "10"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 127,
+        "column": 2
+      },
+      "cleanedText": "23x15px Sydney"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 128,
+        "column": 0
+      },
+      "cleanedText": "Orica Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 128,
+        "column": 1
+      },
+      "cleanedText": "15"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 128,
+        "column": 2
+      },
+      "cleanedText": "23x15px Melbourne"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 129,
+        "column": 0
+      },
+      "cleanedText": "Oil Search Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 129,
+        "column": 1
+      },
+      "cleanedText": "10"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 129,
+        "column": 2
+      },
+      "cleanedText": "23x15px Port Moresby"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 130,
+        "column": 0
+      },
+      "cleanedText": "Oz Minerals Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 130,
+        "column": 1
+      },
+      "cleanedText": "15"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 130,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 131,
+        "column": 0
+      },
+      "cleanedText": "Pacific Brands Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 131,
+        "column": 1
+      },
+      "cleanedText": "25"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 131,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 132,
+        "column": 0
+      },
+      "cleanedText": "Pact Group Holdings Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 132,
+        "column": 1
+      },
+      "cleanedText": "15"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 132,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 133,
+        "column": 0
+      },
+      "cleanedText": "Premier Investments Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 133,
+        "column": 1
+      },
+      "cleanedText": "25"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 133,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 134,
+        "column": 0
+      },
+      "cleanedText": "Perpetual Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 134,
+        "column": 1
+      },
+      "cleanedText": "40"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 134,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 135,
+        "column": 0
+      },
+      "cleanedText": "Programmed Maintenance Services Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 135,
+        "column": 1
+      },
+      "cleanedText": "?"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 135,
+        "column": 2
+      },
+      "cleanedText": "23x15px Perth"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 136,
+        "column": 0
+      },
+      "cleanedText": "Primary Health Care Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 136,
+        "column": 1
+      },
+      "cleanedText": "35"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 136,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 137,
+        "column": 0
+      },
+      "cleanedText": "Platinum Asset Management Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 137,
+        "column": 1
+      },
+      "cleanedText": "40"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 137,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 138,
+        "column": 0
+      },
+      "cleanedText": "Qantas Airways Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 138,
+        "column": 1
+      },
+      "cleanedText": "20"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 138,
+        "column": 2
+      },
+      "cleanedText": "23x15px Sydney"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 139,
+        "column": 0
+      },
+      "cleanedText": "QBE Insurance Group Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 139,
+        "column": 1
+      },
+      "cleanedText": "40"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 139,
+        "column": 2
+      },
+      "cleanedText": "23x15px Sydney"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 140,
+        "column": 0
+      },
+      "cleanedText": "Qube Holdings Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 140,
+        "column": 1
+      },
+      "cleanedText": "?"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 140,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 141,
+        "column": 0
+      },
+      "cleanedText": "REA Group Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 141,
+        "column": 1
+      },
+      "cleanedText": "25"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 141,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 142,
+        "column": 0
+      },
+      "cleanedText": "Recall Holdings Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 142,
+        "column": 1
+      },
+      "cleanedText": "?"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 142,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 143,
+        "column": 0
+      },
+      "cleanedText": "Regis Healthcare Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 143,
+        "column": 1
+      },
+      "cleanedText": "35"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 143,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 144,
+        "column": 0
+      },
+      "cleanedText": "Retail Food Group Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 144,
+        "column": 1
+      },
+      "cleanedText": "25"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 144,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 145,
+        "column": 0
+      },
+      "cleanedText": "Ramsay Health Care Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 145,
+        "column": 1
+      },
+      "cleanedText": "35"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 145,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 146,
+        "column": 0
+      },
+      "cleanedText": "Rio Tinto Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 146,
+        "column": 1
+      },
+      "cleanedText": "15"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 146,
+        "column": 2
+      },
+      "cleanedText": "23x15px Melbourne / 23x15px London"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 147,
+        "column": 0
+      },
+      "cleanedText": "ResMed Inc"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 147,
+        "column": 1
+      },
+      "cleanedText": "?"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 147,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 148,
+        "column": 0
+      },
+      "cleanedText": "Regis Resources Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 148,
+        "column": 1
+      },
+      "cleanedText": "15"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 148,
+        "column": 2
+      },
+      "cleanedText": "23x15px Perth"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 149,
+        "column": 0
+      },
+      "cleanedText": "South32 Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 149,
+        "column": 1
+      },
+      "cleanedText": "15"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 149,
+        "column": 2
+      },
+      "cleanedText": "23x15px Perth"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 150,
+        "column": 0
+      },
+      "cleanedText": "SAI Global Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 150,
+        "column": 1
+      },
+      "cleanedText": "?"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 150,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 151,
+        "column": 0
+      },
+      "cleanedText": "Scentre Group"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 151,
+        "column": 1
+      },
+      "cleanedText": "40"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 151,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 152,
+        "column": 0
+      },
+      "cleanedText": "Shopping Centres Australasia Property Group"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 152,
+        "column": 1
+      },
+      "cleanedText": "40"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 152,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 153,
+        "column": 0
+      },
+      "cleanedText": "Steadfast Group Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 153,
+        "column": 1
+      },
+      "cleanedText": "40"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 153,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 154,
+        "column": 0
+      },
+      "cleanedText": "Seek Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 154,
+        "column": 1
+      },
+      "cleanedText": "20"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 154,
+        "column": 2
+      },
+      "cleanedText": "23x15px Melbourne"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 155,
+        "column": 0
+      },
+      "cleanedText": "Sandfire Resources NL"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 155,
+        "column": 1
+      },
+      "cleanedText": "15"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 155,
+        "column": 2
+      },
+      "cleanedText": "23x15px Perth"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 156,
+        "column": 0
+      },
+      "cleanedText": "Slater \u0026 Gordon Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 156,
+        "column": 1
+      },
+      "cleanedText": "40"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 156,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 157,
+        "column": 0
+      },
+      "cleanedText": "Sims Metal Management Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 157,
+        "column": 1
+      },
+      "cleanedText": "15"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 157,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 158,
+        "column": 0
+      },
+      "cleanedText": "Stockland"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 158,
+        "column": 1
+      },
+      "cleanedText": "40"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 158,
+        "column": 2
+      },
+      "cleanedText": "23x15px Sydney"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 159,
+        "column": 0
+      },
+      "cleanedText": "Star Entertainment Group Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 159,
+        "column": 1
+      },
+      "cleanedText": "40"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 159,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 160,
+        "column": 0
+      },
+      "cleanedText": "Sonic Healthcare Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 160,
+        "column": 1
+      },
+      "cleanedText": "35"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 160,
+        "column": 2
+      },
+      "cleanedText": "23x15px Sydney"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 161,
+        "column": 0
+      },
+      "cleanedText": "Select Harvests Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 161,
+        "column": 1
+      },
+      "cleanedText": "?"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 161,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 162,
+        "column": 0
+      },
+      "cleanedText": "Sigma Pharmaceuticals Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 162,
+        "column": 1
+      },
+      "cleanedText": "?"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 162,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 163,
+        "column": 0
+      },
+      "cleanedText": "Skycity Entertainment Group Limited NZ"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 163,
+        "column": 1
+      },
+      "cleanedText": "25"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 163,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 164,
+        "column": 0
+      },
+      "cleanedText": "Spark Infrastructure Group Forus"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 164,
+        "column": 1
+      },
+      "cleanedText": "55"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 164,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 165,
+        "column": 0
+      },
+      "cleanedText": "SKY Network Television Limited NZ"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 165,
+        "column": 1
+      },
+      "cleanedText": "25"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 165,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 166,
+        "column": 0
+      },
+      "cleanedText": "Spark New Zealand Limited NZX"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 166,
+        "column": 1
+      },
+      "cleanedText": "?"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 166,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 167,
+        "column": 0
+      },
+      "cleanedText": "Spotless Group Holdings Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 167,
+        "column": 1
+      },
+      "cleanedText": "?"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 167,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 168,
+        "column": 0
+      },
+      "cleanedText": "Sirtex Medical Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 168,
+        "column": 1
+      },
+      "cleanedText": "?"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 168,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 169,
+        "column": 0
+      },
+      "cleanedText": "Santos Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 169,
+        "column": 1
+      },
+      "cleanedText": "10"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 169,
+        "column": 2
+      },
+      "cleanedText": "23x15px Adelaide"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 170,
+        "column": 0
+      },
+      "cleanedText": "Super Retail Group Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 170,
+        "column": 1
+      },
+      "cleanedText": "25"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 170,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 171,
+        "column": 0
+      },
+      "cleanedText": "Suncorp Group Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 171,
+        "column": 1
+      },
+      "cleanedText": "40"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 171,
+        "column": 2
+      },
+      "cleanedText": "23x15px Brisbane"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 172,
+        "column": 0
+      },
+      "cleanedText": "Seven Group Holdings Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 172,
+        "column": 1
+      },
+      "cleanedText": "?"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 172,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 173,
+        "column": 0
+      },
+      "cleanedText": "Seven West Media Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 173,
+        "column": 1
+      },
+      "cleanedText": "25"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 173,
+        "column": 2
+      },
+      "cleanedText": "23x15px Perth"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 174,
+        "column": 0
+      },
+      "cleanedText": "Southern Cross Media Group Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 174,
+        "column": 1
+      },
+      "cleanedText": "25"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 174,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 175,
+        "column": 0
+      },
+      "cleanedText": "Sydney Airport Forus"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 175,
+        "column": 1
+      },
+      "cleanedText": "20"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 175,
+        "column": 2
+      },
+      "cleanedText": "23x15px Sydney"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 176,
+        "column": 0
+      },
+      "cleanedText": "Syrah Resources Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 176,
+        "column": 1
+      },
+      "cleanedText": "15"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 176,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 177,
+        "column": 0
+      },
+      "cleanedText": "Tabcorp Holdings Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 177,
+        "column": 1
+      },
+      "cleanedText": "25"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 177,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 178,
+        "column": 0
+      },
+      "cleanedText": "Transurban Group"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 178,
+        "column": 1
+      },
+      "cleanedText": "20"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 178,
+        "column": 2
+      },
+      "cleanedText": "23x15px Melbourne"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 179,
+        "column": 0
+      },
+      "cleanedText": "Ten Network Holdings Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 179,
+        "column": 1
+      },
+      "cleanedText": "25"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 179,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 180,
+        "column": 0
+      },
+      "cleanedText": "Tassal Group Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 180,
+        "column": 1
+      },
+      "cleanedText": "?"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 180,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 181,
+        "column": 0
+      },
+      "cleanedText": "Telstra Corporation Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 181,
+        "column": 1
+      },
+      "cleanedText": "50"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 181,
+        "column": 2
+      },
+      "cleanedText": "23x15px Melbourne"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 182,
+        "column": 0
+      },
+      "cleanedText": "Trade Me Group Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 182,
+        "column": 1
+      },
+      "cleanedText": "25"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 182,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 183,
+        "column": 0
+      },
+      "cleanedText": "Technology One Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 183,
+        "column": 1
+      },
+      "cleanedText": "?"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 183,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 184,
+        "column": 0
+      },
+      "cleanedText": "Transpacific Industries Group Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 184,
+        "column": 1
+      },
+      "cleanedText": "?"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 184,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 185,
+        "column": 0
+      },
+      "cleanedText": "TPG Telecom Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 185,
+        "column": 1
+      },
+      "cleanedText": "?"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 185,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 186,
+        "column": 0
+      },
+      "cleanedText": "Tatts Group Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 186,
+        "column": 1
+      },
+      "cleanedText": "25"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 186,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 187,
+        "column": 0
+      },
+      "cleanedText": "Treasury Wine Estates Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 187,
+        "column": 1
+      },
+      "cleanedText": "?"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 187,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 188,
+        "column": 0
+      },
+      "cleanedText": "Vicinity Centres"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 188,
+        "column": 1
+      },
+      "cleanedText": "40"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 188,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 189,
+        "column": 0
+      },
+      "cleanedText": "Veda Group Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 189,
+        "column": 1
+      },
+      "cleanedText": "?"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 189,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 190,
+        "column": 0
+      },
+      "cleanedText": "Vocus Communications Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 190,
+        "column": 1
+      },
+      "cleanedText": "?"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 190,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 191,
+        "column": 0
+      },
+      "cleanedText": "Village Roadshow Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 191,
+        "column": 1
+      },
+      "cleanedText": "25"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 191,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 192,
+        "column": 0
+      },
+      "cleanedText": "Virtus Health Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 192,
+        "column": 1
+      },
+      "cleanedText": "35"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 192,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 193,
+        "column": 0
+      },
+      "cleanedText": "Westpac Banking Corporation"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 193,
+        "column": 1
+      },
+      "cleanedText": "40"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 193,
+        "column": 2
+      },
+      "cleanedText": "23x15px Sydney"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 194,
+        "column": 0
+      },
+      "cleanedText": "Wesfarmers Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 194,
+        "column": 1
+      },
+      "cleanedText": "20"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 194,
+        "column": 2
+      },
+      "cleanedText": "23x15px Perth"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 195,
+        "column": 0
+      },
+      "cleanedText": "Westfield Corporation"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 195,
+        "column": 1
+      },
+      "cleanedText": "40"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 195,
+        "column": 2
+      },
+      "cleanedText": "23x15px Sydney"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 196,
+        "column": 0
+      },
+      "cleanedText": "Whitehaven Coal Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 196,
+        "column": 1
+      },
+      "cleanedText": "10"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 196,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 197,
+        "column": 0
+      },
+      "cleanedText": "Worleyparsons Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 197,
+        "column": 1
+      },
+      "cleanedText": "10"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 197,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 198,
+        "column": 0
+      },
+      "cleanedText": "Woolworths Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 198,
+        "column": 1
+      },
+      "cleanedText": "30"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 198,
+        "column": 2
+      },
+      "cleanedText": "23x15px Sydney"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 199,
+        "column": 0
+      },
+      "cleanedText": "Woodside Petroleum Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 199,
+        "column": 1
+      },
+      "cleanedText": "10"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 199,
+        "column": 2
+      },
+      "cleanedText": "23x15px Perth"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 200,
+        "column": 0
+      },
+      "cleanedText": "Western Areas Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 200,
+        "column": 1
+      },
+      "cleanedText": "15"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 200,
+        "column": 2
+      },
+      "cleanedText": ""
+    }
+  ],
+  "maxDimensions": {
+    "row": 200,
+    "column": 2
+  },
+  "columns": [
+    {
+      "tableName": "http://dbpedia.org/resource/S\u0026P/ASX_200?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d3_2",
+      "columnName": "Company",
+      "fields": [
+        "Australian Agricultural Company Limited",
+        "Ardent Leisure Group",
+        "Adelaide Brighton Limited",
+        "Abacus Property Group",
+        "AGL Energy Limited",
+        "Automotive Holdings Group Limited",
+        "Asaleo Care Limited",
+        "Asciano Limited",
+        "Aristocrat Leisure Limited",
+        "ALS Limited",
+        "Altium Limited",
+        "Amcor Limited",
+        "AMP Limited",
+        "Ansell Limited",
+        "Australia and New Zealand Banking Group Limited",
+        "Aveo Group",
+        "APA Group",
+        "Australian Pharmaceutical Industries Limited",
+        "APN News \u0026 Media Limited",
+        "Apn Outdoor Group Limited",
+        "ARB Corporation Limited",
+        "Austal Limited",
+        "Ausnet Services Limited",
+        "ASX Limited",
+        "Alumina Limited",
+        "AWE Limited",
+        "Aurizon Holdings Limited",
+        "Burson Group Limited",
+        "Bendigo and Adelaide Bank Limited",
+        "Bega Cheese Limited",
+        "BHP Billiton Limited",
+        "Blackmores Limited",
+        "Boral Limited",
+        "Bank of Queensland Limited",
+        "Beach Energy Limited",
+        "Breville Group Limited",
+        "Broadspectrum Limited",
+        "Bluescope Steel Limited",
+        "BT Investment Management Limited",
+        "BWP Trust Ord Units",
+        "Brambles Limited",
+        "Cabcharge Australia Limited",
+        "Carsales.com Limited",
+        "Commonwealth Bank of Australia",
+        "Coca-Cola Amatil Limited",
+        "Credit Corp Group Limited",
+        "Costa Group Holdings Limited",
+        "Challenger Limited",
+        "Charter Hall Group Forus",
+        "CIMIC Group Limited",
+        "Cromwell Property Group",
+        "Cochlear Limited",
+        "Computershare Limited",
+        "Charter Hall Retail Reit Unit",
+        "CSL Limited",
+        "CSR Limited",
+        "Corporate Travel Management Limited",
+        "Caltex Australia Limited",
+        "Cover-more Group Limited",
+        "Crown Resorts Limited",
+        "Duluxgroup Limited",
+        "Domino\u0027s Pizza Enterprises Limited",
+        "Downer Group Limited",
+        "Duet Group Forus",
+        "Dexus Property Group",
+        "Estia Health Limited",
+        "Evolution Mining Limited",
+        "Fletcher Building Limited NZ",
+        "Flight Centre Travel Group Limited",
+        "Fortescue Metals Group Limited",
+        "Fisher \u0026 Paykel Healthcare Corporation Limited NZ",
+        "Fairfax Media Limited",
+        "Flexigroup Limited",
+        "G8 Education Limited",
+        "Genworth Mortgage Insurance Australia Limited",
+        "Goodman Group",
+        "Graincorp Limited",
+        "Growthpoint Properties Australia",
+        "GPT Group",
+        "Gateway Lifestyle Group",
+        "G.u.d. Holdings Limited",
+        "GWA Group Limited",
+        "Greencross Limited",
+        "Henderson Group PLC",
+        "Healthscope Limited",
+        "Harvey Norman Holdings Limited",
+        "Insurance Australia Group Limited",
+        "Ioof Holdings Limited",
+        "Independence Group NL",
+        "Iluka Resources Limited",
+        "Investa Office Fund",
+        "Incitec Pivot Limited",
+        "Iress Limited",
+        "Isentia Group Limited",
+        "Invocare Limited",
+        "JB Hi-fi Limited",
+        "Japara Healthcare Limited",
+        "James Hardie Industries PLC",
+        "Karoon Gas Australia Limited",
+        "Lendlease Group",
+        "Liquefied Natural Gas Limited",
+        "Magellan Financial Group Limited",
+        "Mirvac Group",
+        "Mineral Resources Limited",
+        "Mcmillan Shakespeare Limited",
+        "Monadelphous Group Limited",
+        "Medibank Private Limited",
+        "Macquarie Atlas Roads Group",
+        "Macquarie Group Limited",
+        "Mesoblast Limited",
+        "Mantra Group Limited",
+        "Metcash Limited",
+        "M2 Group Limited",
+        "Myob Group Limited",
+        "Myer Holdings Limited",
+        "Mayne Pharma Group Limited",
+        "National Australia Bank Limited",
+        "Newcrest Mining Limited",
+        "Nine Entertainment Co. Holdings Limited",
+        "National Storage Reit",
+        "Northern Star Resources Limited",
+        "Nufarm Limited",
+        "Navitas Limited",
+        "News Corporation",
+        "Ozforex Group Limited",
+        "Orora Limited",
+        "Origin Energy Limited",
+        "Orica Limited",
+        "Oil Search Limited",
+        "Oz Minerals Limited",
+        "Pacific Brands Limited",
+        "Pact Group Holdings Limited",
+        "Premier Investments Limited",
+        "Perpetual Limited",
+        "Programmed Maintenance Services Limited",
+        "Primary Health Care Limited",
+        "Platinum Asset Management Limited",
+        "Qantas Airways Limited",
+        "QBE Insurance Group Limited",
+        "Qube Holdings Limited",
+        "REA Group Limited",
+        "Recall Holdings Limited",
+        "Regis Healthcare Limited",
+        "Retail Food Group Limited",
+        "Ramsay Health Care Limited",
+        "Rio Tinto Limited",
+        "ResMed Inc",
+        "Regis Resources Limited",
+        "South32 Limited",
+        "SAI Global Limited",
+        "Scentre Group",
+        "Shopping Centres Australasia Property Group",
+        "Steadfast Group Limited",
+        "Seek Limited",
+        "Sandfire Resources NL",
+        "Slater \u0026 Gordon Limited",
+        "Sims Metal Management Limited",
+        "Stockland",
+        "Star Entertainment Group Limited",
+        "Sonic Healthcare Limited",
+        "Select Harvests Limited",
+        "Sigma Pharmaceuticals Limited",
+        "Skycity Entertainment Group Limited NZ",
+        "Spark Infrastructure Group Forus",
+        "SKY Network Television Limited NZ",
+        "Spark New Zealand Limited NZX",
+        "Spotless Group Holdings Limited",
+        "Sirtex Medical Limited",
+        "Santos Limited",
+        "Super Retail Group Limited",
+        "Suncorp Group Limited",
+        "Seven Group Holdings Limited",
+        "Seven West Media Limited",
+        "Southern Cross Media Group Limited",
+        "Sydney Airport Forus",
+        "Syrah Resources Limited",
+        "Tabcorp Holdings Limited",
+        "Transurban Group",
+        "Ten Network Holdings Limited",
+        "Tassal Group Limited",
+        "Telstra Corporation Limited",
+        "Trade Me Group Limited",
+        "Technology One Limited",
+        "Transpacific Industries Group Limited",
+        "TPG Telecom Limited",
+        "Tatts Group Limited",
+        "Treasury Wine Estates Limited",
+        "Vicinity Centres",
+        "Veda Group Limited",
+        "Vocus Communications Limited",
+        "Village Roadshow Limited",
+        "Virtus Health Limited",
+        "Westpac Banking Corporation",
+        "Wesfarmers Limited",
+        "Westfield Corporation",
+        "Whitehaven Coal Limited",
+        "Worleyparsons Limited",
+        "Woolworths Limited",
+        "Woodside Petroleum Limited",
+        "Western Areas Limited"
+      ]
+    },
+    {
+      "tableName": "http://dbpedia.org/resource/S\u0026P/ASX_200?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d3_2",
+      "columnName": "GICS",
+      "fields": [
+        "?",
+        "25",
+        "?",
+        "40",
+        "55",
+        "?",
+        "?",
+        "?",
+        "25",
+        "?",
+        "?",
+        "15",
+        "40",
+        "?",
+        "40",
+        "40",
+        "55",
+        "?",
+        "25",
+        "25",
+        "10",
+        "?",
+        "55",
+        "40",
+        "15",
+        "10",
+        "20",
+        "25",
+        "40",
+        "?",
+        "15",
+        "?",
+        "15",
+        "40",
+        "10",
+        "25",
+        "?",
+        "15",
+        "40",
+        "40",
+        "20",
+        "?",
+        "?",
+        "40",
+        "30",
+        "?",
+        "40",
+        "40",
+        "40",
+        "?",
+        "40",
+        "?",
+        "45",
+        "40",
+        "35",
+        "15",
+        "40",
+        "10",
+        "40",
+        "25",
+        "15",
+        "40",
+        "?",
+        "55",
+        "?",
+        "35",
+        "15",
+        "15",
+        "25",
+        "15",
+        "?",
+        "40",
+        "40",
+        "40",
+        "40",
+        "40",
+        "?",
+        "40",
+        "40",
+        "40",
+        "40",
+        "?",
+        "?",
+        "40",
+        "?",
+        "25",
+        "40",
+        "40",
+        "15",
+        "15",
+        "40",
+        "15",
+        "?",
+        "?",
+        "25",
+        "25",
+        "35",
+        "15",
+        "10",
+        "40",
+        "10",
+        "40",
+        "40",
+        "?",
+        "?",
+        "?",
+        "40",
+        "?",
+        "40",
+        "?",
+        "25",
+        "?",
+        "?",
+        "?",
+        "25",
+        "?",
+        "40",
+        "15",
+        "25",
+        "40",
+        "15",
+        "15",
+        "25",
+        "25",
+        "40",
+        "15",
+        "10",
+        "15",
+        "10",
+        "15",
+        "25",
+        "15",
+        "25",
+        "40",
+        "?",
+        "35",
+        "40",
+        "20",
+        "40",
+        "?",
+        "25",
+        "?",
+        "35",
+        "25",
+        "35",
+        "15",
+        "?",
+        "15",
+        "15",
+        "?",
+        "40",
+        "40",
+        "40",
+        "20",
+        "15",
+        "40",
+        "15",
+        "40",
+        "40",
+        "35",
+        "?",
+        "?",
+        "25",
+        "55",
+        "25",
+        "?",
+        "?",
+        "?",
+        "10",
+        "25",
+        "40",
+        "?",
+        "25",
+        "25",
+        "20",
+        "15",
+        "25",
+        "20",
+        "25",
+        "?",
+        "50",
+        "25",
+        "?",
+        "?",
+        "?",
+        "25",
+        "?",
+        "40",
+        "?",
+        "?",
+        "25",
+        "35",
+        "40",
+        "20",
+        "40",
+        "10",
+        "10",
+        "30",
+        "10",
+        "15"
+      ]
+    },
+    {
+      "tableName": "http://dbpedia.org/resource/S\u0026P/ASX_200?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d3_2",
+      "columnName": "Headquarters",
+      "fields": [
+        "",
+        "",
+        "",
+        "23x15px Sydney",
+        "23x15px Sydney",
+        "23x15px Perth",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "23x15px Melbourne",
+        "23x15px Sydney",
+        "",
+        "23x15px Melbourne",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "23x15px Perth",
+        "",
+        "23x15px Sydney",
+        "",
+        "",
+        "23x15px Brisbane",
+        "",
+        "23x15px Melbourne",
+        "",
+        "23x15px Melbourne / 23x15px London",
+        "23x15px Warriewood, New South Wales",
+        "",
+        "23x15px Brisbane",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "23x15px Sydney",
+        "",
+        "",
+        "23x15px Sydney",
+        "23x15px Sydney",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "23x15px Melbourne",
+        "",
+        "23x15px Melbourne",
+        "",
+        "",
+        "",
+        "",
+        "23x15px Melbourne",
+        "",
+        "",
+        "",
+        "",
+        "23x15px Sydney",
+        "",
+        "",
+        "",
+        "",
+        "23x15px Perth",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "23x15px Sydney",
+        "",
+        "",
+        "23x15px Sydney",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "23x15px Sydney",
+        "",
+        "",
+        "23x15px Perth",
+        "",
+        "23x15px Melbourne",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "23x15px Sydney",
+        "",
+        "",
+        "23x15px Sydney",
+        "23x15px Perth",
+        "",
+        "23x15px Perth",
+        "23x15px Melbourne",
+        "",
+        "23x15px Sydney",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "23x15px Melbourne",
+        "23x15px Melbourne",
+        "",
+        "",
+        "23x15px Perth",
+        "",
+        "23x15px Perth",
+        "",
+        "",
+        "",
+        "23x15px Sydney",
+        "23x15px Melbourne",
+        "23x15px Port Moresby",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "23x15px Perth",
+        "",
+        "",
+        "23x15px Sydney",
+        "23x15px Sydney",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "23x15px Melbourne / 23x15px London",
+        "",
+        "23x15px Perth",
+        "23x15px Perth",
+        "",
+        "",
+        "",
+        "",
+        "23x15px Melbourne",
+        "23x15px Perth",
+        "",
+        "",
+        "23x15px Sydney",
+        "",
+        "23x15px Sydney",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "23x15px Adelaide",
+        "",
+        "23x15px Brisbane",
+        "",
+        "23x15px Perth",
+        "",
+        "23x15px Sydney",
+        "",
+        "",
+        "23x15px Melbourne",
+        "",
+        "",
+        "23x15px Melbourne",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "23x15px Sydney",
+        "23x15px Perth",
+        "23x15px Sydney",
+        "",
+        "",
+        "23x15px Sydney",
+        "23x15px Perth",
+        ""
+      ]
+    }
+  ]
+}

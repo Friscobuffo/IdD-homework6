@@ -1,0 +1,593 @@
+{
+  "id": "http://dbpedia.org/resource/List_of_largest_Chinese_companies?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d1_2",
+  "cells": [
+    {
+      "isHeader": true,
+      "Coordinates": {
+        "row": 0,
+        "column": 0
+      },
+      "cleanedText": "Name"
+    },
+    {
+      "isHeader": true,
+      "Coordinates": {
+        "row": 0,
+        "column": 1
+      },
+      "cleanedText": "Headquarters"
+    },
+    {
+      "isHeader": true,
+      "Coordinates": {
+        "row": 0,
+        "column": 2
+      },
+      "cleanedText": "Industry"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 1,
+        "column": 0
+      },
+      "cleanedText": "Sinopec"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 1,
+        "column": 1
+      },
+      "cleanedText": "Beijing"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 1,
+        "column": 2
+      },
+      "cleanedText": "Oil"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 2,
+        "column": 0
+      },
+      "cleanedText": "China National Petroleum"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 2,
+        "column": 1
+      },
+      "cleanedText": "Beijing"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 2,
+        "column": 2
+      },
+      "cleanedText": "Oil"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 3,
+        "column": 0
+      },
+      "cleanedText": "State Grid Corporation"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 3,
+        "column": 1
+      },
+      "cleanedText": "Beijing"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 3,
+        "column": 2
+      },
+      "cleanedText": "Utilities"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 4,
+        "column": 0
+      },
+      "cleanedText": "Industrial and Commercial Bank of China"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 4,
+        "column": 1
+      },
+      "cleanedText": "Beijing"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 4,
+        "column": 2
+      },
+      "cleanedText": "Banking"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 5,
+        "column": 0
+      },
+      "cleanedText": "China Construction Bank"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 5,
+        "column": 1
+      },
+      "cleanedText": "Beijing"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 5,
+        "column": 2
+      },
+      "cleanedText": "Banking"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 6,
+        "column": 0
+      },
+      "cleanedText": "Agricultural Bank of China"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 6,
+        "column": 1
+      },
+      "cleanedText": "Beijing"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 6,
+        "column": 2
+      },
+      "cleanedText": "Banking"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 7,
+        "column": 0
+      },
+      "cleanedText": "China State Construction Engineering"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 7,
+        "column": 1
+      },
+      "cleanedText": "Beijing"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 7,
+        "column": 2
+      },
+      "cleanedText": "Construction"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 8,
+        "column": 0
+      },
+      "cleanedText": "China Mobile"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 8,
+        "column": 1
+      },
+      "cleanedText": "Beijing"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 8,
+        "column": 2
+      },
+      "cleanedText": "Telecommunications"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 9,
+        "column": 0
+      },
+      "cleanedText": "Bank of China"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 9,
+        "column": 1
+      },
+      "cleanedText": "Beijing"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 9,
+        "column": 2
+      },
+      "cleanedText": "Banking"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 10,
+        "column": 0
+      },
+      "cleanedText": "Noble Group"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 10,
+        "column": 1
+      },
+      "cleanedText": "Hong Kong"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 10,
+        "column": 2
+      },
+      "cleanedText": "Conglomerate"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 11,
+        "column": 0
+      },
+      "cleanedText": "China National Offshore Oil"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 11,
+        "column": 1
+      },
+      "cleanedText": "Beijing"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 11,
+        "column": 2
+      },
+      "cleanedText": "Oil"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 12,
+        "column": 0
+      },
+      "cleanedText": "China Railway Construction"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 12,
+        "column": 1
+      },
+      "cleanedText": "Beijing"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 12,
+        "column": 2
+      },
+      "cleanedText": "Construction"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 13,
+        "column": 0
+      },
+      "cleanedText": "SAIC Motor"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 13,
+        "column": 1
+      },
+      "cleanedText": "Shanghai"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 13,
+        "column": 2
+      },
+      "cleanedText": "Automotive"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 14,
+        "column": 0
+      },
+      "cleanedText": "China Railway Group"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 14,
+        "column": 1
+      },
+      "cleanedText": "Beijing"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 14,
+        "column": 2
+      },
+      "cleanedText": "Construction"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 15,
+        "column": 0
+      },
+      "cleanedText": "China Life Insurance"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 15,
+        "column": 1
+      },
+      "cleanedText": "Beijing"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 15,
+        "column": 2
+      },
+      "cleanedText": "Insurance"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 16,
+        "column": 0
+      },
+      "cleanedText": "Sinochem Group"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 16,
+        "column": 1
+      },
+      "cleanedText": "Beijing"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 16,
+        "column": 2
+      },
+      "cleanedText": "Oil/Chemicals"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 17,
+        "column": 0
+      },
+      "cleanedText": "FAW Group"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 17,
+        "column": 1
+      },
+      "cleanedText": "Changchun"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 17,
+        "column": 2
+      },
+      "cleanedText": "Automotive"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 18,
+        "column": 0
+      },
+      "cleanedText": "Dongfeng Motor Group"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 18,
+        "column": 1
+      },
+      "cleanedText": "Wuhan"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 18,
+        "column": 2
+      },
+      "cleanedText": "Automotive"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 19,
+        "column": 0
+      },
+      "cleanedText": "China Southern Power Grid"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 19,
+        "column": 1
+      },
+      "cleanedText": "Guangzhou"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 19,
+        "column": 2
+      },
+      "cleanedText": "Utilities"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 20,
+        "column": 0
+      },
+      "cleanedText": "China Development Bank"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 20,
+        "column": 1
+      },
+      "cleanedText": "Beijing"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 20,
+        "column": 2
+      },
+      "cleanedText": "Banking"
+    }
+  ],
+  "maxDimensions": {
+    "row": 20,
+    "column": 2
+  },
+  "columns": [
+    {
+      "tableName": "http://dbpedia.org/resource/List_of_largest_Chinese_companies?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d1_2",
+      "columnName": "Name",
+      "fields": [
+        "Sinopec",
+        "China National Petroleum",
+        "State Grid Corporation",
+        "Industrial and Commercial Bank of China",
+        "China Construction Bank",
+        "Agricultural Bank of China",
+        "China State Construction Engineering",
+        "China Mobile",
+        "Bank of China",
+        "Noble Group",
+        "China National Offshore Oil",
+        "China Railway Construction",
+        "SAIC Motor",
+        "China Railway Group",
+        "China Life Insurance",
+        "Sinochem Group",
+        "FAW Group",
+        "Dongfeng Motor Group",
+        "China Southern Power Grid",
+        "China Development Bank"
+      ]
+    },
+    {
+      "tableName": "http://dbpedia.org/resource/List_of_largest_Chinese_companies?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d1_2",
+      "columnName": "Headquarters",
+      "fields": [
+        "Beijing",
+        "Beijing",
+        "Beijing",
+        "Beijing",
+        "Beijing",
+        "Beijing",
+        "Beijing",
+        "Beijing",
+        "Beijing",
+        "Hong Kong",
+        "Beijing",
+        "Beijing",
+        "Shanghai",
+        "Beijing",
+        "Beijing",
+        "Beijing",
+        "Changchun",
+        "Wuhan",
+        "Guangzhou",
+        "Beijing"
+      ]
+    },
+    {
+      "tableName": "http://dbpedia.org/resource/List_of_largest_Chinese_companies?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d1_2",
+      "columnName": "Industry",
+      "fields": [
+        "Oil",
+        "Oil",
+        "Utilities",
+        "Banking",
+        "Banking",
+        "Banking",
+        "Construction",
+        "Telecommunications",
+        "Banking",
+        "Conglomerate",
+        "Oil",
+        "Construction",
+        "Automotive",
+        "Construction",
+        "Insurance",
+        "Oil/Chemicals",
+        "Automotive",
+        "Automotive",
+        "Utilities",
+        "Banking"
+      ]
+    }
+  ]
+}

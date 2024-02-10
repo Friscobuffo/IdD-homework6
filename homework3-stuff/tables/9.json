@@ -1,0 +1,3905 @@
+{
+  "id": "http://dbpedia.org/resource/List_of_S\u0026P_500_companies?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d2_2",
+  "cells": [
+    {
+      "isHeader": true,
+      "Coordinates": {
+        "row": 0,
+        "column": 0
+      },
+      "cleanedText": "Added"
+    },
+    {
+      "isHeader": true,
+      "Coordinates": {
+        "row": 0,
+        "column": 1
+      },
+      "cleanedText": "Removed"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 1,
+        "column": 0
+      },
+      "cleanedText": "Security"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 1,
+        "column": 1
+      },
+      "cleanedText": "Security"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 1,
+        "column": 2
+      },
+      "cleanedText": "Reason"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 2,
+        "column": 0
+      },
+      "cleanedText": "Coty, Inc"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 2,
+        "column": 1
+      },
+      "cleanedText": "Diamond Offshore Drilling Inc"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 2,
+        "column": 2
+      },
+      "cleanedText": "COTY replaces DO"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 3,
+        "column": 0
+      },
+      "cleanedText": "The Cooper Companies"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 3,
+        "column": 1
+      },
+      "cleanedText": "Starwood Hotels \u0026 Resorts Worldwide Inc"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 3,
+        "column": 2
+      },
+      "cleanedText": "MAR acquires HOT"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 4,
+        "column": 0
+      },
+      "cleanedText": "Charter Communications"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 4,
+        "column": 1
+      },
+      "cleanedText": "EMC Corporation"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 4,
+        "column": 2
+      },
+      "cleanedText": "Dell acquires EMC"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 5,
+        "column": 0
+      },
+      "cleanedText": "Mettler Toledo"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 5,
+        "column": 1
+      },
+      "cleanedText": "Johnson Controls Inc"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 5,
+        "column": 2
+      },
+      "cleanedText": "TYC acquires JCI (and becomes new JCI)"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 6,
+        "column": 0
+      },
+      "cleanedText": "Fortive Corp"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 6,
+        "column": 1
+      },
+      "cleanedText": "Columbia Pipeline Group Inc"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 6,
+        "column": 2
+      },
+      "cleanedText": "CPGX acquired by TRP"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 7,
+        "column": 0
+      },
+      "cleanedText": "Alliant Energy Corp"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 7,
+        "column": 1
+      },
+      "cleanedText": "AGL Resources"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 7,
+        "column": 2
+      },
+      "cleanedText": "GAS acquired by SO"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 8,
+        "column": 0
+      },
+      "cleanedText": "Albemarle Corp"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 8,
+        "column": 1
+      },
+      "cleanedText": "TECO Energy"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 8,
+        "column": 2
+      },
+      "cleanedText": "TE acquired by EMA"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 9,
+        "column": 0
+      },
+      "cleanedText": "Fortune Brands Home \u0026 Security"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 9,
+        "column": 1
+      },
+      "cleanedText": "Cablevision Systems"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 9,
+        "column": 2
+      },
+      "cleanedText": "CVC acquired by Altice NV"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 10,
+        "column": 0
+      },
+      "cleanedText": "TransDigm Group"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 10,
+        "column": 1
+      },
+      "cleanedText": "Baxalta Inc"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 10,
+        "column": 2
+      },
+      "cleanedText": "SHPG acquiring BXLT"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 11,
+        "column": 0
+      },
+      "cleanedText": "Arthur J. Gallagher \u0026 Co."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 11,
+        "column": 1
+      },
+      "cleanedText": "Coca-Cola Enterprises"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 11,
+        "column": 2
+      },
+      "cleanedText": "CCE merging with European bottlers"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 12,
+        "column": 0
+      },
+      "cleanedText": "LKQ Corporation"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 12,
+        "column": 1
+      },
+      "cleanedText": "Airgas Inc"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 12,
+        "column": 2
+      },
+      "cleanedText": "ARG acquired by Air Liquide"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 13,
+        "column": 0
+      },
+      "cleanedText": "Digital Realty Trust"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 13,
+        "column": 1
+      },
+      "cleanedText": "Time Warner Cable"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 13,
+        "column": 2
+      },
+      "cleanedText": "TWC acquired by CHTR"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 14,
+        "column": 0
+      },
+      "cleanedText": "Alaska Air Group Inc"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 14,
+        "column": 1
+      },
+      "cleanedText": "SanDisk Corporation"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 14,
+        "column": 2
+      },
+      "cleanedText": "SNDK acquired by WDC"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 15,
+        "column": 0
+      },
+      "cleanedText": "Acuity Brands Inc"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 15,
+        "column": 1
+      },
+      "cleanedText": "ADT Corp"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 15,
+        "column": 2
+      },
+      "cleanedText": "ADT acquired by APO"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 16,
+        "column": 0
+      },
+      "cleanedText": "S\u0026P Global, Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 16,
+        "column": 1
+      },
+      "cleanedText": "McGraw Hill Financial, Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 16,
+        "column": 2
+      },
+      "cleanedText": "McGraw Hill Financial, Inc. rebrands as S\u0026P Global, Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 17,
+        "column": 0
+      },
+      "cleanedText": "Global Payments"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 17,
+        "column": 1
+      },
+      "cleanedText": "GameStop"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 17,
+        "column": 2
+      },
+      "cleanedText": "Global Payments is acquiring Heartland Payment Systems"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 18,
+        "column": 0
+      },
+      "cleanedText": "Ulta Salon, Cosmetics \u0026 Fragrance Inc"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 18,
+        "column": 1
+      },
+      "cleanedText": "Tenet Healthcare"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 18,
+        "column": 2
+      },
+      "cleanedText": "Ulta replaces Tenet"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 19,
+        "column": 0
+      },
+      "cleanedText": "Foot Locker Inc"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 19,
+        "column": 1
+      },
+      "cleanedText": "Cameron International"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 19,
+        "column": 2
+      },
+      "cleanedText": "Schlumberger acquired Cameron"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 20,
+        "column": 0
+      },
+      "cleanedText": "Hologic Inc"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 20,
+        "column": 1
+      },
+      "cleanedText": "Pepco Holdings Inc"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 20,
+        "column": 2
+      },
+      "cleanedText": "Exelon Corp acquired Pepco"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 21,
+        "column": 0
+      },
+      "cleanedText": "Centene Corporation"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 21,
+        "column": 1
+      },
+      "cleanedText": "Ensco plc"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 21,
+        "column": 2
+      },
+      "cleanedText": "Centene acquired Health Net"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 22,
+        "column": 0
+      },
+      "cleanedText": "UDR Inc"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 22,
+        "column": 1
+      },
+      "cleanedText": "Keurig Green Mountain"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 22,
+        "column": 2
+      },
+      "cleanedText": "JAB Holding Company acquired Keurig Green Mountain"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 23,
+        "column": 0
+      },
+      "cleanedText": "American Water Works Company Inc"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 23,
+        "column": 1
+      },
+      "cleanedText": "Consol Energy"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 23,
+        "column": 2
+      },
+      "cleanedText": "AWK replaces CNX"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 24,
+        "column": 0
+      },
+      "cleanedText": "Concho Resources"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 24,
+        "column": 1
+      },
+      "cleanedText": "Plum Creek Timber"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 24,
+        "column": 2
+      },
+      "cleanedText": "PCL taken over by WY"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 25,
+        "column": 0
+      },
+      "cleanedText": "Citizens Financial Group"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 25,
+        "column": 1
+      },
+      "cleanedText": "Precision Castparts Corp."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 25,
+        "column": 2
+      },
+      "cleanedText": "CFG replaces PCP"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 26,
+        "column": 0
+      },
+      "cleanedText": "Federal Realty Investment Trust"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 26,
+        "column": 1
+      },
+      "cleanedText": "Broadcom Corporation"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 26,
+        "column": 2
+      },
+      "cleanedText": "FRT replaces BRCM"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 27,
+        "column": 0
+      },
+      "cleanedText": "Extra Space Storage"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 27,
+        "column": 1
+      },
+      "cleanedText": "Chubb Corp"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 27,
+        "column": 2
+      },
+      "cleanedText": "EXR replaces CB"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 28,
+        "column": 0
+      },
+      "cleanedText": "Chubb Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 28,
+        "column": 1
+      },
+      "cleanedText": "ACE Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 28,
+        "column": 2
+      },
+      "cleanedText": "ACE Limited changes name to Chubb Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 29,
+        "column": 0
+      },
+      "cleanedText": "Willis Towers Watson"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 29,
+        "column": 1
+      },
+      "cleanedText": "Fossil Group"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 29,
+        "column": 2
+      },
+      "cleanedText": "WSH merges with TW (and renames to WLTW)"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 30,
+        "column": 0
+      },
+      "cleanedText": "Church \u0026 Dwight"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 30,
+        "column": 1
+      },
+      "cleanedText": "Altera Corp"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 30,
+        "column": 2
+      },
+      "cleanedText": "ALTR taken over by INTC"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 31,
+        "column": 0
+      },
+      "cleanedText": "Comcast A Corp"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 31,
+        "column": 1
+      },
+      "cleanedText": "Comcast K Corp"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 31,
+        "column": 2
+      },
+      "cleanedText": "CMCSK shares reclassified as CMCSA"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 32,
+        "column": 0
+      },
+      "cleanedText": "CSRA Inc"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 32,
+        "column": 1
+      },
+      "cleanedText": "Computer Sciences Corp"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 32,
+        "column": 2
+      },
+      "cleanedText": "CSC spins off CSRA"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 33,
+        "column": 0
+      },
+      "cleanedText": "Illumina Inc"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 33,
+        "column": 1
+      },
+      "cleanedText": "Sigma-Aldrich Corp"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 33,
+        "column": 2
+      },
+      "cleanedText": "Sigma-Aldrich acquired by Merck KGaA (MKGAY)"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 34,
+        "column": 0
+      },
+      "cleanedText": "Synchrony Financial"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 34,
+        "column": 1
+      },
+      "cleanedText": "Genworth Financial"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 34,
+        "column": 2
+      },
+      "cleanedText": "GE spinning off Synchrony Financial"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 35,
+        "column": 0
+      },
+      "cleanedText": "Hewlett Packard Enterprise"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 35,
+        "column": 1
+      },
+      "cleanedText": "Hudson City Bancorp Inc"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 35,
+        "column": 2
+      },
+      "cleanedText": "HPQ spins off HPE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 36,
+        "column": 0
+      },
+      "cleanedText": "Verisk Analytics"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 36,
+        "column": 1
+      },
+      "cleanedText": "Joy Global"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 36,
+        "column": 2
+      },
+      "cleanedText": "Market capitalization change."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 37,
+        "column": 0
+      },
+      "cleanedText": "United Continental Holdings"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 37,
+        "column": 1
+      },
+      "cleanedText": "Hospira Inc"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 37,
+        "column": 2
+      },
+      "cleanedText": "Hospira taken over"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 38,
+        "column": 0
+      },
+      "cleanedText": "Activision Blizzard"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 38,
+        "column": 1
+      },
+      "cleanedText": "Pall Corp"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 38,
+        "column": 2
+      },
+      "cleanedText": "Pall taken over"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 39,
+        "column": 0
+      },
+      "cleanedText": "Signet Jewelers"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 39,
+        "column": 1
+      },
+      "cleanedText": "DirecTV"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 39,
+        "column": 2
+      },
+      "cleanedText": "DirectTV acquired by AT\u0026T"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 40,
+        "column": 0
+      },
+      "cleanedText": "PayPal"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 40,
+        "column": 1
+      },
+      "cleanedText": "Noble Corp"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 40,
+        "column": 2
+      },
+      "cleanedText": "PayPal Spun off by eBay"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 41,
+        "column": 0
+      },
+      "cleanedText": "Advance Auto Parts"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 41,
+        "column": 1
+      },
+      "cleanedText": "Family Dollar Stores Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 41,
+        "column": 2
+      },
+      "cleanedText": "Family Dollar Acquired."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 42,
+        "column": 0
+      },
+      "cleanedText": "Columbia Pipeline Group Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 42,
+        "column": 1
+      },
+      "cleanedText": "Allegheny Technologies"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 42,
+        "column": 2
+      },
+      "cleanedText": "Spin off of Columbia Pipeline."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 43,
+        "column": 0
+      },
+      "cleanedText": "J. B. Hunt"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 43,
+        "column": 1
+      },
+      "cleanedText": "Integrys Energy Group Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 43,
+        "column": 2
+      },
+      "cleanedText": "Integris taken over."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 44,
+        "column": 0
+      },
+      "cleanedText": "Baxalta"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 44,
+        "column": 1
+      },
+      "cleanedText": "QEP Resources"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 44,
+        "column": 2
+      },
+      "cleanedText": "Baxalta spun off by Baxter."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 45,
+        "column": 0
+      },
+      "cleanedText": "Qorvo"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 45,
+        "column": 1
+      },
+      "cleanedText": "Lorillard Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 45,
+        "column": 2
+      },
+      "cleanedText": "Lorillard Inc. gets acquired."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 46,
+        "column": 0
+      },
+      "cleanedText": "Realty Income Corporation"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 46,
+        "column": 1
+      },
+      "cleanedText": "Windstream Holdings Inc"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 46,
+        "column": 2
+      },
+      "cleanedText": "Market capitalization change."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 47,
+        "column": 0
+      },
+      "cleanedText": "American Airlines Group"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 47,
+        "column": 1
+      },
+      "cleanedText": "Allergan, Inc"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 47,
+        "column": 2
+      },
+      "cleanedText": "Allergan acquired by Actavis plc (and changed name to Allergan, pl."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 48,
+        "column": 0
+      },
+      "cleanedText": "Equinix"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 48,
+        "column": 1
+      },
+      "cleanedText": "Denbury Resources"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 48,
+        "column": 2
+      },
+      "cleanedText": "Market Capitalization Changes."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 49,
+        "column": 0
+      },
+      "cleanedText": "SL Green Realty"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 49,
+        "column": 1
+      },
+      "cleanedText": "Nabors Industries"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 49,
+        "column": 2
+      },
+      "cleanedText": "Market Capitalization Changes."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 50,
+        "column": 0
+      },
+      "cleanedText": "Hanesbrands"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 50,
+        "column": 1
+      },
+      "cleanedText": "Avon Products"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 50,
+        "column": 2
+      },
+      "cleanedText": "Market Capitalization Changes."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 51,
+        "column": 0
+      },
+      "cleanedText": "Henry Schein"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 51,
+        "column": 1
+      },
+      "cleanedText": "Carefusion"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 51,
+        "column": 2
+      },
+      "cleanedText": "Carefusion acquired by Becton Dickinson"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 52,
+        "column": 0
+      },
+      "cleanedText": "Skyworks Solutions Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 52,
+        "column": 1
+      },
+      "cleanedText": "PetSmart Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 52,
+        "column": 2
+      },
+      "cleanedText": "PetSmart acquired by private equity consortium"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 53,
+        "column": 0
+      },
+      "cleanedText": "HCA Holdings"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 53,
+        "column": 1
+      },
+      "cleanedText": "Safeway Inc"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 53,
+        "column": 2
+      },
+      "cleanedText": "Safeway acquired by private equity consortium"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 54,
+        "column": 0
+      },
+      "cleanedText": "Endo International"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 54,
+        "column": 1
+      },
+      "cleanedText": "Covidien"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 54,
+        "column": 2
+      },
+      "cleanedText": "Covidien acquired by Medtronic"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 55,
+        "column": 0
+      },
+      "cleanedText": "Royal Caribbean Cruises Ltd"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 55,
+        "column": 1
+      },
+      "cleanedText": "Bemis Company"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 55,
+        "column": 2
+      },
+      "cleanedText": "Market cap changes"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 56,
+        "column": 0
+      },
+      "cleanedText": "Level 3 Communications"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 56,
+        "column": 1
+      },
+      "cleanedText": "Jabil Circuit"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 56,
+        "column": 2
+      },
+      "cleanedText": "Market cap changes"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 57,
+        "column": 0
+      },
+      "cleanedText": "United Rentals"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 57,
+        "column": 1
+      },
+      "cleanedText": "Peabody Energy"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 57,
+        "column": 2
+      },
+      "cleanedText": "Market cap changes"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 58,
+        "column": 0
+      },
+      "cleanedText": "Universal Health Services"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 58,
+        "column": 1
+      },
+      "cleanedText": "Graham Holdings"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 58,
+        "column": 2
+      },
+      "cleanedText": "Market cap changes"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 59,
+        "column": 0
+      },
+      "cleanedText": "Mallinckrodt Plc"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 59,
+        "column": 1
+      },
+      "cleanedText": "Rowan Companies Plc"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 59,
+        "column": 2
+      },
+      "cleanedText": "Market cap changes"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 60,
+        "column": 0
+      },
+      "cleanedText": "Discovery Communications"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 60,
+        "column": 1
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 60,
+        "column": 2
+      },
+      "cleanedText": "Class C share distribution"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 61,
+        "column": 0
+      },
+      "cleanedText": "Martin Marietta Materials"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 61,
+        "column": 1
+      },
+      "cleanedText": "United States Steel Corporation"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 61,
+        "column": 2
+      },
+      "cleanedText": "Market capitalization changes"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 62,
+        "column": 0
+      },
+      "cleanedText": "Affiliated Managers Group Inc"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 62,
+        "column": 1
+      },
+      "cleanedText": "Forest Laboratories"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 62,
+        "column": 2
+      },
+      "cleanedText": "Actavis acquires Forrest Laboratories"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 63,
+        "column": 0
+      },
+      "cleanedText": "Cimarex Energy"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 63,
+        "column": 1
+      },
+      "cleanedText": "International Game Technology"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 63,
+        "column": 2
+      },
+      "cleanedText": "Market capitalization changes"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 64,
+        "column": 0
+      },
+      "cleanedText": "Avago Technologies"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 64,
+        "column": 1
+      },
+      "cleanedText": "LSI Corporation"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 64,
+        "column": 2
+      },
+      "cleanedText": "Avago acquires LSI"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 65,
+        "column": 0
+      },
+      "cleanedText": "Under Armour"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 65,
+        "column": 1
+      },
+      "cleanedText": "Beam Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 65,
+        "column": 2
+      },
+      "cleanedText": "Beam acquired by Suntory"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 66,
+        "column": 0
+      },
+      "cleanedText": "Navient"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 66,
+        "column": 1
+      },
+      "cleanedText": "SLM Corporation"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 66,
+        "column": 2
+      },
+      "cleanedText": "Navient Spun off from SLM"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 67,
+        "column": 0
+      },
+      "cleanedText": "Google Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 67,
+        "column": 1
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 67,
+        "column": 2
+      },
+      "cleanedText": "Google Class C share distribution"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 68,
+        "column": 0
+      },
+      "cleanedText": "Essex Property Trust Inc"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 68,
+        "column": 1
+      },
+      "cleanedText": "Cliffs Natural Resources"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 68,
+        "column": 2
+      },
+      "cleanedText": "Market capitalization changes"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 69,
+        "column": 0
+      },
+      "cleanedText": "Keurig Green Mountain"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 69,
+        "column": 1
+      },
+      "cleanedText": "WPX Energy, Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 69,
+        "column": 2
+      },
+      "cleanedText": "Market capitalization changes"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 70,
+        "column": 0
+      },
+      "cleanedText": "Tractor Supply Company"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 70,
+        "column": 1
+      },
+      "cleanedText": "Life Technologies"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 70,
+        "column": 2
+      },
+      "cleanedText": "Life Technologies acquired by Thermo Fisher Scientific Inc"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 71,
+        "column": 0
+      },
+      "cleanedText": "Alliance Data Systems"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 71,
+        "column": 1
+      },
+      "cleanedText": "Abercrombie \u0026 Fitch"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 71,
+        "column": 2
+      },
+      "cleanedText": "Market capitalization changes"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 72,
+        "column": 0
+      },
+      "cleanedText": "Mohawk Industries"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 72,
+        "column": 1
+      },
+      "cleanedText": "JDS Uniphase"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 72,
+        "column": 2
+      },
+      "cleanedText": "Market capitalization changes"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 73,
+        "column": 0
+      },
+      "cleanedText": "Facebook"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 73,
+        "column": 1
+      },
+      "cleanedText": "Teradyne"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 73,
+        "column": 2
+      },
+      "cleanedText": "Market capitalization changes"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 74,
+        "column": 0
+      },
+      "cleanedText": "General Growth Properties Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 74,
+        "column": 1
+      },
+      "cleanedText": "Molex Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 74,
+        "column": 2
+      },
+      "cleanedText": "MOLX acquired by Koch Industries"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 75,
+        "column": 0
+      },
+      "cleanedText": "Allegion"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 75,
+        "column": 1
+      },
+      "cleanedText": "J.C. Penney"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 75,
+        "column": 2
+      },
+      "cleanedText": "Allegion spun off by Ingersoll Rand"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 76,
+        "column": 0
+      },
+      "cleanedText": "Michael Kors"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 76,
+        "column": 1
+      },
+      "cleanedText": "NYSE Euronext"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 76,
+        "column": 2
+      },
+      "cleanedText": "ICE Exchange acquired NYSE Euronext"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 77,
+        "column": 0
+      },
+      "cleanedText": "Transocean"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 77,
+        "column": 1
+      },
+      "cleanedText": "Dell, Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 77,
+        "column": 2
+      },
+      "cleanedText": "Dell acquired by private equity consortium"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 78,
+        "column": 0
+      },
+      "cleanedText": "Vertex Pharmaceuticals"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 78,
+        "column": 1
+      },
+      "cleanedText": "Advanced Micro Devices"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 78,
+        "column": 2
+      },
+      "cleanedText": "Market capitalization changes"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 79,
+        "column": 0
+      },
+      "cleanedText": "Ametek"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 79,
+        "column": 1
+      },
+      "cleanedText": "SAIC"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 79,
+        "column": 2
+      },
+      "cleanedText": "Market capitalization changes"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 80,
+        "column": 0
+      },
+      "cleanedText": "Delta Air Lines"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 80,
+        "column": 1
+      },
+      "cleanedText": "BMC Software"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 80,
+        "column": 2
+      },
+      "cleanedText": "BMC taken private by consortium"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 81,
+        "column": 0
+      },
+      "cleanedText": "Nielsen Holdings"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 81,
+        "column": 1
+      },
+      "cleanedText": "Sprint Nextel Corp."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 81,
+        "column": 2
+      },
+      "cleanedText": "Softbank consortium purchase results in public float below 50%"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 82,
+        "column": 0
+      },
+      "cleanedText": "21st Century Fox"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 82,
+        "column": 1
+      },
+      "cleanedText": "Apollo Group Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 82,
+        "column": 2
+      },
+      "cleanedText": "Apollo Group\u0027s market cap more representative of a mid-cap"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 83,
+        "column": 0
+      },
+      "cleanedText": "Zoetis"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 83,
+        "column": 1
+      },
+      "cleanedText": "First Horizon"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 83,
+        "column": 2
+      },
+      "cleanedText": "Zoetis spun off by Pfizer"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 84,
+        "column": 0
+      },
+      "cleanedText": "General Motors"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 84,
+        "column": 1
+      },
+      "cleanedText": "H. J. Heinz Company"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 84,
+        "column": 2
+      },
+      "cleanedText": "HNZ acquired by consortium"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 85,
+        "column": 0
+      },
+      "cleanedText": "Kansas City Southern"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 85,
+        "column": 1
+      },
+      "cleanedText": "Dean Foods"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 85,
+        "column": 2
+      },
+      "cleanedText": "DF too small after spinoff of White Wave Foods"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 86,
+        "column": 0
+      },
+      "cleanedText": "Macerich"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 86,
+        "column": 1
+      },
+      "cleanedText": "Coventry Health Care"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 86,
+        "column": 2
+      },
+      "cleanedText": "Acquired by Aetna (AET)"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 87,
+        "column": 0
+      },
+      "cleanedText": "Regeneron"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 87,
+        "column": 1
+      },
+      "cleanedText": "MetroPCS"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 87,
+        "column": 2
+      },
+      "cleanedText": "A majority of MetroPCS was acquired by T-Mobile"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 88,
+        "column": 0
+      },
+      "cleanedText": "PVH Corp."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 88,
+        "column": 1
+      },
+      "cleanedText": "Big Lots Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 88,
+        "column": 2
+      },
+      "cleanedText": "Market capitalization changes"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 89,
+        "column": 0
+      },
+      "cleanedText": "AbbVie"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 89,
+        "column": 1
+      },
+      "cleanedText": "Federated Investors"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 89,
+        "column": 2
+      },
+      "cleanedText": "ABBV spun off from Abbott Labs (ABT)"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 90,
+        "column": 0
+      },
+      "cleanedText": "Delphi Automotive"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 90,
+        "column": 1
+      },
+      "cleanedText": "Titanium Metals"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 90,
+        "column": 2
+      },
+      "cleanedText": "TIE acquired by Precision Cast Parts (PCP)"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 91,
+        "column": 0
+      },
+      "cleanedText": "Garmin Ltd."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 91,
+        "column": 1
+      },
+      "cleanedText": "R.R. Donnelley"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 91,
+        "column": 2
+      },
+      "cleanedText": "Market capitalization changes"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 92,
+        "column": 0
+      },
+      "cleanedText": "Dollar General"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 92,
+        "column": 1
+      },
+      "cleanedText": "Cooper Industries"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 92,
+        "column": 2
+      },
+      "cleanedText": "Acquired by Eaton Corp. (ETN)"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 93,
+        "column": 0
+      },
+      "cleanedText": "PetSmart, Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 93,
+        "column": 1
+      },
+      "cleanedText": "Sunoco Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 93,
+        "column": 2
+      },
+      "cleanedText": "Acquired by Energy Transfer Partners (ETP)"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 94,
+        "column": 0
+      },
+      "cleanedText": "Kraft Foods Group"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 94,
+        "column": 1
+      },
+      "cleanedText": "Alpha Natural Resources"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 94,
+        "column": 2
+      },
+      "cleanedText": "Kraft split into two companies"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 95,
+        "column": 0
+      },
+      "cleanedText": "ADT Corp"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 95,
+        "column": 1
+      },
+      "cleanedText": "Lexmark Int\u0027l Inc"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 95,
+        "column": 2
+      },
+      "cleanedText": "Tyco spun off ADT"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 96,
+        "column": 0
+      },
+      "cleanedText": "Pentair Ltd."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 96,
+        "column": 1
+      },
+      "cleanedText": "DeVry, Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 96,
+        "column": 2
+      },
+      "cleanedText": "Tyco spin-off merged w/Pentair"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 97,
+        "column": 0
+      },
+      "cleanedText": "LyondellBasell"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 97,
+        "column": 1
+      },
+      "cleanedText": "Sears Holding Corporation"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 97,
+        "column": 2
+      },
+      "cleanedText": "SHLD below public float threshold"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 98,
+        "column": 0
+      },
+      "cleanedText": "Ensco plc"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 98,
+        "column": 1
+      },
+      "cleanedText": "Goodrich Corporation"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 98,
+        "column": 2
+      },
+      "cleanedText": "Acquired by United Technologies (UTX)"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 99,
+        "column": 0
+      },
+      "cleanedText": "Seagate Technology"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 99,
+        "column": 1
+      },
+      "cleanedText": "Progress Energy Inc"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 99,
+        "column": 2
+      },
+      "cleanedText": "Acquired by Duke Energy (DUK)"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 100,
+        "column": 0
+      },
+      "cleanedText": "Monster Beverage"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 100,
+        "column": 1
+      },
+      "cleanedText": "Sara Lee Corp."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 100,
+        "column": 2
+      },
+      "cleanedText": "Split up of Sara Lee"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 101,
+        "column": 0
+      },
+      "cleanedText": "Lam Research"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 101,
+        "column": 1
+      },
+      "cleanedText": "Novellus Systems"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 101,
+        "column": 2
+      },
+      "cleanedText": "Acquired by Lam Research (LRCX)"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 102,
+        "column": 0
+      },
+      "cleanedText": "Alexion Pharmaceuticals"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 102,
+        "column": 1
+      },
+      "cleanedText": "Motorola Mobility"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 102,
+        "column": 2
+      },
+      "cleanedText": "Acquired by Google (GOOG)"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 103,
+        "column": 0
+      },
+      "cleanedText": "Kinder Morgan"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 103,
+        "column": 1
+      },
+      "cleanedText": "El Paso Corp."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 103,
+        "column": 2
+      },
+      "cleanedText": "Acquired by Kinder Morgan (KMI)"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 104,
+        "column": 0
+      },
+      "cleanedText": "Phillips 66"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 104,
+        "column": 1
+      },
+      "cleanedText": "Supervalu Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 104,
+        "column": 2
+      },
+      "cleanedText": "ConocoPhillips spun off Phillips 66"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 105,
+        "column": 0
+      },
+      "cleanedText": "Fossil, Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 105,
+        "column": 1
+      },
+      "cleanedText": "Medco Health Solutions Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 105,
+        "column": 2
+      },
+      "cleanedText": "Acquired by Express Scripts (ESRX)"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 106,
+        "column": 0
+      },
+      "cleanedText": "Crown Castle International Corp."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 106,
+        "column": 1
+      },
+      "cleanedText": "Constellation Energy Group"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 106,
+        "column": 2
+      },
+      "cleanedText": "Acquired by Exelon Corp. (EXC)"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 107,
+        "column": 0
+      },
+      "cleanedText": "WPX Energy, Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 107,
+        "column": 1
+      },
+      "cleanedText": "Compuware"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 107,
+        "column": 2
+      },
+      "cleanedText": "Market capitalization changes"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 108,
+        "column": 0
+      },
+      "cleanedText": "TripAdvisor Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 108,
+        "column": 1
+      },
+      "cleanedText": "Tellabs Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 108,
+        "column": 2
+      },
+      "cleanedText": "Expedia Inc. spun off TripAdvisor Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 109,
+        "column": 0
+      },
+      "cleanedText": "BorgWarner Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 109,
+        "column": 1
+      },
+      "cleanedText": "AK Steel Holding Corp."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 109,
+        "column": 2
+      },
+      "cleanedText": "Market capitalization changes"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 110,
+        "column": 0
+      },
+      "cleanedText": "Perrigo Co."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 110,
+        "column": 1
+      },
+      "cleanedText": "Monster Worldwide Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 110,
+        "column": 2
+      },
+      "cleanedText": "Market capitalization changes"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 111,
+        "column": 0
+      },
+      "cleanedText": "Dollar Tree Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 111,
+        "column": 1
+      },
+      "cleanedText": "MEMC Electronic Materials Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 111,
+        "column": 2
+      },
+      "cleanedText": "Market capitalization changes"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 112,
+        "column": 0
+      },
+      "cleanedText": "AGL Resources Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 112,
+        "column": 1
+      },
+      "cleanedText": "Nicor Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 112,
+        "column": 2
+      },
+      "cleanedText": "Nicor acquired by AGL, which retained the GAS ticker."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 113,
+        "column": 0
+      },
+      "cleanedText": "Cooper Industries"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 113,
+        "column": 1
+      },
+      "cleanedText": "Janus Capital Group"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 113,
+        "column": 2
+      },
+      "cleanedText": "Janus Capital Group’s market capitalization is less than $1.2 billion and is no longer representative of the large cap market space."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 114,
+        "column": 0
+      },
+      "cleanedText": "Xylem Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 114,
+        "column": 1
+      },
+      "cleanedText": "ITT Corp."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 114,
+        "column": 2
+      },
+      "cleanedText": "Spun off from ITT Corp."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 115,
+        "column": 0
+      },
+      "cleanedText": "TE Connectivity Ltd."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 115,
+        "column": 1
+      },
+      "cleanedText": "Cephalon Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 115,
+        "column": 2
+      },
+      "cleanedText": "Acquired by Teva Pharmaceutical Industries (TEVA)."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 116,
+        "column": 0
+      },
+      "cleanedText": "The Mosaic Company"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 116,
+        "column": 1
+      },
+      "cleanedText": "National Semiconductor Corp."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 116,
+        "column": 2
+      },
+      "cleanedText": "Acquired by Texas Instruments (TXN)."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 117,
+        "column": 0
+      },
+      "cleanedText": "Accenture plc"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 117,
+        "column": 1
+      },
+      "cleanedText": "Marshall \u0026 Iisley Corp."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 117,
+        "column": 2
+      },
+      "cleanedText": "Marshall \u0026 Iisley is being bought by Bank of Montreal"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 118,
+        "column": 0
+      },
+      "cleanedText": "Marathon Petroleum Corp"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 118,
+        "column": 1
+      },
+      "cleanedText": "RadioShack Corp."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 118,
+        "column": 2
+      },
+      "cleanedText": "Market capitalization adjustments."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 119,
+        "column": 0
+      },
+      "cleanedText": "Alpha Natural Resources, Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 119,
+        "column": 1
+      },
+      "cleanedText": "Massey Energy Company"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 119,
+        "column": 2
+      },
+      "cleanedText": "Alpha Natural Resources is acquiring Massey Energy in a deal expected to be completed on or about that date pending final approvals."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 120,
+        "column": 0
+      },
+      "cleanedText": "Chipotle"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 120,
+        "column": 1
+      },
+      "cleanedText": "Novell, Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 120,
+        "column": 2
+      },
+      "cleanedText": "Acquired by private equity firms."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 121,
+        "column": 0
+      },
+      "cleanedText": "BlackRock"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 121,
+        "column": 1
+      },
+      "cleanedText": "Genzyme Corp."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 121,
+        "column": 2
+      },
+      "cleanedText": "Acquired by Sanofi-aventis (SNY)"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 122,
+        "column": 0
+      },
+      "cleanedText": "Edwards Lifesciences"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 122,
+        "column": 1
+      },
+      "cleanedText": "Qwest Communications"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 122,
+        "column": 2
+      },
+      "cleanedText": "Acquired by CenturyLink"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 123,
+        "column": 0
+      },
+      "cleanedText": "Covidien Plc"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 123,
+        "column": 1
+      },
+      "cleanedText": "McAfee Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 123,
+        "column": 2
+      },
+      "cleanedText": "Acquired by Intel Corp. (INTC)"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 124,
+        "column": 0
+      },
+      "cleanedText": "Joy Global Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 124,
+        "column": 1
+      },
+      "cleanedText": "Allegheny Energy Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 124,
+        "column": 2
+      },
+      "cleanedText": "Acquired by First Energy (FE)."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 125,
+        "column": 0
+      },
+      "cleanedText": "Cablevision Systems Corp."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 125,
+        "column": 1
+      },
+      "cleanedText": "King Pharmaceuticals Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 125,
+        "column": 2
+      },
+      "cleanedText": "Acquired by Pfizer Inc. (PFE)"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 126,
+        "column": 0
+      },
+      "cleanedText": "F5 Networks Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 126,
+        "column": 1
+      },
+      "cleanedText": "Eastman Kodak Co."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 126,
+        "column": 2
+      },
+      "cleanedText": "Market Cap changes."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 127,
+        "column": 0
+      },
+      "cleanedText": "Netflix Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 127,
+        "column": 1
+      },
+      "cleanedText": "Office Depot Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 127,
+        "column": 2
+      },
+      "cleanedText": "Market Cap changes."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 128,
+        "column": 0
+      },
+      "cleanedText": "Newfield Exploration Co."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 128,
+        "column": 1
+      },
+      "cleanedText": "The New York Times Co."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 128,
+        "column": 2
+      },
+      "cleanedText": "Market Cap changes."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 129,
+        "column": 0
+      },
+      "cleanedText": "Tyco International Ltd."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 129,
+        "column": 1
+      },
+      "cleanedText": "Smith International Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 129,
+        "column": 2
+      },
+      "cleanedText": "Acquired by Schlumberger Ltd. (SLB)"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 130,
+        "column": 0
+      },
+      "cleanedText": "Ace Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 130,
+        "column": 1
+      },
+      "cleanedText": "Millipore Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 130,
+        "column": 2
+      },
+      "cleanedText": "Acquired by Merck KGaA (MKGAY)"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 131,
+        "column": 0
+      },
+      "cleanedText": "QEP Resources"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 131,
+        "column": 1
+      },
+      "cleanedText": "Questar Corp."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 131,
+        "column": 2
+      },
+      "cleanedText": "Company split. QEP retained, but ticker changed."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 132,
+        "column": 0
+      },
+      "cleanedText": "CarMax, Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 132,
+        "column": 1
+      },
+      "cleanedText": "XTO Energy Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 132,
+        "column": 2
+      },
+      "cleanedText": "Acquired by ExxonMobil Inc. (XOM)"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 133,
+        "column": 0
+      },
+      "cleanedText": "Cerner Corp."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 133,
+        "column": 1
+      },
+      "cleanedText": "BJ Services Company"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 133,
+        "column": 2
+      },
+      "cleanedText": "Acquired by Baker Hughes Inc. (BHI)"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 134,
+        "column": 0
+      },
+      "cleanedText": "Priceline.com"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 134,
+        "column": 1
+      },
+      "cleanedText": "Schering-Plough Corp."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 134,
+        "column": 2
+      },
+      "cleanedText": "Acquired by Merck \u0026 Co. (MRK)"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 135,
+        "column": 0
+      },
+      "cleanedText": "Airgas Inc"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 135,
+        "column": 1
+      },
+      "cleanedText": "Cooper Industries Ltd."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 135,
+        "column": 2
+      },
+      "cleanedText": "Redomesticated to Ireland"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 136,
+        "column": 0
+      },
+      "cleanedText": "Lorillard Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 136,
+        "column": 1
+      },
+      "cleanedText": "Ambac Financial"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 136,
+        "column": 2
+      },
+      "cleanedText": "Market Value Decline"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 137,
+        "column": 0
+      },
+      "cleanedText": "Range Resources"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 137,
+        "column": 1
+      },
+      "cleanedText": "Tribune Co."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 137,
+        "column": 2
+      },
+      "cleanedText": "Taken private"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 138,
+        "column": 0
+      },
+      "cleanedText": "Jacobs Engineering Group"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 138,
+        "column": 1
+      },
+      "cleanedText": "Avaya Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 138,
+        "column": 2
+      },
+      "cleanedText": "Taken private"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 139,
+        "column": 0
+      },
+      "cleanedText": "AvalonBay Communities, Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 139,
+        "column": 1
+      },
+      "cleanedText": "Symbol Technologies"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 139,
+        "column": 2
+      },
+      "cleanedText": "Acquired by Motorola"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 140,
+        "column": 0
+      },
+      "cleanedText": "Intuit"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 140,
+        "column": 1
+      },
+      "cleanedText": "Bethlehem Steel"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 140,
+        "column": 2
+      },
+      "cleanedText": "Market Cap changes."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 141,
+        "column": 0
+      },
+      "cleanedText": "Symbol Technologies"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 141,
+        "column": 1
+      },
+      "cleanedText": "Owens-Illinois"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 141,
+        "column": 2
+      },
+      "cleanedText": "Market Cap changes."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 142,
+        "column": 0
+      },
+      "cleanedText": "Allegheny Energy"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 142,
+        "column": 1
+      },
+      "cleanedText": "W.R. Grace"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 142,
+        "column": 2
+      },
+      "cleanedText": "Market Cap changes."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 143,
+        "column": 0
+      },
+      "cleanedText": "Ambac Financial"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 143,
+        "column": 1
+      },
+      "cleanedText": "Crown Holdings"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 143,
+        "column": 2
+      },
+      "cleanedText": "Market Cap changes."
+    }
+  ],
+  "maxDimensions": {
+    "row": 143,
+    "column": 2
+  },
+  "columns": [
+    {
+      "tableName": "http://dbpedia.org/resource/List_of_S\u0026P_500_companies?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d2_2",
+      "columnName": "Added",
+      "fields": [
+        "Security",
+        "Coty, Inc",
+        "The Cooper Companies",
+        "Charter Communications",
+        "Mettler Toledo",
+        "Fortive Corp",
+        "Alliant Energy Corp",
+        "Albemarle Corp",
+        "Fortune Brands Home \u0026 Security",
+        "TransDigm Group",
+        "Arthur J. Gallagher \u0026 Co.",
+        "LKQ Corporation",
+        "Digital Realty Trust",
+        "Alaska Air Group Inc",
+        "Acuity Brands Inc",
+        "S\u0026P Global, Inc.",
+        "Global Payments",
+        "Ulta Salon, Cosmetics \u0026 Fragrance Inc",
+        "Foot Locker Inc",
+        "Hologic Inc",
+        "Centene Corporation",
+        "UDR Inc",
+        "American Water Works Company Inc",
+        "Concho Resources",
+        "Citizens Financial Group",
+        "Federal Realty Investment Trust",
+        "Extra Space Storage",
+        "Chubb Limited",
+        "Willis Towers Watson",
+        "Church \u0026 Dwight",
+        "Comcast A Corp",
+        "CSRA Inc",
+        "Illumina Inc",
+        "Synchrony Financial",
+        "Hewlett Packard Enterprise",
+        "Verisk Analytics",
+        "United Continental Holdings",
+        "Activision Blizzard",
+        "Signet Jewelers",
+        "PayPal",
+        "Advance Auto Parts",
+        "Columbia Pipeline Group Inc.",
+        "J. B. Hunt",
+        "Baxalta",
+        "Qorvo",
+        "Realty Income Corporation",
+        "American Airlines Group",
+        "Equinix",
+        "SL Green Realty",
+        "Hanesbrands",
+        "Henry Schein",
+        "Skyworks Solutions Inc.",
+        "HCA Holdings",
+        "Endo International",
+        "Royal Caribbean Cruises Ltd",
+        "Level 3 Communications",
+        "United Rentals",
+        "Universal Health Services",
+        "Mallinckrodt Plc",
+        "Discovery Communications",
+        "Martin Marietta Materials",
+        "Affiliated Managers Group Inc",
+        "Cimarex Energy",
+        "Avago Technologies",
+        "Under Armour",
+        "Navient",
+        "Google Inc.",
+        "Essex Property Trust Inc",
+        "Keurig Green Mountain",
+        "Tractor Supply Company",
+        "Alliance Data Systems",
+        "Mohawk Industries",
+        "Facebook",
+        "General Growth Properties Inc.",
+        "Allegion",
+        "Michael Kors",
+        "Transocean",
+        "Vertex Pharmaceuticals",
+        "Ametek",
+        "Delta Air Lines",
+        "Nielsen Holdings",
+        "21st Century Fox",
+        "Zoetis",
+        "General Motors",
+        "Kansas City Southern",
+        "Macerich",
+        "Regeneron",
+        "PVH Corp.",
+        "AbbVie",
+        "Delphi Automotive",
+        "Garmin Ltd.",
+        "Dollar General",
+        "PetSmart, Inc.",
+        "Kraft Foods Group",
+        "ADT Corp",
+        "Pentair Ltd.",
+        "LyondellBasell",
+        "Ensco plc",
+        "Seagate Technology",
+        "Monster Beverage",
+        "Lam Research",
+        "Alexion Pharmaceuticals",
+        "Kinder Morgan",
+        "Phillips 66",
+        "Fossil, Inc.",
+        "Crown Castle International Corp.",
+        "WPX Energy, Inc.",
+        "TripAdvisor Inc.",
+        "BorgWarner Inc.",
+        "Perrigo Co.",
+        "Dollar Tree Inc.",
+        "AGL Resources Inc.",
+        "Cooper Industries",
+        "Xylem Inc.",
+        "TE Connectivity Ltd.",
+        "The Mosaic Company",
+        "Accenture plc",
+        "Marathon Petroleum Corp",
+        "Alpha Natural Resources, Inc.",
+        "Chipotle",
+        "BlackRock",
+        "Edwards Lifesciences",
+        "Covidien Plc",
+        "Joy Global Inc.",
+        "Cablevision Systems Corp.",
+        "F5 Networks Inc.",
+        "Netflix Inc.",
+        "Newfield Exploration Co.",
+        "Tyco International Ltd.",
+        "Ace Limited",
+        "QEP Resources",
+        "CarMax, Inc.",
+        "Cerner Corp.",
+        "Priceline.com",
+        "Airgas Inc",
+        "Lorillard Inc.",
+        "Range Resources",
+        "Jacobs Engineering Group",
+        "AvalonBay Communities, Inc.",
+        "Intuit",
+        "Symbol Technologies",
+        "Allegheny Energy",
+        "Ambac Financial"
+      ]
+    },
+    {
+      "tableName": "http://dbpedia.org/resource/List_of_S\u0026P_500_companies?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d2_2",
+      "columnName": "Removed",
+      "fields": [
+        "Security",
+        "Diamond Offshore Drilling Inc",
+        "Starwood Hotels \u0026 Resorts Worldwide Inc",
+        "EMC Corporation",
+        "Johnson Controls Inc",
+        "Columbia Pipeline Group Inc",
+        "AGL Resources",
+        "TECO Energy",
+        "Cablevision Systems",
+        "Baxalta Inc",
+        "Coca-Cola Enterprises",
+        "Airgas Inc",
+        "Time Warner Cable",
+        "SanDisk Corporation",
+        "ADT Corp",
+        "McGraw Hill Financial, Inc.",
+        "GameStop",
+        "Tenet Healthcare",
+        "Cameron International",
+        "Pepco Holdings Inc",
+        "Ensco plc",
+        "Keurig Green Mountain",
+        "Consol Energy",
+        "Plum Creek Timber",
+        "Precision Castparts Corp.",
+        "Broadcom Corporation",
+        "Chubb Corp",
+        "ACE Limited",
+        "Fossil Group",
+        "Altera Corp",
+        "Comcast K Corp",
+        "Computer Sciences Corp",
+        "Sigma-Aldrich Corp",
+        "Genworth Financial",
+        "Hudson City Bancorp Inc",
+        "Joy Global",
+        "Hospira Inc",
+        "Pall Corp",
+        "DirecTV",
+        "Noble Corp",
+        "Family Dollar Stores Inc.",
+        "Allegheny Technologies",
+        "Integrys Energy Group Inc.",
+        "QEP Resources",
+        "Lorillard Inc.",
+        "Windstream Holdings Inc",
+        "Allergan, Inc",
+        "Denbury Resources",
+        "Nabors Industries",
+        "Avon Products",
+        "Carefusion",
+        "PetSmart Inc.",
+        "Safeway Inc",
+        "Covidien",
+        "Bemis Company",
+        "Jabil Circuit",
+        "Peabody Energy",
+        "Graham Holdings",
+        "Rowan Companies Plc",
+        "",
+        "United States Steel Corporation",
+        "Forest Laboratories",
+        "International Game Technology",
+        "LSI Corporation",
+        "Beam Inc.",
+        "SLM Corporation",
+        "",
+        "Cliffs Natural Resources",
+        "WPX Energy, Inc.",
+        "Life Technologies",
+        "Abercrombie \u0026 Fitch",
+        "JDS Uniphase",
+        "Teradyne",
+        "Molex Inc.",
+        "J.C. Penney",
+        "NYSE Euronext",
+        "Dell, Inc.",
+        "Advanced Micro Devices",
+        "SAIC",
+        "BMC Software",
+        "Sprint Nextel Corp.",
+        "Apollo Group Inc.",
+        "First Horizon",
+        "H. J. Heinz Company",
+        "Dean Foods",
+        "Coventry Health Care",
+        "MetroPCS",
+        "Big Lots Inc.",
+        "Federated Investors",
+        "Titanium Metals",
+        "R.R. Donnelley",
+        "Cooper Industries",
+        "Sunoco Inc.",
+        "Alpha Natural Resources",
+        "Lexmark Int\u0027l Inc",
+        "DeVry, Inc.",
+        "Sears Holding Corporation",
+        "Goodrich Corporation",
+        "Progress Energy Inc",
+        "Sara Lee Corp.",
+        "Novellus Systems",
+        "Motorola Mobility",
+        "El Paso Corp.",
+        "Supervalu Inc.",
+        "Medco Health Solutions Inc.",
+        "Constellation Energy Group",
+        "Compuware",
+        "Tellabs Inc.",
+        "AK Steel Holding Corp.",
+        "Monster Worldwide Inc.",
+        "MEMC Electronic Materials Inc.",
+        "Nicor Inc.",
+        "Janus Capital Group",
+        "ITT Corp.",
+        "Cephalon Inc.",
+        "National Semiconductor Corp.",
+        "Marshall \u0026 Iisley Corp.",
+        "RadioShack Corp.",
+        "Massey Energy Company",
+        "Novell, Inc.",
+        "Genzyme Corp.",
+        "Qwest Communications",
+        "McAfee Inc.",
+        "Allegheny Energy Inc.",
+        "King Pharmaceuticals Inc.",
+        "Eastman Kodak Co.",
+        "Office Depot Inc.",
+        "The New York Times Co.",
+        "Smith International Inc.",
+        "Millipore Inc.",
+        "Questar Corp.",
+        "XTO Energy Inc.",
+        "BJ Services Company",
+        "Schering-Plough Corp.",
+        "Cooper Industries Ltd.",
+        "Ambac Financial",
+        "Tribune Co.",
+        "Avaya Inc.",
+        "Symbol Technologies",
+        "Bethlehem Steel",
+        "Owens-Illinois",
+        "W.R. Grace",
+        "Crown Holdings"
+      ]
+    },
+    {
+      "tableName": "http://dbpedia.org/resource/List_of_S\u0026P_500_companies?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d2_2",
+      "fields": [
+        "Reason",
+        "COTY replaces DO",
+        "MAR acquires HOT",
+        "Dell acquires EMC",
+        "TYC acquires JCI (and becomes new JCI)",
+        "CPGX acquired by TRP",
+        "GAS acquired by SO",
+        "TE acquired by EMA",
+        "CVC acquired by Altice NV",
+        "SHPG acquiring BXLT",
+        "CCE merging with European bottlers",
+        "ARG acquired by Air Liquide",
+        "TWC acquired by CHTR",
+        "SNDK acquired by WDC",
+        "ADT acquired by APO",
+        "McGraw Hill Financial, Inc. rebrands as S\u0026P Global, Inc.",
+        "Global Payments is acquiring Heartland Payment Systems",
+        "Ulta replaces Tenet",
+        "Schlumberger acquired Cameron",
+        "Exelon Corp acquired Pepco",
+        "Centene acquired Health Net",
+        "JAB Holding Company acquired Keurig Green Mountain",
+        "AWK replaces CNX",
+        "PCL taken over by WY",
+        "CFG replaces PCP",
+        "FRT replaces BRCM",
+        "EXR replaces CB",
+        "ACE Limited changes name to Chubb Limited",
+        "WSH merges with TW (and renames to WLTW)",
+        "ALTR taken over by INTC",
+        "CMCSK shares reclassified as CMCSA",
+        "CSC spins off CSRA",
+        "Sigma-Aldrich acquired by Merck KGaA (MKGAY)",
+        "GE spinning off Synchrony Financial",
+        "HPQ spins off HPE",
+        "Market capitalization change.",
+        "Hospira taken over",
+        "Pall taken over",
+        "DirectTV acquired by AT\u0026T",
+        "PayPal Spun off by eBay",
+        "Family Dollar Acquired.",
+        "Spin off of Columbia Pipeline.",
+        "Integris taken over.",
+        "Baxalta spun off by Baxter.",
+        "Lorillard Inc. gets acquired.",
+        "Market capitalization change.",
+        "Allergan acquired by Actavis plc (and changed name to Allergan, pl.",
+        "Market Capitalization Changes.",
+        "Market Capitalization Changes.",
+        "Market Capitalization Changes.",
+        "Carefusion acquired by Becton Dickinson",
+        "PetSmart acquired by private equity consortium",
+        "Safeway acquired by private equity consortium",
+        "Covidien acquired by Medtronic",
+        "Market cap changes",
+        "Market cap changes",
+        "Market cap changes",
+        "Market cap changes",
+        "Market cap changes",
+        "Class C share distribution",
+        "Market capitalization changes",
+        "Actavis acquires Forrest Laboratories",
+        "Market capitalization changes",
+        "Avago acquires LSI",
+        "Beam acquired by Suntory",
+        "Navient Spun off from SLM",
+        "Google Class C share distribution",
+        "Market capitalization changes",
+        "Market capitalization changes",
+        "Life Technologies acquired by Thermo Fisher Scientific Inc",
+        "Market capitalization changes",
+        "Market capitalization changes",
+        "Market capitalization changes",
+        "MOLX acquired by Koch Industries",
+        "Allegion spun off by Ingersoll Rand",
+        "ICE Exchange acquired NYSE Euronext",
+        "Dell acquired by private equity consortium",
+        "Market capitalization changes",
+        "Market capitalization changes",
+        "BMC taken private by consortium",
+        "Softbank consortium purchase results in public float below 50%",
+        "Apollo Group\u0027s market cap more representative of a mid-cap",
+        "Zoetis spun off by Pfizer",
+        "HNZ acquired by consortium",
+        "DF too small after spinoff of White Wave Foods",
+        "Acquired by Aetna (AET)",
+        "A majority of MetroPCS was acquired by T-Mobile",
+        "Market capitalization changes",
+        "ABBV spun off from Abbott Labs (ABT)",
+        "TIE acquired by Precision Cast Parts (PCP)",
+        "Market capitalization changes",
+        "Acquired by Eaton Corp. (ETN)",
+        "Acquired by Energy Transfer Partners (ETP)",
+        "Kraft split into two companies",
+        "Tyco spun off ADT",
+        "Tyco spin-off merged w/Pentair",
+        "SHLD below public float threshold",
+        "Acquired by United Technologies (UTX)",
+        "Acquired by Duke Energy (DUK)",
+        "Split up of Sara Lee",
+        "Acquired by Lam Research (LRCX)",
+        "Acquired by Google (GOOG)",
+        "Acquired by Kinder Morgan (KMI)",
+        "ConocoPhillips spun off Phillips 66",
+        "Acquired by Express Scripts (ESRX)",
+        "Acquired by Exelon Corp. (EXC)",
+        "Market capitalization changes",
+        "Expedia Inc. spun off TripAdvisor Inc.",
+        "Market capitalization changes",
+        "Market capitalization changes",
+        "Market capitalization changes",
+        "Nicor acquired by AGL, which retained the GAS ticker.",
+        "Janus Capital Group’s market capitalization is less than $1.2 billion and is no longer representative of the large cap market space.",
+        "Spun off from ITT Corp.",
+        "Acquired by Teva Pharmaceutical Industries (TEVA).",
+        "Acquired by Texas Instruments (TXN).",
+        "Marshall \u0026 Iisley is being bought by Bank of Montreal",
+        "Market capitalization adjustments.",
+        "Alpha Natural Resources is acquiring Massey Energy in a deal expected to be completed on or about that date pending final approvals.",
+        "Acquired by private equity firms.",
+        "Acquired by Sanofi-aventis (SNY)",
+        "Acquired by CenturyLink",
+        "Acquired by Intel Corp. (INTC)",
+        "Acquired by First Energy (FE).",
+        "Acquired by Pfizer Inc. (PFE)",
+        "Market Cap changes.",
+        "Market Cap changes.",
+        "Market Cap changes.",
+        "Acquired by Schlumberger Ltd. (SLB)",
+        "Acquired by Merck KGaA (MKGAY)",
+        "Company split. QEP retained, but ticker changed.",
+        "Acquired by ExxonMobil Inc. (XOM)",
+        "Acquired by Baker Hughes Inc. (BHI)",
+        "Acquired by Merck \u0026 Co. (MRK)",
+        "Redomesticated to Ireland",
+        "Market Value Decline",
+        "Taken private",
+        "Taken private",
+        "Acquired by Motorola",
+        "Market Cap changes.",
+        "Market Cap changes.",
+        "Market Cap changes.",
+        "Market Cap changes."
+      ]
+    }
+  ]
+}

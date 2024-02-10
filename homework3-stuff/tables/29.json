@@ -1,0 +1,823 @@
+{
+  "id": "http://dbpedia.org/resource/List_of_Spanish_billionaires_by_net_worth?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d1_2",
+  "cells": [
+    {
+      "isHeader": true,
+      "Coordinates": {
+        "row": 0,
+        "column": 0
+      },
+      "cleanedText": "Name"
+    },
+    {
+      "isHeader": true,
+      "Coordinates": {
+        "row": 0,
+        "column": 1
+      },
+      "cleanedText": "Citizenship"
+    },
+    {
+      "isHeader": true,
+      "Coordinates": {
+        "row": 0,
+        "column": 2
+      },
+      "cleanedText": "Net worth (USD)"
+    },
+    {
+      "isHeader": true,
+      "Coordinates": {
+        "row": 0,
+        "column": 3
+      },
+      "cleanedText": "Sources of wealth"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 1,
+        "column": 0
+      },
+      "cleanedText": "Amancio Ortega"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 1,
+        "column": 1
+      },
+      "cleanedText": "23x15px Spain"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 1,
+        "column": 2
+      },
+      "cleanedText": "77.4 billion"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 1,
+        "column": 3
+      },
+      "cleanedText": "Inditex Group"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 2,
+        "column": 0
+      },
+      "cleanedText": "Sandra Ortega Mera"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 2,
+        "column": 1
+      },
+      "cleanedText": "23x15px Spain"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 2,
+        "column": 2
+      },
+      "cleanedText": "7.2 billion"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 2,
+        "column": 3
+      },
+      "cleanedText": "Inditex Group"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 3,
+        "column": 0
+      },
+      "cleanedText": "Juan-Miguel Villar Mir"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 3,
+        "column": 1
+      },
+      "cleanedText": "23x15px Spain"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 3,
+        "column": 2
+      },
+      "cleanedText": "5.7 billion"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 3,
+        "column": 3
+      },
+      "cleanedText": "Obrascón Huarte Lain"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 4,
+        "column": 0
+      },
+      "cleanedText": "Juan Roig"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 4,
+        "column": 1
+      },
+      "cleanedText": "23x15px Spain"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 4,
+        "column": 2
+      },
+      "cleanedText": "5.4 billion"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 4,
+        "column": 3
+      },
+      "cleanedText": "Mercadona"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 5,
+        "column": 0
+      },
+      "cleanedText": "Isak Andic"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 5,
+        "column": 1
+      },
+      "cleanedText": "23x15px Spain"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 5,
+        "column": 2
+      },
+      "cleanedText": "4.8 billion"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 5,
+        "column": 3
+      },
+      "cleanedText": "Mango"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 6,
+        "column": 0
+      },
+      "cleanedText": "Hortensia Herrero"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 6,
+        "column": 1
+      },
+      "cleanedText": "23x15px Spain"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 6,
+        "column": 2
+      },
+      "cleanedText": "2.8 billion"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 6,
+        "column": 3
+      },
+      "cleanedText": "Mercadona"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 7,
+        "column": 0
+      },
+      "cleanedText": "Alicia Koplowitz"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 7,
+        "column": 1
+      },
+      "cleanedText": "23x15px Spain"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 7,
+        "column": 2
+      },
+      "cleanedText": "2.3 billion"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 7,
+        "column": 3
+      },
+      "cleanedText": "Fomento de Construcciones y Contratas"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 8,
+        "column": 0
+      },
+      "cleanedText": "Rafael del Pino"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 8,
+        "column": 1
+      },
+      "cleanedText": "23x15px Spain"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 8,
+        "column": 2
+      },
+      "cleanedText": "2.2 billion"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 8,
+        "column": 3
+      },
+      "cleanedText": "Ferrovial"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 9,
+        "column": 0
+      },
+      "cleanedText": "Manuel Lao Hernandez"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 9,
+        "column": 1
+      },
+      "cleanedText": "23x15px Spain"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 9,
+        "column": 2
+      },
+      "cleanedText": "2.2 billion"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 9,
+        "column": 3
+      },
+      "cleanedText": "Nortia Corporation"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 10,
+        "column": 0
+      },
+      "cleanedText": "Helena Revoredo"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 10,
+        "column": 1
+      },
+      "cleanedText": "23x15px Spain"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 10,
+        "column": 2
+      },
+      "cleanedText": "2.2 billion"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 10,
+        "column": 3
+      },
+      "cleanedText": "Prosegur"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 11,
+        "column": 0
+      },
+      "cleanedText": "Daniel Mate"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 11,
+        "column": 1
+      },
+      "cleanedText": "23x15px Spain"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 11,
+        "column": 2
+      },
+      "cleanedText": "2.1 billion"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 11,
+        "column": 3
+      },
+      "cleanedText": "Glencore"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 12,
+        "column": 0
+      },
+      "cleanedText": "Manuel Jove"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 12,
+        "column": 1
+      },
+      "cleanedText": "23x15px Spain"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 12,
+        "column": 2
+      },
+      "cleanedText": "2.0 billion"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 12,
+        "column": 3
+      },
+      "cleanedText": "Fadesa"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 13,
+        "column": 0
+      },
+      "cleanedText": "Florentino Perez"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 13,
+        "column": 1
+      },
+      "cleanedText": "23x15px Spain"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 13,
+        "column": 2
+      },
+      "cleanedText": "2.0 billion"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 13,
+        "column": 3
+      },
+      "cleanedText": "Grupo ACS"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 14,
+        "column": 0
+      },
+      "cleanedText": "Juan Abello"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 14,
+        "column": 1
+      },
+      "cleanedText": "23x15px Spain"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 14,
+        "column": 2
+      },
+      "cleanedText": "1.9 billion"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 14,
+        "column": 3
+      },
+      "cleanedText": "Prestige Motor Holdings"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 15,
+        "column": 0
+      },
+      "cleanedText": "Jaime Botin"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 15,
+        "column": 1
+      },
+      "cleanedText": "23x15px Spain"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 15,
+        "column": 2
+      },
+      "cleanedText": "1.7 billion"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 15,
+        "column": 3
+      },
+      "cleanedText": "Imagina Media Audiovisual"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 16,
+        "column": 0
+      },
+      "cleanedText": "Gabriel Escarrer"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 16,
+        "column": 1
+      },
+      "cleanedText": "23x15px Spain"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 16,
+        "column": 2
+      },
+      "cleanedText": "1.6 billion"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 16,
+        "column": 3
+      },
+      "cleanedText": "Meliá Hotels International"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 17,
+        "column": 0
+      },
+      "cleanedText": "Maria Del Pino y Calvo-Sotelo"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 17,
+        "column": 1
+      },
+      "cleanedText": "23x15px Spain"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 17,
+        "column": 2
+      },
+      "cleanedText": "1.5 billion"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 17,
+        "column": 3
+      },
+      "cleanedText": "Ferrovial, Fundación Rafael del Pino"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 18,
+        "column": 0
+      },
+      "cleanedText": "Alberto Cortina"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 18,
+        "column": 1
+      },
+      "cleanedText": "23x15px Spain"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 18,
+        "column": 2
+      },
+      "cleanedText": "1.4 billion"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 18,
+        "column": 3
+      },
+      "cleanedText": "Fomento de Construcciones y Contratas, Alcor Holding, Grupo ACS, Grupo Empresarial ENCE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 19,
+        "column": 0
+      },
+      "cleanedText": "Alberto Alcocer"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 19,
+        "column": 1
+      },
+      "cleanedText": "23x15px Spain"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 19,
+        "column": 2
+      },
+      "cleanedText": "1.3 billion"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 19,
+        "column": 3
+      },
+      "cleanedText": "Fomento de Construcciones y Contratas Alcor Holding, Grupo ACS, Grupo Empresarial ENCE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 20,
+        "column": 0
+      },
+      "cleanedText": "Jose Llado Fernandez-Urrutia"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 20,
+        "column": 1
+      },
+      "cleanedText": "23x15px Spain"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 20,
+        "column": 2
+      },
+      "cleanedText": "1.2 billion"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 20,
+        "column": 3
+      },
+      "cleanedText": "Técnicas Reunidas"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 21,
+        "column": 0
+      },
+      "cleanedText": "Fernando Roig"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 21,
+        "column": 1
+      },
+      "cleanedText": "23x15px Spain"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 21,
+        "column": 2
+      },
+      "cleanedText": "1.2 billion"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 21,
+        "column": 3
+      },
+      "cleanedText": "Mercadona, Pamesa Cerámica"
+    }
+  ],
+  "maxDimensions": {
+    "row": 21,
+    "column": 3
+  },
+  "columns": [
+    {
+      "tableName": "http://dbpedia.org/resource/List_of_Spanish_billionaires_by_net_worth?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d1_2",
+      "columnName": "Name",
+      "fields": [
+        "Amancio Ortega",
+        "Sandra Ortega Mera",
+        "Juan-Miguel Villar Mir",
+        "Juan Roig",
+        "Isak Andic",
+        "Hortensia Herrero",
+        "Alicia Koplowitz",
+        "Rafael del Pino",
+        "Manuel Lao Hernandez",
+        "Helena Revoredo",
+        "Daniel Mate",
+        "Manuel Jove",
+        "Florentino Perez",
+        "Juan Abello",
+        "Jaime Botin",
+        "Gabriel Escarrer",
+        "Maria Del Pino y Calvo-Sotelo",
+        "Alberto Cortina",
+        "Alberto Alcocer",
+        "Jose Llado Fernandez-Urrutia",
+        "Fernando Roig"
+      ]
+    },
+    {
+      "tableName": "http://dbpedia.org/resource/List_of_Spanish_billionaires_by_net_worth?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d1_2",
+      "columnName": "Citizenship",
+      "fields": [
+        "23x15px Spain",
+        "23x15px Spain",
+        "23x15px Spain",
+        "23x15px Spain",
+        "23x15px Spain",
+        "23x15px Spain",
+        "23x15px Spain",
+        "23x15px Spain",
+        "23x15px Spain",
+        "23x15px Spain",
+        "23x15px Spain",
+        "23x15px Spain",
+        "23x15px Spain",
+        "23x15px Spain",
+        "23x15px Spain",
+        "23x15px Spain",
+        "23x15px Spain",
+        "23x15px Spain",
+        "23x15px Spain",
+        "23x15px Spain",
+        "23x15px Spain"
+      ]
+    },
+    {
+      "tableName": "http://dbpedia.org/resource/List_of_Spanish_billionaires_by_net_worth?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d1_2",
+      "columnName": "Net worth (USD)",
+      "fields": [
+        "77.4 billion",
+        "7.2 billion",
+        "5.7 billion",
+        "5.4 billion",
+        "4.8 billion",
+        "2.8 billion",
+        "2.3 billion",
+        "2.2 billion",
+        "2.2 billion",
+        "2.2 billion",
+        "2.1 billion",
+        "2.0 billion",
+        "2.0 billion",
+        "1.9 billion",
+        "1.7 billion",
+        "1.6 billion",
+        "1.5 billion",
+        "1.4 billion",
+        "1.3 billion",
+        "1.2 billion",
+        "1.2 billion"
+      ]
+    },
+    {
+      "tableName": "http://dbpedia.org/resource/List_of_Spanish_billionaires_by_net_worth?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d1_2",
+      "columnName": "Sources of wealth",
+      "fields": [
+        "Inditex Group",
+        "Inditex Group",
+        "Obrascón Huarte Lain",
+        "Mercadona",
+        "Mango",
+        "Mercadona",
+        "Fomento de Construcciones y Contratas",
+        "Ferrovial",
+        "Nortia Corporation",
+        "Prosegur",
+        "Glencore",
+        "Fadesa",
+        "Grupo ACS",
+        "Prestige Motor Holdings",
+        "Imagina Media Audiovisual",
+        "Meliá Hotels International",
+        "Ferrovial, Fundación Rafael del Pino",
+        "Fomento de Construcciones y Contratas, Alcor Holding, Grupo ACS, Grupo Empresarial ENCE",
+        "Fomento de Construcciones y Contratas Alcor Holding, Grupo ACS, Grupo Empresarial ENCE",
+        "Técnicas Reunidas",
+        "Mercadona, Pamesa Cerámica"
+      ]
+    }
+  ]
+}

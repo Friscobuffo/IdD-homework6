@@ -1,0 +1,1106 @@
+{
+  "id": "http://dbpedia.org/resource/Dow_Jones_Global_Titans_50?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d2_2",
+  "cells": [
+    {
+      "isHeader": true,
+      "Coordinates": {
+        "row": 0,
+        "column": 0
+      },
+      "cleanedText": "Country"
+    },
+    {
+      "isHeader": true,
+      "Coordinates": {
+        "row": 0,
+        "column": 1
+      },
+      "cleanedText": "Corporation"
+    },
+    {
+      "isHeader": true,
+      "Coordinates": {
+        "row": 0,
+        "column": 2
+      },
+      "cleanedText": "Ticker"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 1,
+        "column": 0
+      },
+      "cleanedText": "23x15px Japan"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 1,
+        "column": 1
+      },
+      "cleanedText": "Honda"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 1,
+        "column": 2
+      },
+      "cleanedText": "TYO: 7267"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 2,
+        "column": 0
+      },
+      "cleanedText": "23x15px Japan"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 2,
+        "column": 1
+      },
+      "cleanedText": "Toyota"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 2,
+        "column": 2
+      },
+      "cleanedText": "TYO: 7203"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 3,
+        "column": 0
+      },
+      "cleanedText": "23x15px Germany"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 3,
+        "column": 1
+      },
+      "cleanedText": "Daimler AG"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 3,
+        "column": 2
+      },
+      "cleanedText": "FWB: DAI"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 4,
+        "column": 0
+      },
+      "cleanedText": "23x15px United Kingdom"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 4,
+        "column": 1
+      },
+      "cleanedText": "HSBC Holdings PLC (UK Reg)"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 4,
+        "column": 2
+      },
+      "cleanedText": "LSE: HSBA"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 5,
+        "column": 0
+      },
+      "cleanedText": "23x15px United Kingdom"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 5,
+        "column": 1
+      },
+      "cleanedText": "The Royal Bank of Scotland Group"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 5,
+        "column": 2
+      },
+      "cleanedText": "LSE: RBS"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 6,
+        "column": 0
+      },
+      "cleanedText": "23x15px United Kingdom"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 6,
+        "column": 1
+      },
+      "cleanedText": "Rio Tinto Group"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 6,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 7,
+        "column": 0
+      },
+      "cleanedText": "23x15px United Kingdom"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 7,
+        "column": 1
+      },
+      "cleanedText": "BHP Billiton"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 7,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 8,
+        "column": 0
+      },
+      "cleanedText": "23x15px United States"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 8,
+        "column": 1
+      },
+      "cleanedText": "Dow Chemical"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 8,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 9,
+        "column": 0
+      },
+      "cleanedText": "23x15px Germany"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 9,
+        "column": 1
+      },
+      "cleanedText": "BASF"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 9,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 10,
+        "column": 0
+      },
+      "cleanedText": "23x15px Sweden"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 10,
+        "column": 1
+      },
+      "cleanedText": "Skanska"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 10,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 11,
+        "column": 0
+      },
+      "cleanedText": "23x15px United Kingdom"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 11,
+        "column": 1
+      },
+      "cleanedText": "Hanson plc"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 11,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 12,
+        "column": 0
+      },
+      "cleanedText": "23x15px United States"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 12,
+        "column": 1
+      },
+      "cleanedText": "Freddie Mac"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 12,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 13,
+        "column": 0
+      },
+      "cleanedText": "23x15px United States"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 13,
+        "column": 1
+      },
+      "cleanedText": "MSDW"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 13,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 14,
+        "column": 0
+      },
+      "cleanedText": "23x15px United States"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 14,
+        "column": 1
+      },
+      "cleanedText": "Coca Cola"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 14,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 15,
+        "column": 0
+      },
+      "cleanedText": "23x15px United Kingdom"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 15,
+        "column": 1
+      },
+      "cleanedText": "Diageo"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 15,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 16,
+        "column": 0
+      },
+      "cleanedText": "23x15px United States"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 16,
+        "column": 1
+      },
+      "cleanedText": "Pfizer"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 16,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 17,
+        "column": 0
+      },
+      "cleanedText": "23x16px Switzerland"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 17,
+        "column": 1
+      },
+      "cleanedText": "Roche"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 17,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 18,
+        "column": 0
+      },
+      "cleanedText": "23x15px United States"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 18,
+        "column": 1
+      },
+      "cleanedText": "Tyco International"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 18,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 19,
+        "column": 0
+      },
+      "cleanedText": "23x15px United States"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 19,
+        "column": 1
+      },
+      "cleanedText": "3M Co."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 19,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 20,
+        "column": 0
+      },
+      "cleanedText": "23x15px United Kingdom"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 20,
+        "column": 1
+      },
+      "cleanedText": "Aviva"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 20,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 21,
+        "column": 0
+      },
+      "cleanedText": "23x15px Germany"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 21,
+        "column": 1
+      },
+      "cleanedText": "Allianz"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 21,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 22,
+        "column": 0
+      },
+      "cleanedText": "23x15px United States"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 22,
+        "column": 1
+      },
+      "cleanedText": "Comcast"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 22,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 23,
+        "column": 0
+      },
+      "cleanedText": "23x15px France"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 23,
+        "column": 1
+      },
+      "cleanedText": "Vivendi"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 23,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 24,
+        "column": 0
+      },
+      "cleanedText": "23x15px United Kingdom"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 24,
+        "column": 1
+      },
+      "cleanedText": "BP"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 24,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 25,
+        "column": 0
+      },
+      "cleanedText": "23x15px Netherlands"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 25,
+        "column": 1
+      },
+      "cleanedText": "Royal Dutch Shell"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 25,
+        "column": 2
+      },
+      "cleanedText": "Euronext: RDSA"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 26,
+        "column": 0
+      },
+      "cleanedText": "23x15px Netherlands"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 26,
+        "column": 1
+      },
+      "cleanedText": "Philips"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 26,
+        "column": 2
+      },
+      "cleanedText": "Euronext: PHIA"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 27,
+        "column": 0
+      },
+      "cleanedText": "23x15px United States"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 27,
+        "column": 1
+      },
+      "cleanedText": "Altria Group"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 27,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 28,
+        "column": 0
+      },
+      "cleanedText": "23x15px United Kingdom"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 28,
+        "column": 1
+      },
+      "cleanedText": "Tesco"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 28,
+        "column": 2
+      },
+      "cleanedText": "LSE: TSCO"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 29,
+        "column": 0
+      },
+      "cleanedText": "23x15px United States"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 29,
+        "column": 1
+      },
+      "cleanedText": "WalMart"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 29,
+        "column": 2
+      },
+      "cleanedText": "NYSE: WMT"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 30,
+        "column": 0
+      },
+      "cleanedText": "23x15px United States"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 30,
+        "column": 1
+      },
+      "cleanedText": "Intel"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 30,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 31,
+        "column": 0
+      },
+      "cleanedText": "23x15px Finland"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 31,
+        "column": 1
+      },
+      "cleanedText": "Nokia Oyi"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 31,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 32,
+        "column": 0
+      },
+      "cleanedText": "23x15px India"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 32,
+        "column": 1
+      },
+      "cleanedText": "Infosys"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 32,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 33,
+        "column": 0
+      },
+      "cleanedText": "23x15px United Kingdom"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 33,
+        "column": 1
+      },
+      "cleanedText": "Vodafone Group"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 33,
+        "column": 2
+      },
+      "cleanedText": "LSE: VOD"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 34,
+        "column": 0
+      },
+      "cleanedText": "23x15px Germany"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 34,
+        "column": 1
+      },
+      "cleanedText": "Deutsche Telekom"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 34,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 35,
+        "column": 0
+      },
+      "cleanedText": "23x15px United States"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 35,
+        "column": 1
+      },
+      "cleanedText": "Verizon"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 35,
+        "column": 2
+      },
+      "cleanedText": "NYSE: VZ"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 36,
+        "column": 0
+      },
+      "cleanedText": "23x15px Japan"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 36,
+        "column": 1
+      },
+      "cleanedText": "Central Japan Railway Company"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 36,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 37,
+        "column": 0
+      },
+      "cleanedText": "23x15px United States"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 37,
+        "column": 1
+      },
+      "cleanedText": "McDonalds"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 37,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 38,
+        "column": 0
+      },
+      "cleanedText": "23x15px United States"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 38,
+        "column": 1
+      },
+      "cleanedText": "TXU"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 38,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 39,
+        "column": 0
+      },
+      "cleanedText": "23x15px France"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 39,
+        "column": 1
+      },
+      "cleanedText": "Suez"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 39,
+        "column": 2
+      },
+      "cleanedText": "Euronext: GSZ"
+    }
+  ],
+  "maxDimensions": {
+    "row": 39,
+    "column": 2
+  },
+  "columns": [
+    {
+      "tableName": "http://dbpedia.org/resource/Dow_Jones_Global_Titans_50?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d2_2",
+      "columnName": "Country",
+      "fields": [
+        "23x15px Japan",
+        "23x15px Japan",
+        "23x15px Germany",
+        "23x15px United Kingdom",
+        "23x15px United Kingdom",
+        "23x15px United Kingdom",
+        "23x15px United Kingdom",
+        "23x15px United States",
+        "23x15px Germany",
+        "23x15px Sweden",
+        "23x15px United Kingdom",
+        "23x15px United States",
+        "23x15px United States",
+        "23x15px United States",
+        "23x15px United Kingdom",
+        "23x15px United States",
+        "23x16px Switzerland",
+        "23x15px United States",
+        "23x15px United States",
+        "23x15px United Kingdom",
+        "23x15px Germany",
+        "23x15px United States",
+        "23x15px France",
+        "23x15px United Kingdom",
+        "23x15px Netherlands",
+        "23x15px Netherlands",
+        "23x15px United States",
+        "23x15px United Kingdom",
+        "23x15px United States",
+        "23x15px United States",
+        "23x15px Finland",
+        "23x15px India",
+        "23x15px United Kingdom",
+        "23x15px Germany",
+        "23x15px United States",
+        "23x15px Japan",
+        "23x15px United States",
+        "23x15px United States",
+        "23x15px France"
+      ]
+    },
+    {
+      "tableName": "http://dbpedia.org/resource/Dow_Jones_Global_Titans_50?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d2_2",
+      "columnName": "Corporation",
+      "fields": [
+        "Honda",
+        "Toyota",
+        "Daimler AG",
+        "HSBC Holdings PLC (UK Reg)",
+        "The Royal Bank of Scotland Group",
+        "Rio Tinto Group",
+        "BHP Billiton",
+        "Dow Chemical",
+        "BASF",
+        "Skanska",
+        "Hanson plc",
+        "Freddie Mac",
+        "MSDW",
+        "Coca Cola",
+        "Diageo",
+        "Pfizer",
+        "Roche",
+        "Tyco International",
+        "3M Co.",
+        "Aviva",
+        "Allianz",
+        "Comcast",
+        "Vivendi",
+        "BP",
+        "Royal Dutch Shell",
+        "Philips",
+        "Altria Group",
+        "Tesco",
+        "WalMart",
+        "Intel",
+        "Nokia Oyi",
+        "Infosys",
+        "Vodafone Group",
+        "Deutsche Telekom",
+        "Verizon",
+        "Central Japan Railway Company",
+        "McDonalds",
+        "TXU",
+        "Suez"
+      ]
+    },
+    {
+      "tableName": "http://dbpedia.org/resource/Dow_Jones_Global_Titans_50?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d2_2",
+      "columnName": "Ticker",
+      "fields": [
+        "TYO: 7267",
+        "TYO: 7203",
+        "FWB: DAI",
+        "LSE: HSBA",
+        "LSE: RBS",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Euronext: RDSA",
+        "Euronext: PHIA",
+        "",
+        "LSE: TSCO",
+        "NYSE: WMT",
+        "",
+        "",
+        "",
+        "LSE: VOD",
+        "",
+        "NYSE: VZ",
+        "",
+        "",
+        "",
+        "Euronext: GSZ"
+      ]
+    }
+  ]
+}

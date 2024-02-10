@@ -1,0 +1,2196 @@
+{
+  "id": "http://dbpedia.org/resource/Humanitarian_response_to_the_2011_Tōhoku_earthquake_and_tsunami?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d4_2",
+  "cells": [
+    {
+      "isHeader": true,
+      "Coordinates": {
+        "row": 0,
+        "column": 0
+      },
+      "cleanedText": "Company"
+    },
+    {
+      "isHeader": true,
+      "Coordinates": {
+        "row": 0,
+        "column": 1
+      },
+      "cleanedText": "Country"
+    },
+    {
+      "isHeader": true,
+      "Coordinates": {
+        "row": 0,
+        "column": 2
+      },
+      "cleanedText": "Goods donation"
+    },
+    {
+      "isHeader": true,
+      "Coordinates": {
+        "row": 0,
+        "column": 3
+      },
+      "cleanedText": "Employee matching donation"
+    },
+    {
+      "isHeader": true,
+      "Coordinates": {
+        "row": 0,
+        "column": 4
+      },
+      "cleanedText": "Comment"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 1,
+        "column": 0
+      },
+      "cleanedText": "Softbank"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 1,
+        "column": 1
+      },
+      "cleanedText": "23x15px Japan"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 1,
+        "column": 2
+      },
+      "cleanedText": "Donated phone handsets to tsunami orphans and pay their phone bills until the children turn 18"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 1,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 1,
+        "column": 4
+      },
+      "cleanedText": "¥1 billion to the Japanese Red Cross"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 2,
+        "column": 0
+      },
+      "cleanedText": "Nippon Telegraph and Telephone"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 2,
+        "column": 1
+      },
+      "cleanedText": "23x15px Japan"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 2,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 2,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 2,
+        "column": 4
+      },
+      "cleanedText": "NTT provided its communication services free of charge, safety confirmation information of those affected, and company residences as living space for those impacted by the earthquake. NTT Group is working to gather donations from its customer"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 3,
+        "column": 0
+      },
+      "cleanedText": "Samsung Group"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 3,
+        "column": 1
+      },
+      "cleanedText": "23x15px South Korea"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 3,
+        "column": 2
+      },
+      "cleanedText": "Clothes and communications equipment"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 3,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 3,
+        "column": 4
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 4,
+        "column": 0
+      },
+      "cleanedText": "NCSoft"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 4,
+        "column": 1
+      },
+      "cleanedText": "23x15px South Korea"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 4,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 4,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 4,
+        "column": 4
+      },
+      "cleanedText": "1 Month billing revenue"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 5,
+        "column": 0
+      },
+      "cleanedText": "Mitsubishi Electric"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 5,
+        "column": 1
+      },
+      "cleanedText": "23x15px Japan"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 5,
+        "column": 2
+      },
+      "cleanedText": "Company products and goods"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 5,
+        "column": 3
+      },
+      "cleanedText": "Matched employee donations"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 5,
+        "column": 4
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 6,
+        "column": 0
+      },
+      "cleanedText": "Pak Suzuki Motors"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 6,
+        "column": 1
+      },
+      "cleanedText": "23x15px Pakistan"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 6,
+        "column": 2
+      },
+      "cleanedText": "Company products and goods"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 6,
+        "column": 3
+      },
+      "cleanedText": "Matched employee donations"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 6,
+        "column": 4
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 7,
+        "column": 0
+      },
+      "cleanedText": "Goldman Sachs"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 7,
+        "column": 1
+      },
+      "cleanedText": "23x15px United States"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 7,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 7,
+        "column": 3
+      },
+      "cleanedText": "Matched employee donations, up to $20,000 per donor"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 7,
+        "column": 4
+      },
+      "cleanedText": "Donation to the Japanese Red Cross Society, Peace Winds Japan, Save the Children Japan and Médecins Sans Frontières"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 8,
+        "column": 0
+      },
+      "cleanedText": "JP Morgan"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 8,
+        "column": 1
+      },
+      "cleanedText": "23x15px United States"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 8,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 8,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 8,
+        "column": 4
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 9,
+        "column": 0
+      },
+      "cleanedText": "Panasonic"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 9,
+        "column": 1
+      },
+      "cleanedText": "23x15px Japan"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 9,
+        "column": 2
+      },
+      "cleanedText": "Radios, flashlights, solar LED lanterns, batteries"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 9,
+        "column": 3
+      },
+      "cleanedText": "Matched employee donations"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 9,
+        "column": 4
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 10,
+        "column": 0
+      },
+      "cleanedText": "Sony"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 10,
+        "column": 1
+      },
+      "cleanedText": "23x15px Japan"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 10,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 10,
+        "column": 3
+      },
+      "cleanedText": "Matched employee donations"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 10,
+        "column": 4
+      },
+      "cleanedText": "Additional to the 30,000 radios and flashlights which have a combined total of US$100,000"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 11,
+        "column": 0
+      },
+      "cleanedText": "Nintendo"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 11,
+        "column": 1
+      },
+      "cleanedText": "23x15px Japan"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 11,
+        "column": 2
+      },
+      "cleanedText": "Nintendo Wiis to the children affected"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 11,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 11,
+        "column": 4
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 12,
+        "column": 0
+      },
+      "cleanedText": "Suntory"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 12,
+        "column": 1
+      },
+      "cleanedText": "23x15px Japan"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 12,
+        "column": 2
+      },
+      "cleanedText": "One million 550ml bottles of Suntory Natural Mineral Water (360,000 bottles already shipped on March 12)"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 12,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 12,
+        "column": 4
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 13,
+        "column": 0
+      },
+      "cleanedText": "Toyota"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 13,
+        "column": 1
+      },
+      "cleanedText": "23x15px Japan"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 13,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 13,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 13,
+        "column": 4
+      },
+      "cleanedText": "Considered further provision of goods and services as needed. Toyota has also (as of 2011) moved all RHD production of the Toyota Aqua at Toyota Motors Tohoku in order to provide economic development for the region in the form of jobs and engineering support professions."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 14,
+        "column": 0
+      },
+      "cleanedText": "Hitachi"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 14,
+        "column": 1
+      },
+      "cleanedText": "23x15px Japan"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 14,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 14,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 14,
+        "column": 4
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 15,
+        "column": 0
+      },
+      "cleanedText": "Honda"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 15,
+        "column": 1
+      },
+      "cleanedText": "23x15px Japan"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 15,
+        "column": 2
+      },
+      "cleanedText": "1,000 generators (gasoline-powered and home-use gas canister-powered), along with 5,000 gas canisters"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 15,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 15,
+        "column": 4
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 16,
+        "column": 0
+      },
+      "cleanedText": "Daimler"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 16,
+        "column": 1
+      },
+      "cleanedText": "23x15px Germany"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 16,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 16,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 16,
+        "column": 4
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 17,
+        "column": 0
+      },
+      "cleanedText": "Morgan Stanley"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 17,
+        "column": 1
+      },
+      "cleanedText": "23x15px United States"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 17,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 17,
+        "column": 3
+      },
+      "cleanedText": "Matched employee donations"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 17,
+        "column": 4
+      },
+      "cleanedText": "Morgan Stanley Japan employees contributed US$600,000, matched by the firm. A further US$410,000 has been contributed by Morgan Stanley employees outside Japan. Total employee donations, donation matching and firm contributions have totaled to over US$2,470,000 to the Japanese Red Cross."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 18,
+        "column": 0
+      },
+      "cleanedText": "Walt Disney Company"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 18,
+        "column": 1
+      },
+      "cleanedText": "23x15px United States"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 18,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 18,
+        "column": 3
+      },
+      "cleanedText": "Matched employee donations, up to $1 million, to the Red Cross Japan Earthquake and Pacific Tsunami Fund and Save the Children"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 18,
+        "column": 4
+      },
+      "cleanedText": "Donation to the American Red Cross."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 19,
+        "column": 0
+      },
+      "cleanedText": "Sega"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 19,
+        "column": 1
+      },
+      "cleanedText": "23x15px Japan"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 19,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 19,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 19,
+        "column": 4
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 20,
+        "column": 0
+      },
+      "cleanedText": "Barclays"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 20,
+        "column": 1
+      },
+      "cleanedText": "23x15px United Kingdom"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 20,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 20,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 20,
+        "column": 4
+      },
+      "cleanedText": "Donation to the British Red Cross"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 21,
+        "column": 0
+      },
+      "cleanedText": "Citigroup"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 21,
+        "column": 1
+      },
+      "cleanedText": "23x15px United States"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 21,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 21,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 21,
+        "column": 4
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 22,
+        "column": 0
+      },
+      "cleanedText": "Microsoft"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 22,
+        "column": 1
+      },
+      "cleanedText": "23x15px United States"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 22,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 22,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 22,
+        "column": 4
+      },
+      "cleanedText": "In addition to $250,000 in cash as well as in-kind contributions such as software."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 23,
+        "column": 0
+      },
+      "cleanedText": "Nestle"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 23,
+        "column": 1
+      },
+      "cleanedText": "23x16px Switzerland"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 23,
+        "column": 2
+      },
+      "cleanedText": "Donated 20,000 cases of bottled water, half of which were allocated to area hospitals."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 23,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 23,
+        "column": 4
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 24,
+        "column": 0
+      },
+      "cleanedText": "L\u0027Oréal"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 24,
+        "column": 1
+      },
+      "cleanedText": "23x15px France"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 24,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 24,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 24,
+        "column": 4
+      },
+      "cleanedText": "Donation to the Japan Red Cross"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 25,
+        "column": 0
+      },
+      "cleanedText": "Société Générale"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 25,
+        "column": 1
+      },
+      "cleanedText": "23x15px France"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 25,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 25,
+        "column": 3
+      },
+      "cleanedText": "Matched employee donations"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 25,
+        "column": 4
+      },
+      "cleanedText": "Donation to the French Red Cross."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 26,
+        "column": 0
+      },
+      "cleanedText": "Namco"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 26,
+        "column": 1
+      },
+      "cleanedText": "23x15px Japan"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 26,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 26,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 26,
+        "column": 4
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 27,
+        "column": 0
+      },
+      "cleanedText": "Bank Of America"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 27,
+        "column": 1
+      },
+      "cleanedText": "23x15px United States"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 27,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 27,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 27,
+        "column": 4
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 28,
+        "column": 0
+      },
+      "cleanedText": "Nexon"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 28,
+        "column": 1
+      },
+      "cleanedText": "23x15px South Korea"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 28,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 28,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 28,
+        "column": 4
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 29,
+        "column": 0
+      },
+      "cleanedText": "Nomura"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 29,
+        "column": 1
+      },
+      "cleanedText": "23x15px Japan"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 29,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 29,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 29,
+        "column": 4
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 30,
+        "column": 0
+      },
+      "cleanedText": "Square Enix"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 30,
+        "column": 1
+      },
+      "cleanedText": "23x15px Japan"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 30,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 30,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 30,
+        "column": 4
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 31,
+        "column": 0
+      },
+      "cleanedText": "Jefferies \u0026 Company"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 31,
+        "column": 1
+      },
+      "cleanedText": "23x15px United States"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 31,
+        "column": 2
+      },
+      "cleanedText": "All net equity trading revenue for the entire week from its offices in Asia and all net revenues from U.S. and European equity trading of Wednesday March 16 would be donated"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 31,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 31,
+        "column": 4
+      },
+      "cleanedText": "Employees were given the opportunity to donate to the relief effort their salary of Wednesday March 16."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 32,
+        "column": 0
+      },
+      "cleanedText": "Nike"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 32,
+        "column": 1
+      },
+      "cleanedText": "23x15px United States"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 32,
+        "column": 2
+      },
+      "cleanedText": "$250,000 worth of footwear and clothing"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 32,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 32,
+        "column": 4
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 33,
+        "column": 0
+      },
+      "cleanedText": "Air Liquide"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 33,
+        "column": 1
+      },
+      "cleanedText": "23x15px France"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 33,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 33,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 33,
+        "column": 4
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 34,
+        "column": 0
+      },
+      "cleanedText": "FedEx"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 34,
+        "column": 1
+      },
+      "cleanedText": "23x15px United States"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 34,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 34,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 34,
+        "column": 4
+      },
+      "cleanedText": "Transportation and logistics supplied to support relief work."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 35,
+        "column": 0
+      },
+      "cleanedText": "HSBC"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 35,
+        "column": 1
+      },
+      "cleanedText": "23x15px United Kingdom"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 35,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 35,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 35,
+        "column": 4
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 36,
+        "column": 0
+      },
+      "cleanedText": "Valve Corporation"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 36,
+        "column": 1
+      },
+      "cleanedText": "23x15px United States"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 36,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 36,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 36,
+        "column": 4
+      },
+      "cleanedText": "Funds from selling of five specific in-game items through Team Fortress 2\u0027s Mann Co. Store, which was transferred to the American Red Cross. Current number includes funds from March 21 to April 7."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 37,
+        "column": 0
+      },
+      "cleanedText": "Mazda Motor Corporation"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 37,
+        "column": 1
+      },
+      "cleanedText": "23x15px Japan"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 37,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 37,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 37,
+        "column": 4
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 38,
+        "column": 0
+      },
+      "cleanedText": "Nissan Motors"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 38,
+        "column": 1
+      },
+      "cleanedText": "23x15px Japan"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 38,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 38,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 38,
+        "column": 4
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 39,
+        "column": 0
+      },
+      "cleanedText": "Russell Investments"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 39,
+        "column": 1
+      },
+      "cleanedText": "23x15px United States"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 39,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 39,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 39,
+        "column": 4
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 40,
+        "column": 0
+      },
+      "cleanedText": "Tecmo Koei"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 40,
+        "column": 1
+      },
+      "cleanedText": "23x15px Japan"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 40,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 40,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 40,
+        "column": 4
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 41,
+        "column": 0
+      },
+      "cleanedText": "Spin Master"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 41,
+        "column": 1
+      },
+      "cleanedText": "23x15px Canada"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 41,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 41,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 41,
+        "column": 4
+      },
+      "cleanedText": "Donation to the Canadian Red Cross and to IsraAid."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 42,
+        "column": 0
+      },
+      "cleanedText": "Lloyd"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 42,
+        "column": 1
+      },
+      "cleanedText": "23x15px United Kingdom"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 42,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 42,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 42,
+        "column": 4
+      },
+      "cleanedText": "Equivalent of 3.5% of the bonus of former CEO"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 43,
+        "column": 0
+      },
+      "cleanedText": "Johnny \u0026 Associates"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 43,
+        "column": 1
+      },
+      "cleanedText": "23x15px Japan"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 43,
+        "column": 2
+      },
+      "cleanedText": "2,000 L of diesel fuel and free use of the company\u0027s delivery trucks for the delivery of relief goods"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 43,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 43,
+        "column": 4
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 44,
+        "column": 0
+      },
+      "cleanedText": "Fuji Television"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 44,
+        "column": 1
+      },
+      "cleanedText": "23x15px Japan"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 44,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 44,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 44,
+        "column": 4
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 45,
+        "column": 0
+      },
+      "cleanedText": "Avex Group Holdings"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 45,
+        "column": 1
+      },
+      "cleanedText": "23x15px Japan"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 45,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 45,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 45,
+        "column": 4
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 46,
+        "column": 0
+      },
+      "cleanedText": "Sony Music Entertainment, Universal Music Group, Warner Music Group, EMI"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 46,
+        "column": 1
+      },
+      "cleanedText": "23x15px United States/23x15px United Kingdom"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 46,
+        "column": 2
+      },
+      "cleanedText": "all proceeds from Songs for Japan"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 46,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 46,
+        "column": 4
+      },
+      "cleanedText": "Donated to the Japanese Red Cross"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 47,
+        "column": 0
+      },
+      "cleanedText": "Riot Games"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 47,
+        "column": 1
+      },
+      "cleanedText": "23x15px United States"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 47,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 47,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 47,
+        "column": 4
+      },
+      "cleanedText": "Funds from a special sale of Akali, a character from League of Legends whose design inspirations were drawn from Japan, and all proceeds from the sale were donated to the American Red Cross."
+    }
+  ],
+  "maxDimensions": {
+    "row": 47,
+    "column": 4
+  },
+  "columns": [
+    {
+      "tableName": "http://dbpedia.org/resource/Humanitarian_response_to_the_2011_Tōhoku_earthquake_and_tsunami?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d4_2",
+      "columnName": "Company",
+      "fields": [
+        "Softbank",
+        "Nippon Telegraph and Telephone",
+        "Samsung Group",
+        "NCSoft",
+        "Mitsubishi Electric",
+        "Pak Suzuki Motors",
+        "Goldman Sachs",
+        "JP Morgan",
+        "Panasonic",
+        "Sony",
+        "Nintendo",
+        "Suntory",
+        "Toyota",
+        "Hitachi",
+        "Honda",
+        "Daimler",
+        "Morgan Stanley",
+        "Walt Disney Company",
+        "Sega",
+        "Barclays",
+        "Citigroup",
+        "Microsoft",
+        "Nestle",
+        "L\u0027Oréal",
+        "Société Générale",
+        "Namco",
+        "Bank Of America",
+        "Nexon",
+        "Nomura",
+        "Square Enix",
+        "Jefferies \u0026 Company",
+        "Nike",
+        "Air Liquide",
+        "FedEx",
+        "HSBC",
+        "Valve Corporation",
+        "Mazda Motor Corporation",
+        "Nissan Motors",
+        "Russell Investments",
+        "Tecmo Koei",
+        "Spin Master",
+        "Lloyd",
+        "Johnny \u0026 Associates",
+        "Fuji Television",
+        "Avex Group Holdings",
+        "Sony Music Entertainment, Universal Music Group, Warner Music Group, EMI",
+        "Riot Games"
+      ]
+    },
+    {
+      "tableName": "http://dbpedia.org/resource/Humanitarian_response_to_the_2011_Tōhoku_earthquake_and_tsunami?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d4_2",
+      "columnName": "Country",
+      "fields": [
+        "23x15px Japan",
+        "23x15px Japan",
+        "23x15px South Korea",
+        "23x15px South Korea",
+        "23x15px Japan",
+        "23x15px Pakistan",
+        "23x15px United States",
+        "23x15px United States",
+        "23x15px Japan",
+        "23x15px Japan",
+        "23x15px Japan",
+        "23x15px Japan",
+        "23x15px Japan",
+        "23x15px Japan",
+        "23x15px Japan",
+        "23x15px Germany",
+        "23x15px United States",
+        "23x15px United States",
+        "23x15px Japan",
+        "23x15px United Kingdom",
+        "23x15px United States",
+        "23x15px United States",
+        "23x16px Switzerland",
+        "23x15px France",
+        "23x15px France",
+        "23x15px Japan",
+        "23x15px United States",
+        "23x15px South Korea",
+        "23x15px Japan",
+        "23x15px Japan",
+        "23x15px United States",
+        "23x15px United States",
+        "23x15px France",
+        "23x15px United States",
+        "23x15px United Kingdom",
+        "23x15px United States",
+        "23x15px Japan",
+        "23x15px Japan",
+        "23x15px United States",
+        "23x15px Japan",
+        "23x15px Canada",
+        "23x15px United Kingdom",
+        "23x15px Japan",
+        "23x15px Japan",
+        "23x15px Japan",
+        "23x15px United States/23x15px United Kingdom",
+        "23x15px United States"
+      ]
+    },
+    {
+      "tableName": "http://dbpedia.org/resource/Humanitarian_response_to_the_2011_Tōhoku_earthquake_and_tsunami?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d4_2",
+      "columnName": "Goods donation",
+      "fields": [
+        "Donated phone handsets to tsunami orphans and pay their phone bills until the children turn 18",
+        "",
+        "Clothes and communications equipment",
+        "",
+        "Company products and goods",
+        "Company products and goods",
+        "",
+        "",
+        "Radios, flashlights, solar LED lanterns, batteries",
+        "",
+        "Nintendo Wiis to the children affected",
+        "One million 550ml bottles of Suntory Natural Mineral Water (360,000 bottles already shipped on March 12)",
+        "",
+        "",
+        "1,000 generators (gasoline-powered and home-use gas canister-powered), along with 5,000 gas canisters",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Donated 20,000 cases of bottled water, half of which were allocated to area hospitals.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "All net equity trading revenue for the entire week from its offices in Asia and all net revenues from U.S. and European equity trading of Wednesday March 16 would be donated",
+        "$250,000 worth of footwear and clothing",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "2,000 L of diesel fuel and free use of the company\u0027s delivery trucks for the delivery of relief goods",
+        "",
+        "",
+        "all proceeds from Songs for Japan",
+        ""
+      ]
+    },
+    {
+      "tableName": "http://dbpedia.org/resource/Humanitarian_response_to_the_2011_Tōhoku_earthquake_and_tsunami?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d4_2",
+      "columnName": "Employee matching donation",
+      "fields": [
+        "",
+        "",
+        "",
+        "",
+        "Matched employee donations",
+        "Matched employee donations",
+        "Matched employee donations, up to $20,000 per donor",
+        "",
+        "Matched employee donations",
+        "Matched employee donations",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Matched employee donations",
+        "Matched employee donations, up to $1 million, to the Red Cross Japan Earthquake and Pacific Tsunami Fund and Save the Children",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Matched employee donations",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "tableName": "http://dbpedia.org/resource/Humanitarian_response_to_the_2011_Tōhoku_earthquake_and_tsunami?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d4_2",
+      "columnName": "Comment",
+      "fields": [
+        "¥1 billion to the Japanese Red Cross",
+        "NTT provided its communication services free of charge, safety confirmation information of those affected, and company residences as living space for those impacted by the earthquake. NTT Group is working to gather donations from its customer",
+        "",
+        "1 Month billing revenue",
+        "",
+        "",
+        "Donation to the Japanese Red Cross Society, Peace Winds Japan, Save the Children Japan and Médecins Sans Frontières",
+        "",
+        "",
+        "Additional to the 30,000 radios and flashlights which have a combined total of US$100,000",
+        "",
+        "",
+        "Considered further provision of goods and services as needed. Toyota has also (as of 2011) moved all RHD production of the Toyota Aqua at Toyota Motors Tohoku in order to provide economic development for the region in the form of jobs and engineering support professions.",
+        "",
+        "",
+        "",
+        "Morgan Stanley Japan employees contributed US$600,000, matched by the firm. A further US$410,000 has been contributed by Morgan Stanley employees outside Japan. Total employee donations, donation matching and firm contributions have totaled to over US$2,470,000 to the Japanese Red Cross.",
+        "Donation to the American Red Cross.",
+        "",
+        "Donation to the British Red Cross",
+        "",
+        "In addition to $250,000 in cash as well as in-kind contributions such as software.",
+        "",
+        "Donation to the Japan Red Cross",
+        "Donation to the French Red Cross.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Employees were given the opportunity to donate to the relief effort their salary of Wednesday March 16.",
+        "",
+        "",
+        "Transportation and logistics supplied to support relief work.",
+        "",
+        "Funds from selling of five specific in-game items through Team Fortress 2\u0027s Mann Co. Store, which was transferred to the American Red Cross. Current number includes funds from March 21 to April 7.",
+        "",
+        "",
+        "",
+        "",
+        "Donation to the Canadian Red Cross and to IsraAid.",
+        "Equivalent of 3.5% of the bonus of former CEO",
+        "",
+        "",
+        "",
+        "Donated to the Japanese Red Cross",
+        "Funds from a special sale of Akali, a character from League of Legends whose design inspirations were drawn from Japan, and all proceeds from the sale were donated to the American Red Cross."
+      ]
+    }
+  ]
+}

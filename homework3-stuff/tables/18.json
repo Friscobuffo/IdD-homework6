@@ -1,0 +1,3667 @@
+{
+  "id": "http://dbpedia.org/resource/List_of_largest_selling_pharmaceutical_products?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d0_2",
+  "cells": [
+    {
+      "isHeader": true,
+      "Coordinates": {
+        "row": 0,
+        "column": 0
+      },
+      "cleanedText": "Brand Name(s)"
+    },
+    {
+      "isHeader": true,
+      "Coordinates": {
+        "row": 0,
+        "column": 1
+      },
+      "cleanedText": "Generic Name"
+    },
+    {
+      "isHeader": true,
+      "Coordinates": {
+        "row": 0,
+        "column": 2
+      },
+      "cleanedText": "Company(ies)"
+    },
+    {
+      "isHeader": true,
+      "Coordinates": {
+        "row": 0,
+        "column": 3
+      },
+      "cleanedText": "Disease/Medical Use"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 1,
+        "column": 0
+      },
+      "cleanedText": "Abilify"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 1,
+        "column": 1
+      },
+      "cleanedText": "Aripiprazole"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 1,
+        "column": 2
+      },
+      "cleanedText": "Generic"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 1,
+        "column": 3
+      },
+      "cleanedText": "Psychosis; depression"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 2,
+        "column": 0
+      },
+      "cleanedText": "Humira"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 2,
+        "column": 1
+      },
+      "cleanedText": "Adalimumab"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 2,
+        "column": 2
+      },
+      "cleanedText": "AbbVie"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 2,
+        "column": 3
+      },
+      "cleanedText": "Crohn\u0027s disease; Rheumatoid arthritis"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 3,
+        "column": 0
+      },
+      "cleanedText": "Nexium"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 3,
+        "column": 1
+      },
+      "cleanedText": "Esomeprazole"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 3,
+        "column": 2
+      },
+      "cleanedText": "Generic"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 3,
+        "column": 3
+      },
+      "cleanedText": "Gastrointestinal disorders"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 4,
+        "column": 0
+      },
+      "cleanedText": "Crestor"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 4,
+        "column": 1
+      },
+      "cleanedText": "Rosuvastatin"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 4,
+        "column": 2
+      },
+      "cleanedText": "AstraZeneca, Shionogi"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 4,
+        "column": 3
+      },
+      "cleanedText": "Cholesterol"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 5,
+        "column": 0
+      },
+      "cleanedText": "Enbrel"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 5,
+        "column": 1
+      },
+      "cleanedText": "Etanercept"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 5,
+        "column": 2
+      },
+      "cleanedText": "Amgen"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 5,
+        "column": 3
+      },
+      "cleanedText": "Rheumatoid arthritis"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 6,
+        "column": 0
+      },
+      "cleanedText": "Advair Diskus, Seretide"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 6,
+        "column": 1
+      },
+      "cleanedText": "Fluticasone/salmeterol"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 6,
+        "column": 2
+      },
+      "cleanedText": "GlaxoSmithKline"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 6,
+        "column": 3
+      },
+      "cleanedText": "Asthma"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 7,
+        "column": 0
+      },
+      "cleanedText": "Remicade"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 7,
+        "column": 1
+      },
+      "cleanedText": "Infliximab"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 7,
+        "column": 2
+      },
+      "cleanedText": "Centocor Ortho Biotech, Inc., Mitsubishi Tanabe Pharma"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 7,
+        "column": 3
+      },
+      "cleanedText": "Crohn\u0027s disease; rheumatoid arthritis"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 8,
+        "column": 0
+      },
+      "cleanedText": "Lantus Solostar"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 8,
+        "column": 1
+      },
+      "cleanedText": "Insulin glargine"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 8,
+        "column": 2
+      },
+      "cleanedText": "Sanofi-Aventis"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 8,
+        "column": 3
+      },
+      "cleanedText": "Diabetes mellitus type 1 and 2"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 9,
+        "column": 0
+      },
+      "cleanedText": "Neulasta"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 9,
+        "column": 1
+      },
+      "cleanedText": "Filgrastim"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 9,
+        "column": 2
+      },
+      "cleanedText": "Amgen"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 9,
+        "column": 3
+      },
+      "cleanedText": "Neutropenia"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 10,
+        "column": 0
+      },
+      "cleanedText": "Copaxone"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 10,
+        "column": 1
+      },
+      "cleanedText": "Glatiramer"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 10,
+        "column": 2
+      },
+      "cleanedText": "Generic"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 10,
+        "column": 3
+      },
+      "cleanedText": "Multiple sclerosis"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 11,
+        "column": 0
+      },
+      "cleanedText": "Rituxan, MabThera"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 11,
+        "column": 1
+      },
+      "cleanedText": "Rituximab"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 11,
+        "column": 2
+      },
+      "cleanedText": "Biogen Idec, Chugai Pharmaceutical, Genentech/Roche"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 11,
+        "column": 3
+      },
+      "cleanedText": "Non-Hodgkin’s lymphoma; rheumatoid arthritis"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 12,
+        "column": 0
+      },
+      "cleanedText": "Spiriva"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 12,
+        "column": 1
+      },
+      "cleanedText": "Tiotropium bromide"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 12,
+        "column": 2
+      },
+      "cleanedText": "Boehringer Ingelheim"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 12,
+        "column": 3
+      },
+      "cleanedText": "Chronic obstructive pulmonary disease"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 13,
+        "column": 0
+      },
+      "cleanedText": "Januvia"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 13,
+        "column": 1
+      },
+      "cleanedText": "Sitagliptin"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 13,
+        "column": 2
+      },
+      "cleanedText": "Merck \u0026 Co., Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 13,
+        "column": 3
+      },
+      "cleanedText": "Diabetes mellitus type 2"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 14,
+        "column": 0
+      },
+      "cleanedText": "Lantus"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 14,
+        "column": 1
+      },
+      "cleanedText": "Insulin glargine"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 14,
+        "column": 2
+      },
+      "cleanedText": "Sanofi-Aventis"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 14,
+        "column": 3
+      },
+      "cleanedText": "Diabetes mellitus type 1 and 2"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 15,
+        "column": 0
+      },
+      "cleanedText": "Atripla"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 15,
+        "column": 1
+      },
+      "cleanedText": "Emtricitabine/tenofovir/efavirenz"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 15,
+        "column": 2
+      },
+      "cleanedText": "Gilead Sciences, Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 15,
+        "column": 3
+      },
+      "cleanedText": "HIV infection"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 16,
+        "column": 0
+      },
+      "cleanedText": "Cymbalta"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 16,
+        "column": 1
+      },
+      "cleanedText": "Duloxetine"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 16,
+        "column": 2
+      },
+      "cleanedText": "Generic"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 16,
+        "column": 3
+      },
+      "cleanedText": "Depression; anxiety disorders"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 17,
+        "column": 0
+      },
+      "cleanedText": "Avastin"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 17,
+        "column": 1
+      },
+      "cleanedText": "Bevacizumab"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 17,
+        "column": 2
+      },
+      "cleanedText": "Genentech/Roche"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 17,
+        "column": 3
+      },
+      "cleanedText": "Cancer"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 18,
+        "column": 0
+      },
+      "cleanedText": "Lyrica"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 18,
+        "column": 1
+      },
+      "cleanedText": "Pregabalin"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 18,
+        "column": 2
+      },
+      "cleanedText": "Pfizer"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 18,
+        "column": 3
+      },
+      "cleanedText": "Neuropathic pain"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 19,
+        "column": 0
+      },
+      "cleanedText": "OxyContin"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 19,
+        "column": 1
+      },
+      "cleanedText": "Oxycodone"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 19,
+        "column": 2
+      },
+      "cleanedText": "Generic"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 19,
+        "column": 3
+      },
+      "cleanedText": "Pain"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 20,
+        "column": 0
+      },
+      "cleanedText": "Celebrex"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 20,
+        "column": 1
+      },
+      "cleanedText": "Celecoxib"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 20,
+        "column": 2
+      },
+      "cleanedText": "Generic"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 20,
+        "column": 3
+      },
+      "cleanedText": "Osteoarthritis; rheumatoid arthritis"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 21,
+        "column": 0
+      },
+      "cleanedText": "Epogen"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 21,
+        "column": 1
+      },
+      "cleanedText": "Epoetin alfa"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 21,
+        "column": 2
+      },
+      "cleanedText": "Amgen"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 21,
+        "column": 3
+      },
+      "cleanedText": "Anemia"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 22,
+        "column": 0
+      },
+      "cleanedText": "Truvada"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 22,
+        "column": 1
+      },
+      "cleanedText": "Tenofovir/emtricitabine"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 22,
+        "column": 2
+      },
+      "cleanedText": "Gilead Sciences"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 22,
+        "column": 3
+      },
+      "cleanedText": "HIV infection"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 23,
+        "column": 0
+      },
+      "cleanedText": "Diovan"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 23,
+        "column": 1
+      },
+      "cleanedText": "Valsartan"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 23,
+        "column": 2
+      },
+      "cleanedText": "Generic"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 23,
+        "column": 3
+      },
+      "cleanedText": "Hypertension"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 24,
+        "column": 0
+      },
+      "cleanedText": "Levemir"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 24,
+        "column": 1
+      },
+      "cleanedText": "Insulin detemir"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 24,
+        "column": 2
+      },
+      "cleanedText": "Novo Nordisk"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 24,
+        "column": 3
+      },
+      "cleanedText": "Diabetes mellitus type 1 and 2"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 25,
+        "column": 0
+      },
+      "cleanedText": "Gleevec, Glivec"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 25,
+        "column": 1
+      },
+      "cleanedText": "Imatinib"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 25,
+        "column": 2
+      },
+      "cleanedText": "Novartis"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 25,
+        "column": 3
+      },
+      "cleanedText": "Leukemia"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 26,
+        "column": 0
+      },
+      "cleanedText": "Herceptin"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 26,
+        "column": 1
+      },
+      "cleanedText": "Trastuzumab"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 26,
+        "column": 2
+      },
+      "cleanedText": "Chugai Pharmaceutical, Genentech/Roche"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 26,
+        "column": 3
+      },
+      "cleanedText": "Breast cancer"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 27,
+        "column": 0
+      },
+      "cleanedText": "Vyvanse"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 27,
+        "column": 1
+      },
+      "cleanedText": "Lisdexamfetamine"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 27,
+        "column": 2
+      },
+      "cleanedText": "Shire"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 27,
+        "column": 3
+      },
+      "cleanedText": "Attention deficit hyperactivity disorder"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 28,
+        "column": 0
+      },
+      "cleanedText": "Lucentis"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 28,
+        "column": 1
+      },
+      "cleanedText": "Ranibizumab"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 28,
+        "column": 2
+      },
+      "cleanedText": "Genentech"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 28,
+        "column": 3
+      },
+      "cleanedText": "Macular degeneration"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 29,
+        "column": 0
+      },
+      "cleanedText": "Zetia"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 29,
+        "column": 1
+      },
+      "cleanedText": "Ezetimibe"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 29,
+        "column": 2
+      },
+      "cleanedText": "Merck \u0026 Co., Schering-Plough"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 29,
+        "column": 3
+      },
+      "cleanedText": "Cholesterol"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 30,
+        "column": 0
+      },
+      "cleanedText": "Combivent"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 30,
+        "column": 1
+      },
+      "cleanedText": "Ipratropium bromide/salbutamol"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 30,
+        "column": 2
+      },
+      "cleanedText": "Boehringer Ingelheim"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 30,
+        "column": 3
+      },
+      "cleanedText": "Chronic obstructive pulmonary disease"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 31,
+        "column": 0
+      },
+      "cleanedText": "Symbicort"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 31,
+        "column": 1
+      },
+      "cleanedText": "Budesonide/formoterol"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 31,
+        "column": 2
+      },
+      "cleanedText": "AstraZeneca"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 31,
+        "column": 3
+      },
+      "cleanedText": "Asthma"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 32,
+        "column": 0
+      },
+      "cleanedText": "Namenda"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 32,
+        "column": 1
+      },
+      "cleanedText": "Memantine"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 32,
+        "column": 2
+      },
+      "cleanedText": "Generic"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 32,
+        "column": 3
+      },
+      "cleanedText": "Alzheimer\u0027s disease"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 33,
+        "column": 0
+      },
+      "cleanedText": "NovoLog FlexPen"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 33,
+        "column": 1
+      },
+      "cleanedText": "Insulin aspart"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 33,
+        "column": 2
+      },
+      "cleanedText": "Novo Nordisk"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 33,
+        "column": 3
+      },
+      "cleanedText": "Diabetes mellitus type 1 and 2"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 34,
+        "column": 0
+      },
+      "cleanedText": "Xarelto"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 34,
+        "column": 1
+      },
+      "cleanedText": "Rivaroxaban"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 34,
+        "column": 2
+      },
+      "cleanedText": "Bayer"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 34,
+        "column": 3
+      },
+      "cleanedText": "Oral anticoagulant"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 35,
+        "column": 0
+      },
+      "cleanedText": "NovoLog"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 35,
+        "column": 1
+      },
+      "cleanedText": "Insulin aspart"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 35,
+        "column": 2
+      },
+      "cleanedText": "Novo Nordisk"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 35,
+        "column": 3
+      },
+      "cleanedText": "Diabetes mellitus type 1 and 2"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 36,
+        "column": 0
+      },
+      "cleanedText": "Humalog"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 36,
+        "column": 1
+      },
+      "cleanedText": "Insulin lispro"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 36,
+        "column": 2
+      },
+      "cleanedText": "Eli Lilly and Company"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 36,
+        "column": 3
+      },
+      "cleanedText": "Diabetes mellitus type 1 and 2"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 37,
+        "column": 0
+      },
+      "cleanedText": "Suboxone"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 37,
+        "column": 1
+      },
+      "cleanedText": "Buprenorphine"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 37,
+        "column": 2
+      },
+      "cleanedText": "Reckitt Benckiser Pharmaceuticals Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 37,
+        "column": 3
+      },
+      "cleanedText": "Pain; opioid addiction"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 38,
+        "column": 0
+      },
+      "cleanedText": "Viagra"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 38,
+        "column": 1
+      },
+      "cleanedText": "Sildenafil"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 38,
+        "column": 2
+      },
+      "cleanedText": "Pfizer"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 38,
+        "column": 3
+      },
+      "cleanedText": "Erectile dysfunction"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 39,
+        "column": 0
+      },
+      "cleanedText": "Seroquel XR"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 39,
+        "column": 1
+      },
+      "cleanedText": "Quetiapine"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 39,
+        "column": 2
+      },
+      "cleanedText": "Generic"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 39,
+        "column": 3
+      },
+      "cleanedText": "Psychosis; depression"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 40,
+        "column": 0
+      },
+      "cleanedText": "ONE TOUCH ULTRA"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 40,
+        "column": 1
+      },
+      "cleanedText": "Telaprevir"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 40,
+        "column": 2
+      },
+      "cleanedText": "Johnson \u0026 Johnson"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 40,
+        "column": 3
+      },
+      "cleanedText": "Hepatitis C"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 41,
+        "column": 0
+      },
+      "cleanedText": "AndroGel"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 41,
+        "column": 1
+      },
+      "cleanedText": "Testosterone gel"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 41,
+        "column": 2
+      },
+      "cleanedText": "Generic"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 41,
+        "column": 3
+      },
+      "cleanedText": "Low testosterone levels"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 42,
+        "column": 0
+      },
+      "cleanedText": "Enoxaparin"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 42,
+        "column": 1
+      },
+      "cleanedText": "Enoxaparin"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 42,
+        "column": 2
+      },
+      "cleanedText": "Generic"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 42,
+        "column": 3
+      },
+      "cleanedText": "Deep-vein thrombosis"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 43,
+        "column": 0
+      },
+      "cleanedText": "Methylphenidate"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 43,
+        "column": 1
+      },
+      "cleanedText": "Methylphenidate"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 43,
+        "column": 2
+      },
+      "cleanedText": "Generic"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 43,
+        "column": 3
+      },
+      "cleanedText": "Attention deficit hyperactivity disorder"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 44,
+        "column": 0
+      },
+      "cleanedText": "ProAir HFA"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 44,
+        "column": 1
+      },
+      "cleanedText": "Salbutamol"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 44,
+        "column": 2
+      },
+      "cleanedText": "Teva Pharmaceuticals"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 44,
+        "column": 3
+      },
+      "cleanedText": "Asthma; chronic obstructive pulmonary disease"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 45,
+        "column": 0
+      },
+      "cleanedText": "Alimta"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 45,
+        "column": 1
+      },
+      "cleanedText": "Pemetrexed"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 45,
+        "column": 2
+      },
+      "cleanedText": "Eli Lilly and Company"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 45,
+        "column": 3
+      },
+      "cleanedText": "Cancer"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 46,
+        "column": 0
+      },
+      "cleanedText": "Victoza"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 46,
+        "column": 1
+      },
+      "cleanedText": "Liraglutide"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 46,
+        "column": 2
+      },
+      "cleanedText": "Novo Nordisk"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 46,
+        "column": 3
+      },
+      "cleanedText": "Diabetes mellitus type 2"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 47,
+        "column": 0
+      },
+      "cleanedText": "Synagis"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 47,
+        "column": 1
+      },
+      "cleanedText": "Palivizumab"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 47,
+        "column": 2
+      },
+      "cleanedText": "MedImmune"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 47,
+        "column": 3
+      },
+      "cleanedText": "RSV infection"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 48,
+        "column": 0
+      },
+      "cleanedText": "Avonex"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 48,
+        "column": 1
+      },
+      "cleanedText": "Interferon beta 1a"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 48,
+        "column": 2
+      },
+      "cleanedText": "Biogen Idec"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 48,
+        "column": 3
+      },
+      "cleanedText": "Multiple sclerosis"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 49,
+        "column": 0
+      },
+      "cleanedText": "Renvela"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 49,
+        "column": 1
+      },
+      "cleanedText": "Sevelamer"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 49,
+        "column": 2
+      },
+      "cleanedText": "Generic"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 49,
+        "column": 3
+      },
+      "cleanedText": "Hyperphosphatemia"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 50,
+        "column": 0
+      },
+      "cleanedText": "Rebif"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 50,
+        "column": 1
+      },
+      "cleanedText": "Interferon beta 1a"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 50,
+        "column": 2
+      },
+      "cleanedText": "Serono"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 50,
+        "column": 3
+      },
+      "cleanedText": "Multiple sclerosis"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 51,
+        "column": 0
+      },
+      "cleanedText": "Cialis"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 51,
+        "column": 1
+      },
+      "cleanedText": "Tadalafil"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 51,
+        "column": 2
+      },
+      "cleanedText": "Eli Lilly and Company, Lilly Icos"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 51,
+        "column": 3
+      },
+      "cleanedText": "Erectile dysfunction"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 52,
+        "column": 0
+      },
+      "cleanedText": "Gilenya"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 52,
+        "column": 1
+      },
+      "cleanedText": "fingolimod"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 52,
+        "column": 2
+      },
+      "cleanedText": "Novartis Corporation"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 52,
+        "column": 3
+      },
+      "cleanedText": "Multiple sclerosis"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 53,
+        "column": 0
+      },
+      "cleanedText": "Nasonex"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 53,
+        "column": 1
+      },
+      "cleanedText": "Mometasone"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 53,
+        "column": 2
+      },
+      "cleanedText": "Schering-Plough"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 53,
+        "column": 3
+      },
+      "cleanedText": "Allergic rhinitis"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 54,
+        "column": 0
+      },
+      "cleanedText": "Stelara"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 54,
+        "column": 1
+      },
+      "cleanedText": "Ustekinumab"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 54,
+        "column": 2
+      },
+      "cleanedText": "Johnson \u0026 Johnson"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 54,
+        "column": 3
+      },
+      "cleanedText": "Psoriasis; psoriatic arthritis"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 55,
+        "column": 0
+      },
+      "cleanedText": "Restasis"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 55,
+        "column": 1
+      },
+      "cleanedText": "Ciclosporin ophthalmic emulsion"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 55,
+        "column": 2
+      },
+      "cleanedText": "Allergan, Inc, Lilly Icos"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 55,
+        "column": 3
+      },
+      "cleanedText": "Dry eye syndrome"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 56,
+        "column": 0
+      },
+      "cleanedText": "Budesonide"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 56,
+        "column": 1
+      },
+      "cleanedText": "Budesonide"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 56,
+        "column": 2
+      },
+      "cleanedText": "Generic"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 56,
+        "column": 3
+      },
+      "cleanedText": "Asthma"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 57,
+        "column": 0
+      },
+      "cleanedText": "Acetaminophen/hydrocodone"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 57,
+        "column": 1
+      },
+      "cleanedText": "Acetaminophen/hydrocodone"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 57,
+        "column": 2
+      },
+      "cleanedText": "Generic"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 57,
+        "column": 3
+      },
+      "cleanedText": "Pain"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 58,
+        "column": 0
+      },
+      "cleanedText": "Flovent HFA"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 58,
+        "column": 1
+      },
+      "cleanedText": "Fluticasone propionate"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 58,
+        "column": 2
+      },
+      "cleanedText": "GlaxoSmithKline"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 58,
+        "column": 3
+      },
+      "cleanedText": "Asthma"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 59,
+        "column": 0
+      },
+      "cleanedText": "Lovaza"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 59,
+        "column": 1
+      },
+      "cleanedText": "Omega-3 fatty acid ethyl esters"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 59,
+        "column": 2
+      },
+      "cleanedText": "GlaxoSmithKline"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 59,
+        "column": 3
+      },
+      "cleanedText": "Cholesterol"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 60,
+        "column": 0
+      },
+      "cleanedText": "Prezista"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 60,
+        "column": 1
+      },
+      "cleanedText": "Darunavir"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 60,
+        "column": 2
+      },
+      "cleanedText": "Johnson \u0026 Johnson"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 60,
+        "column": 3
+      },
+      "cleanedText": "HIV infection"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 61,
+        "column": 0
+      },
+      "cleanedText": "Isentress"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 61,
+        "column": 1
+      },
+      "cleanedText": "Raltegravir"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 61,
+        "column": 2
+      },
+      "cleanedText": "Merck \u0026 Co., Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 61,
+        "column": 3
+      },
+      "cleanedText": "HIV Infection"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 62,
+        "column": 0
+      },
+      "cleanedText": "Janumet"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 62,
+        "column": 1
+      },
+      "cleanedText": "Sitagliptin/metformin"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 62,
+        "column": 2
+      },
+      "cleanedText": "Merck \u0026 Co., Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 62,
+        "column": 3
+      },
+      "cleanedText": "Diabetes mellitus type 2"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 63,
+        "column": 0
+      },
+      "cleanedText": "Procrit, Eprex"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 63,
+        "column": 1
+      },
+      "cleanedText": "Epoetin alfa"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 63,
+        "column": 2
+      },
+      "cleanedText": "Johnson \u0026 Johnson"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 63,
+        "column": 3
+      },
+      "cleanedText": "Anemia"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 64,
+        "column": 0
+      },
+      "cleanedText": "Doxycycline"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 64,
+        "column": 1
+      },
+      "cleanedText": "Doxycycline"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 64,
+        "column": 2
+      },
+      "cleanedText": "Generic"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 64,
+        "column": 3
+      },
+      "cleanedText": "Bacterial infections"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 65,
+        "column": 0
+      },
+      "cleanedText": "Orencia"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 65,
+        "column": 1
+      },
+      "cleanedText": "Abatacept"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 65,
+        "column": 2
+      },
+      "cleanedText": "Bristol-Myers Squibb Company"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 65,
+        "column": 3
+      },
+      "cleanedText": "Rheumatoid arthritis"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 66,
+        "column": 0
+      },
+      "cleanedText": "Amphetamine/dextroamphetamine"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 66,
+        "column": 1
+      },
+      "cleanedText": "Amphetamine mixed salts"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 66,
+        "column": 2
+      },
+      "cleanedText": "Generic"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 66,
+        "column": 3
+      },
+      "cleanedText": "Attention deficit hyperactivity disorder; narcolepsy"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 67,
+        "column": 0
+      },
+      "cleanedText": "Vesicare"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 67,
+        "column": 1
+      },
+      "cleanedText": "Solifenacin"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 67,
+        "column": 2
+      },
+      "cleanedText": "Astellas Pharma US"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 67,
+        "column": 3
+      },
+      "cleanedText": "Overactive bladder"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 68,
+        "column": 0
+      },
+      "cleanedText": "Dexilant"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 68,
+        "column": 1
+      },
+      "cleanedText": "Dexlansoprazole"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 68,
+        "column": 2
+      },
+      "cleanedText": "Takeda Pharmaceuticals North America, Inc"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 68,
+        "column": 3
+      },
+      "cleanedText": "Gastrointestinal disorders"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 69,
+        "column": 0
+      },
+      "cleanedText": "Humalog KwikPen"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 69,
+        "column": 1
+      },
+      "cleanedText": "Insulin lispro"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 69,
+        "column": 2
+      },
+      "cleanedText": "Eli Lilly and Company"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 69,
+        "column": 3
+      },
+      "cleanedText": "Diabetes mellitus type 1 and 2"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 70,
+        "column": 0
+      },
+      "cleanedText": "Neupogen"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 70,
+        "column": 1
+      },
+      "cleanedText": "Filgrastim"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 70,
+        "column": 2
+      },
+      "cleanedText": "Amgen"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 70,
+        "column": 3
+      },
+      "cleanedText": "Neutropenia"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 71,
+        "column": 0
+      },
+      "cleanedText": "Lidocaine"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 71,
+        "column": 1
+      },
+      "cleanedText": "Lidocaine"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 71,
+        "column": 2
+      },
+      "cleanedText": "Generic"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 71,
+        "column": 3
+      },
+      "cleanedText": "Pain"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 72,
+        "column": 0
+      },
+      "cleanedText": "Lunesta"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 72,
+        "column": 1
+      },
+      "cleanedText": "Eszopiclone"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 72,
+        "column": 2
+      },
+      "cleanedText": "Generic"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 72,
+        "column": 3
+      },
+      "cleanedText": "Insomnia"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 73,
+        "column": 0
+      },
+      "cleanedText": "Fenofibrate"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 73,
+        "column": 1
+      },
+      "cleanedText": "Fenofibrate"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 73,
+        "column": 2
+      },
+      "cleanedText": "Generic"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 73,
+        "column": 3
+      },
+      "cleanedText": "Cholesterol"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 74,
+        "column": 0
+      },
+      "cleanedText": "Zytiga"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 74,
+        "column": 1
+      },
+      "cleanedText": "Abiraterone"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 74,
+        "column": 2
+      },
+      "cleanedText": "Janssen Biotech, Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 74,
+        "column": 3
+      },
+      "cleanedText": "Prostate Cancer"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 75,
+        "column": 0
+      },
+      "cleanedText": "Reyataz"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 75,
+        "column": 1
+      },
+      "cleanedText": "Atazanavir"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 75,
+        "column": 2
+      },
+      "cleanedText": "Bristol-Myers Squibb"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 75,
+        "column": 3
+      },
+      "cleanedText": "HIV infection"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 76,
+        "column": 0
+      },
+      "cleanedText": "Sensipar"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 76,
+        "column": 1
+      },
+      "cleanedText": "Cinacalcet"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 76,
+        "column": 2
+      },
+      "cleanedText": "Amgen Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 76,
+        "column": 3
+      },
+      "cleanedText": "Hyperparathyroidism"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 77,
+        "column": 0
+      },
+      "cleanedText": "Metoprolol"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 77,
+        "column": 1
+      },
+      "cleanedText": "Metoprolol"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 77,
+        "column": 2
+      },
+      "cleanedText": "Generic"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 77,
+        "column": 3
+      },
+      "cleanedText": "Hypertension"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 78,
+        "column": 0
+      },
+      "cleanedText": "Invega Sustenna"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 78,
+        "column": 1
+      },
+      "cleanedText": "Rabeprazole"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 78,
+        "column": 2
+      },
+      "cleanedText": "Janssen Pharmaceuticals, Inc, Johnson \u0026 Johnson"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 78,
+        "column": 3
+      },
+      "cleanedText": "Gastrointestinal disorders"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 79,
+        "column": 0
+      },
+      "cleanedText": "Synthroid"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 79,
+        "column": 1
+      },
+      "cleanedText": "Levothyroxine"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 79,
+        "column": 2
+      },
+      "cleanedText": "Generic"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 79,
+        "column": 3
+      },
+      "cleanedText": "Hypothyroidism"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 80,
+        "column": 0
+      },
+      "cleanedText": "Avonex Pen"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 80,
+        "column": 1
+      },
+      "cleanedText": "Olmesartan"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 80,
+        "column": 2
+      },
+      "cleanedText": "Biogen Idec, Forest Laboratories"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 80,
+        "column": 3
+      },
+      "cleanedText": "Hypertension"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 81,
+        "column": 0
+      },
+      "cleanedText": "Prevnar 13"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 81,
+        "column": 1
+      },
+      "cleanedText": "Pneumococcal conjugate vaccine"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 81,
+        "column": 2
+      },
+      "cleanedText": "Pfizer"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 81,
+        "column": 3
+      },
+      "cleanedText": "Pneumococcal disease"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 82,
+        "column": 0
+      },
+      "cleanedText": "Xolair"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 82,
+        "column": 1
+      },
+      "cleanedText": "Omalizumab"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 82,
+        "column": 2
+      },
+      "cleanedText": "Genentech, Novartis"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 82,
+        "column": 3
+      },
+      "cleanedText": "Asthma"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 83,
+        "column": 0
+      },
+      "cleanedText": "Lipitor"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 83,
+        "column": 1
+      },
+      "cleanedText": "Atorvastatin"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 83,
+        "column": 2
+      },
+      "cleanedText": "Generic"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 83,
+        "column": 3
+      },
+      "cleanedText": "Cholesterol"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 84,
+        "column": 0
+      },
+      "cleanedText": "levothyroxine"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 84,
+        "column": 1
+      },
+      "cleanedText": "Levothyroxine"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 84,
+        "column": 2
+      },
+      "cleanedText": "Generic"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 84,
+        "column": 3
+      },
+      "cleanedText": "Hypothyroidism"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 85,
+        "column": 0
+      },
+      "cleanedText": "Benicar"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 85,
+        "column": 1
+      },
+      "cleanedText": "Olmesartan/hydrochlorothiazide"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 85,
+        "column": 2
+      },
+      "cleanedText": "Daiichi Sankyo"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 85,
+        "column": 3
+      },
+      "cleanedText": "Hypertension"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 86,
+        "column": 0
+      },
+      "cleanedText": "Stribild"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 86,
+        "column": 1
+      },
+      "cleanedText": "Elvitegravir/cobicistat/emtricitabine/tenofovir"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 86,
+        "column": 2
+      },
+      "cleanedText": "Gilead Sciences"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 86,
+        "column": 3
+      },
+      "cleanedText": "HIV/AIDS"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 87,
+        "column": 0
+      },
+      "cleanedText": "Zostavax"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 87,
+        "column": 1
+      },
+      "cleanedText": "Zostavax"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 87,
+        "column": 2
+      },
+      "cleanedText": "Eisai, Merck \u0026 Co."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 87,
+        "column": 3
+      },
+      "cleanedText": "Herpes zoster"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 88,
+        "column": 0
+      },
+      "cleanedText": "Pradaxa"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 88,
+        "column": 1
+      },
+      "cleanedText": "Dabigatran"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 88,
+        "column": 2
+      },
+      "cleanedText": "Boehringer Ingelheim, Lilly Icos"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 88,
+        "column": 3
+      },
+      "cleanedText": "Oral anticoagulant"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 89,
+        "column": 0
+      },
+      "cleanedText": "Vytorin"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 89,
+        "column": 1
+      },
+      "cleanedText": "Ezetimibe/simvastatin"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 89,
+        "column": 2
+      },
+      "cleanedText": "Merck \u0026 Co., Schering-Plough"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 89,
+        "column": 3
+      },
+      "cleanedText": "Cholesterol"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 90,
+        "column": 0
+      },
+      "cleanedText": "Tamiflu"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 90,
+        "column": 1
+      },
+      "cleanedText": "Oseltamivir"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 90,
+        "column": 2
+      },
+      "cleanedText": "Chugai Pharmaceutical, Hetero Drugs, Roche"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 90,
+        "column": 3
+      },
+      "cleanedText": "Influenza"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 91,
+        "column": 0
+      },
+      "cleanedText": "Xgeva"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 91,
+        "column": 1
+      },
+      "cleanedText": "Denosumab"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 91,
+        "column": 2
+      },
+      "cleanedText": "Amgen"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 91,
+        "column": 3
+      },
+      "cleanedText": "Osteoporosis"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 92,
+        "column": 0
+      },
+      "cleanedText": "Evista"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 92,
+        "column": 1
+      },
+      "cleanedText": "Raloxifene"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 92,
+        "column": 2
+      },
+      "cleanedText": "Eli Lilly and Company, Chugai Pharmaceutical"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 92,
+        "column": 3
+      },
+      "cleanedText": "Osteoporosis"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 93,
+        "column": 0
+      },
+      "cleanedText": "Xeloda"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 93,
+        "column": 1
+      },
+      "cleanedText": "Capecitabine"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 93,
+        "column": 2
+      },
+      "cleanedText": "Generic"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 93,
+        "column": 3
+      },
+      "cleanedText": "Cancer"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 94,
+        "column": 0
+      },
+      "cleanedText": "Aranesp"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 94,
+        "column": 1
+      },
+      "cleanedText": "Darbepoetin alfa"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 94,
+        "column": 2
+      },
+      "cleanedText": "Amgen Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 94,
+        "column": 3
+      },
+      "cleanedText": "Anemia"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 95,
+        "column": 0
+      },
+      "cleanedText": "Ventolin HFA"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 95,
+        "column": 1
+      },
+      "cleanedText": "Salbutamol"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 95,
+        "column": 2
+      },
+      "cleanedText": "GlaxoSmithKline"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 95,
+        "column": 3
+      },
+      "cleanedText": "Asthma; chronic obstructive pulmonary disease"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 96,
+        "column": 0
+      },
+      "cleanedText": "divalproex sodium"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 96,
+        "column": 1
+      },
+      "cleanedText": "valproate"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 96,
+        "column": 2
+      },
+      "cleanedText": "Generic"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 96,
+        "column": 3
+      },
+      "cleanedText": "Gastrointestinal disorders"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 97,
+        "column": 0
+      },
+      "cleanedText": "Afinitor"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 97,
+        "column": 1
+      },
+      "cleanedText": "Everolimus"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 97,
+        "column": 2
+      },
+      "cleanedText": "Novartis"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 97,
+        "column": 3
+      },
+      "cleanedText": "Cancer"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 98,
+        "column": 0
+      },
+      "cleanedText": "Betaseron, Betaferon"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 98,
+        "column": 1
+      },
+      "cleanedText": "Interferon beta 1b"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 98,
+        "column": 2
+      },
+      "cleanedText": "Bayer"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 98,
+        "column": 3
+      },
+      "cleanedText": "Multiple sclerosis"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 99,
+        "column": 0
+      },
+      "cleanedText": "Adderall XR"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 99,
+        "column": 1
+      },
+      "cleanedText": "Amphetamine mixed salts"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 99,
+        "column": 2
+      },
+      "cleanedText": "Generic"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 99,
+        "column": 3
+      },
+      "cleanedText": "Attention deficit hyperactivity disorder"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 100,
+        "column": 0
+      },
+      "cleanedText": "Complera"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 100,
+        "column": 1
+      },
+      "cleanedText": "Emtricitabine/Rilpivirine/Tenofovir disoproxil fumarate"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 100,
+        "column": 2
+      },
+      "cleanedText": "Gilead Sciences, Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 100,
+        "column": 3
+      },
+      "cleanedText": "AIDS"
+    }
+  ],
+  "maxDimensions": {
+    "row": 100,
+    "column": 3
+  },
+  "columns": [
+    {
+      "tableName": "http://dbpedia.org/resource/List_of_largest_selling_pharmaceutical_products?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d0_2",
+      "columnName": "Brand Name(s)",
+      "fields": [
+        "Abilify",
+        "Humira",
+        "Nexium",
+        "Crestor",
+        "Enbrel",
+        "Advair Diskus, Seretide",
+        "Remicade",
+        "Lantus Solostar",
+        "Neulasta",
+        "Copaxone",
+        "Rituxan, MabThera",
+        "Spiriva",
+        "Januvia",
+        "Lantus",
+        "Atripla",
+        "Cymbalta",
+        "Avastin",
+        "Lyrica",
+        "OxyContin",
+        "Celebrex",
+        "Epogen",
+        "Truvada",
+        "Diovan",
+        "Levemir",
+        "Gleevec, Glivec",
+        "Herceptin",
+        "Vyvanse",
+        "Lucentis",
+        "Zetia",
+        "Combivent",
+        "Symbicort",
+        "Namenda",
+        "NovoLog FlexPen",
+        "Xarelto",
+        "NovoLog",
+        "Humalog",
+        "Suboxone",
+        "Viagra",
+        "Seroquel XR",
+        "ONE TOUCH ULTRA",
+        "AndroGel",
+        "Enoxaparin",
+        "Methylphenidate",
+        "ProAir HFA",
+        "Alimta",
+        "Victoza",
+        "Synagis",
+        "Avonex",
+        "Renvela",
+        "Rebif",
+        "Cialis",
+        "Gilenya",
+        "Nasonex",
+        "Stelara",
+        "Restasis",
+        "Budesonide",
+        "Acetaminophen/hydrocodone",
+        "Flovent HFA",
+        "Lovaza",
+        "Prezista",
+        "Isentress",
+        "Janumet",
+        "Procrit, Eprex",
+        "Doxycycline",
+        "Orencia",
+        "Amphetamine/dextroamphetamine",
+        "Vesicare",
+        "Dexilant",
+        "Humalog KwikPen",
+        "Neupogen",
+        "Lidocaine",
+        "Lunesta",
+        "Fenofibrate",
+        "Zytiga",
+        "Reyataz",
+        "Sensipar",
+        "Metoprolol",
+        "Invega Sustenna",
+        "Synthroid",
+        "Avonex Pen",
+        "Prevnar 13",
+        "Xolair",
+        "Lipitor",
+        "levothyroxine",
+        "Benicar",
+        "Stribild",
+        "Zostavax",
+        "Pradaxa",
+        "Vytorin",
+        "Tamiflu",
+        "Xgeva",
+        "Evista",
+        "Xeloda",
+        "Aranesp",
+        "Ventolin HFA",
+        "divalproex sodium",
+        "Afinitor",
+        "Betaseron, Betaferon",
+        "Adderall XR",
+        "Complera"
+      ]
+    },
+    {
+      "tableName": "http://dbpedia.org/resource/List_of_largest_selling_pharmaceutical_products?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d0_2",
+      "columnName": "Generic Name",
+      "fields": [
+        "Aripiprazole",
+        "Adalimumab",
+        "Esomeprazole",
+        "Rosuvastatin",
+        "Etanercept",
+        "Fluticasone/salmeterol",
+        "Infliximab",
+        "Insulin glargine",
+        "Filgrastim",
+        "Glatiramer",
+        "Rituximab",
+        "Tiotropium bromide",
+        "Sitagliptin",
+        "Insulin glargine",
+        "Emtricitabine/tenofovir/efavirenz",
+        "Duloxetine",
+        "Bevacizumab",
+        "Pregabalin",
+        "Oxycodone",
+        "Celecoxib",
+        "Epoetin alfa",
+        "Tenofovir/emtricitabine",
+        "Valsartan",
+        "Insulin detemir",
+        "Imatinib",
+        "Trastuzumab",
+        "Lisdexamfetamine",
+        "Ranibizumab",
+        "Ezetimibe",
+        "Ipratropium bromide/salbutamol",
+        "Budesonide/formoterol",
+        "Memantine",
+        "Insulin aspart",
+        "Rivaroxaban",
+        "Insulin aspart",
+        "Insulin lispro",
+        "Buprenorphine",
+        "Sildenafil",
+        "Quetiapine",
+        "Telaprevir",
+        "Testosterone gel",
+        "Enoxaparin",
+        "Methylphenidate",
+        "Salbutamol",
+        "Pemetrexed",
+        "Liraglutide",
+        "Palivizumab",
+        "Interferon beta 1a",
+        "Sevelamer",
+        "Interferon beta 1a",
+        "Tadalafil",
+        "fingolimod",
+        "Mometasone",
+        "Ustekinumab",
+        "Ciclosporin ophthalmic emulsion",
+        "Budesonide",
+        "Acetaminophen/hydrocodone",
+        "Fluticasone propionate",
+        "Omega-3 fatty acid ethyl esters",
+        "Darunavir",
+        "Raltegravir",
+        "Sitagliptin/metformin",
+        "Epoetin alfa",
+        "Doxycycline",
+        "Abatacept",
+        "Amphetamine mixed salts",
+        "Solifenacin",
+        "Dexlansoprazole",
+        "Insulin lispro",
+        "Filgrastim",
+        "Lidocaine",
+        "Eszopiclone",
+        "Fenofibrate",
+        "Abiraterone",
+        "Atazanavir",
+        "Cinacalcet",
+        "Metoprolol",
+        "Rabeprazole",
+        "Levothyroxine",
+        "Olmesartan",
+        "Pneumococcal conjugate vaccine",
+        "Omalizumab",
+        "Atorvastatin",
+        "Levothyroxine",
+        "Olmesartan/hydrochlorothiazide",
+        "Elvitegravir/cobicistat/emtricitabine/tenofovir",
+        "Zostavax",
+        "Dabigatran",
+        "Ezetimibe/simvastatin",
+        "Oseltamivir",
+        "Denosumab",
+        "Raloxifene",
+        "Capecitabine",
+        "Darbepoetin alfa",
+        "Salbutamol",
+        "valproate",
+        "Everolimus",
+        "Interferon beta 1b",
+        "Amphetamine mixed salts",
+        "Emtricitabine/Rilpivirine/Tenofovir disoproxil fumarate"
+      ]
+    },
+    {
+      "tableName": "http://dbpedia.org/resource/List_of_largest_selling_pharmaceutical_products?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d0_2",
+      "columnName": "Company(ies)",
+      "fields": [
+        "Generic",
+        "AbbVie",
+        "Generic",
+        "AstraZeneca, Shionogi",
+        "Amgen",
+        "GlaxoSmithKline",
+        "Centocor Ortho Biotech, Inc., Mitsubishi Tanabe Pharma",
+        "Sanofi-Aventis",
+        "Amgen",
+        "Generic",
+        "Biogen Idec, Chugai Pharmaceutical, Genentech/Roche",
+        "Boehringer Ingelheim",
+        "Merck \u0026 Co., Inc.",
+        "Sanofi-Aventis",
+        "Gilead Sciences, Inc.",
+        "Generic",
+        "Genentech/Roche",
+        "Pfizer",
+        "Generic",
+        "Generic",
+        "Amgen",
+        "Gilead Sciences",
+        "Generic",
+        "Novo Nordisk",
+        "Novartis",
+        "Chugai Pharmaceutical, Genentech/Roche",
+        "Shire",
+        "Genentech",
+        "Merck \u0026 Co., Schering-Plough",
+        "Boehringer Ingelheim",
+        "AstraZeneca",
+        "Generic",
+        "Novo Nordisk",
+        "Bayer",
+        "Novo Nordisk",
+        "Eli Lilly and Company",
+        "Reckitt Benckiser Pharmaceuticals Inc.",
+        "Pfizer",
+        "Generic",
+        "Johnson \u0026 Johnson",
+        "Generic",
+        "Generic",
+        "Generic",
+        "Teva Pharmaceuticals",
+        "Eli Lilly and Company",
+        "Novo Nordisk",
+        "MedImmune",
+        "Biogen Idec",
+        "Generic",
+        "Serono",
+        "Eli Lilly and Company, Lilly Icos",
+        "Novartis Corporation",
+        "Schering-Plough",
+        "Johnson \u0026 Johnson",
+        "Allergan, Inc, Lilly Icos",
+        "Generic",
+        "Generic",
+        "GlaxoSmithKline",
+        "GlaxoSmithKline",
+        "Johnson \u0026 Johnson",
+        "Merck \u0026 Co., Inc.",
+        "Merck \u0026 Co., Inc.",
+        "Johnson \u0026 Johnson",
+        "Generic",
+        "Bristol-Myers Squibb Company",
+        "Generic",
+        "Astellas Pharma US",
+        "Takeda Pharmaceuticals North America, Inc",
+        "Eli Lilly and Company",
+        "Amgen",
+        "Generic",
+        "Generic",
+        "Generic",
+        "Janssen Biotech, Inc.",
+        "Bristol-Myers Squibb",
+        "Amgen Inc.",
+        "Generic",
+        "Janssen Pharmaceuticals, Inc, Johnson \u0026 Johnson",
+        "Generic",
+        "Biogen Idec, Forest Laboratories",
+        "Pfizer",
+        "Genentech, Novartis",
+        "Generic",
+        "Generic",
+        "Daiichi Sankyo",
+        "Gilead Sciences",
+        "Eisai, Merck \u0026 Co.",
+        "Boehringer Ingelheim, Lilly Icos",
+        "Merck \u0026 Co., Schering-Plough",
+        "Chugai Pharmaceutical, Hetero Drugs, Roche",
+        "Amgen",
+        "Eli Lilly and Company, Chugai Pharmaceutical",
+        "Generic",
+        "Amgen Inc.",
+        "GlaxoSmithKline",
+        "Generic",
+        "Novartis",
+        "Bayer",
+        "Generic",
+        "Gilead Sciences, Inc."
+      ]
+    },
+    {
+      "tableName": "http://dbpedia.org/resource/List_of_largest_selling_pharmaceutical_products?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d0_2",
+      "columnName": "Disease/Medical Use",
+      "fields": [
+        "Psychosis; depression",
+        "Crohn\u0027s disease; Rheumatoid arthritis",
+        "Gastrointestinal disorders",
+        "Cholesterol",
+        "Rheumatoid arthritis",
+        "Asthma",
+        "Crohn\u0027s disease; rheumatoid arthritis",
+        "Diabetes mellitus type 1 and 2",
+        "Neutropenia",
+        "Multiple sclerosis",
+        "Non-Hodgkin’s lymphoma; rheumatoid arthritis",
+        "Chronic obstructive pulmonary disease",
+        "Diabetes mellitus type 2",
+        "Diabetes mellitus type 1 and 2",
+        "HIV infection",
+        "Depression; anxiety disorders",
+        "Cancer",
+        "Neuropathic pain",
+        "Pain",
+        "Osteoarthritis; rheumatoid arthritis",
+        "Anemia",
+        "HIV infection",
+        "Hypertension",
+        "Diabetes mellitus type 1 and 2",
+        "Leukemia",
+        "Breast cancer",
+        "Attention deficit hyperactivity disorder",
+        "Macular degeneration",
+        "Cholesterol",
+        "Chronic obstructive pulmonary disease",
+        "Asthma",
+        "Alzheimer\u0027s disease",
+        "Diabetes mellitus type 1 and 2",
+        "Oral anticoagulant",
+        "Diabetes mellitus type 1 and 2",
+        "Diabetes mellitus type 1 and 2",
+        "Pain; opioid addiction",
+        "Erectile dysfunction",
+        "Psychosis; depression",
+        "Hepatitis C",
+        "Low testosterone levels",
+        "Deep-vein thrombosis",
+        "Attention deficit hyperactivity disorder",
+        "Asthma; chronic obstructive pulmonary disease",
+        "Cancer",
+        "Diabetes mellitus type 2",
+        "RSV infection",
+        "Multiple sclerosis",
+        "Hyperphosphatemia",
+        "Multiple sclerosis",
+        "Erectile dysfunction",
+        "Multiple sclerosis",
+        "Allergic rhinitis",
+        "Psoriasis; psoriatic arthritis",
+        "Dry eye syndrome",
+        "Asthma",
+        "Pain",
+        "Asthma",
+        "Cholesterol",
+        "HIV infection",
+        "HIV Infection",
+        "Diabetes mellitus type 2",
+        "Anemia",
+        "Bacterial infections",
+        "Rheumatoid arthritis",
+        "Attention deficit hyperactivity disorder; narcolepsy",
+        "Overactive bladder",
+        "Gastrointestinal disorders",
+        "Diabetes mellitus type 1 and 2",
+        "Neutropenia",
+        "Pain",
+        "Insomnia",
+        "Cholesterol",
+        "Prostate Cancer",
+        "HIV infection",
+        "Hyperparathyroidism",
+        "Hypertension",
+        "Gastrointestinal disorders",
+        "Hypothyroidism",
+        "Hypertension",
+        "Pneumococcal disease",
+        "Asthma",
+        "Cholesterol",
+        "Hypothyroidism",
+        "Hypertension",
+        "HIV/AIDS",
+        "Herpes zoster",
+        "Oral anticoagulant",
+        "Cholesterol",
+        "Influenza",
+        "Osteoporosis",
+        "Osteoporosis",
+        "Cancer",
+        "Anemia",
+        "Asthma; chronic obstructive pulmonary disease",
+        "Gastrointestinal disorders",
+        "Cancer",
+        "Multiple sclerosis",
+        "Attention deficit hyperactivity disorder",
+        "AIDS"
+      ]
+    }
+  ]
+}

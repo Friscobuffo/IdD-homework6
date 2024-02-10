@@ -1,0 +1,1831 @@
+{
+  "id": "http://dbpedia.org/resource/List_of_largest_companies_by_revenue?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d1_2",
+  "cells": [
+    {
+      "isHeader": true,
+      "Coordinates": {
+        "row": 0,
+        "column": 0
+      },
+      "cleanedText": "Name"
+    },
+    {
+      "isHeader": true,
+      "Coordinates": {
+        "row": 0,
+        "column": 1
+      },
+      "cleanedText": "Industry"
+    },
+    {
+      "isHeader": true,
+      "Coordinates": {
+        "row": 0,
+        "column": 2
+      },
+      "cleanedText": "Headquarters"
+    },
+    {
+      "isHeader": true,
+      "Coordinates": {
+        "row": 0,
+        "column": 3
+      },
+      "cleanedText": "CEO"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 1,
+        "column": 0
+      },
+      "cleanedText": "Walmart"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 1,
+        "column": 1
+      },
+      "cleanedText": "Retail"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 1,
+        "column": 2
+      },
+      "cleanedText": "23x15px Bentonville, Arkansas"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 1,
+        "column": 3
+      },
+      "cleanedText": "Doug McMillon"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 2,
+        "column": 0
+      },
+      "cleanedText": "Sinopec Group"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 2,
+        "column": 1
+      },
+      "cleanedText": "Oil and gas"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 2,
+        "column": 2
+      },
+      "cleanedText": "23x15px Beijing"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 2,
+        "column": 3
+      },
+      "cleanedText": "Wang Tianpu"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 3,
+        "column": 0
+      },
+      "cleanedText": "China National Petroleum Corporation"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 3,
+        "column": 1
+      },
+      "cleanedText": "Oil and gas"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 3,
+        "column": 2
+      },
+      "cleanedText": "23x15px Beijing"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 3,
+        "column": 3
+      },
+      "cleanedText": "Wang Yilin"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 4,
+        "column": 0
+      },
+      "cleanedText": "Saudi Aramco"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 4,
+        "column": 1
+      },
+      "cleanedText": "Oil and gas"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 4,
+        "column": 2
+      },
+      "cleanedText": "23x15px Dhahran"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 4,
+        "column": 3
+      },
+      "cleanedText": "Amin H. Nasser"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 5,
+        "column": 0
+      },
+      "cleanedText": "State Grid"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 5,
+        "column": 1
+      },
+      "cleanedText": "Electric utility"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 5,
+        "column": 2
+      },
+      "cleanedText": "23x15px Beijing"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 5,
+        "column": 3
+      },
+      "cleanedText": "Liu Zhenya"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 6,
+        "column": 0
+      },
+      "cleanedText": "Samsung"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 6,
+        "column": 1
+      },
+      "cleanedText": "Conglomerate"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 6,
+        "column": 2
+      },
+      "cleanedText": "23x15px Suwon"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 6,
+        "column": 3
+      },
+      "cleanedText": "Lee Kun-hee"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 7,
+        "column": 0
+      },
+      "cleanedText": "Royal Dutch Shell"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 7,
+        "column": 1
+      },
+      "cleanedText": "Oil and gas"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 7,
+        "column": 2
+      },
+      "cleanedText": "23x15px The Hague 23x15px London"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 7,
+        "column": 3
+      },
+      "cleanedText": "Ben van Beurden"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 8,
+        "column": 0
+      },
+      "cleanedText": "ExxonMobil"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 8,
+        "column": 1
+      },
+      "cleanedText": "Oil and gas"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 8,
+        "column": 2
+      },
+      "cleanedText": "23x15px Irving, Texas"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 8,
+        "column": 3
+      },
+      "cleanedText": "Rex W. Tillerson"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 9,
+        "column": 0
+      },
+      "cleanedText": "Vitol"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 9,
+        "column": 1
+      },
+      "cleanedText": "Commodities"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 9,
+        "column": 2
+      },
+      "cleanedText": "23x15px Rotterdam; 23x16px Geneva"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 9,
+        "column": 3
+      },
+      "cleanedText": "Ian Taylor"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 10,
+        "column": 0
+      },
+      "cleanedText": "Kuwait Petroleum Corporation"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 10,
+        "column": 1
+      },
+      "cleanedText": "Oil and gas"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 10,
+        "column": 2
+      },
+      "cleanedText": "23x15px Al Shuwaikh"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 10,
+        "column": 3
+      },
+      "cleanedText": "Nizar Al-Adsani"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 11,
+        "column": 0
+      },
+      "cleanedText": "Volkswagen"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 11,
+        "column": 1
+      },
+      "cleanedText": "Automotive"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 11,
+        "column": 2
+      },
+      "cleanedText": "23x15px Wolfsburg"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 11,
+        "column": 3
+      },
+      "cleanedText": "Matthias Müller"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 12,
+        "column": 0
+      },
+      "cleanedText": "Apple"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 12,
+        "column": 1
+      },
+      "cleanedText": "Consumer electronics"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 12,
+        "column": 2
+      },
+      "cleanedText": "23x15px Cupertino, California"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 12,
+        "column": 3
+      },
+      "cleanedText": "Tim Cook"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 13,
+        "column": 0
+      },
+      "cleanedText": "Toyota"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 13,
+        "column": 1
+      },
+      "cleanedText": "Automotive"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 13,
+        "column": 2
+      },
+      "cleanedText": "23x15px Toyota, Aichi"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 13,
+        "column": 3
+      },
+      "cleanedText": "Akio Toyoda"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 14,
+        "column": 0
+      },
+      "cleanedText": "BP"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 14,
+        "column": 1
+      },
+      "cleanedText": "Oil and gas"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 14,
+        "column": 2
+      },
+      "cleanedText": "23x15px London"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 14,
+        "column": 3
+      },
+      "cleanedText": "Bob Dudley"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 15,
+        "column": 0
+      },
+      "cleanedText": "Glencore"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 15,
+        "column": 1
+      },
+      "cleanedText": "Commodities"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 15,
+        "column": 2
+      },
+      "cleanedText": "23x16px Baar"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 15,
+        "column": 3
+      },
+      "cleanedText": "Ivan Glasenberg"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 16,
+        "column": 0
+      },
+      "cleanedText": "Total"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 16,
+        "column": 1
+      },
+      "cleanedText": "Oil and gas"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 16,
+        "column": 2
+      },
+      "cleanedText": "23x15px Courbevoie"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 16,
+        "column": 3
+      },
+      "cleanedText": "Patrick Pouyanne"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 17,
+        "column": 0
+      },
+      "cleanedText": "Berkshire Hathaway"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 17,
+        "column": 1
+      },
+      "cleanedText": "Conglomerate"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 17,
+        "column": 2
+      },
+      "cleanedText": "23x15px Omaha, Nebraska"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 17,
+        "column": 3
+      },
+      "cleanedText": "Warren Buffett"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 18,
+        "column": 0
+      },
+      "cleanedText": "McKesson"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 18,
+        "column": 1
+      },
+      "cleanedText": "Pharmaceuticals"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 18,
+        "column": 2
+      },
+      "cleanedText": "23x15px San Francisco, California"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 18,
+        "column": 3
+      },
+      "cleanedText": "John Hammergren"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 19,
+        "column": 0
+      },
+      "cleanedText": "China Railway"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 19,
+        "column": 1
+      },
+      "cleanedText": "Transport"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 19,
+        "column": 2
+      },
+      "cleanedText": "23x15px Beijing"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 19,
+        "column": 3
+      },
+      "cleanedText": "Sheng Guangzu"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 20,
+        "column": 0
+      },
+      "cleanedText": "Phillips 66"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 20,
+        "column": 1
+      },
+      "cleanedText": "Oil and gas"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 20,
+        "column": 2
+      },
+      "cleanedText": "23x15px Houston, Texas"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 20,
+        "column": 3
+      },
+      "cleanedText": "Greg Garland"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 21,
+        "column": 0
+      },
+      "cleanedText": "Japan Post"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 21,
+        "column": 1
+      },
+      "cleanedText": "Conglomerate"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 21,
+        "column": 2
+      },
+      "cleanedText": "23x15px Tokyo"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 21,
+        "column": 3
+      },
+      "cleanedText": "Jiro Saito"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 22,
+        "column": 0
+      },
+      "cleanedText": "Daimler"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 22,
+        "column": 1
+      },
+      "cleanedText": "Automotive"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 22,
+        "column": 2
+      },
+      "cleanedText": "23x15px Stuttgart"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 22,
+        "column": 3
+      },
+      "cleanedText": "Dieter Zetsche"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 23,
+        "column": 0
+      },
+      "cleanedText": "General Motors"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 23,
+        "column": 1
+      },
+      "cleanedText": "Automotive"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 23,
+        "column": 2
+      },
+      "cleanedText": "23x15px Detroit, Michigan"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 23,
+        "column": 3
+      },
+      "cleanedText": "Mary Barra"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 24,
+        "column": 0
+      },
+      "cleanedText": "General Electric"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 24,
+        "column": 1
+      },
+      "cleanedText": "Conglomerate"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 24,
+        "column": 2
+      },
+      "cleanedText": "23x15px Boston, Massachusetts"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 24,
+        "column": 3
+      },
+      "cleanedText": "Jeffrey Immelt"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 25,
+        "column": 0
+      },
+      "cleanedText": "Exor"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 25,
+        "column": 1
+      },
+      "cleanedText": "Financial services"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 25,
+        "column": 2
+      },
+      "cleanedText": "23x15px Turin"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 25,
+        "column": 3
+      },
+      "cleanedText": "John Elkann"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 26,
+        "column": 0
+      },
+      "cleanedText": "Allianz"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 26,
+        "column": 1
+      },
+      "cleanedText": "Financial services"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 26,
+        "column": 2
+      },
+      "cleanedText": "23x15px Munich"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 26,
+        "column": 3
+      },
+      "cleanedText": "Oliver Bäte"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 27,
+        "column": 0
+      },
+      "cleanedText": "Ford Motor Company"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 27,
+        "column": 1
+      },
+      "cleanedText": "Automotive"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 27,
+        "column": 2
+      },
+      "cleanedText": "23x15px Dearborn, Michigan"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 27,
+        "column": 3
+      },
+      "cleanedText": "Mark Fields"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 28,
+        "column": 0
+      },
+      "cleanedText": "Petrobras"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 28,
+        "column": 1
+      },
+      "cleanedText": "Oil and gas"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 28,
+        "column": 2
+      },
+      "cleanedText": "23x15px Rio de Janeiro"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 28,
+        "column": 3
+      },
+      "cleanedText": "Pedro Parente"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 29,
+        "column": 0
+      },
+      "cleanedText": "Lukoil"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 29,
+        "column": 1
+      },
+      "cleanedText": "Oil and gas"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 29,
+        "column": 2
+      },
+      "cleanedText": "23x15px Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 29,
+        "column": 3
+      },
+      "cleanedText": "Vagit Alekperov"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 30,
+        "column": 0
+      },
+      "cleanedText": "Honda"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 30,
+        "column": 1
+      },
+      "cleanedText": "Automotive"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 30,
+        "column": 2
+      },
+      "cleanedText": "23x15px Tokyo"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 30,
+        "column": 3
+      },
+      "cleanedText": "Takahiro Hachigo"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 31,
+        "column": 0
+      },
+      "cleanedText": "CVS Health"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 31,
+        "column": 1
+      },
+      "cleanedText": "Retail"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 31,
+        "column": 2
+      },
+      "cleanedText": "23x15px Woonsocket, Rhode Island"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 31,
+        "column": 3
+      },
+      "cleanedText": "Larry Merlo"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 32,
+        "column": 0
+      },
+      "cleanedText": "Chevron"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 32,
+        "column": 1
+      },
+      "cleanedText": "Oil and gas"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 32,
+        "column": 2
+      },
+      "cleanedText": "23x15px San Ramon, California"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 32,
+        "column": 3
+      },
+      "cleanedText": "John Watson"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 33,
+        "column": 0
+      },
+      "cleanedText": "Industrial and Commercial Bank of China"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 33,
+        "column": 1
+      },
+      "cleanedText": "Financial services"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 33,
+        "column": 2
+      },
+      "cleanedText": "23x15px Beijing"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 33,
+        "column": 3
+      },
+      "cleanedText": "Jiang Jianqing"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 34,
+        "column": 0
+      },
+      "cleanedText": "E·ON"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 34,
+        "column": 1
+      },
+      "cleanedText": "Electric utility"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 34,
+        "column": 2
+      },
+      "cleanedText": "23x15px Düsseldorf"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 34,
+        "column": 3
+      },
+      "cleanedText": "Johannes Teyssen"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 35,
+        "column": 0
+      },
+      "cleanedText": "Foxconn"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 35,
+        "column": 1
+      },
+      "cleanedText": "Electronics"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 35,
+        "column": 2
+      },
+      "cleanedText": "23x15px Taiwan"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 35,
+        "column": 3
+      },
+      "cleanedText": "Terry Gou"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 36,
+        "column": 0
+      },
+      "cleanedText": "Eni"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 36,
+        "column": 1
+      },
+      "cleanedText": "Oil and gas"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 36,
+        "column": 2
+      },
+      "cleanedText": "23x15px Rome"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 36,
+        "column": 3
+      },
+      "cleanedText": "Claudio Descalzi"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 37,
+        "column": 0
+      },
+      "cleanedText": "AT\u0026T"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 37,
+        "column": 1
+      },
+      "cleanedText": "Telecommunications"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 37,
+        "column": 2
+      },
+      "cleanedText": "23x15px Dallas, Texas"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 37,
+        "column": 3
+      },
+      "cleanedText": "Randall L. Stephenson"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 38,
+        "column": 0
+      },
+      "cleanedText": "Valero"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 38,
+        "column": 1
+      },
+      "cleanedText": "Oil and gas"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 38,
+        "column": 2
+      },
+      "cleanedText": "23x15px San Antonio, Texas"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 38,
+        "column": 3
+      },
+      "cleanedText": "William R. Klesse"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 39,
+        "column": 0
+      },
+      "cleanedText": "United Health"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 39,
+        "column": 1
+      },
+      "cleanedText": "Health care"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 39,
+        "column": 2
+      },
+      "cleanedText": "23x15px Minnetonka, Minnesota"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 39,
+        "column": 3
+      },
+      "cleanedText": "Stephen Hemsley"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 40,
+        "column": 0
+      },
+      "cleanedText": "PDVSA"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 40,
+        "column": 1
+      },
+      "cleanedText": "Oil and gas"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 40,
+        "column": 2
+      },
+      "cleanedText": "23x15px Caracas"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 40,
+        "column": 3
+      },
+      "cleanedText": "Rafael Ramírez"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 41,
+        "column": 0
+      },
+      "cleanedText": "Trafigura"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 41,
+        "column": 1
+      },
+      "cleanedText": "Commodities"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 41,
+        "column": 2
+      },
+      "cleanedText": "23x16px Lucerne"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 41,
+        "column": 3
+      },
+      "cleanedText": "Claude Dauphin"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 42,
+        "column": 0
+      },
+      "cleanedText": "Verizon"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 42,
+        "column": 1
+      },
+      "cleanedText": "Telecommunications"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 42,
+        "column": 2
+      },
+      "cleanedText": "23x15px New York City, New York"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 42,
+        "column": 3
+      },
+      "cleanedText": "Lowell McAdam"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 43,
+        "column": 0
+      },
+      "cleanedText": "China Construction Engineering"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 43,
+        "column": 1
+      },
+      "cleanedText": "Construction"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 43,
+        "column": 2
+      },
+      "cleanedText": "23x15px Beijing"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 43,
+        "column": 3
+      },
+      "cleanedText": "Yi Jun"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 44,
+        "column": 0
+      },
+      "cleanedText": "Cargill"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 44,
+        "column": 1
+      },
+      "cleanedText": "Food processing"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 44,
+        "column": 2
+      },
+      "cleanedText": "23x15px Wayzata, Minnesota"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 44,
+        "column": 3
+      },
+      "cleanedText": "Dave MacLennan"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 45,
+        "column": 0
+      },
+      "cleanedText": "AmerisourceBergen"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 45,
+        "column": 1
+      },
+      "cleanedText": "Pharmaceuticals"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 45,
+        "column": 2
+      },
+      "cleanedText": "23x15px Chesterbrook, Pennsylvania"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 45,
+        "column": 3
+      },
+      "cleanedText": "Steven H. Collis"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 46,
+        "column": 0
+      },
+      "cleanedText": "Koch Industries"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 46,
+        "column": 1
+      },
+      "cleanedText": "Conglomerate"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 46,
+        "column": 2
+      },
+      "cleanedText": "23x15px Wichita, Kansas"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 46,
+        "column": 3
+      },
+      "cleanedText": "Charles Koch"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 47,
+        "column": 0
+      },
+      "cleanedText": "Costco"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 47,
+        "column": 1
+      },
+      "cleanedText": "Retail"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 47,
+        "column": 2
+      },
+      "cleanedText": "23x15px Issaquah, Washington"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 47,
+        "column": 3
+      },
+      "cleanedText": "W. Craig Jelinek"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 48,
+        "column": 0
+      },
+      "cleanedText": "Hewlett Packard Enterprise"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 48,
+        "column": 1
+      },
+      "cleanedText": "Electronics"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 48,
+        "column": 2
+      },
+      "cleanedText": "23x15px Palo Alto, California"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 48,
+        "column": 3
+      },
+      "cleanedText": "Meg Whitman"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 49,
+        "column": 0
+      },
+      "cleanedText": "Tata Group"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 49,
+        "column": 1
+      },
+      "cleanedText": "Conglomerate"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 49,
+        "column": 2
+      },
+      "cleanedText": "23x15px Mumbai, India"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 49,
+        "column": 3
+      },
+      "cleanedText": "Cyrus Pallonji Mistry"
+    }
+  ],
+  "maxDimensions": {
+    "row": 49,
+    "column": 3
+  },
+  "columns": [
+    {
+      "tableName": "http://dbpedia.org/resource/List_of_largest_companies_by_revenue?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d1_2",
+      "columnName": "Name",
+      "fields": [
+        "Walmart",
+        "Sinopec Group",
+        "China National Petroleum Corporation",
+        "Saudi Aramco",
+        "State Grid",
+        "Samsung",
+        "Royal Dutch Shell",
+        "ExxonMobil",
+        "Vitol",
+        "Kuwait Petroleum Corporation",
+        "Volkswagen",
+        "Apple",
+        "Toyota",
+        "BP",
+        "Glencore",
+        "Total",
+        "Berkshire Hathaway",
+        "McKesson",
+        "China Railway",
+        "Phillips 66",
+        "Japan Post",
+        "Daimler",
+        "General Motors",
+        "General Electric",
+        "Exor",
+        "Allianz",
+        "Ford Motor Company",
+        "Petrobras",
+        "Lukoil",
+        "Honda",
+        "CVS Health",
+        "Chevron",
+        "Industrial and Commercial Bank of China",
+        "E·ON",
+        "Foxconn",
+        "Eni",
+        "AT\u0026T",
+        "Valero",
+        "United Health",
+        "PDVSA",
+        "Trafigura",
+        "Verizon",
+        "China Construction Engineering",
+        "Cargill",
+        "AmerisourceBergen",
+        "Koch Industries",
+        "Costco",
+        "Hewlett Packard Enterprise",
+        "Tata Group"
+      ]
+    },
+    {
+      "tableName": "http://dbpedia.org/resource/List_of_largest_companies_by_revenue?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d1_2",
+      "columnName": "Industry",
+      "fields": [
+        "Retail",
+        "Oil and gas",
+        "Oil and gas",
+        "Oil and gas",
+        "Electric utility",
+        "Conglomerate",
+        "Oil and gas",
+        "Oil and gas",
+        "Commodities",
+        "Oil and gas",
+        "Automotive",
+        "Consumer electronics",
+        "Automotive",
+        "Oil and gas",
+        "Commodities",
+        "Oil and gas",
+        "Conglomerate",
+        "Pharmaceuticals",
+        "Transport",
+        "Oil and gas",
+        "Conglomerate",
+        "Automotive",
+        "Automotive",
+        "Conglomerate",
+        "Financial services",
+        "Financial services",
+        "Automotive",
+        "Oil and gas",
+        "Oil and gas",
+        "Automotive",
+        "Retail",
+        "Oil and gas",
+        "Financial services",
+        "Electric utility",
+        "Electronics",
+        "Oil and gas",
+        "Telecommunications",
+        "Oil and gas",
+        "Health care",
+        "Oil and gas",
+        "Commodities",
+        "Telecommunications",
+        "Construction",
+        "Food processing",
+        "Pharmaceuticals",
+        "Conglomerate",
+        "Retail",
+        "Electronics",
+        "Conglomerate"
+      ]
+    },
+    {
+      "tableName": "http://dbpedia.org/resource/List_of_largest_companies_by_revenue?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d1_2",
+      "columnName": "Headquarters",
+      "fields": [
+        "23x15px Bentonville, Arkansas",
+        "23x15px Beijing",
+        "23x15px Beijing",
+        "23x15px Dhahran",
+        "23x15px Beijing",
+        "23x15px Suwon",
+        "23x15px The Hague 23x15px London",
+        "23x15px Irving, Texas",
+        "23x15px Rotterdam; 23x16px Geneva",
+        "23x15px Al Shuwaikh",
+        "23x15px Wolfsburg",
+        "23x15px Cupertino, California",
+        "23x15px Toyota, Aichi",
+        "23x15px London",
+        "23x16px Baar",
+        "23x15px Courbevoie",
+        "23x15px Omaha, Nebraska",
+        "23x15px San Francisco, California",
+        "23x15px Beijing",
+        "23x15px Houston, Texas",
+        "23x15px Tokyo",
+        "23x15px Stuttgart",
+        "23x15px Detroit, Michigan",
+        "23x15px Boston, Massachusetts",
+        "23x15px Turin",
+        "23x15px Munich",
+        "23x15px Dearborn, Michigan",
+        "23x15px Rio de Janeiro",
+        "23x15px Moscow",
+        "23x15px Tokyo",
+        "23x15px Woonsocket, Rhode Island",
+        "23x15px San Ramon, California",
+        "23x15px Beijing",
+        "23x15px Düsseldorf",
+        "23x15px Taiwan",
+        "23x15px Rome",
+        "23x15px Dallas, Texas",
+        "23x15px San Antonio, Texas",
+        "23x15px Minnetonka, Minnesota",
+        "23x15px Caracas",
+        "23x16px Lucerne",
+        "23x15px New York City, New York",
+        "23x15px Beijing",
+        "23x15px Wayzata, Minnesota",
+        "23x15px Chesterbrook, Pennsylvania",
+        "23x15px Wichita, Kansas",
+        "23x15px Issaquah, Washington",
+        "23x15px Palo Alto, California",
+        "23x15px Mumbai, India"
+      ]
+    },
+    {
+      "tableName": "http://dbpedia.org/resource/List_of_largest_companies_by_revenue?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d1_2",
+      "columnName": "CEO",
+      "fields": [
+        "Doug McMillon",
+        "Wang Tianpu",
+        "Wang Yilin",
+        "Amin H. Nasser",
+        "Liu Zhenya",
+        "Lee Kun-hee",
+        "Ben van Beurden",
+        "Rex W. Tillerson",
+        "Ian Taylor",
+        "Nizar Al-Adsani",
+        "Matthias Müller",
+        "Tim Cook",
+        "Akio Toyoda",
+        "Bob Dudley",
+        "Ivan Glasenberg",
+        "Patrick Pouyanne",
+        "Warren Buffett",
+        "John Hammergren",
+        "Sheng Guangzu",
+        "Greg Garland",
+        "Jiro Saito",
+        "Dieter Zetsche",
+        "Mary Barra",
+        "Jeffrey Immelt",
+        "John Elkann",
+        "Oliver Bäte",
+        "Mark Fields",
+        "Pedro Parente",
+        "Vagit Alekperov",
+        "Takahiro Hachigo",
+        "Larry Merlo",
+        "John Watson",
+        "Jiang Jianqing",
+        "Johannes Teyssen",
+        "Terry Gou",
+        "Claudio Descalzi",
+        "Randall L. Stephenson",
+        "William R. Klesse",
+        "Stephen Hemsley",
+        "Rafael Ramírez",
+        "Claude Dauphin",
+        "Lowell McAdam",
+        "Yi Jun",
+        "Dave MacLennan",
+        "Steven H. Collis",
+        "Charles Koch",
+        "W. Craig Jelinek",
+        "Meg Whitman",
+        "Cyrus Pallonji Mistry"
+      ]
+    }
+  ]
+}

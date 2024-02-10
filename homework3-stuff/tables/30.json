@@ -1,0 +1,823 @@
+{
+  "id": "http://dbpedia.org/resource/List_of_largest_pharmaceutical_settlements?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d0_1",
+  "cells": [
+    {
+      "isHeader": true,
+      "Coordinates": {
+        "row": 0,
+        "column": 0
+      },
+      "cleanedText": "Company"
+    },
+    {
+      "isHeader": true,
+      "Coordinates": {
+        "row": 0,
+        "column": 1
+      },
+      "cleanedText": "Violation(s)"
+    },
+    {
+      "isHeader": true,
+      "Coordinates": {
+        "row": 0,
+        "column": 2
+      },
+      "cleanedText": "Product(s)"
+    },
+    {
+      "isHeader": true,
+      "Coordinates": {
+        "row": 0,
+        "column": 3
+      },
+      "cleanedText": "Laws allegedly violated (if applicable)"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 1,
+        "column": 0
+      },
+      "cleanedText": "GlaxoSmithKline"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 1,
+        "column": 1
+      },
+      "cleanedText": "Criminal: Off-label promotion, failure to disclose safety data. Civil: paying kickbacks to physicians, making false and misleading statements concerning the safety of Avandia, reporting false best prices and underpaying rebates owed under the Medicaid Drug Rebate Program"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 1,
+        "column": 2
+      },
+      "cleanedText": "Avandia, Wellbutrin, Paxil, Advair, Lamictal, Zofran, Imitrex, Lotronex, Flovent, Valtrex;"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 1,
+        "column": 3
+      },
+      "cleanedText": "False Claims Act/FDCA"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 2,
+        "column": 0
+      },
+      "cleanedText": "Pfizer"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 2,
+        "column": 1
+      },
+      "cleanedText": "Off-label promotion/kickbacks"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 2,
+        "column": 2
+      },
+      "cleanedText": "Bextra/Geodon/ Zyvox/Lyrica"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 2,
+        "column": 3
+      },
+      "cleanedText": "False Claims Act/FDCA"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 3,
+        "column": 0
+      },
+      "cleanedText": "Johnson \u0026 Johnson"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 3,
+        "column": 1
+      },
+      "cleanedText": "Off-label promotion/kickbacks"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 3,
+        "column": 2
+      },
+      "cleanedText": "Risperdal/Invega/ Nesiritide"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 3,
+        "column": 3
+      },
+      "cleanedText": "False Claims Act/FDCA"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 4,
+        "column": 0
+      },
+      "cleanedText": "Abbott Laboratories"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 4,
+        "column": 1
+      },
+      "cleanedText": "Off-label promotion"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 4,
+        "column": 2
+      },
+      "cleanedText": "Depakote"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 4,
+        "column": 3
+      },
+      "cleanedText": "False Claims Act/FDCA"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 5,
+        "column": 0
+      },
+      "cleanedText": "Eli Lilly"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 5,
+        "column": 1
+      },
+      "cleanedText": "Off-label promotion"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 5,
+        "column": 2
+      },
+      "cleanedText": "Zyprexa"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 5,
+        "column": 3
+      },
+      "cleanedText": "False Claims Act/FDCA"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 6,
+        "column": 0
+      },
+      "cleanedText": "TAP Pharmaceutical Products"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 6,
+        "column": 1
+      },
+      "cleanedText": "Medicare fraud/kickbacks"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 6,
+        "column": 2
+      },
+      "cleanedText": "Lupron"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 6,
+        "column": 3
+      },
+      "cleanedText": "False Claims Act/ Prescription Drug Marketing Act"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 7,
+        "column": 0
+      },
+      "cleanedText": "Amgen"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 7,
+        "column": 1
+      },
+      "cleanedText": "Off-label promotion/kickbacks"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 7,
+        "column": 2
+      },
+      "cleanedText": "Aranesp"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 7,
+        "column": 3
+      },
+      "cleanedText": "False Claims Act/FDCA"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 8,
+        "column": 0
+      },
+      "cleanedText": "GlaxoSmithKline"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 8,
+        "column": 1
+      },
+      "cleanedText": "Poor manufacturing practices"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 8,
+        "column": 2
+      },
+      "cleanedText": "Kytril/Bactroban/ Paxil CR/Avandamet"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 8,
+        "column": 3
+      },
+      "cleanedText": "False Claims Act/FDCA"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 9,
+        "column": 0
+      },
+      "cleanedText": "Serono"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 9,
+        "column": 1
+      },
+      "cleanedText": "Off-label promotion/ kickbacks/monopoly practices"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 9,
+        "column": 2
+      },
+      "cleanedText": "Serostim"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 9,
+        "column": 3
+      },
+      "cleanedText": "False Claims Act"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 10,
+        "column": 0
+      },
+      "cleanedText": "Merck"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 10,
+        "column": 1
+      },
+      "cleanedText": "Medicare fraud/kickbacks"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 10,
+        "column": 2
+      },
+      "cleanedText": "Zocor/Vioxx/Pepsid"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 10,
+        "column": 3
+      },
+      "cleanedText": "False Claims Act/ Medicaid Rebate Statute"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 11,
+        "column": 0
+      },
+      "cleanedText": "Purdue Pharma"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 11,
+        "column": 1
+      },
+      "cleanedText": "Off-label promotion"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 11,
+        "column": 2
+      },
+      "cleanedText": "Oxycontin"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 11,
+        "column": 3
+      },
+      "cleanedText": "False Claims Act"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 12,
+        "column": 0
+      },
+      "cleanedText": "Allergan"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 12,
+        "column": 1
+      },
+      "cleanedText": "Off-label promotion"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 12,
+        "column": 2
+      },
+      "cleanedText": "Botox"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 12,
+        "column": 3
+      },
+      "cleanedText": "False Claims Act/FDCA"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 13,
+        "column": 0
+      },
+      "cleanedText": "AstraZeneca"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 13,
+        "column": 1
+      },
+      "cleanedText": "Off-label promotion/kickbacks"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 13,
+        "column": 2
+      },
+      "cleanedText": "Seroquel"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 13,
+        "column": 3
+      },
+      "cleanedText": "False Claims Act"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 14,
+        "column": 0
+      },
+      "cleanedText": "Bristol-Myers Squibb"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 14,
+        "column": 1
+      },
+      "cleanedText": "Off-label promotion/ kickbacks/Medicare fraud"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 14,
+        "column": 2
+      },
+      "cleanedText": "Abilify/Serzone"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 14,
+        "column": 3
+      },
+      "cleanedText": "False Claims Act/FDCA"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 15,
+        "column": 0
+      },
+      "cleanedText": "Schering-Plough"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 15,
+        "column": 1
+      },
+      "cleanedText": "Poor manufacturing practices"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 15,
+        "column": 2
+      },
+      "cleanedText": "Claritin"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 15,
+        "column": 3
+      },
+      "cleanedText": "FDA Current Good Manufacturing Practices"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 16,
+        "column": 0
+      },
+      "cleanedText": "Schering-Plough"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 16,
+        "column": 1
+      },
+      "cleanedText": "Off-label promotion/ kickbacks/Medicare fraud"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 16,
+        "column": 2
+      },
+      "cleanedText": "Temodar/ Intron A/K-Dur/ Claritin RediTabs"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 16,
+        "column": 3
+      },
+      "cleanedText": "False Claims Act/FDCA"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 17,
+        "column": 0
+      },
+      "cleanedText": "Pfizer"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 17,
+        "column": 1
+      },
+      "cleanedText": "Off-label promotion"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 17,
+        "column": 2
+      },
+      "cleanedText": "Neurontin"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 17,
+        "column": 3
+      },
+      "cleanedText": "False Claims Act/FDCA"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 18,
+        "column": 0
+      },
+      "cleanedText": "Cephalon"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 18,
+        "column": 1
+      },
+      "cleanedText": "Off-label promotion"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 18,
+        "column": 2
+      },
+      "cleanedText": "Actiq/Gabitril/Provigil"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 18,
+        "column": 3
+      },
+      "cleanedText": "False Claims Act/FDCA"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 19,
+        "column": 0
+      },
+      "cleanedText": "Novartis"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 19,
+        "column": 1
+      },
+      "cleanedText": "Off-label promotion/kickbacks"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 19,
+        "column": 2
+      },
+      "cleanedText": "Trileptal"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 19,
+        "column": 3
+      },
+      "cleanedText": "False Claims Act/FDCA"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 20,
+        "column": 0
+      },
+      "cleanedText": "AstraZeneca"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 20,
+        "column": 1
+      },
+      "cleanedText": "Medicare fraud"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 20,
+        "column": 2
+      },
+      "cleanedText": "Zoladex"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 20,
+        "column": 3
+      },
+      "cleanedText": "Prescription Drug Marketing Act"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 21,
+        "column": 0
+      },
+      "cleanedText": "Schering-Plough"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 21,
+        "column": 1
+      },
+      "cleanedText": "Medicare fraud/kickbacks"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 21,
+        "column": 2
+      },
+      "cleanedText": "Claritin"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 21,
+        "column": 3
+      },
+      "cleanedText": "False Claims Act/ Anti-Kickback Statute"
+    }
+  ],
+  "maxDimensions": {
+    "row": 21,
+    "column": 3
+  },
+  "columns": [
+    {
+      "tableName": "http://dbpedia.org/resource/List_of_largest_pharmaceutical_settlements?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d0_1",
+      "columnName": "Company",
+      "fields": [
+        "GlaxoSmithKline",
+        "Pfizer",
+        "Johnson \u0026 Johnson",
+        "Abbott Laboratories",
+        "Eli Lilly",
+        "TAP Pharmaceutical Products",
+        "Amgen",
+        "GlaxoSmithKline",
+        "Serono",
+        "Merck",
+        "Purdue Pharma",
+        "Allergan",
+        "AstraZeneca",
+        "Bristol-Myers Squibb",
+        "Schering-Plough",
+        "Schering-Plough",
+        "Pfizer",
+        "Cephalon",
+        "Novartis",
+        "AstraZeneca",
+        "Schering-Plough"
+      ]
+    },
+    {
+      "tableName": "http://dbpedia.org/resource/List_of_largest_pharmaceutical_settlements?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d0_1",
+      "columnName": "Violation(s)",
+      "fields": [
+        "Criminal: Off-label promotion, failure to disclose safety data. Civil: paying kickbacks to physicians, making false and misleading statements concerning the safety of Avandia, reporting false best prices and underpaying rebates owed under the Medicaid Drug Rebate Program",
+        "Off-label promotion/kickbacks",
+        "Off-label promotion/kickbacks",
+        "Off-label promotion",
+        "Off-label promotion",
+        "Medicare fraud/kickbacks",
+        "Off-label promotion/kickbacks",
+        "Poor manufacturing practices",
+        "Off-label promotion/ kickbacks/monopoly practices",
+        "Medicare fraud/kickbacks",
+        "Off-label promotion",
+        "Off-label promotion",
+        "Off-label promotion/kickbacks",
+        "Off-label promotion/ kickbacks/Medicare fraud",
+        "Poor manufacturing practices",
+        "Off-label promotion/ kickbacks/Medicare fraud",
+        "Off-label promotion",
+        "Off-label promotion",
+        "Off-label promotion/kickbacks",
+        "Medicare fraud",
+        "Medicare fraud/kickbacks"
+      ]
+    },
+    {
+      "tableName": "http://dbpedia.org/resource/List_of_largest_pharmaceutical_settlements?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d0_1",
+      "columnName": "Product(s)",
+      "fields": [
+        "Avandia, Wellbutrin, Paxil, Advair, Lamictal, Zofran, Imitrex, Lotronex, Flovent, Valtrex;",
+        "Bextra/Geodon/ Zyvox/Lyrica",
+        "Risperdal/Invega/ Nesiritide",
+        "Depakote",
+        "Zyprexa",
+        "Lupron",
+        "Aranesp",
+        "Kytril/Bactroban/ Paxil CR/Avandamet",
+        "Serostim",
+        "Zocor/Vioxx/Pepsid",
+        "Oxycontin",
+        "Botox",
+        "Seroquel",
+        "Abilify/Serzone",
+        "Claritin",
+        "Temodar/ Intron A/K-Dur/ Claritin RediTabs",
+        "Neurontin",
+        "Actiq/Gabitril/Provigil",
+        "Trileptal",
+        "Zoladex",
+        "Claritin"
+      ]
+    },
+    {
+      "tableName": "http://dbpedia.org/resource/List_of_largest_pharmaceutical_settlements?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d0_1",
+      "columnName": "Laws allegedly violated (if applicable)",
+      "fields": [
+        "False Claims Act/FDCA",
+        "False Claims Act/FDCA",
+        "False Claims Act/FDCA",
+        "False Claims Act/FDCA",
+        "False Claims Act/FDCA",
+        "False Claims Act/ Prescription Drug Marketing Act",
+        "False Claims Act/FDCA",
+        "False Claims Act/FDCA",
+        "False Claims Act",
+        "False Claims Act/ Medicaid Rebate Statute",
+        "False Claims Act",
+        "False Claims Act/FDCA",
+        "False Claims Act",
+        "False Claims Act/FDCA",
+        "FDA Current Good Manufacturing Practices",
+        "False Claims Act/FDCA",
+        "False Claims Act/FDCA",
+        "False Claims Act/FDCA",
+        "False Claims Act/FDCA",
+        "Prescription Drug Marketing Act",
+        "False Claims Act/ Anti-Kickback Statute"
+      ]
+    }
+  ]
+}

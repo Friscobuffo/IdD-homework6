@@ -1,0 +1,3919 @@
+{
+  "id": "http://dbpedia.org/resource/List_of_Israeli_companies_quoted_on_the_Nasdaq?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d1_2",
+  "cells": [
+    {
+      "isHeader": true,
+      "Coordinates": {
+        "row": 0,
+        "column": 0
+      },
+      "cleanedText": "Name"
+    },
+    {
+      "isHeader": true,
+      "Coordinates": {
+        "row": 0,
+        "column": 1
+      },
+      "cleanedText": "Sector"
+    },
+    {
+      "isHeader": true,
+      "Coordinates": {
+        "row": 0,
+        "column": 2
+      },
+      "cleanedText": "Products / Solutions"
+    },
+    {
+      "isHeader": true,
+      "Coordinates": {
+        "row": 0,
+        "column": 3
+      },
+      "cleanedText": "Notes"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 1,
+        "column": 0
+      },
+      "cleanedText": "ACRO Inc"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 1,
+        "column": 1
+      },
+      "cleanedText": "Defense"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 1,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 1,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 2,
+        "column": 0
+      },
+      "cleanedText": "ACS Motion Control Ltd."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 2,
+        "column": 1
+      },
+      "cleanedText": "Electronic components"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 2,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 2,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 3,
+        "column": 0
+      },
+      "cleanedText": "Alcobra Ltd."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 3,
+        "column": 1
+      },
+      "cleanedText": "Pharmaceuticals"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 3,
+        "column": 2
+      },
+      "cleanedText": "Drug Development for Cognitive Dysfunctions"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 3,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 4,
+        "column": 0
+      },
+      "cleanedText": "Allot Communications Ltd."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 4,
+        "column": 1
+      },
+      "cleanedText": "Networking \u0026 communication"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 4,
+        "column": 2
+      },
+      "cleanedText": "Broadband service optimization"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 4,
+        "column": 3
+      },
+      "cleanedText": "Dual listed on TASE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 5,
+        "column": 0
+      },
+      "cleanedText": "Alvarion Ltd."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 5,
+        "column": 1
+      },
+      "cleanedText": "Wireless technology"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 5,
+        "column": 2
+      },
+      "cleanedText": "WiMax"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 5,
+        "column": 3
+      },
+      "cleanedText": "Dual listed on TASE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 6,
+        "column": 0
+      },
+      "cleanedText": "Ampal-American Israel Corporation"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 6,
+        "column": 1
+      },
+      "cleanedText": "Holding Company"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 6,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 6,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 7,
+        "column": 0
+      },
+      "cleanedText": "Attunity Ltd."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 7,
+        "column": 1
+      },
+      "cleanedText": "Software"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 7,
+        "column": 2
+      },
+      "cleanedText": "Data integration, Big Data"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 7,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 8,
+        "column": 0
+      },
+      "cleanedText": "AudioCodes Ltd."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 8,
+        "column": 1
+      },
+      "cleanedText": "Networking \u0026 communication"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 8,
+        "column": 2
+      },
+      "cleanedText": "VoIP"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 8,
+        "column": 3
+      },
+      "cleanedText": "Dual listed on TASE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 9,
+        "column": 0
+      },
+      "cleanedText": "B Communications"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 9,
+        "column": 1
+      },
+      "cleanedText": "Telecommunications"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 9,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 9,
+        "column": 3
+      },
+      "cleanedText": "Dual listed on TASE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 10,
+        "column": 0
+      },
+      "cleanedText": "B.O.S. Better Online Solutions"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 10,
+        "column": 1
+      },
+      "cleanedText": "Wireless technology"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 10,
+        "column": 2
+      },
+      "cleanedText": "RFID and Supply Chain solutions"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 10,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 11,
+        "column": 0
+      },
+      "cleanedText": "BioLineRx Ltd."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 11,
+        "column": 1
+      },
+      "cleanedText": "Biopharmaceuticals"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 11,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 11,
+        "column": 3
+      },
+      "cleanedText": "Dual listed on TASE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 12,
+        "column": 0
+      },
+      "cleanedText": "BiondVax Pharmaceuticals Ltd"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 12,
+        "column": 1
+      },
+      "cleanedText": "Pharmaceuticals"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 12,
+        "column": 2
+      },
+      "cleanedText": "Universal Influenza Vaccine"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 12,
+        "column": 3
+      },
+      "cleanedText": "Dual listed on TASE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 13,
+        "column": 0
+      },
+      "cleanedText": "BluePhoenix Solutions Ltd."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 13,
+        "column": 1
+      },
+      "cleanedText": "Software"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 13,
+        "column": 2
+      },
+      "cleanedText": "Legacy modernization"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 13,
+        "column": 3
+      },
+      "cleanedText": "Dual listed on TASE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 14,
+        "column": 0
+      },
+      "cleanedText": "Brainstorm Cell Therapeutics Inc"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 14,
+        "column": 1
+      },
+      "cleanedText": "Biotech"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 14,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 14,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 15,
+        "column": 0
+      },
+      "cleanedText": "Caesarstone Sdot-Yam"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 15,
+        "column": 1
+      },
+      "cleanedText": "Home building"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 15,
+        "column": 2
+      },
+      "cleanedText": "Quartz surfaces"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 15,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 16,
+        "column": 0
+      },
+      "cleanedText": "Camtek Intelligent Imaging Ltd."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 16,
+        "column": 1
+      },
+      "cleanedText": "Industrial equipment"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 16,
+        "column": 2
+      },
+      "cleanedText": "Automated optical inspection for PCB manufacturing"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 16,
+        "column": 3
+      },
+      "cleanedText": "Dual listed on TASE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 17,
+        "column": 0
+      },
+      "cleanedText": "Cell Kinetics Ltd."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 17,
+        "column": 1
+      },
+      "cleanedText": "Biotech"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 17,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 17,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 18,
+        "column": 0
+      },
+      "cleanedText": "Cellcom Israel Ltd."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 18,
+        "column": 1
+      },
+      "cleanedText": "Wireless"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 18,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 18,
+        "column": 3
+      },
+      "cleanedText": "Dual listed on TASE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 19,
+        "column": 0
+      },
+      "cleanedText": "Ceragon Networks Ltd."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 19,
+        "column": 1
+      },
+      "cleanedText": "Wireless technology"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 19,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 19,
+        "column": 3
+      },
+      "cleanedText": "Dual listed on TASE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 20,
+        "column": 0
+      },
+      "cleanedText": "CEVA, Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 20,
+        "column": 1
+      },
+      "cleanedText": "Semiconductors"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 20,
+        "column": 2
+      },
+      "cleanedText": "Silicon intellectual property provider for DSP solutions"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 20,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 21,
+        "column": 0
+      },
+      "cleanedText": "Check-Cap Ltd."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 21,
+        "column": 1
+      },
+      "cleanedText": "Medical equipment"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 21,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 21,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 22,
+        "column": 0
+      },
+      "cleanedText": "Check Point Software Technologies Ltd."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 22,
+        "column": 1
+      },
+      "cleanedText": "IT Security"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 22,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 22,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 23,
+        "column": 0
+      },
+      "cleanedText": "Cimatron, Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 23,
+        "column": 1
+      },
+      "cleanedText": "Software"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 23,
+        "column": 2
+      },
+      "cleanedText": "CAD/ CAM"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 23,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 24,
+        "column": 0
+      },
+      "cleanedText": "ClickSoftware Technologies Ltd."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 24,
+        "column": 1
+      },
+      "cleanedText": "Software"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 24,
+        "column": 2
+      },
+      "cleanedText": "Workforce and service management"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 24,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 25,
+        "column": 0
+      },
+      "cleanedText": "CYREN Ltd. (previously Commtouch)"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 25,
+        "column": 1
+      },
+      "cleanedText": "Internet Security"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 25,
+        "column": 2
+      },
+      "cleanedText": "Web Security, Email Security, Anti-Malware"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 25,
+        "column": 3
+      },
+      "cleanedText": "Dual listed on TASE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 26,
+        "column": 0
+      },
+      "cleanedText": "Compugen Ltd."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 26,
+        "column": 1
+      },
+      "cleanedText": "Biotech"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 26,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 26,
+        "column": 3
+      },
+      "cleanedText": "Dual listed on TASE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 27,
+        "column": 0
+      },
+      "cleanedText": "Comverse Technology, Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 27,
+        "column": 1
+      },
+      "cleanedText": "Networking \u0026 communication"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 27,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 27,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 28,
+        "column": 0
+      },
+      "cleanedText": "Crow Technologies 1977 Ltd."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 28,
+        "column": 1
+      },
+      "cleanedText": "Security Systems"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 28,
+        "column": 2
+      },
+      "cleanedText": "Alarms"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 28,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 29,
+        "column": 0
+      },
+      "cleanedText": "CyberArk"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 29,
+        "column": 1
+      },
+      "cleanedText": "Software"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 29,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 29,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 30,
+        "column": 0
+      },
+      "cleanedText": "DSP Group, Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 30,
+        "column": 1
+      },
+      "cleanedText": "Semiconductors"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 30,
+        "column": 2
+      },
+      "cleanedText": "Fabless DSP solutions"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 30,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 31,
+        "column": 0
+      },
+      "cleanedText": "Elbit Medical Imaging Ltd."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 31,
+        "column": 1
+      },
+      "cleanedText": "Holding Company"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 31,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 31,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 32,
+        "column": 0
+      },
+      "cleanedText": "Elbit Systems Ltd."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 32,
+        "column": 1
+      },
+      "cleanedText": "Defense"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 32,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 32,
+        "column": 3
+      },
+      "cleanedText": "Dual listed on TASE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 33,
+        "column": 0
+      },
+      "cleanedText": "Eltek Ltd."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 33,
+        "column": 1
+      },
+      "cleanedText": "Electronic components"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 33,
+        "column": 2
+      },
+      "cleanedText": "Printed circuit boards (PCB) manufacturer"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 33,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 34,
+        "column": 0
+      },
+      "cleanedText": "Enzymotec Ltd"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 34,
+        "column": 1
+      },
+      "cleanedText": "Biotech"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 34,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 34,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 35,
+        "column": 0
+      },
+      "cleanedText": "EZchip Semiconductor Ltd."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 35,
+        "column": 1
+      },
+      "cleanedText": "Semiconductors"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 35,
+        "column": 2
+      },
+      "cleanedText": "Fabless chip design"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 35,
+        "column": 3
+      },
+      "cleanedText": "Dual listed on TASE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 36,
+        "column": 0
+      },
+      "cleanedText": "Foamix Pharmaceuticals Ltd"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 36,
+        "column": 1
+      },
+      "cleanedText": "Pharmaceuticals"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 36,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 36,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 37,
+        "column": 0
+      },
+      "cleanedText": "Formula Systems (1985) Ltd."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 37,
+        "column": 1
+      },
+      "cleanedText": "Holding Company"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 37,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 37,
+        "column": 3
+      },
+      "cleanedText": "Dual listed on TASE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 38,
+        "column": 0
+      },
+      "cleanedText": "G. Willi-Food International, Ltd."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 38,
+        "column": 1
+      },
+      "cleanedText": "Food dist"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 38,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 38,
+        "column": 3
+      },
+      "cleanedText": "Dual listed on TASE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 39,
+        "column": 0
+      },
+      "cleanedText": "GammaCan International, Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 39,
+        "column": 1
+      },
+      "cleanedText": "Biotech"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 39,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 39,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 40,
+        "column": 0
+      },
+      "cleanedText": "Gilat Satellite Networks Ltd."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 40,
+        "column": 1
+      },
+      "cleanedText": "Networking \u0026 communication"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 40,
+        "column": 2
+      },
+      "cleanedText": "Satellite receivers"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 40,
+        "column": 3
+      },
+      "cleanedText": "Dual listed on TASE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 41,
+        "column": 0
+      },
+      "cleanedText": "Given Imaging Ltd."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 41,
+        "column": 1
+      },
+      "cleanedText": "Medical equipment"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 41,
+        "column": 2
+      },
+      "cleanedText": "Diagnostic solutions"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 41,
+        "column": 3
+      },
+      "cleanedText": "Dual listed on TASE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 42,
+        "column": 0
+      },
+      "cleanedText": "ICTS International N.V."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 42,
+        "column": 1
+      },
+      "cleanedText": "Security services"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 42,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 42,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 43,
+        "column": 0
+      },
+      "cleanedText": "Inksure Technologies Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 43,
+        "column": 1
+      },
+      "cleanedText": "Security Systems"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 43,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 43,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 44,
+        "column": 0
+      },
+      "cleanedText": "Intelligent Information Systems Ltd."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 44,
+        "column": 1
+      },
+      "cleanedText": "Software"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 44,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 44,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 45,
+        "column": 0
+      },
+      "cleanedText": "Internet Gold Golden Lines Ltd."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 45,
+        "column": 1
+      },
+      "cleanedText": "Communication services"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 45,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 45,
+        "column": 3
+      },
+      "cleanedText": "Dual listed on TASE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 46,
+        "column": 0
+      },
+      "cleanedText": "Isramco, Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 46,
+        "column": 1
+      },
+      "cleanedText": "Oil exploration"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 46,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 46,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 47,
+        "column": 0
+      },
+      "cleanedText": "Ituran Location and Control Ltd."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 47,
+        "column": 1
+      },
+      "cleanedText": "Communication services"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 47,
+        "column": 2
+      },
+      "cleanedText": "location-based services"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 47,
+        "column": 3
+      },
+      "cleanedText": "Dual listed on TASE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 48,
+        "column": 0
+      },
+      "cleanedText": "IXI Mobile, Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 48,
+        "column": 1
+      },
+      "cleanedText": "Networking \u0026 communication"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 48,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 48,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 49,
+        "column": 0
+      },
+      "cleanedText": "Jacada Ltd."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 49,
+        "column": 1
+      },
+      "cleanedText": "Software"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 49,
+        "column": 2
+      },
+      "cleanedText": "Contact center desktop and process optimization solutions"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 49,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 50,
+        "column": 0
+      },
+      "cleanedText": "Kamada Ltd."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 50,
+        "column": 1
+      },
+      "cleanedText": "Biopharmaceuticals"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 50,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 50,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 51,
+        "column": 0
+      },
+      "cleanedText": "Kornit Digital"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 51,
+        "column": 1
+      },
+      "cleanedText": "Printing"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 51,
+        "column": 2
+      },
+      "cleanedText": "Inkjet printers for the garment and apparel decorating industry"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 51,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 52,
+        "column": 0
+      },
+      "cleanedText": "Macrocure Ltd"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 52,
+        "column": 1
+      },
+      "cleanedText": "Biotech"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 52,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 52,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 53,
+        "column": 0
+      },
+      "cleanedText": "Magal Security Systems"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 53,
+        "column": 1
+      },
+      "cleanedText": "Security Systems"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 53,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 53,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 54,
+        "column": 0
+      },
+      "cleanedText": "magicJack VocalTec Ltd."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 54,
+        "column": 1
+      },
+      "cleanedText": "Networking \u0026 communication"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 54,
+        "column": 2
+      },
+      "cleanedText": "VoIP solutions"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 54,
+        "column": 3
+      },
+      "cleanedText": "Formerly VocalTec Communications Ltd."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 55,
+        "column": 0
+      },
+      "cleanedText": "Magic Software Enterprises Ltd."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 55,
+        "column": 1
+      },
+      "cleanedText": "Software"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 55,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 55,
+        "column": 3
+      },
+      "cleanedText": "Dual listed on TASE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 56,
+        "column": 0
+      },
+      "cleanedText": "Mazor Robotics"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 56,
+        "column": 1
+      },
+      "cleanedText": "Medical equipment"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 56,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 56,
+        "column": 3
+      },
+      "cleanedText": "Dual listed on TASE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 57,
+        "column": 0
+      },
+      "cleanedText": "Medigus Ltd."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 57,
+        "column": 1
+      },
+      "cleanedText": "Medical equipment"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 57,
+        "column": 2
+      },
+      "cleanedText": "Minimally invasive endosurgical tools"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 57,
+        "column": 3
+      },
+      "cleanedText": "Dual listed on TASE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 58,
+        "column": 0
+      },
+      "cleanedText": "Mediwound Ltd"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 58,
+        "column": 1
+      },
+      "cleanedText": "Biotech"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 58,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 58,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 59,
+        "column": 0
+      },
+      "cleanedText": "Mellanox Technologies, Ltd."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 59,
+        "column": 1
+      },
+      "cleanedText": "Semiconductors"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 59,
+        "column": 2
+      },
+      "cleanedText": "InfiniBand"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 59,
+        "column": 3
+      },
+      "cleanedText": "Dual listed on TASE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 60,
+        "column": 0
+      },
+      "cleanedText": "MER Telemanagement Solutions Ltd."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 60,
+        "column": 1
+      },
+      "cleanedText": "Networking \u0026 communication"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 60,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 60,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 61,
+        "column": 0
+      },
+      "cleanedText": "Micronet Enertec Technologies Inc"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 61,
+        "column": 1
+      },
+      "cleanedText": "Defense"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 61,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 61,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 62,
+        "column": 0
+      },
+      "cleanedText": "Mind CTI Ltd."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 62,
+        "column": 1
+      },
+      "cleanedText": "Networking \u0026 communication"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 62,
+        "column": 2
+      },
+      "cleanedText": "Billing solutions"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 62,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 63,
+        "column": 0
+      },
+      "cleanedText": "m-Wise, Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 63,
+        "column": 1
+      },
+      "cleanedText": "Wireless technology"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 63,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 63,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 64,
+        "column": 0
+      },
+      "cleanedText": "Nano Dimension Ltd."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 64,
+        "column": 1
+      },
+      "cleanedText": "Printing"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 64,
+        "column": 2
+      },
+      "cleanedText": "Digital printers for Printed circuit boards"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 64,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 65,
+        "column": 0
+      },
+      "cleanedText": "NexGen Biofuels Ltd."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 65,
+        "column": 1
+      },
+      "cleanedText": "Alternative Energy"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 65,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 65,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 66,
+        "column": 0
+      },
+      "cleanedText": "NICE Systems Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 66,
+        "column": 1
+      },
+      "cleanedText": "Networking \u0026 communication"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 66,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 66,
+        "column": 3
+      },
+      "cleanedText": "Dual listed on TASE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 67,
+        "column": 0
+      },
+      "cleanedText": "Nova Measuring Instruments Ltd."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 67,
+        "column": 1
+      },
+      "cleanedText": "Industrial equipment"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 67,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 67,
+        "column": 3
+      },
+      "cleanedText": "Dual listed on TASE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 68,
+        "column": 0
+      },
+      "cleanedText": "On Track Innovations Ltd"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 68,
+        "column": 1
+      },
+      "cleanedText": "Security Systems"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 68,
+        "column": 2
+      },
+      "cleanedText": "Smart card technology"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 68,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 69,
+        "column": 0
+      },
+      "cleanedText": "Optibase Ltd."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 69,
+        "column": 1
+      },
+      "cleanedText": "Networking \u0026 communication"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 69,
+        "column": 2
+      },
+      "cleanedText": "Internet protocol television (IPTV)"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 69,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 70,
+        "column": 0
+      },
+      "cleanedText": "Oramed Pharmaceuticals, Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 70,
+        "column": 1
+      },
+      "cleanedText": "Pharmaceuticals"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 70,
+        "column": 2
+      },
+      "cleanedText": "Oral insulin capsule"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 70,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 71,
+        "column": 0
+      },
+      "cleanedText": "Orbotech Ltd."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 71,
+        "column": 1
+      },
+      "cleanedText": "Industrial equipment"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 71,
+        "column": 2
+      },
+      "cleanedText": "Automated optical inspection solutions"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 71,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 72,
+        "column": 0
+      },
+      "cleanedText": "Orckit Communications, Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 72,
+        "column": 1
+      },
+      "cleanedText": "Networking \u0026 communication"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 72,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 72,
+        "column": 3
+      },
+      "cleanedText": "Dual listed on TASE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 73,
+        "column": 0
+      },
+      "cleanedText": "OrganiTECH USA, Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 73,
+        "column": 1
+      },
+      "cleanedText": "Biotech"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 73,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 73,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 74,
+        "column": 0
+      },
+      "cleanedText": "Partner Communications Company Ltd."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 74,
+        "column": 1
+      },
+      "cleanedText": "Communication services"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 74,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 74,
+        "column": 3
+      },
+      "cleanedText": "Dual listed on TASE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 75,
+        "column": 0
+      },
+      "cleanedText": "Perion Network Ltd."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 75,
+        "column": 1
+      },
+      "cleanedText": "Software"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 75,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 75,
+        "column": 3
+      },
+      "cleanedText": "Dual listed on TASE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 76,
+        "column": 0
+      },
+      "cleanedText": "Perrigo Company"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 76,
+        "column": 1
+      },
+      "cleanedText": "Pharmaceuticals"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 76,
+        "column": 2
+      },
+      "cleanedText": "Generic pharmaceutical products"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 76,
+        "column": 3
+      },
+      "cleanedText": "Dual listed on TASE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 77,
+        "column": 0
+      },
+      "cleanedText": "Pluristem Therapeutics Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 77,
+        "column": 1
+      },
+      "cleanedText": "Biotech"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 77,
+        "column": 2
+      },
+      "cleanedText": "Stem cell therapeutic products"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 77,
+        "column": 3
+      },
+      "cleanedText": "Dual listed on TASE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 78,
+        "column": 0
+      },
+      "cleanedText": "Pointer Telocation Ltd."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 78,
+        "column": 1
+      },
+      "cleanedText": "Security services"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 78,
+        "column": 2
+      },
+      "cleanedText": "Automatic vehicle location"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 78,
+        "column": 3
+      },
+      "cleanedText": "Dual listed on TASE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 79,
+        "column": 0
+      },
+      "cleanedText": "PROLOR Biotech, Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 79,
+        "column": 1
+      },
+      "cleanedText": "Biotech"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 79,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 79,
+        "column": 3
+      },
+      "cleanedText": "Dual listed on TASE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 80,
+        "column": 0
+      },
+      "cleanedText": "RADA Electronic Industries Ltd."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 80,
+        "column": 1
+      },
+      "cleanedText": "Aerospace"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 80,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 80,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 81,
+        "column": 0
+      },
+      "cleanedText": "Radcom Ltd."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 81,
+        "column": 1
+      },
+      "cleanedText": "Networking \u0026 communication"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 81,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 81,
+        "column": 3
+      },
+      "cleanedText": "Part of the RAD Group"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 82,
+        "column": 0
+      },
+      "cleanedText": "RadView Software Ltd."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 82,
+        "column": 1
+      },
+      "cleanedText": "Software"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 82,
+        "column": 2
+      },
+      "cleanedText": "Load testing tool WebLOAD for web and mobile applications"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 82,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 83,
+        "column": 0
+      },
+      "cleanedText": "RADVision Ltd."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 83,
+        "column": 1
+      },
+      "cleanedText": "Networking \u0026 communication"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 83,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 83,
+        "column": 3
+      },
+      "cleanedText": "Part of the RAD Group"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 84,
+        "column": 0
+      },
+      "cleanedText": "Radware Ltd."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 84,
+        "column": 1
+      },
+      "cleanedText": "Networking \u0026 communication"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 84,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 84,
+        "column": 3
+      },
+      "cleanedText": "Part of the RAD Group"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 85,
+        "column": 0
+      },
+      "cleanedText": "ReWalk"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 85,
+        "column": 1
+      },
+      "cleanedText": "Medical equipment"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 85,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 85,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 86,
+        "column": 0
+      },
+      "cleanedText": "RiT Technologies Ltd."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 86,
+        "column": 1
+      },
+      "cleanedText": "Networking \u0026 communication"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 86,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 86,
+        "column": 3
+      },
+      "cleanedText": "Part of the RAD Group"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 87,
+        "column": 0
+      },
+      "cleanedText": "Rosetta Genomics"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 87,
+        "column": 1
+      },
+      "cleanedText": "Biotech"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 87,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 87,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 88,
+        "column": 0
+      },
+      "cleanedText": "RR Media Ltd."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 88,
+        "column": 1
+      },
+      "cleanedText": "Digital media services"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 88,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 88,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 89,
+        "column": 0
+      },
+      "cleanedText": "Sapiens International Corporation N.V."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 89,
+        "column": 1
+      },
+      "cleanedText": "Software"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 89,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 89,
+        "column": 3
+      },
+      "cleanedText": "Dual listed on TASE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 90,
+        "column": 0
+      },
+      "cleanedText": "Silicom Ltd"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 90,
+        "column": 1
+      },
+      "cleanedText": "Networking \u0026 communication"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 90,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 90,
+        "column": 3
+      },
+      "cleanedText": "Part of the RAD Group"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 91,
+        "column": 0
+      },
+      "cleanedText": "Sodastream International"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 91,
+        "column": 1
+      },
+      "cleanedText": "Food and beverage"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 91,
+        "column": 2
+      },
+      "cleanedText": "Carbonation systems"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 91,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 92,
+        "column": 0
+      },
+      "cleanedText": "SolarEdge"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 92,
+        "column": 1
+      },
+      "cleanedText": "Renewable energy"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 92,
+        "column": 2
+      },
+      "cleanedText": "Photovoltaic systems"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 92,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 93,
+        "column": 0
+      },
+      "cleanedText": "Supercom Ltd"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 93,
+        "column": 1
+      },
+      "cleanedText": "Security Systems"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 93,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 93,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 94,
+        "column": 0
+      },
+      "cleanedText": "Syneron Medical Ltd."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 94,
+        "column": 1
+      },
+      "cleanedText": "Medical equipment"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 94,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 94,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 95,
+        "column": 0
+      },
+      "cleanedText": "TAT Technologies Ltd."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 95,
+        "column": 1
+      },
+      "cleanedText": "Defense"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 95,
+        "column": 2
+      },
+      "cleanedText": "Environmental control systems"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 95,
+        "column": 3
+      },
+      "cleanedText": "Dual listed on TASE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 96,
+        "column": 0
+      },
+      "cleanedText": "Technoprises Ltd."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 96,
+        "column": 1
+      },
+      "cleanedText": "Holding Company"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 96,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 96,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 97,
+        "column": 0
+      },
+      "cleanedText": "Tefron Ltd."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 97,
+        "column": 1
+      },
+      "cleanedText": "Manufacturing"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 97,
+        "column": 2
+      },
+      "cleanedText": "Apparel manufacturing"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 97,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 98,
+        "column": 0
+      },
+      "cleanedText": "Tikcro Technologies, Ltd."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 98,
+        "column": 1
+      },
+      "cleanedText": "Biotech"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 98,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 98,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 99,
+        "column": 0
+      },
+      "cleanedText": "Tissera Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 99,
+        "column": 1
+      },
+      "cleanedText": "Biotech"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 99,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 99,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 100,
+        "column": 0
+      },
+      "cleanedText": "Top Image Systems, Ltd."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 100,
+        "column": 1
+      },
+      "cleanedText": "Software"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 100,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 100,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 101,
+        "column": 0
+      },
+      "cleanedText": "Tower Semiconductor Ltd."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 101,
+        "column": 1
+      },
+      "cleanedText": "Semiconductors"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 101,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 101,
+        "column": 3
+      },
+      "cleanedText": "Dual listed on TASE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 102,
+        "column": 0
+      },
+      "cleanedText": "Varonis Systems"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 102,
+        "column": 1
+      },
+      "cleanedText": "IT Security"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 102,
+        "column": 2
+      },
+      "cleanedText": "Data and access control"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 102,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 103,
+        "column": 0
+      },
+      "cleanedText": "Veraz Networks"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 103,
+        "column": 1
+      },
+      "cleanedText": "Networking \u0026 communication"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 103,
+        "column": 2
+      },
+      "cleanedText": "VoIP solutions"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 103,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 104,
+        "column": 0
+      },
+      "cleanedText": "Verint Systems Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 104,
+        "column": 1
+      },
+      "cleanedText": "Networking \u0026 communication"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 104,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 104,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 105,
+        "column": 0
+      },
+      "cleanedText": "Wix.com"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 105,
+        "column": 1
+      },
+      "cleanedText": "Internet"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 105,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 105,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 106,
+        "column": 0
+      },
+      "cleanedText": "XTL Biopharmaceuticals Ltd."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 106,
+        "column": 1
+      },
+      "cleanedText": "Biotech"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 106,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 106,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 107,
+        "column": 0
+      },
+      "cleanedText": "Zion Oil \u0026 Gas, Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 107,
+        "column": 1
+      },
+      "cleanedText": "Oil Exploration"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 107,
+        "column": 2
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 107,
+        "column": 3
+      },
+      "cleanedText": ""
+    }
+  ],
+  "maxDimensions": {
+    "row": 107,
+    "column": 3
+  },
+  "columns": [
+    {
+      "tableName": "http://dbpedia.org/resource/List_of_Israeli_companies_quoted_on_the_Nasdaq?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d1_2",
+      "columnName": "Name",
+      "fields": [
+        "ACRO Inc",
+        "ACS Motion Control Ltd.",
+        "Alcobra Ltd.",
+        "Allot Communications Ltd.",
+        "Alvarion Ltd.",
+        "Ampal-American Israel Corporation",
+        "Attunity Ltd.",
+        "AudioCodes Ltd.",
+        "B Communications",
+        "B.O.S. Better Online Solutions",
+        "BioLineRx Ltd.",
+        "BiondVax Pharmaceuticals Ltd",
+        "BluePhoenix Solutions Ltd.",
+        "Brainstorm Cell Therapeutics Inc",
+        "Caesarstone Sdot-Yam",
+        "Camtek Intelligent Imaging Ltd.",
+        "Cell Kinetics Ltd.",
+        "Cellcom Israel Ltd.",
+        "Ceragon Networks Ltd.",
+        "CEVA, Inc.",
+        "Check-Cap Ltd.",
+        "Check Point Software Technologies Ltd.",
+        "Cimatron, Limited",
+        "ClickSoftware Technologies Ltd.",
+        "CYREN Ltd. (previously Commtouch)",
+        "Compugen Ltd.",
+        "Comverse Technology, Inc.",
+        "Crow Technologies 1977 Ltd.",
+        "CyberArk",
+        "DSP Group, Inc.",
+        "Elbit Medical Imaging Ltd.",
+        "Elbit Systems Ltd.",
+        "Eltek Ltd.",
+        "Enzymotec Ltd",
+        "EZchip Semiconductor Ltd.",
+        "Foamix Pharmaceuticals Ltd",
+        "Formula Systems (1985) Ltd.",
+        "G. Willi-Food International, Ltd.",
+        "GammaCan International, Inc.",
+        "Gilat Satellite Networks Ltd.",
+        "Given Imaging Ltd.",
+        "ICTS International N.V.",
+        "Inksure Technologies Inc.",
+        "Intelligent Information Systems Ltd.",
+        "Internet Gold Golden Lines Ltd.",
+        "Isramco, Inc.",
+        "Ituran Location and Control Ltd.",
+        "IXI Mobile, Inc.",
+        "Jacada Ltd.",
+        "Kamada Ltd.",
+        "Kornit Digital",
+        "Macrocure Ltd",
+        "Magal Security Systems",
+        "magicJack VocalTec Ltd.",
+        "Magic Software Enterprises Ltd.",
+        "Mazor Robotics",
+        "Medigus Ltd.",
+        "Mediwound Ltd",
+        "Mellanox Technologies, Ltd.",
+        "MER Telemanagement Solutions Ltd.",
+        "Micronet Enertec Technologies Inc",
+        "Mind CTI Ltd.",
+        "m-Wise, Inc.",
+        "Nano Dimension Ltd.",
+        "NexGen Biofuels Ltd.",
+        "NICE Systems Limited",
+        "Nova Measuring Instruments Ltd.",
+        "On Track Innovations Ltd",
+        "Optibase Ltd.",
+        "Oramed Pharmaceuticals, Inc.",
+        "Orbotech Ltd.",
+        "Orckit Communications, Limited",
+        "OrganiTECH USA, Inc.",
+        "Partner Communications Company Ltd.",
+        "Perion Network Ltd.",
+        "Perrigo Company",
+        "Pluristem Therapeutics Inc.",
+        "Pointer Telocation Ltd.",
+        "PROLOR Biotech, Inc.",
+        "RADA Electronic Industries Ltd.",
+        "Radcom Ltd.",
+        "RadView Software Ltd.",
+        "RADVision Ltd.",
+        "Radware Ltd.",
+        "ReWalk",
+        "RiT Technologies Ltd.",
+        "Rosetta Genomics",
+        "RR Media Ltd.",
+        "Sapiens International Corporation N.V.",
+        "Silicom Ltd",
+        "Sodastream International",
+        "SolarEdge",
+        "Supercom Ltd",
+        "Syneron Medical Ltd.",
+        "TAT Technologies Ltd.",
+        "Technoprises Ltd.",
+        "Tefron Ltd.",
+        "Tikcro Technologies, Ltd.",
+        "Tissera Inc.",
+        "Top Image Systems, Ltd.",
+        "Tower Semiconductor Ltd.",
+        "Varonis Systems",
+        "Veraz Networks",
+        "Verint Systems Inc.",
+        "Wix.com",
+        "XTL Biopharmaceuticals Ltd.",
+        "Zion Oil \u0026 Gas, Inc."
+      ]
+    },
+    {
+      "tableName": "http://dbpedia.org/resource/List_of_Israeli_companies_quoted_on_the_Nasdaq?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d1_2",
+      "columnName": "Sector",
+      "fields": [
+        "Defense",
+        "Electronic components",
+        "Pharmaceuticals",
+        "Networking \u0026 communication",
+        "Wireless technology",
+        "Holding Company",
+        "Software",
+        "Networking \u0026 communication",
+        "Telecommunications",
+        "Wireless technology",
+        "Biopharmaceuticals",
+        "Pharmaceuticals",
+        "Software",
+        "Biotech",
+        "Home building",
+        "Industrial equipment",
+        "Biotech",
+        "Wireless",
+        "Wireless technology",
+        "Semiconductors",
+        "Medical equipment",
+        "IT Security",
+        "Software",
+        "Software",
+        "Internet Security",
+        "Biotech",
+        "Networking \u0026 communication",
+        "Security Systems",
+        "Software",
+        "Semiconductors",
+        "Holding Company",
+        "Defense",
+        "Electronic components",
+        "Biotech",
+        "Semiconductors",
+        "Pharmaceuticals",
+        "Holding Company",
+        "Food dist",
+        "Biotech",
+        "Networking \u0026 communication",
+        "Medical equipment",
+        "Security services",
+        "Security Systems",
+        "Software",
+        "Communication services",
+        "Oil exploration",
+        "Communication services",
+        "Networking \u0026 communication",
+        "Software",
+        "Biopharmaceuticals",
+        "Printing",
+        "Biotech",
+        "Security Systems",
+        "Networking \u0026 communication",
+        "Software",
+        "Medical equipment",
+        "Medical equipment",
+        "Biotech",
+        "Semiconductors",
+        "Networking \u0026 communication",
+        "Defense",
+        "Networking \u0026 communication",
+        "Wireless technology",
+        "Printing",
+        "Alternative Energy",
+        "Networking \u0026 communication",
+        "Industrial equipment",
+        "Security Systems",
+        "Networking \u0026 communication",
+        "Pharmaceuticals",
+        "Industrial equipment",
+        "Networking \u0026 communication",
+        "Biotech",
+        "Communication services",
+        "Software",
+        "Pharmaceuticals",
+        "Biotech",
+        "Security services",
+        "Biotech",
+        "Aerospace",
+        "Networking \u0026 communication",
+        "Software",
+        "Networking \u0026 communication",
+        "Networking \u0026 communication",
+        "Medical equipment",
+        "Networking \u0026 communication",
+        "Biotech",
+        "Digital media services",
+        "Software",
+        "Networking \u0026 communication",
+        "Food and beverage",
+        "Renewable energy",
+        "Security Systems",
+        "Medical equipment",
+        "Defense",
+        "Holding Company",
+        "Manufacturing",
+        "Biotech",
+        "Biotech",
+        "Software",
+        "Semiconductors",
+        "IT Security",
+        "Networking \u0026 communication",
+        "Networking \u0026 communication",
+        "Internet",
+        "Biotech",
+        "Oil Exploration"
+      ]
+    },
+    {
+      "tableName": "http://dbpedia.org/resource/List_of_Israeli_companies_quoted_on_the_Nasdaq?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d1_2",
+      "columnName": "Products / Solutions",
+      "fields": [
+        "",
+        "",
+        "Drug Development for Cognitive Dysfunctions",
+        "Broadband service optimization",
+        "WiMax",
+        "",
+        "Data integration, Big Data",
+        "VoIP",
+        "",
+        "RFID and Supply Chain solutions",
+        "",
+        "Universal Influenza Vaccine",
+        "Legacy modernization",
+        "",
+        "Quartz surfaces",
+        "Automated optical inspection for PCB manufacturing",
+        "",
+        "",
+        "",
+        "Silicon intellectual property provider for DSP solutions",
+        "",
+        "",
+        "CAD/ CAM",
+        "Workforce and service management",
+        "Web Security, Email Security, Anti-Malware",
+        "",
+        "",
+        "Alarms",
+        "",
+        "Fabless DSP solutions",
+        "",
+        "",
+        "Printed circuit boards (PCB) manufacturer",
+        "",
+        "Fabless chip design",
+        "",
+        "",
+        "",
+        "",
+        "Satellite receivers",
+        "Diagnostic solutions",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "location-based services",
+        "",
+        "Contact center desktop and process optimization solutions",
+        "",
+        "Inkjet printers for the garment and apparel decorating industry",
+        "",
+        "",
+        "VoIP solutions",
+        "",
+        "",
+        "Minimally invasive endosurgical tools",
+        "",
+        "InfiniBand",
+        "",
+        "",
+        "Billing solutions",
+        "",
+        "Digital printers for Printed circuit boards",
+        "",
+        "",
+        "",
+        "Smart card technology",
+        "Internet protocol television (IPTV)",
+        "Oral insulin capsule",
+        "Automated optical inspection solutions",
+        "",
+        "",
+        "",
+        "",
+        "Generic pharmaceutical products",
+        "Stem cell therapeutic products",
+        "Automatic vehicle location",
+        "",
+        "",
+        "",
+        "Load testing tool WebLOAD for web and mobile applications",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Carbonation systems",
+        "Photovoltaic systems",
+        "",
+        "",
+        "Environmental control systems",
+        "",
+        "Apparel manufacturing",
+        "",
+        "",
+        "",
+        "",
+        "Data and access control",
+        "VoIP solutions",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "tableName": "http://dbpedia.org/resource/List_of_Israeli_companies_quoted_on_the_Nasdaq?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d1_2",
+      "columnName": "Notes",
+      "fields": [
+        "",
+        "",
+        "",
+        "Dual listed on TASE",
+        "Dual listed on TASE",
+        "",
+        "",
+        "Dual listed on TASE",
+        "Dual listed on TASE",
+        "",
+        "Dual listed on TASE",
+        "Dual listed on TASE",
+        "Dual listed on TASE",
+        "",
+        "",
+        "Dual listed on TASE",
+        "",
+        "Dual listed on TASE",
+        "Dual listed on TASE",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Dual listed on TASE",
+        "Dual listed on TASE",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Dual listed on TASE",
+        "",
+        "",
+        "Dual listed on TASE",
+        "",
+        "Dual listed on TASE",
+        "Dual listed on TASE",
+        "",
+        "Dual listed on TASE",
+        "Dual listed on TASE",
+        "",
+        "",
+        "",
+        "Dual listed on TASE",
+        "",
+        "Dual listed on TASE",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Formerly VocalTec Communications Ltd.",
+        "Dual listed on TASE",
+        "Dual listed on TASE",
+        "Dual listed on TASE",
+        "",
+        "Dual listed on TASE",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Dual listed on TASE",
+        "Dual listed on TASE",
+        "",
+        "",
+        "",
+        "",
+        "Dual listed on TASE",
+        "",
+        "Dual listed on TASE",
+        "Dual listed on TASE",
+        "Dual listed on TASE",
+        "Dual listed on TASE",
+        "Dual listed on TASE",
+        "Dual listed on TASE",
+        "",
+        "Part of the RAD Group",
+        "",
+        "Part of the RAD Group",
+        "Part of the RAD Group",
+        "",
+        "Part of the RAD Group",
+        "",
+        "",
+        "Dual listed on TASE",
+        "Part of the RAD Group",
+        "",
+        "",
+        "",
+        "",
+        "Dual listed on TASE",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Dual listed on TASE",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  ]
+}

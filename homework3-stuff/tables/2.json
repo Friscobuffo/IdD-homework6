@@ -1,0 +1,6619 @@
+{
+  "id": "http://dbpedia.org/resource/List_of_companies_of_Russia?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d2_2",
+  "cells": [
+    {
+      "isHeader": true,
+      "Coordinates": {
+        "row": 0,
+        "column": 0
+      },
+      "cleanedText": "Name"
+    },
+    {
+      "isHeader": true,
+      "Coordinates": {
+        "row": 0,
+        "column": 1
+      },
+      "cleanedText": "Russian"
+    },
+    {
+      "isHeader": true,
+      "Coordinates": {
+        "row": 0,
+        "column": 2
+      },
+      "cleanedText": "Headquarters"
+    },
+    {
+      "isHeader": true,
+      "Coordinates": {
+        "row": 0,
+        "column": 3
+      },
+      "cleanedText": "Notes"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 1,
+        "column": 0
+      },
+      "cleanedText": "1C Company"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 1,
+        "column": 1
+      },
+      "cleanedText": "Фирма \"1С\""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 1,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 1,
+        "column": 3
+      },
+      "cleanedText": "Software and video games"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 2,
+        "column": 0
+      },
+      "cleanedText": "ABBYY"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 2,
+        "column": 1
+      },
+      "cleanedText": "Компания ABBYY"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 2,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 2,
+        "column": 3
+      },
+      "cleanedText": "OCR"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 3,
+        "column": 0
+      },
+      "cleanedText": "Acron Group"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 3,
+        "column": 1
+      },
+      "cleanedText": "Акрон"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 3,
+        "column": 2
+      },
+      "cleanedText": "Nizhny Novgorod"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 3,
+        "column": 3
+      },
+      "cleanedText": "MCX: AKRN LSE: AKRN"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 4,
+        "column": 0
+      },
+      "cleanedText": "Aeroflot"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 4,
+        "column": 1
+      },
+      "cleanedText": "Аэрофлот"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 4,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 4,
+        "column": 3
+      },
+      "cleanedText": "MCX: AFLT"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 5,
+        "column": 0
+      },
+      "cleanedText": "Airport Tolmachevo"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 5,
+        "column": 1
+      },
+      "cleanedText": "Аэропорт «Толмачево»"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 5,
+        "column": 2
+      },
+      "cleanedText": "Novosibirsk"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 5,
+        "column": 3
+      },
+      "cleanedText": "MCX: ATLM"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 6,
+        "column": 0
+      },
+      "cleanedText": "Akella"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 6,
+        "column": 1
+      },
+      "cleanedText": "Акелла"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 6,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 6,
+        "column": 3
+      },
+      "cleanedText": "Video games"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 7,
+        "column": 0
+      },
+      "cleanedText": "Alawar Entertainment"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 7,
+        "column": 1
+      },
+      "cleanedText": "Компания Alawar Entertainment"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 7,
+        "column": 2
+      },
+      "cleanedText": "Novosibirsk|"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 7,
+        "column": 3
+      },
+      "cleanedText": "Video games"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 8,
+        "column": 0
+      },
+      "cleanedText": "Alfa Group"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 8,
+        "column": 1
+      },
+      "cleanedText": "Альфа-Групп"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 8,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 8,
+        "column": 3
+      },
+      "cleanedText": "Banks, insurance, water"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 9,
+        "column": 0
+      },
+      "cleanedText": "All-Russia State Television and Radio Broadcasting Company (VGTRK)|"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 9,
+        "column": 1
+      },
+      "cleanedText": "Всероссийская государственная телевизионная и радиовещательная компания (ВГТРК)"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 9,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 9,
+        "column": 3
+      },
+      "cleanedText": "State-owned media"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 10,
+        "column": 0
+      },
+      "cleanedText": "Almaz-Antey"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 10,
+        "column": 1
+      },
+      "cleanedText": "Алмаз-Антей"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 10,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 10,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 11,
+        "column": 0
+      },
+      "cleanedText": "ALROSA"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 11,
+        "column": 1
+      },
+      "cleanedText": "АЛРОСА"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 11,
+        "column": 2
+      },
+      "cleanedText": "Mirny"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 11,
+        "column": 3
+      },
+      "cleanedText": "Diamonds \u0026 gemstones"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 12,
+        "column": 0
+      },
+      "cleanedText": "AST"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 12,
+        "column": 1
+      },
+      "cleanedText": "АСТ"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 12,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 12,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 13,
+        "column": 0
+      },
+      "cleanedText": "Atomenergoprom"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 13,
+        "column": 1
+      },
+      "cleanedText": "Атомэнергопром"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 13,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 13,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 14,
+        "column": 0
+      },
+      "cleanedText": "ATV"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 14,
+        "column": 1
+      },
+      "cleanedText": "АТВ Продакшн"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 14,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 14,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 15,
+        "column": 0
+      },
+      "cleanedText": "Aviakor"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 15,
+        "column": 1
+      },
+      "cleanedText": "Авиакор"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 15,
+        "column": 2
+      },
+      "cleanedText": "Samara"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 15,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 16,
+        "column": 0
+      },
+      "cleanedText": "Aviastar-SP"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 16,
+        "column": 1
+      },
+      "cleanedText": "Авиастар-СП"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 16,
+        "column": 2
+      },
+      "cleanedText": "Ulyanovsk"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 16,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 17,
+        "column": 0
+      },
+      "cleanedText": "Avtotor"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 17,
+        "column": 1
+      },
+      "cleanedText": "Автотор"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 17,
+        "column": 2
+      },
+      "cleanedText": "Kaliningrad"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 17,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 18,
+        "column": 0
+      },
+      "cleanedText": "AvtoVAZ"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 18,
+        "column": 1
+      },
+      "cleanedText": "АвтоВАЗ"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 18,
+        "column": 2
+      },
+      "cleanedText": "Tolyatti"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 18,
+        "column": 3
+      },
+      "cleanedText": "MCX: AVAZ"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 19,
+        "column": 0
+      },
+      "cleanedText": "Baltika Breweries"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 19,
+        "column": 1
+      },
+      "cleanedText": "Пивоваренная компания Балтика"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 19,
+        "column": 2
+      },
+      "cleanedText": "Saint Petersburg"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 19,
+        "column": 3
+      },
+      "cleanedText": "MCX: PKBA, brewers"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 20,
+        "column": 0
+      },
+      "cleanedText": "Bank Rossiya"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 20,
+        "column": 1
+      },
+      "cleanedText": "Акционерный Банк «РОССИЯ»"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 20,
+        "column": 2
+      },
+      "cleanedText": "Saint Petersburg"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 20,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 21,
+        "column": 0
+      },
+      "cleanedText": "Bank Saint Petersburg"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 21,
+        "column": 1
+      },
+      "cleanedText": "Банк Санкт-Петербург"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 21,
+        "column": 2
+      },
+      "cleanedText": "Saint Petersburg"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 21,
+        "column": 3
+      },
+      "cleanedText": "MCX: STBK"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 22,
+        "column": 0
+      },
+      "cleanedText": "Bryansk Avtomobile Plant"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 22,
+        "column": 1
+      },
+      "cleanedText": "Брянский автомобильный завод"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 22,
+        "column": 2
+      },
+      "cleanedText": "Bryansk"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 22,
+        "column": 3
+      },
+      "cleanedText": "Commercial vehicles and trucks, defence"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 23,
+        "column": 0
+      },
+      "cleanedText": "Channel One"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 23,
+        "column": 1
+      },
+      "cleanedText": "Первый канал"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 23,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 23,
+        "column": 3
+      },
+      "cleanedText": "Broadcasting \u0026 entertainment"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 24,
+        "column": 0
+      },
+      "cleanedText": "Chelyabinsk Pipe Rolling Plant"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 24,
+        "column": 1
+      },
+      "cleanedText": "Группа ЧТПЗ"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 24,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 24,
+        "column": 3
+      },
+      "cleanedText": "MCX: CHEP, iron \u0026 steel, nonferrous metals"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 25,
+        "column": 0
+      },
+      "cleanedText": "Chelyabinsk Tractor Plant"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 25,
+        "column": 1
+      },
+      "cleanedText": "Челябинский тракторный завод"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 25,
+        "column": 2
+      },
+      "cleanedText": "Chelyabinsk"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 25,
+        "column": 3
+      },
+      "cleanedText": "Commercial vehicles \u0026 trucks"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 26,
+        "column": 0
+      },
+      "cleanedText": "Cherkizovo"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 26,
+        "column": 1
+      },
+      "cleanedText": "Группа „Черки́зово“"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 26,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 26,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 27,
+        "column": 0
+      },
+      "cleanedText": "Concern Tractor Plants"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 27,
+        "column": 1
+      },
+      "cleanedText": "Тракторные заводы"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 27,
+        "column": 2
+      },
+      "cleanedText": "Cheboksary"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 27,
+        "column": 3
+      },
+      "cleanedText": "Commercial vehicles \u0026 trucks, defence"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 28,
+        "column": 0
+      },
+      "cleanedText": "CTC Media"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 28,
+        "column": 1
+      },
+      "cleanedText": "СТС Медиа"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 28,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 28,
+        "column": 3
+      },
+      "cleanedText": "Broadcasting \u0026 entertainment, NASDAQ: CTCM"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 29,
+        "column": 0
+      },
+      "cleanedText": "Dalsvyaz"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 29,
+        "column": 1
+      },
+      "cleanedText": "Дальсвязь"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 29,
+        "column": 2
+      },
+      "cleanedText": "Vladivostok"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 29,
+        "column": 3
+      },
+      "cleanedText": "MCX: DLSV MCX: ESPK, acquired by Rostelecom"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 30,
+        "column": 0
+      },
+      "cleanedText": "Derways Automobile Company"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 30,
+        "column": 1
+      },
+      "cleanedText": "Derways"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 30,
+        "column": 2
+      },
+      "cleanedText": "Cherkessk"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 30,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 31,
+        "column": 0
+      },
+      "cleanedText": "E4 Group"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 31,
+        "column": 1
+      },
+      "cleanedText": "Группа Е4"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 31,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 31,
+        "column": 3
+      },
+      "cleanedText": "Heavy construction"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 32,
+        "column": 0
+      },
+      "cleanedText": "Eksmo"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 32,
+        "column": 1
+      },
+      "cleanedText": "Эксмо"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 32,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 32,
+        "column": 3
+      },
+      "cleanedText": "Publishing, specialty retailers"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 33,
+        "column": 0
+      },
+      "cleanedText": "En+ Group"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 33,
+        "column": 1
+      },
+      "cleanedText": "En+ Group"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 33,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 33,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 34,
+        "column": 0
+      },
+      "cleanedText": "ER-Telecom"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 34,
+        "column": 1
+      },
+      "cleanedText": "ЭР-Телеком"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 34,
+        "column": 2
+      },
+      "cleanedText": "Perm"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 34,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 35,
+        "column": 0
+      },
+      "cleanedText": "Eurocement group"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 35,
+        "column": 1
+      },
+      "cleanedText": "Евроцемент груп"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 35,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 35,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 36,
+        "column": 0
+      },
+      "cleanedText": "Euroset"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 36,
+        "column": 1
+      },
+      "cleanedText": "Евросеть"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 36,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 36,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 37,
+        "column": 0
+      },
+      "cleanedText": "Evalar"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 37,
+        "column": 1
+      },
+      "cleanedText": "Эвалар"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 37,
+        "column": 2
+      },
+      "cleanedText": "Biysk"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 37,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 38,
+        "column": 0
+      },
+      "cleanedText": "GAZ Group"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 38,
+        "column": 1
+      },
+      "cleanedText": "Группа ГАЗ"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 38,
+        "column": 2
+      },
+      "cleanedText": "Nizhny Novgorod"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 38,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 39,
+        "column": 0
+      },
+      "cleanedText": "Gazprom"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 39,
+        "column": 1
+      },
+      "cleanedText": "Газпром"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 39,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 39,
+        "column": 3
+      },
+      "cleanedText": "MCX: GAZP"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 40,
+        "column": 0
+      },
+      "cleanedText": "Gazprom Media"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 40,
+        "column": 1
+      },
+      "cleanedText": "Газпром-Медиа"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 40,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 40,
+        "column": 3
+      },
+      "cleanedText": "Part of Gazprom"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 41,
+        "column": 0
+      },
+      "cleanedText": "Gazprom Neft"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 41,
+        "column": 1
+      },
+      "cleanedText": "Газпром нефть"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 41,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 41,
+        "column": 3
+      },
+      "cleanedText": "MCX: SIBN, part of Gazprom"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 42,
+        "column": 0
+      },
+      "cleanedText": "Gazprombank"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 42,
+        "column": 1
+      },
+      "cleanedText": "Financials"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 42,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 42,
+        "column": 3
+      },
+      "cleanedText": "Part of Gazprom"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 43,
+        "column": 0
+      },
+      "cleanedText": "Gorky Film Studio"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 43,
+        "column": 1
+      },
+      "cleanedText": "Киностудия имени М. Горького"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 43,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 43,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 44,
+        "column": 0
+      },
+      "cleanedText": "International Industrial Bank"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 44,
+        "column": 1
+      },
+      "cleanedText": "Международный Промышленный Банк"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 44,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 44,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 45,
+        "column": 0
+      },
+      "cleanedText": "Ilyushin"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 45,
+        "column": 1
+      },
+      "cleanedText": "Авиационный комплекс имени С. В. Ильюшина"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 45,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 45,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 46,
+        "column": 0
+      },
+      "cleanedText": "Ingosstrakh"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 46,
+        "column": 1
+      },
+      "cleanedText": "Ингосстрах"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 46,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 46,
+        "column": 3
+      },
+      "cleanedText": "Full line insurance, life, reinsurance"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 47,
+        "column": 0
+      },
+      "cleanedText": "Interfax"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 47,
+        "column": 1
+      },
+      "cleanedText": "Интерфакс"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 47,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 47,
+        "column": 3
+      },
+      "cleanedText": "News agency"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 48,
+        "column": 0
+      },
+      "cleanedText": "Intourist"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 48,
+        "column": 1
+      },
+      "cleanedText": "Интурист"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 48,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 48,
+        "column": 3
+      },
+      "cleanedText": "Former state travel agency, now private"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 49,
+        "column": 0
+      },
+      "cleanedText": "Irkut Corporation"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 49,
+        "column": 1
+      },
+      "cleanedText": "Иркут"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 49,
+        "column": 2
+      },
+      "cleanedText": "Irkutsk"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 49,
+        "column": 3
+      },
+      "cleanedText": "MCX: IRKT"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 50,
+        "column": 0
+      },
+      "cleanedText": "Irkutskenergo"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 50,
+        "column": 1
+      },
+      "cleanedText": "Иркутскэнерго"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 50,
+        "column": 2
+      },
+      "cleanedText": "Irkutsk"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 50,
+        "column": 3
+      },
+      "cleanedText": "Hydroelectric, MCX: IRGZ"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 51,
+        "column": 0
+      },
+      "cleanedText": "Izhevsk Mechanical Plant"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 51,
+        "column": 1
+      },
+      "cleanedText": "Ижевский механический завод"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 51,
+        "column": 2
+      },
+      "cleanedText": "Izhevsk"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 51,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 52,
+        "column": 0
+      },
+      "cleanedText": "Kalashnikov Concern"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 52,
+        "column": 1
+      },
+      "cleanedText": "АО Концерн Калашников"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 52,
+        "column": 2
+      },
+      "cleanedText": "Izhevsk"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 52,
+        "column": 3
+      },
+      "cleanedText": "MCX: IGMA"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 53,
+        "column": 0
+      },
+      "cleanedText": "Kamaz"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 53,
+        "column": 1
+      },
+      "cleanedText": "КамАЗ"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 53,
+        "column": 2
+      },
+      "cleanedText": "Naberezhnye Chelny"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 53,
+        "column": 3
+      },
+      "cleanedText": "MCX: KMAZ"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 54,
+        "column": 0
+      },
+      "cleanedText": "Kazan Helicopter Plant"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 54,
+        "column": 1
+      },
+      "cleanedText": "Industrials"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 54,
+        "column": 2
+      },
+      "cleanedText": "Kazan"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 54,
+        "column": 3
+      },
+      "cleanedText": "MCX: KHEL"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 55,
+        "column": 0
+      },
+      "cleanedText": "Kazanorgsintez"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 55,
+        "column": 1
+      },
+      "cleanedText": "Казаньоргсинтез"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 55,
+        "column": 2
+      },
+      "cleanedText": "Kazan"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 55,
+        "column": 3
+      },
+      "cleanedText": "MCX: KZOS"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 56,
+        "column": 0
+      },
+      "cleanedText": "Kaspersky Lab"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 56,
+        "column": 1
+      },
+      "cleanedText": "Лаборатория Касперского"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 56,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 56,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 57,
+        "column": 0
+      },
+      "cleanedText": "Kirov Plant"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 57,
+        "column": 1
+      },
+      "cleanedText": "Кировский завод"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 57,
+        "column": 2
+      },
+      "cleanedText": "Saint Petersburg"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 57,
+        "column": 3
+      },
+      "cleanedText": "MCX: KIRZ"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 58,
+        "column": 0
+      },
+      "cleanedText": "Komus"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 58,
+        "column": 1
+      },
+      "cleanedText": "Комус"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 58,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 58,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 59,
+        "column": 0
+      },
+      "cleanedText": "Krasnoye Sormovo Factory"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 59,
+        "column": 1
+      },
+      "cleanedText": "Красное Сормово"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 59,
+        "column": 2
+      },
+      "cleanedText": "Nizhny Novgorod"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 59,
+        "column": 3
+      },
+      "cleanedText": "Marine Transportation"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 60,
+        "column": 0
+      },
+      "cleanedText": "Kuzbassenergo"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 60,
+        "column": 1
+      },
+      "cleanedText": "Кузбассэнерго"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 60,
+        "column": 2
+      },
+      "cleanedText": "Barnaul"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 60,
+        "column": 3
+      },
+      "cleanedText": "MCX: KZBE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 61,
+        "column": 0
+      },
+      "cleanedText": "Kuznetsov"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 61,
+        "column": 1
+      },
+      "cleanedText": "Кузнецов"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 61,
+        "column": 2
+      },
+      "cleanedText": "Samara"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 61,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 62,
+        "column": 0
+      },
+      "cleanedText": "Lebedyansky"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 62,
+        "column": 1
+      },
+      "cleanedText": "Лебедянский"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 62,
+        "column": 2
+      },
+      "cleanedText": "Lebedyan"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 62,
+        "column": 3
+      },
+      "cleanedText": "MCX: LBDO MCX: LEKZ"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 63,
+        "column": 0
+      },
+      "cleanedText": "Lenfilm"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 63,
+        "column": 1
+      },
+      "cleanedText": "Киностудия «Ленфильм»"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 63,
+        "column": 2
+      },
+      "cleanedText": "Saint Petersburg"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 63,
+        "column": 3
+      },
+      "cleanedText": "Film studio"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 64,
+        "column": 0
+      },
+      "cleanedText": "LOMO"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 64,
+        "column": 1
+      },
+      "cleanedText": "ЛОМО"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 64,
+        "column": 2
+      },
+      "cleanedText": "Saint Petersburg"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 64,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 65,
+        "column": 0
+      },
+      "cleanedText": "LUKoil"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 65,
+        "column": 1
+      },
+      "cleanedText": "ЛУКОЙЛ"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 65,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 65,
+        "column": 3
+      },
+      "cleanedText": "MCX: LKOH LSE: LKOD OTC Pink: LUKOY FWB: LUK"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 66,
+        "column": 0
+      },
+      "cleanedText": "Magnit"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 66,
+        "column": 1
+      },
+      "cleanedText": "Магнит"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 66,
+        "column": 2
+      },
+      "cleanedText": "Krasnodar"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 66,
+        "column": 3
+      },
+      "cleanedText": "MCX: MGNT LSE: MGNT"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 67,
+        "column": 0
+      },
+      "cleanedText": "Magnitogorsk Iron and Steel Works"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 67,
+        "column": 1
+      },
+      "cleanedText": "Магнитогорский металлургический комбинат"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 67,
+        "column": 2
+      },
+      "cleanedText": "Magnitogorsk"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 67,
+        "column": 3
+      },
+      "cleanedText": "Iron and steel, MCX: MAGN"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 68,
+        "column": 0
+      },
+      "cleanedText": "Mail.Ru Group"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 68,
+        "column": 1
+      },
+      "cleanedText": "Mail.Ru Group"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 68,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 68,
+        "column": 3
+      },
+      "cleanedText": "Internet, software, publishing, LSE: MAIL"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 69,
+        "column": 0
+      },
+      "cleanedText": "Makeyev Rocket Design Bureau"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 69,
+        "column": 1
+      },
+      "cleanedText": "Государственный ракетный центр имени академика В. П. Макеева"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 69,
+        "column": 2
+      },
+      "cleanedText": "Miass"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 69,
+        "column": 3
+      },
+      "cleanedText": "Missile design"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 70,
+        "column": 0
+      },
+      "cleanedText": "Mechel"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 70,
+        "column": 1
+      },
+      "cleanedText": "Мечел"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 70,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 70,
+        "column": 3
+      },
+      "cleanedText": "Coal, iron and steel, MCX: MTLR NYSE: MTL"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 71,
+        "column": 0
+      },
+      "cleanedText": "MegaFon"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 71,
+        "column": 1
+      },
+      "cleanedText": "МегаФон"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 71,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 71,
+        "column": 3
+      },
+      "cleanedText": "LSE: MFON MCX: MFON"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 72,
+        "column": 0
+      },
+      "cleanedText": "Melodiya"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 72,
+        "column": 1
+      },
+      "cleanedText": "Мелодия"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 72,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 72,
+        "column": 3
+      },
+      "cleanedText": "Record label"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 73,
+        "column": 0
+      },
+      "cleanedText": "Metalloinvest"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 73,
+        "column": 1
+      },
+      "cleanedText": "Металлоинвест"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 73,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 73,
+        "column": 3
+      },
+      "cleanedText": "Steel"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 74,
+        "column": 0
+      },
+      "cleanedText": "Mil Moscow Helicopter Plant"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 74,
+        "column": 1
+      },
+      "cleanedText": "Московский вертолетный завод им. М.Л. Миля"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 74,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 74,
+        "column": 3
+      },
+      "cleanedText": "MCX: MVZM"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 75,
+        "column": 0
+      },
+      "cleanedText": "Molodaya Gvardiya"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 75,
+        "column": 1
+      },
+      "cleanedText": "Consumer services"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 75,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 75,
+        "column": 3
+      },
+      "cleanedText": "Publishing"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 76,
+        "column": 0
+      },
+      "cleanedText": "Moscow City Telephone Network"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 76,
+        "column": 1
+      },
+      "cleanedText": "Московская городская телефонная сеть"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 76,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 76,
+        "column": 3
+      },
+      "cleanedText": "MCX: MGTS"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 77,
+        "column": 0
+      },
+      "cleanedText": "Mosfilm"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 77,
+        "column": 1
+      },
+      "cleanedText": "Киноконце́рн «Мосфи́льм»"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 77,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 77,
+        "column": 3
+      },
+      "cleanedText": "Film studio"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 78,
+        "column": 0
+      },
+      "cleanedText": "Motovilikha Plants"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 78,
+        "column": 1
+      },
+      "cleanedText": "Мотовилихинские заводы"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 78,
+        "column": 2
+      },
+      "cleanedText": "Perm"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 78,
+        "column": 3
+      },
+      "cleanedText": "MCX: MOTZ"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 79,
+        "column": 0
+      },
+      "cleanedText": "MTS"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 79,
+        "column": 1
+      },
+      "cleanedText": "Мобильные ТелеСистемы"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 79,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 79,
+        "column": 3
+      },
+      "cleanedText": "MCX: MTSI MCX: MTSS"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 80,
+        "column": 0
+      },
+      "cleanedText": "M.video"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 80,
+        "column": 1
+      },
+      "cleanedText": "М.Видео"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 80,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 80,
+        "column": 3
+      },
+      "cleanedText": "Retail electronics chain, MCX: MVID"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 81,
+        "column": 0
+      },
+      "cleanedText": "NEWSru"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 81,
+        "column": 1
+      },
+      "cleanedText": "NEWSru.com"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 81,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 81,
+        "column": 3
+      },
+      "cleanedText": "News agency"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 82,
+        "column": 0
+      },
+      "cleanedText": "Nizhnekamskneftekhim"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 82,
+        "column": 1
+      },
+      "cleanedText": "Нижнекамскнефтехим"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 82,
+        "column": 2
+      },
+      "cleanedText": "Nizhnekamsk"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 82,
+        "column": 3
+      },
+      "cleanedText": "MCX: NKNC"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 83,
+        "column": 0
+      },
+      "cleanedText": "Norilsk Nickel"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 83,
+        "column": 1
+      },
+      "cleanedText": "Норильский никель"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 83,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 83,
+        "column": 3
+      },
+      "cleanedText": "MCX: GMKN LSE: MNOD"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 84,
+        "column": 0
+      },
+      "cleanedText": "North-West Telecom"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 84,
+        "column": 1
+      },
+      "cleanedText": "Северо-Западный Телеком"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 84,
+        "column": 2
+      },
+      "cleanedText": "Saint Petersburg"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 84,
+        "column": 3
+      },
+      "cleanedText": "MCX: SPTL"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 85,
+        "column": 0
+      },
+      "cleanedText": "Novatek"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 85,
+        "column": 1
+      },
+      "cleanedText": "Новатэк"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 85,
+        "column": 2
+      },
+      "cleanedText": "Tarko-Sale"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 85,
+        "column": 3
+      },
+      "cleanedText": "MCX: NVTK MCX: NVTK"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 86,
+        "column": 0
+      },
+      "cleanedText": "Novolipetsk Steel"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 86,
+        "column": 1
+      },
+      "cleanedText": "Новолипецкий металлургический комбинат"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 86,
+        "column": 2
+      },
+      "cleanedText": "Lipetsk"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 86,
+        "column": 3
+      },
+      "cleanedText": "MCX: NLMK"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 87,
+        "column": 0
+      },
+      "cleanedText": "Novoroscement"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 87,
+        "column": 1
+      },
+      "cleanedText": "Новоросцемент"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 87,
+        "column": 2
+      },
+      "cleanedText": "Novorossiysk"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 87,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 88,
+        "column": 0
+      },
+      "cleanedText": "OAO Kondopoga"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 88,
+        "column": 1
+      },
+      "cleanedText": "ОАО «Ко́ндопога»"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 88,
+        "column": 2
+      },
+      "cleanedText": "Kondopoga"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 88,
+        "column": 3
+      },
+      "cleanedText": "Paper"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 89,
+        "column": 0
+      },
+      "cleanedText": "OAO TMK"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 89,
+        "column": 1
+      },
+      "cleanedText": "Трубная металлургическая компания"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 89,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 89,
+        "column": 3
+      },
+      "cleanedText": "Iron \u0026 steel, LSE: TMKS MCX: TRMK"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 90,
+        "column": 0
+      },
+      "cleanedText": "Oboronprom"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 90,
+        "column": 1
+      },
+      "cleanedText": "Объединённая промышленная корпорация «Оборонпром»"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 90,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 90,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 91,
+        "column": 0
+      },
+      "cleanedText": "OGK-1"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 91,
+        "column": 1
+      },
+      "cleanedText": "Оптовая генерирующая компания № 1"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 91,
+        "column": 2
+      },
+      "cleanedText": "Tyumen"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 91,
+        "column": 3
+      },
+      "cleanedText": "MCX: OGK1 MCX: OGKA"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 92,
+        "column": 0
+      },
+      "cleanedText": "OGK-2"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 92,
+        "column": 1
+      },
+      "cleanedText": "Оптовая генерирующая компания № 2"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 92,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 92,
+        "column": 3
+      },
+      "cleanedText": "MCX: OGKB"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 93,
+        "column": 0
+      },
+      "cleanedText": "OGK-3"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 93,
+        "column": 1
+      },
+      "cleanedText": "Оптовая генерирующая компания № 3"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 93,
+        "column": 2
+      },
+      "cleanedText": "Ulan-Ude"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 93,
+        "column": 3
+      },
+      "cleanedText": "MCX: OGKC"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 94,
+        "column": 0
+      },
+      "cleanedText": "OGK-4"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 94,
+        "column": 1
+      },
+      "cleanedText": "Оптовая генерирующая компания № 4"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 94,
+        "column": 2
+      },
+      "cleanedText": "Surgut"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 94,
+        "column": 3
+      },
+      "cleanedText": "MCX: OGKD"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 95,
+        "column": 0
+      },
+      "cleanedText": "OGK-5"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 95,
+        "column": 1
+      },
+      "cleanedText": "Оптовая генерирующая компания № 5"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 95,
+        "column": 2
+      },
+      "cleanedText": "Ekaterinburg"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 95,
+        "column": 3
+      },
+      "cleanedText": "MCX: OGKE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 96,
+        "column": 0
+      },
+      "cleanedText": "OGK-6"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 96,
+        "column": 1
+      },
+      "cleanedText": "Оптовая генерирующая компания № 6"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 96,
+        "column": 2
+      },
+      "cleanedText": "Rostov-on-Don"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 96,
+        "column": 3
+      },
+      "cleanedText": "MCX: OGKF"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 97,
+        "column": 0
+      },
+      "cleanedText": "Omsk Engine Design Bureau"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 97,
+        "column": 1
+      },
+      "cleanedText": "Омское моторостроительное конструкторское бюро"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 97,
+        "column": 2
+      },
+      "cleanedText": "Omsk"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 97,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 98,
+        "column": 0
+      },
+      "cleanedText": "OMZ"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 98,
+        "column": 1
+      },
+      "cleanedText": "Объединённые машиностроительные заводы"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 98,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 98,
+        "column": 3
+      },
+      "cleanedText": "LSE: OMZD"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 99,
+        "column": 0
+      },
+      "cleanedText": "Ozon.ru"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 99,
+        "column": 1
+      },
+      "cleanedText": "Ozon.ru"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 99,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 99,
+        "column": 3
+      },
+      "cleanedText": "Internet, apparel, specialty, home improvement"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 100,
+        "column": 0
+      },
+      "cleanedText": "Petersburg - Channel 5"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 100,
+        "column": 1
+      },
+      "cleanedText": "Пятый канал"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 100,
+        "column": 2
+      },
+      "cleanedText": "Saint Petersburg"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 100,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 101,
+        "column": 0
+      },
+      "cleanedText": "Petersburg Fuel Company"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 101,
+        "column": 1
+      },
+      "cleanedText": "Петербургская топливная компания"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 101,
+        "column": 2
+      },
+      "cleanedText": "Saint Petersburg"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 101,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 102,
+        "column": 0
+      },
+      "cleanedText": "Petrodvorets Watch Factory"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 102,
+        "column": 1
+      },
+      "cleanedText": "Петродворцовый часовой завод"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 102,
+        "column": 2
+      },
+      "cleanedText": "Petergof"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 102,
+        "column": 3
+      },
+      "cleanedText": "Clothing \u0026 accessories"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 103,
+        "column": 0
+      },
+      "cleanedText": "Pharmstandard"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 103,
+        "column": 1
+      },
+      "cleanedText": "Фармстандарт"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 103,
+        "column": 2
+      },
+      "cleanedText": "Dolgoprudny"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 103,
+        "column": 3
+      },
+      "cleanedText": "LSE: PHST MCX: PHST"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 104,
+        "column": 0
+      },
+      "cleanedText": "PIK Group"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 104,
+        "column": 1
+      },
+      "cleanedText": "Группа компаний ПИК"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 104,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 104,
+        "column": 3
+      },
+      "cleanedText": "MCX: PIKK"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 105,
+        "column": 0
+      },
+      "cleanedText": "Polyus Gold"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 105,
+        "column": 1
+      },
+      "cleanedText": "Полюс Золото"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 105,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 105,
+        "column": 3
+      },
+      "cleanedText": "MCX: PLZL LSE: PLZL NASDAQ: OPYGY"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 106,
+        "column": 0
+      },
+      "cleanedText": "Power Machines"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 106,
+        "column": 1
+      },
+      "cleanedText": "Силовые машины"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 106,
+        "column": 2
+      },
+      "cleanedText": "Saint Petersburg"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 106,
+        "column": 3
+      },
+      "cleanedText": "RTSI:SILM"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 107,
+        "column": 0
+      },
+      "cleanedText": "Progress State Research and Production Rocket Space Center"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 107,
+        "column": 1
+      },
+      "cleanedText": "Ракетно-космический центр «Прогресс»"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 107,
+        "column": 2
+      },
+      "cleanedText": "Samara"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 107,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 108,
+        "column": 0
+      },
+      "cleanedText": "PROMT"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 108,
+        "column": 1
+      },
+      "cleanedText": "PROMT"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 108,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 108,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 109,
+        "column": 0
+      },
+      "cleanedText": "Rambler-Afisha-SUP"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 109,
+        "column": 1
+      },
+      "cleanedText": "Рамблер-Афиша-SUP"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 109,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 109,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 110,
+        "column": 0
+      },
+      "cleanedText": "Razgulay"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 110,
+        "column": 1
+      },
+      "cleanedText": "Разгуля́й"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 110,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 110,
+        "column": 3
+      },
+      "cleanedText": "MCX: GRAZ"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 111,
+        "column": 0
+      },
+      "cleanedText": "RBC"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 111,
+        "column": 1
+      },
+      "cleanedText": "РБК"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 111,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 111,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 112,
+        "column": 0
+      },
+      "cleanedText": "REGNUM"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 112,
+        "column": 1
+      },
+      "cleanedText": "Regnum"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 112,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 112,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 113,
+        "column": 0
+      },
+      "cleanedText": "Rive Gauche"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 113,
+        "column": 1
+      },
+      "cleanedText": "Рив Гош"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 113,
+        "column": 2
+      },
+      "cleanedText": "Saint Petersburg"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 113,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 114,
+        "column": 0
+      },
+      "cleanedText": "Rolf"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 114,
+        "column": 1
+      },
+      "cleanedText": "Рольф"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 114,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 114,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 115,
+        "column": 0
+      },
+      "cleanedText": "Rosenergomash"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 115,
+        "column": 1
+      },
+      "cleanedText": "Росэнергомаш"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 115,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 115,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 116,
+        "column": 0
+      },
+      "cleanedText": "Rosgosstrakh"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 116,
+        "column": 1
+      },
+      "cleanedText": "Росгосстрах"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 116,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 116,
+        "column": 3
+      },
+      "cleanedText": "Life insurance, MCX: RGSS"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 117,
+        "column": 0
+      },
+      "cleanedText": "Rosneft"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 117,
+        "column": 1
+      },
+      "cleanedText": "Роснефть"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 117,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 117,
+        "column": 3
+      },
+      "cleanedText": "MCX: ROSN"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 118,
+        "column": 0
+      },
+      "cleanedText": "Rostelecom"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 118,
+        "column": 1
+      },
+      "cleanedText": "Ростелеком"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 118,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 118,
+        "column": 3
+      },
+      "cleanedText": "MCX: RTKM NYSE: ROS"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 119,
+        "column": 0
+      },
+      "cleanedText": "Rostselmash"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 119,
+        "column": 1
+      },
+      "cleanedText": "Ростсельмаш"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 119,
+        "column": 2
+      },
+      "cleanedText": "Rostov-on-Don"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 119,
+        "column": 3
+      },
+      "cleanedText": "Commercial vehicles \u0026 trucks, RTSI:RTLM"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 120,
+        "column": 0
+      },
+      "cleanedText": "RUSAL"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 120,
+        "column": 1
+      },
+      "cleanedText": "Российский алюминий"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 120,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 120,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 121,
+        "column": 0
+      },
+      "cleanedText": "Russian Helicopters"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 121,
+        "column": 1
+      },
+      "cleanedText": "Вертолёты России"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 121,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 121,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 122,
+        "column": 0
+      },
+      "cleanedText": "Russian Railways"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 122,
+        "column": 1
+      },
+      "cleanedText": "Российские железные дороги"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 122,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 122,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 123,
+        "column": 0
+      },
+      "cleanedText": "Sberbank"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 123,
+        "column": 1
+      },
+      "cleanedText": "Сбербанк"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 123,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 123,
+        "column": 3
+      },
+      "cleanedText": "MCX: SBER"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 124,
+        "column": 0
+      },
+      "cleanedText": "Severnaya Verf"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 124,
+        "column": 1
+      },
+      "cleanedText": "Судостроительный завод «Северная верфь»"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 124,
+        "column": 2
+      },
+      "cleanedText": "Saint Petersburg"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 124,
+        "column": 3
+      },
+      "cleanedText": "RTSI:SZVE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 125,
+        "column": 0
+      },
+      "cleanedText": "Severstal"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 125,
+        "column": 1
+      },
+      "cleanedText": "Северсталь"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 125,
+        "column": 2
+      },
+      "cleanedText": "Cherepovets"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 125,
+        "column": 3
+      },
+      "cleanedText": "MCX: CHMF"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 126,
+        "column": 0
+      },
+      "cleanedText": "SeverStal-Auto"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 126,
+        "column": 1
+      },
+      "cleanedText": "Северсталь-Авто"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 126,
+        "column": 2
+      },
+      "cleanedText": "Cherepovets"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 126,
+        "column": 3
+      },
+      "cleanedText": "MCX: SVAV"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 127,
+        "column": 0
+      },
+      "cleanedText": "Siberia Airlines"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 127,
+        "column": 1
+      },
+      "cleanedText": "Авиакомпания «Сибирь»"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 127,
+        "column": 2
+      },
+      "cleanedText": "Novosibirsk"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 127,
+        "column": 3
+      },
+      "cleanedText": "Airline"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 128,
+        "column": 0
+      },
+      "cleanedText": "Siberian Coal Energy Company"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 128,
+        "column": 1
+      },
+      "cleanedText": "Сибирская угольная энергетическая компания"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 128,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 128,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 129,
+        "column": 0
+      },
+      "cleanedText": "Sibirtelecom"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 129,
+        "column": 1
+      },
+      "cleanedText": "Сибирьтелеком"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 129,
+        "column": 2
+      },
+      "cleanedText": "Novosibirsk"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 129,
+        "column": 3
+      },
+      "cleanedText": "MCX: STKM MCX: ENCO"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 130,
+        "column": 0
+      },
+      "cleanedText": "Sinara Group"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 130,
+        "column": 1
+      },
+      "cleanedText": "Группа Синара"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 130,
+        "column": 2
+      },
+      "cleanedText": "Ekaterinburg"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 130,
+        "column": 3
+      },
+      "cleanedText": "Commercial vehicles \u0026 trucks, real estate, hotels"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 131,
+        "column": 0
+      },
+      "cleanedText": "Sistema"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 131,
+        "column": 1
+      },
+      "cleanedText": "Система"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 131,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 131,
+        "column": 3
+      },
+      "cleanedText": "MCX: AFKS LSE: SSA"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 132,
+        "column": 0
+      },
+      "cleanedText": "Sitronics"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 132,
+        "column": 1
+      },
+      "cleanedText": "Ситроникс"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 132,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 132,
+        "column": 3
+      },
+      "cleanedText": "LSE: SITR RTSI:SITRG"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 133,
+        "column": 0
+      },
+      "cleanedText": "Sollers JSC"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 133,
+        "column": 1
+      },
+      "cleanedText": "Sollers"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 133,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 133,
+        "column": 3
+      },
+      "cleanedText": "MCX: SVAV"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 134,
+        "column": 0
+      },
+      "cleanedText": "Southern Telecom"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 134,
+        "column": 1
+      },
+      "cleanedText": "Южная телекоммуникационная компания"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 134,
+        "column": 2
+      },
+      "cleanedText": "Krasnodar"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 134,
+        "column": 3
+      },
+      "cleanedText": "MCX: UTEL MCX: KUBN"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 135,
+        "column": 0
+      },
+      "cleanedText": "Sovkomflot"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 135,
+        "column": 1
+      },
+      "cleanedText": "Совкомфлот"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 135,
+        "column": 2
+      },
+      "cleanedText": "Saint Petersburg"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 135,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 136,
+        "column": 0
+      },
+      "cleanedText": "Sozvezdie"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 136,
+        "column": 1
+      },
+      "cleanedText": "Концерн «Созвездие»"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 136,
+        "column": 2
+      },
+      "cleanedText": "Voronezh"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 136,
+        "column": 3
+      },
+      "cleanedText": "Electronic Equipment, Defence"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 137,
+        "column": 0
+      },
+      "cleanedText": "S.P. Korolev Rocket and Space Corporation Energia"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 137,
+        "column": 1
+      },
+      "cleanedText": "Ракетно-космическая корпорация «Эне́ргия» имени С. П. Королёва"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 137,
+        "column": 2
+      },
+      "cleanedText": "Korolyov, Moscow Oblast"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 137,
+        "column": 3
+      },
+      "cleanedText": "MCX: RKKE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 138,
+        "column": 0
+      },
+      "cleanedText": "SU-155"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 138,
+        "column": 1
+      },
+      "cleanedText": "СУ-155"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 138,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 138,
+        "column": 3
+      },
+      "cleanedText": "Real estate, building materials, commercial vehicles, industrial machinery"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 139,
+        "column": 0
+      },
+      "cleanedText": "Sukhoi"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 139,
+        "column": 1
+      },
+      "cleanedText": "Сухой"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 139,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 139,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 140,
+        "column": 0
+      },
+      "cleanedText": "Surgutneftegaz"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 140,
+        "column": 1
+      },
+      "cleanedText": "Сургутнефтегаз"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 140,
+        "column": 2
+      },
+      "cleanedText": "Surgut"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 140,
+        "column": 3
+      },
+      "cleanedText": "MCX: SNGS"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 141,
+        "column": 0
+      },
+      "cleanedText": "Svyazinvest"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 141,
+        "column": 1
+      },
+      "cleanedText": "Связьинвест"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 141,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 141,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 142,
+        "column": 0
+      },
+      "cleanedText": "Svyaznoy"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 142,
+        "column": 1
+      },
+      "cleanedText": "Связной"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 142,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 142,
+        "column": 3
+      },
+      "cleanedText": "Specialty retailer"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 143,
+        "column": 0
+      },
+      "cleanedText": "Tactical Missiles Corporation"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 143,
+        "column": 1
+      },
+      "cleanedText": "Корпорация „Тактическое ракетное вооружение“"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 143,
+        "column": 2
+      },
+      "cleanedText": "Korolyov, Moscow Oblast"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 143,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 144,
+        "column": 0
+      },
+      "cleanedText": "Tasma"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 144,
+        "column": 1
+      },
+      "cleanedText": "Тасма"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 144,
+        "column": 2
+      },
+      "cleanedText": "Kazan"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 144,
+        "column": 3
+      },
+      "cleanedText": "Specialty chemicals"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 145,
+        "column": 0
+      },
+      "cleanedText": "Tatneft"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 145,
+        "column": 1
+      },
+      "cleanedText": "Татнефть"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 145,
+        "column": 2
+      },
+      "cleanedText": "Almetyevsk"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 145,
+        "column": 3
+      },
+      "cleanedText": "MCX: TATN LSE: ATAD FWB: TTFB"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 146,
+        "column": 0
+      },
+      "cleanedText": "TEZ Tour"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 146,
+        "column": 1
+      },
+      "cleanedText": "TEZ Tour"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 146,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 146,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 147,
+        "column": 0
+      },
+      "cleanedText": "TNK-BP"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 147,
+        "column": 1
+      },
+      "cleanedText": "ТНК-BP"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 147,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 147,
+        "column": 3
+      },
+      "cleanedText": "MCX: TNBP"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 148,
+        "column": 0
+      },
+      "cleanedText": "TogliattiAzot"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 148,
+        "column": 1
+      },
+      "cleanedText": "Тольяттиазот"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 148,
+        "column": 2
+      },
+      "cleanedText": "Togliatti"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 148,
+        "column": 3
+      },
+      "cleanedText": "Commodity chemicals"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 149,
+        "column": 0
+      },
+      "cleanedText": "Transmashholding"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 149,
+        "column": 1
+      },
+      "cleanedText": "Трансмашхолдинг"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 149,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 149,
+        "column": 3
+      },
+      "cleanedText": "Commercial vehicles \u0026 trucks"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 150,
+        "column": 0
+      },
+      "cleanedText": "Transneft"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 150,
+        "column": 1
+      },
+      "cleanedText": "Транснефть"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 150,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 150,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 151,
+        "column": 0
+      },
+      "cleanedText": "Trolza"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 151,
+        "column": 1
+      },
+      "cleanedText": "Тролза"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 151,
+        "column": 2
+      },
+      "cleanedText": "Engels, Saratov Oblast"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 151,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 152,
+        "column": 0
+      },
+      "cleanedText": "TsUM Trading House"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 152,
+        "column": 1
+      },
+      "cleanedText": "Торговый дом ЦУМ"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 152,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 152,
+        "column": 3
+      },
+      "cleanedText": "MCX: TZUM"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 153,
+        "column": 0
+      },
+      "cleanedText": "Tupolev"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 153,
+        "column": 1
+      },
+      "cleanedText": "Туполев"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 153,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 153,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 154,
+        "column": 0
+      },
+      "cleanedText": "Tverskoy Vagonostroitelniy Zavod"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 154,
+        "column": 1
+      },
+      "cleanedText": "Тверской вагоностроительный завод"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 154,
+        "column": 2
+      },
+      "cleanedText": "Tver"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 154,
+        "column": 3
+      },
+      "cleanedText": "MCX: TVAG"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 155,
+        "column": 0
+      },
+      "cleanedText": "TV Tsentr"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 155,
+        "column": 1
+      },
+      "cleanedText": "Телекомпания „ТВ Центр“"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 155,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 155,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 156,
+        "column": 0
+      },
+      "cleanedText": "Inter RAO"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 156,
+        "column": 1
+      },
+      "cleanedText": "Интер Рао"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 156,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 156,
+        "column": 3
+      },
+      "cleanedText": "MCX: EESR"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 157,
+        "column": 0
+      },
+      "cleanedText": "United Aircraft Corporation"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 157,
+        "column": 1
+      },
+      "cleanedText": "Объединённая авиастроительная корпорация"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 157,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 157,
+        "column": 3
+      },
+      "cleanedText": "MCX: UNAC"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 158,
+        "column": 0
+      },
+      "cleanedText": "United Shipbuilding Corporation"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 158,
+        "column": 1
+      },
+      "cleanedText": "Объединённая судостроительная корпорация"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 158,
+        "column": 2
+      },
+      "cleanedText": "Saint Petersburg"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 158,
+        "column": 3
+      },
+      "cleanedText": "Shipyards"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 159,
+        "column": 0
+      },
+      "cleanedText": "Uralkali"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 159,
+        "column": 1
+      },
+      "cleanedText": "Уралкалий"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 159,
+        "column": 2
+      },
+      "cleanedText": "Berezniki"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 159,
+        "column": 3
+      },
+      "cleanedText": "MCX: URKA LSE: URKA"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 160,
+        "column": 0
+      },
+      "cleanedText": "Uralmash"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 160,
+        "column": 1
+      },
+      "cleanedText": "Машиностроительная корпорация „Уралмаш“, УЗТМ"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 160,
+        "column": 2
+      },
+      "cleanedText": "Ekaterinburg"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 160,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 161,
+        "column": 0
+      },
+      "cleanedText": "Ural Mining and Metallurgical Company"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 161,
+        "column": 1
+      },
+      "cleanedText": "Уральская горно-металлургическая компания"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 161,
+        "column": 2
+      },
+      "cleanedText": "Verkhnyaya Pyshma"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 161,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 162,
+        "column": 0
+      },
+      "cleanedText": "Uralsib"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 162,
+        "column": 1
+      },
+      "cleanedText": "Страховая группа «Уралсиб»"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 162,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 162,
+        "column": 3
+      },
+      "cleanedText": "Life, property \u0026 casualty insurance"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 163,
+        "column": 0
+      },
+      "cleanedText": "UAZ"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 163,
+        "column": 1
+      },
+      "cleanedText": "УАЗ"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 163,
+        "column": 2
+      },
+      "cleanedText": "Ulyanovsk"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 163,
+        "column": 3
+      },
+      "cleanedText": "MCX: UAZA"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 164,
+        "column": 0
+      },
+      "cleanedText": "Uralsvyazinform"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 164,
+        "column": 1
+      },
+      "cleanedText": "Уралсвязьинформ"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 164,
+        "column": 2
+      },
+      "cleanedText": "Ekaterinburg"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 164,
+        "column": 3
+      },
+      "cleanedText": "MCX: URSI"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 165,
+        "column": 0
+      },
+      "cleanedText": "Uralvagonzavod"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 165,
+        "column": 1
+      },
+      "cleanedText": "Научно-производственная корпорация „Уралвагонзавод“ имени Ф. Э. Дзержинского"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 165,
+        "column": 2
+      },
+      "cleanedText": "Nizhny Tagil"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 165,
+        "column": 3
+      },
+      "cleanedText": "Railroads, RTSI:URVZ"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 166,
+        "column": 0
+      },
+      "cleanedText": "UTair Aviation"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 166,
+        "column": 1
+      },
+      "cleanedText": "Авиакомпания «ЮТэйр»"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 166,
+        "column": 2
+      },
+      "cleanedText": "Khanty-Mansiysk"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 166,
+        "column": 3
+      },
+      "cleanedText": "Airline, MCX: UTAR MCX: TMAT"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 167,
+        "column": 0
+      },
+      "cleanedText": "VAZInterService"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 167,
+        "column": 1
+      },
+      "cleanedText": "Вазинтерсервис"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 167,
+        "column": 2
+      },
+      "cleanedText": "Togliatti"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 167,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 168,
+        "column": 0
+      },
+      "cleanedText": "Vologodskiy mechanical plant"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 168,
+        "column": 1
+      },
+      "cleanedText": "Вологодский механический завод"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 168,
+        "column": 2
+      },
+      "cleanedText": "Vologda"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 168,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 169,
+        "column": 0
+      },
+      "cleanedText": "Vkontakte"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 169,
+        "column": 1
+      },
+      "cleanedText": "ВКонтакте"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 169,
+        "column": 2
+      },
+      "cleanedText": "Saint Petersburg"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 169,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 170,
+        "column": 0
+      },
+      "cleanedText": "Voenizdat"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 170,
+        "column": 1
+      },
+      "cleanedText": "Воениздат"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 170,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 170,
+        "column": 3
+      },
+      "cleanedText": "Publishing"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 171,
+        "column": 0
+      },
+      "cleanedText": "VolgaTelecom"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 171,
+        "column": 1
+      },
+      "cleanedText": "Telecommunications"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 171,
+        "column": 2
+      },
+      "cleanedText": "Nizhny Novgorod"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 171,
+        "column": 3
+      },
+      "cleanedText": "MCX: VTEL MCX: NNSI"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 172,
+        "column": 0
+      },
+      "cleanedText": "Volgotanker"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 172,
+        "column": 1
+      },
+      "cleanedText": "Волготанкер"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 172,
+        "column": 2
+      },
+      "cleanedText": "Samara"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 172,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 173,
+        "column": 0
+      },
+      "cleanedText": "Volzhanin"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 173,
+        "column": 1
+      },
+      "cleanedText": "Волжанин"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 173,
+        "column": 2
+      },
+      "cleanedText": "Volzhsky, Volgograd Oblast"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 173,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 174,
+        "column": 0
+      },
+      "cleanedText": "Voronezh Aircraft Production Association"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 174,
+        "column": 1
+      },
+      "cleanedText": "Воронежское акционерное самолётостроительное общество"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 174,
+        "column": 2
+      },
+      "cleanedText": "Voronezh"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 174,
+        "column": 3
+      },
+      "cleanedText": "RTSI:VASOP"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 175,
+        "column": 0
+      },
+      "cleanedText": "VSMPO-AVISMA"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 175,
+        "column": 1
+      },
+      "cleanedText": "ВСМПО-АВИСМА"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 175,
+        "column": 2
+      },
+      "cleanedText": "Verkhnyaya Salda"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 175,
+        "column": 3
+      },
+      "cleanedText": "MCX: VSMO"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 176,
+        "column": 0
+      },
+      "cleanedText": "VTB Bank"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 176,
+        "column": 1
+      },
+      "cleanedText": "Банк ВТБ"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 176,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 176,
+        "column": 3
+      },
+      "cleanedText": "MCX: VTBR"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 177,
+        "column": 0
+      },
+      "cleanedText": "Wimm-Bill-Dann Foods"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 177,
+        "column": 1
+      },
+      "cleanedText": "Вимм-Билль-Данн Продукты питания"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 177,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 177,
+        "column": 3
+      },
+      "cleanedText": "MCX: WBDF NYSE: WBD"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 178,
+        "column": 0
+      },
+      "cleanedText": "X5 Retail Group"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 178,
+        "column": 1
+      },
+      "cleanedText": "X5 Retail Group"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 178,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 178,
+        "column": 3
+      },
+      "cleanedText": "LSE: FIVE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 179,
+        "column": 0
+      },
+      "cleanedText": "Yakovlev"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 179,
+        "column": 1
+      },
+      "cleanedText": "Опытно-конструкторское бюро им. А. С. Яковлева"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 179,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 179,
+        "column": 3
+      },
+      "cleanedText": "RTSI:OKBY"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 180,
+        "column": 0
+      },
+      "cleanedText": "Yandex"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 180,
+        "column": 1
+      },
+      "cleanedText": "Яндекс"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 180,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 180,
+        "column": 3
+      },
+      "cleanedText": "MCX: YNDX NASDAQ: YNDX"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 181,
+        "column": 0
+      },
+      "cleanedText": "Yuganskneftegaz"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 181,
+        "column": 1
+      },
+      "cleanedText": "Юганскнефтегаз"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 181,
+        "column": 2
+      },
+      "cleanedText": "Nefteyugansk"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 181,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 182,
+        "column": 0
+      },
+      "cleanedText": "ZiL"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 182,
+        "column": 1
+      },
+      "cleanedText": "ЗИЛ"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 182,
+        "column": 2
+      },
+      "cleanedText": "Moscow"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 182,
+        "column": 3
+      },
+      "cleanedText": "MCX: ZILL"
+    }
+  ],
+  "maxDimensions": {
+    "row": 182,
+    "column": 3
+  },
+  "columns": [
+    {
+      "tableName": "http://dbpedia.org/resource/List_of_companies_of_Russia?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d2_2",
+      "columnName": "Name",
+      "fields": [
+        "1C Company",
+        "ABBYY",
+        "Acron Group",
+        "Aeroflot",
+        "Airport Tolmachevo",
+        "Akella",
+        "Alawar Entertainment",
+        "Alfa Group",
+        "All-Russia State Television and Radio Broadcasting Company (VGTRK)|",
+        "Almaz-Antey",
+        "ALROSA",
+        "AST",
+        "Atomenergoprom",
+        "ATV",
+        "Aviakor",
+        "Aviastar-SP",
+        "Avtotor",
+        "AvtoVAZ",
+        "Baltika Breweries",
+        "Bank Rossiya",
+        "Bank Saint Petersburg",
+        "Bryansk Avtomobile Plant",
+        "Channel One",
+        "Chelyabinsk Pipe Rolling Plant",
+        "Chelyabinsk Tractor Plant",
+        "Cherkizovo",
+        "Concern Tractor Plants",
+        "CTC Media",
+        "Dalsvyaz",
+        "Derways Automobile Company",
+        "E4 Group",
+        "Eksmo",
+        "En+ Group",
+        "ER-Telecom",
+        "Eurocement group",
+        "Euroset",
+        "Evalar",
+        "GAZ Group",
+        "Gazprom",
+        "Gazprom Media",
+        "Gazprom Neft",
+        "Gazprombank",
+        "Gorky Film Studio",
+        "International Industrial Bank",
+        "Ilyushin",
+        "Ingosstrakh",
+        "Interfax",
+        "Intourist",
+        "Irkut Corporation",
+        "Irkutskenergo",
+        "Izhevsk Mechanical Plant",
+        "Kalashnikov Concern",
+        "Kamaz",
+        "Kazan Helicopter Plant",
+        "Kazanorgsintez",
+        "Kaspersky Lab",
+        "Kirov Plant",
+        "Komus",
+        "Krasnoye Sormovo Factory",
+        "Kuzbassenergo",
+        "Kuznetsov",
+        "Lebedyansky",
+        "Lenfilm",
+        "LOMO",
+        "LUKoil",
+        "Magnit",
+        "Magnitogorsk Iron and Steel Works",
+        "Mail.Ru Group",
+        "Makeyev Rocket Design Bureau",
+        "Mechel",
+        "MegaFon",
+        "Melodiya",
+        "Metalloinvest",
+        "Mil Moscow Helicopter Plant",
+        "Molodaya Gvardiya",
+        "Moscow City Telephone Network",
+        "Mosfilm",
+        "Motovilikha Plants",
+        "MTS",
+        "M.video",
+        "NEWSru",
+        "Nizhnekamskneftekhim",
+        "Norilsk Nickel",
+        "North-West Telecom",
+        "Novatek",
+        "Novolipetsk Steel",
+        "Novoroscement",
+        "OAO Kondopoga",
+        "OAO TMK",
+        "Oboronprom",
+        "OGK-1",
+        "OGK-2",
+        "OGK-3",
+        "OGK-4",
+        "OGK-5",
+        "OGK-6",
+        "Omsk Engine Design Bureau",
+        "OMZ",
+        "Ozon.ru",
+        "Petersburg - Channel 5",
+        "Petersburg Fuel Company",
+        "Petrodvorets Watch Factory",
+        "Pharmstandard",
+        "PIK Group",
+        "Polyus Gold",
+        "Power Machines",
+        "Progress State Research and Production Rocket Space Center",
+        "PROMT",
+        "Rambler-Afisha-SUP",
+        "Razgulay",
+        "RBC",
+        "REGNUM",
+        "Rive Gauche",
+        "Rolf",
+        "Rosenergomash",
+        "Rosgosstrakh",
+        "Rosneft",
+        "Rostelecom",
+        "Rostselmash",
+        "RUSAL",
+        "Russian Helicopters",
+        "Russian Railways",
+        "Sberbank",
+        "Severnaya Verf",
+        "Severstal",
+        "SeverStal-Auto",
+        "Siberia Airlines",
+        "Siberian Coal Energy Company",
+        "Sibirtelecom",
+        "Sinara Group",
+        "Sistema",
+        "Sitronics",
+        "Sollers JSC",
+        "Southern Telecom",
+        "Sovkomflot",
+        "Sozvezdie",
+        "S.P. Korolev Rocket and Space Corporation Energia",
+        "SU-155",
+        "Sukhoi",
+        "Surgutneftegaz",
+        "Svyazinvest",
+        "Svyaznoy",
+        "Tactical Missiles Corporation",
+        "Tasma",
+        "Tatneft",
+        "TEZ Tour",
+        "TNK-BP",
+        "TogliattiAzot",
+        "Transmashholding",
+        "Transneft",
+        "Trolza",
+        "TsUM Trading House",
+        "Tupolev",
+        "Tverskoy Vagonostroitelniy Zavod",
+        "TV Tsentr",
+        "Inter RAO",
+        "United Aircraft Corporation",
+        "United Shipbuilding Corporation",
+        "Uralkali",
+        "Uralmash",
+        "Ural Mining and Metallurgical Company",
+        "Uralsib",
+        "UAZ",
+        "Uralsvyazinform",
+        "Uralvagonzavod",
+        "UTair Aviation",
+        "VAZInterService",
+        "Vologodskiy mechanical plant",
+        "Vkontakte",
+        "Voenizdat",
+        "VolgaTelecom",
+        "Volgotanker",
+        "Volzhanin",
+        "Voronezh Aircraft Production Association",
+        "VSMPO-AVISMA",
+        "VTB Bank",
+        "Wimm-Bill-Dann Foods",
+        "X5 Retail Group",
+        "Yakovlev",
+        "Yandex",
+        "Yuganskneftegaz",
+        "ZiL"
+      ]
+    },
+    {
+      "tableName": "http://dbpedia.org/resource/List_of_companies_of_Russia?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d2_2",
+      "columnName": "Russian",
+      "fields": [
+        "Фирма \"1С\"",
+        "Компания ABBYY",
+        "Акрон",
+        "Аэрофлот",
+        "Аэропорт «Толмачево»",
+        "Акелла",
+        "Компания Alawar Entertainment",
+        "Альфа-Групп",
+        "Всероссийская государственная телевизионная и радиовещательная компания (ВГТРК)",
+        "Алмаз-Антей",
+        "АЛРОСА",
+        "АСТ",
+        "Атомэнергопром",
+        "АТВ Продакшн",
+        "Авиакор",
+        "Авиастар-СП",
+        "Автотор",
+        "АвтоВАЗ",
+        "Пивоваренная компания Балтика",
+        "Акционерный Банк «РОССИЯ»",
+        "Банк Санкт-Петербург",
+        "Брянский автомобильный завод",
+        "Первый канал",
+        "Группа ЧТПЗ",
+        "Челябинский тракторный завод",
+        "Группа „Черки́зово“",
+        "Тракторные заводы",
+        "СТС Медиа",
+        "Дальсвязь",
+        "Derways",
+        "Группа Е4",
+        "Эксмо",
+        "En+ Group",
+        "ЭР-Телеком",
+        "Евроцемент груп",
+        "Евросеть",
+        "Эвалар",
+        "Группа ГАЗ",
+        "Газпром",
+        "Газпром-Медиа",
+        "Газпром нефть",
+        "Financials",
+        "Киностудия имени М. Горького",
+        "Международный Промышленный Банк",
+        "Авиационный комплекс имени С. В. Ильюшина",
+        "Ингосстрах",
+        "Интерфакс",
+        "Интурист",
+        "Иркут",
+        "Иркутскэнерго",
+        "Ижевский механический завод",
+        "АО Концерн Калашников",
+        "КамАЗ",
+        "Industrials",
+        "Казаньоргсинтез",
+        "Лаборатория Касперского",
+        "Кировский завод",
+        "Комус",
+        "Красное Сормово",
+        "Кузбассэнерго",
+        "Кузнецов",
+        "Лебедянский",
+        "Киностудия «Ленфильм»",
+        "ЛОМО",
+        "ЛУКОЙЛ",
+        "Магнит",
+        "Магнитогорский металлургический комбинат",
+        "Mail.Ru Group",
+        "Государственный ракетный центр имени академика В. П. Макеева",
+        "Мечел",
+        "МегаФон",
+        "Мелодия",
+        "Металлоинвест",
+        "Московский вертолетный завод им. М.Л. Миля",
+        "Consumer services",
+        "Московская городская телефонная сеть",
+        "Киноконце́рн «Мосфи́льм»",
+        "Мотовилихинские заводы",
+        "Мобильные ТелеСистемы",
+        "М.Видео",
+        "NEWSru.com",
+        "Нижнекамскнефтехим",
+        "Норильский никель",
+        "Северо-Западный Телеком",
+        "Новатэк",
+        "Новолипецкий металлургический комбинат",
+        "Новоросцемент",
+        "ОАО «Ко́ндопога»",
+        "Трубная металлургическая компания",
+        "Объединённая промышленная корпорация «Оборонпром»",
+        "Оптовая генерирующая компания № 1",
+        "Оптовая генерирующая компания № 2",
+        "Оптовая генерирующая компания № 3",
+        "Оптовая генерирующая компания № 4",
+        "Оптовая генерирующая компания № 5",
+        "Оптовая генерирующая компания № 6",
+        "Омское моторостроительное конструкторское бюро",
+        "Объединённые машиностроительные заводы",
+        "Ozon.ru",
+        "Пятый канал",
+        "Петербургская топливная компания",
+        "Петродворцовый часовой завод",
+        "Фармстандарт",
+        "Группа компаний ПИК",
+        "Полюс Золото",
+        "Силовые машины",
+        "Ракетно-космический центр «Прогресс»",
+        "PROMT",
+        "Рамблер-Афиша-SUP",
+        "Разгуля́й",
+        "РБК",
+        "Regnum",
+        "Рив Гош",
+        "Рольф",
+        "Росэнергомаш",
+        "Росгосстрах",
+        "Роснефть",
+        "Ростелеком",
+        "Ростсельмаш",
+        "Российский алюминий",
+        "Вертолёты России",
+        "Российские железные дороги",
+        "Сбербанк",
+        "Судостроительный завод «Северная верфь»",
+        "Северсталь",
+        "Северсталь-Авто",
+        "Авиакомпания «Сибирь»",
+        "Сибирская угольная энергетическая компания",
+        "Сибирьтелеком",
+        "Группа Синара",
+        "Система",
+        "Ситроникс",
+        "Sollers",
+        "Южная телекоммуникационная компания",
+        "Совкомфлот",
+        "Концерн «Созвездие»",
+        "Ракетно-космическая корпорация «Эне́ргия» имени С. П. Королёва",
+        "СУ-155",
+        "Сухой",
+        "Сургутнефтегаз",
+        "Связьинвест",
+        "Связной",
+        "Корпорация „Тактическое ракетное вооружение“",
+        "Тасма",
+        "Татнефть",
+        "TEZ Tour",
+        "ТНК-BP",
+        "Тольяттиазот",
+        "Трансмашхолдинг",
+        "Транснефть",
+        "Тролза",
+        "Торговый дом ЦУМ",
+        "Туполев",
+        "Тверской вагоностроительный завод",
+        "Телекомпания „ТВ Центр“",
+        "Интер Рао",
+        "Объединённая авиастроительная корпорация",
+        "Объединённая судостроительная корпорация",
+        "Уралкалий",
+        "Машиностроительная корпорация „Уралмаш“, УЗТМ",
+        "Уральская горно-металлургическая компания",
+        "Страховая группа «Уралсиб»",
+        "УАЗ",
+        "Уралсвязьинформ",
+        "Научно-производственная корпорация „Уралвагонзавод“ имени Ф. Э. Дзержинского",
+        "Авиакомпания «ЮТэйр»",
+        "Вазинтерсервис",
+        "Вологодский механический завод",
+        "ВКонтакте",
+        "Воениздат",
+        "Telecommunications",
+        "Волготанкер",
+        "Волжанин",
+        "Воронежское акционерное самолётостроительное общество",
+        "ВСМПО-АВИСМА",
+        "Банк ВТБ",
+        "Вимм-Билль-Данн Продукты питания",
+        "X5 Retail Group",
+        "Опытно-конструкторское бюро им. А. С. Яковлева",
+        "Яндекс",
+        "Юганскнефтегаз",
+        "ЗИЛ"
+      ]
+    },
+    {
+      "tableName": "http://dbpedia.org/resource/List_of_companies_of_Russia?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d2_2",
+      "columnName": "Headquarters",
+      "fields": [
+        "Moscow",
+        "Moscow",
+        "Nizhny Novgorod",
+        "Moscow",
+        "Novosibirsk",
+        "Moscow",
+        "Novosibirsk|",
+        "Moscow",
+        "Moscow",
+        "Moscow",
+        "Mirny",
+        "Moscow",
+        "Moscow",
+        "Moscow",
+        "Samara",
+        "Ulyanovsk",
+        "Kaliningrad",
+        "Tolyatti",
+        "Saint Petersburg",
+        "Saint Petersburg",
+        "Saint Petersburg",
+        "Bryansk",
+        "Moscow",
+        "Moscow",
+        "Chelyabinsk",
+        "Moscow",
+        "Cheboksary",
+        "Moscow",
+        "Vladivostok",
+        "Cherkessk",
+        "Moscow",
+        "Moscow",
+        "Moscow",
+        "Perm",
+        "Moscow",
+        "Moscow",
+        "Biysk",
+        "Nizhny Novgorod",
+        "Moscow",
+        "Moscow",
+        "Moscow",
+        "Moscow",
+        "Moscow",
+        "Moscow",
+        "Moscow",
+        "Moscow",
+        "Moscow",
+        "Moscow",
+        "Irkutsk",
+        "Irkutsk",
+        "Izhevsk",
+        "Izhevsk",
+        "Naberezhnye Chelny",
+        "Kazan",
+        "Kazan",
+        "Moscow",
+        "Saint Petersburg",
+        "Moscow",
+        "Nizhny Novgorod",
+        "Barnaul",
+        "Samara",
+        "Lebedyan",
+        "Saint Petersburg",
+        "Saint Petersburg",
+        "Moscow",
+        "Krasnodar",
+        "Magnitogorsk",
+        "Moscow",
+        "Miass",
+        "Moscow",
+        "Moscow",
+        "Moscow",
+        "Moscow",
+        "Moscow",
+        "Moscow",
+        "Moscow",
+        "Moscow",
+        "Perm",
+        "Moscow",
+        "Moscow",
+        "Moscow",
+        "Nizhnekamsk",
+        "Moscow",
+        "Saint Petersburg",
+        "Tarko-Sale",
+        "Lipetsk",
+        "Novorossiysk",
+        "Kondopoga",
+        "Moscow",
+        "Moscow",
+        "Tyumen",
+        "Moscow",
+        "Ulan-Ude",
+        "Surgut",
+        "Ekaterinburg",
+        "Rostov-on-Don",
+        "Omsk",
+        "Moscow",
+        "Moscow",
+        "Saint Petersburg",
+        "Saint Petersburg",
+        "Petergof",
+        "Dolgoprudny",
+        "Moscow",
+        "Moscow",
+        "Saint Petersburg",
+        "Samara",
+        "Moscow",
+        "Moscow",
+        "Moscow",
+        "Moscow",
+        "Moscow",
+        "Saint Petersburg",
+        "Moscow",
+        "Moscow",
+        "Moscow",
+        "Moscow",
+        "Moscow",
+        "Rostov-on-Don",
+        "Moscow",
+        "Moscow",
+        "Moscow",
+        "Moscow",
+        "Saint Petersburg",
+        "Cherepovets",
+        "Cherepovets",
+        "Novosibirsk",
+        "Moscow",
+        "Novosibirsk",
+        "Ekaterinburg",
+        "Moscow",
+        "Moscow",
+        "Moscow",
+        "Krasnodar",
+        "Saint Petersburg",
+        "Voronezh",
+        "Korolyov, Moscow Oblast",
+        "Moscow",
+        "Moscow",
+        "Surgut",
+        "Moscow",
+        "Moscow",
+        "Korolyov, Moscow Oblast",
+        "Kazan",
+        "Almetyevsk",
+        "Moscow",
+        "Moscow",
+        "Togliatti",
+        "Moscow",
+        "Moscow",
+        "Engels, Saratov Oblast",
+        "Moscow",
+        "Moscow",
+        "Tver",
+        "Moscow",
+        "Moscow",
+        "Moscow",
+        "Saint Petersburg",
+        "Berezniki",
+        "Ekaterinburg",
+        "Verkhnyaya Pyshma",
+        "Moscow",
+        "Ulyanovsk",
+        "Ekaterinburg",
+        "Nizhny Tagil",
+        "Khanty-Mansiysk",
+        "Togliatti",
+        "Vologda",
+        "Saint Petersburg",
+        "Moscow",
+        "Nizhny Novgorod",
+        "Samara",
+        "Volzhsky, Volgograd Oblast",
+        "Voronezh",
+        "Verkhnyaya Salda",
+        "Moscow",
+        "Moscow",
+        "Moscow",
+        "Moscow",
+        "Moscow",
+        "Nefteyugansk",
+        "Moscow"
+      ]
+    },
+    {
+      "tableName": "http://dbpedia.org/resource/List_of_companies_of_Russia?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d2_2",
+      "columnName": "Notes",
+      "fields": [
+        "Software and video games",
+        "OCR",
+        "MCX: AKRN LSE: AKRN",
+        "MCX: AFLT",
+        "MCX: ATLM",
+        "Video games",
+        "Video games",
+        "Banks, insurance, water",
+        "State-owned media",
+        "",
+        "Diamonds \u0026 gemstones",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "MCX: AVAZ",
+        "MCX: PKBA, brewers",
+        "",
+        "MCX: STBK",
+        "Commercial vehicles and trucks, defence",
+        "Broadcasting \u0026 entertainment",
+        "MCX: CHEP, iron \u0026 steel, nonferrous metals",
+        "Commercial vehicles \u0026 trucks",
+        "",
+        "Commercial vehicles \u0026 trucks, defence",
+        "Broadcasting \u0026 entertainment, NASDAQ: CTCM",
+        "MCX: DLSV MCX: ESPK, acquired by Rostelecom",
+        "",
+        "Heavy construction",
+        "Publishing, specialty retailers",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "MCX: GAZP",
+        "Part of Gazprom",
+        "MCX: SIBN, part of Gazprom",
+        "Part of Gazprom",
+        "",
+        "",
+        "",
+        "Full line insurance, life, reinsurance",
+        "News agency",
+        "Former state travel agency, now private",
+        "MCX: IRKT",
+        "Hydroelectric, MCX: IRGZ",
+        "",
+        "MCX: IGMA",
+        "MCX: KMAZ",
+        "MCX: KHEL",
+        "MCX: KZOS",
+        "",
+        "MCX: KIRZ",
+        "",
+        "Marine Transportation",
+        "MCX: KZBE",
+        "",
+        "MCX: LBDO MCX: LEKZ",
+        "Film studio",
+        "",
+        "MCX: LKOH LSE: LKOD OTC Pink: LUKOY FWB: LUK",
+        "MCX: MGNT LSE: MGNT",
+        "Iron and steel, MCX: MAGN",
+        "Internet, software, publishing, LSE: MAIL",
+        "Missile design",
+        "Coal, iron and steel, MCX: MTLR NYSE: MTL",
+        "LSE: MFON MCX: MFON",
+        "Record label",
+        "Steel",
+        "MCX: MVZM",
+        "Publishing",
+        "MCX: MGTS",
+        "Film studio",
+        "MCX: MOTZ",
+        "MCX: MTSI MCX: MTSS",
+        "Retail electronics chain, MCX: MVID",
+        "News agency",
+        "MCX: NKNC",
+        "MCX: GMKN LSE: MNOD",
+        "MCX: SPTL",
+        "MCX: NVTK MCX: NVTK",
+        "MCX: NLMK",
+        "",
+        "Paper",
+        "Iron \u0026 steel, LSE: TMKS MCX: TRMK",
+        "",
+        "MCX: OGK1 MCX: OGKA",
+        "MCX: OGKB",
+        "MCX: OGKC",
+        "MCX: OGKD",
+        "MCX: OGKE",
+        "MCX: OGKF",
+        "",
+        "LSE: OMZD",
+        "Internet, apparel, specialty, home improvement",
+        "",
+        "",
+        "Clothing \u0026 accessories",
+        "LSE: PHST MCX: PHST",
+        "MCX: PIKK",
+        "MCX: PLZL LSE: PLZL NASDAQ: OPYGY",
+        "RTSI:SILM",
+        "",
+        "",
+        "",
+        "MCX: GRAZ",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Life insurance, MCX: RGSS",
+        "MCX: ROSN",
+        "MCX: RTKM NYSE: ROS",
+        "Commercial vehicles \u0026 trucks, RTSI:RTLM",
+        "",
+        "",
+        "",
+        "MCX: SBER",
+        "RTSI:SZVE",
+        "MCX: CHMF",
+        "MCX: SVAV",
+        "Airline",
+        "",
+        "MCX: STKM MCX: ENCO",
+        "Commercial vehicles \u0026 trucks, real estate, hotels",
+        "MCX: AFKS LSE: SSA",
+        "LSE: SITR RTSI:SITRG",
+        "MCX: SVAV",
+        "MCX: UTEL MCX: KUBN",
+        "",
+        "Electronic Equipment, Defence",
+        "MCX: RKKE",
+        "Real estate, building materials, commercial vehicles, industrial machinery",
+        "",
+        "MCX: SNGS",
+        "",
+        "Specialty retailer",
+        "",
+        "Specialty chemicals",
+        "MCX: TATN LSE: ATAD FWB: TTFB",
+        "",
+        "MCX: TNBP",
+        "Commodity chemicals",
+        "Commercial vehicles \u0026 trucks",
+        "",
+        "",
+        "MCX: TZUM",
+        "",
+        "MCX: TVAG",
+        "",
+        "MCX: EESR",
+        "MCX: UNAC",
+        "Shipyards",
+        "MCX: URKA LSE: URKA",
+        "",
+        "",
+        "Life, property \u0026 casualty insurance",
+        "MCX: UAZA",
+        "MCX: URSI",
+        "Railroads, RTSI:URVZ",
+        "Airline, MCX: UTAR MCX: TMAT",
+        "",
+        "",
+        "",
+        "Publishing",
+        "MCX: VTEL MCX: NNSI",
+        "",
+        "",
+        "RTSI:VASOP",
+        "MCX: VSMO",
+        "MCX: VTBR",
+        "MCX: WBDF NYSE: WBD",
+        "LSE: FIVE",
+        "RTSI:OKBY",
+        "MCX: YNDX NASDAQ: YNDX",
+        "",
+        "MCX: ZILL"
+      ]
+    }
+  ]
+}

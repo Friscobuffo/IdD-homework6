@@ -1,0 +1,2571 @@
+{
+  "id": "http://dbpedia.org/resource/List_of_systemically_important_banks?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d1_2",
+  "cells": [
+    {
+      "isHeader": true,
+      "Coordinates": {
+        "row": 0,
+        "column": 0
+      },
+      "cleanedText": "Entity"
+    },
+    {
+      "isHeader": true,
+      "Coordinates": {
+        "row": 0,
+        "column": 1
+      },
+      "cleanedText": "Region"
+    },
+    {
+      "isHeader": true,
+      "Coordinates": {
+        "row": 0,
+        "column": 2
+      },
+      "cleanedText": "HQ country"
+    },
+    {
+      "isHeader": true,
+      "Coordinates": {
+        "row": 0,
+        "column": 3
+      },
+      "cleanedText": "HQ currency"
+    },
+    {
+      "isHeader": true,
+      "Coordinates": {
+        "row": 0,
+        "column": 4
+      },
+      "cleanedText": "HQ regulator"
+    },
+    {
+      "isHeader": true,
+      "Coordinates": {
+        "row": 0,
+        "column": 5
+      },
+      "cleanedText": "Major exchange(s)"
+    },
+    {
+      "isHeader": true,
+      "Coordinates": {
+        "row": 0,
+        "column": 6
+      },
+      "cleanedText": "Notes"
+    },
+    {
+      "isHeader": true,
+      "Coordinates": {
+        "row": 0,
+        "column": 7
+      },
+      "cleanedText": "Total capital ratio requirement (% of RWA)"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 1,
+        "column": 0
+      },
+      "cleanedText": "Mizuho FG"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 1,
+        "column": 1
+      },
+      "cleanedText": "Asia"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 1,
+        "column": 2
+      },
+      "cleanedText": "23x15px Japan"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 1,
+        "column": 3
+      },
+      "cleanedText": "¥, Yen"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 1,
+        "column": 4
+      },
+      "cleanedText": "FSAj"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 1,
+        "column": 5
+      },
+      "cleanedText": "TYO, NYSE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 1,
+        "column": 6
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 1,
+        "column": 7
+      },
+      "cleanedText": "11.5% (CET1\u003dmin.8%)"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 2,
+        "column": 0
+      },
+      "cleanedText": "Sumitomo Mitsui"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 2,
+        "column": 1
+      },
+      "cleanedText": "Asia"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 2,
+        "column": 2
+      },
+      "cleanedText": "23x15px Japan"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 2,
+        "column": 3
+      },
+      "cleanedText": "¥, Yen"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 2,
+        "column": 4
+      },
+      "cleanedText": "FSAj"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 2,
+        "column": 5
+      },
+      "cleanedText": "TYO, NYSE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 2,
+        "column": 6
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 2,
+        "column": 7
+      },
+      "cleanedText": "11.5% (CET1\u003dmin.8%)"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 3,
+        "column": 0
+      },
+      "cleanedText": "Mitsubishi UFJ FG"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 3,
+        "column": 1
+      },
+      "cleanedText": "Asia"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 3,
+        "column": 2
+      },
+      "cleanedText": "23x15px Japan"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 3,
+        "column": 3
+      },
+      "cleanedText": "¥, Yen"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 3,
+        "column": 4
+      },
+      "cleanedText": "FSAj"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 3,
+        "column": 5
+      },
+      "cleanedText": "TYO"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 3,
+        "column": 6
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 3,
+        "column": 7
+      },
+      "cleanedText": "12.0% (CET1\u003dmin.8.5%)"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 4,
+        "column": 0
+      },
+      "cleanedText": "Bank of China"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 4,
+        "column": 1
+      },
+      "cleanedText": "Asia"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 4,
+        "column": 2
+      },
+      "cleanedText": "23x15px China"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 4,
+        "column": 3
+      },
+      "cleanedText": "¥ or 元, Renminbi"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 4,
+        "column": 4
+      },
+      "cleanedText": "CBRC"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 4,
+        "column": 5
+      },
+      "cleanedText": "SEHK, SSE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 4,
+        "column": 6
+      },
+      "cleanedText": "majority state owned"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 4,
+        "column": 7
+      },
+      "cleanedText": "11.5% (CET1\u003dmin.8%)"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 5,
+        "column": 0
+      },
+      "cleanedText": "ICBC"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 5,
+        "column": 1
+      },
+      "cleanedText": "Asia"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 5,
+        "column": 2
+      },
+      "cleanedText": "23x15px China"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 5,
+        "column": 3
+      },
+      "cleanedText": "¥ or 元, Renminbi"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 5,
+        "column": 4
+      },
+      "cleanedText": "CBRC"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 5,
+        "column": 5
+      },
+      "cleanedText": "SEHK, SSE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 5,
+        "column": 6
+      },
+      "cleanedText": "majority state owned"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 5,
+        "column": 7
+      },
+      "cleanedText": "11.5% (CET1\u003dmin.8%)"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 6,
+        "column": 0
+      },
+      "cleanedText": "Agricultural Bank of China"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 6,
+        "column": 1
+      },
+      "cleanedText": "Asia"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 6,
+        "column": 2
+      },
+      "cleanedText": "23x15px China"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 6,
+        "column": 3
+      },
+      "cleanedText": "¥ or 元, Renminbi"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 6,
+        "column": 4
+      },
+      "cleanedText": "CBRC"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 6,
+        "column": 5
+      },
+      "cleanedText": "SEHK, SSE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 6,
+        "column": 6
+      },
+      "cleanedText": "majority state owned"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 6,
+        "column": 7
+      },
+      "cleanedText": "11.5% (CET1\u003dmin.8%)"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 7,
+        "column": 0
+      },
+      "cleanedText": "China Construction Bank"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 7,
+        "column": 1
+      },
+      "cleanedText": "Asia"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 7,
+        "column": 2
+      },
+      "cleanedText": "23x15px China"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 7,
+        "column": 3
+      },
+      "cleanedText": "¥ or 元, Renminbi"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 7,
+        "column": 4
+      },
+      "cleanedText": "CBRC"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 7,
+        "column": 5
+      },
+      "cleanedText": "SEHK, SSE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 7,
+        "column": 6
+      },
+      "cleanedText": "majority state owned"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 7,
+        "column": 7
+      },
+      "cleanedText": "11.5% (CET1\u003dmin.8%)"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 8,
+        "column": 0
+      },
+      "cleanedText": "Dexia Group"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 8,
+        "column": 1
+      },
+      "cleanedText": "Europe"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 8,
+        "column": 2
+      },
+      "cleanedText": "23x15px Belgium"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 8,
+        "column": 3
+      },
+      "cleanedText": "€, Euro"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 8,
+        "column": 4
+      },
+      "cleanedText": "FSMA"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 8,
+        "column": 5
+      },
+      "cleanedText": "Euronext"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 8,
+        "column": 6
+      },
+      "cleanedText": "Resolution was ordered Oct 2011. Dexia Belgium was bought out from the group by the Belgian state, and continue to exist as Belfius. Remaining part of the group was left in a \"bad bank\" to be liquidated."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 8,
+        "column": 7
+      },
+      "cleanedText": "-"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 9,
+        "column": 0
+      },
+      "cleanedText": "BNP Paribas"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 9,
+        "column": 1
+      },
+      "cleanedText": "Europe"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 9,
+        "column": 2
+      },
+      "cleanedText": "23x15px France"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 9,
+        "column": 3
+      },
+      "cleanedText": "€, Euro"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 9,
+        "column": 4
+      },
+      "cleanedText": "AMF"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 9,
+        "column": 5
+      },
+      "cleanedText": "Euronext"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 9,
+        "column": 6
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 9,
+        "column": 7
+      },
+      "cleanedText": "12.5% (CET1\u003dmin.9%)"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 10,
+        "column": 0
+      },
+      "cleanedText": "Crédit Agricole"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 10,
+        "column": 1
+      },
+      "cleanedText": "Europe"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 10,
+        "column": 2
+      },
+      "cleanedText": "23x15px France"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 10,
+        "column": 3
+      },
+      "cleanedText": "€, Euro"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 10,
+        "column": 4
+      },
+      "cleanedText": "AMF"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 10,
+        "column": 5
+      },
+      "cleanedText": "Euronext"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 10,
+        "column": 6
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 10,
+        "column": 7
+      },
+      "cleanedText": "11.5% (CET1\u003dmin.8%)"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 11,
+        "column": 0
+      },
+      "cleanedText": "Banque Populaire CE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 11,
+        "column": 1
+      },
+      "cleanedText": "Europe"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 11,
+        "column": 2
+      },
+      "cleanedText": "23x15px France"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 11,
+        "column": 3
+      },
+      "cleanedText": "€, Euro"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 11,
+        "column": 4
+      },
+      "cleanedText": "AMF"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 11,
+        "column": 5
+      },
+      "cleanedText": "cooperative"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 11,
+        "column": 6
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 11,
+        "column": 7
+      },
+      "cleanedText": "11.5% (CET1\u003dmin.8%)"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 12,
+        "column": 0
+      },
+      "cleanedText": "Société Générale"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 12,
+        "column": 1
+      },
+      "cleanedText": "Europe"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 12,
+        "column": 2
+      },
+      "cleanedText": "23x15px France"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 12,
+        "column": 3
+      },
+      "cleanedText": "€, Euro"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 12,
+        "column": 4
+      },
+      "cleanedText": "AMF"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 12,
+        "column": 5
+      },
+      "cleanedText": "Euronext"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 12,
+        "column": 6
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 12,
+        "column": 7
+      },
+      "cleanedText": "11.5% (CET1\u003dmin.8%)"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 13,
+        "column": 0
+      },
+      "cleanedText": "Commerzbank"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 13,
+        "column": 1
+      },
+      "cleanedText": "Europe"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 13,
+        "column": 2
+      },
+      "cleanedText": "23x15px Germany"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 13,
+        "column": 3
+      },
+      "cleanedText": "€, Euro"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 13,
+        "column": 4
+      },
+      "cleanedText": "BaFin"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 13,
+        "column": 5
+      },
+      "cleanedText": "XETRA, FWB"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 13,
+        "column": 6
+      },
+      "cleanedText": "declining systemic importance"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 13,
+        "column": 7
+      },
+      "cleanedText": "10.5% (CET1\u003dmin.7%)"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 14,
+        "column": 0
+      },
+      "cleanedText": "Deutsche Bank"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 14,
+        "column": 1
+      },
+      "cleanedText": "Europe"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 14,
+        "column": 2
+      },
+      "cleanedText": "23x15px Germany"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 14,
+        "column": 3
+      },
+      "cleanedText": "€, Euro"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 14,
+        "column": 4
+      },
+      "cleanedText": "BaFin"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 14,
+        "column": 5
+      },
+      "cleanedText": "FWB, NYSE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 14,
+        "column": 6
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 14,
+        "column": 7
+      },
+      "cleanedText": "12.5% (CET1\u003dmin.9%)"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 15,
+        "column": 0
+      },
+      "cleanedText": "Unicredit Group"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 15,
+        "column": 1
+      },
+      "cleanedText": "Europe"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 15,
+        "column": 2
+      },
+      "cleanedText": "23x15px Italy"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 15,
+        "column": 3
+      },
+      "cleanedText": "€, Euro"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 15,
+        "column": 4
+      },
+      "cleanedText": "CONSOB"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 15,
+        "column": 5
+      },
+      "cleanedText": "BIT, FWB"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 15,
+        "column": 6
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 15,
+        "column": 7
+      },
+      "cleanedText": "11.5% (CET1\u003dmin.8%)"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 16,
+        "column": 0
+      },
+      "cleanedText": "ING Bank"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 16,
+        "column": 1
+      },
+      "cleanedText": "Europe"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 16,
+        "column": 2
+      },
+      "cleanedText": "23x15px Netherlands"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 16,
+        "column": 3
+      },
+      "cleanedText": "€, Euro"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 16,
+        "column": 4
+      },
+      "cleanedText": "AFMn"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 16,
+        "column": 5
+      },
+      "cleanedText": "Euronext, NYSE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 16,
+        "column": 6
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 16,
+        "column": 7
+      },
+      "cleanedText": "11.5% (CET1\u003dmin.8%)"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 17,
+        "column": 0
+      },
+      "cleanedText": "Banco Bilbao Vizcaya Argentaria"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 17,
+        "column": 1
+      },
+      "cleanedText": "Europe"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 17,
+        "column": 2
+      },
+      "cleanedText": "23x15px Spain"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 17,
+        "column": 3
+      },
+      "cleanedText": "€, Euro"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 17,
+        "column": 4
+      },
+      "cleanedText": "BdE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 17,
+        "column": 5
+      },
+      "cleanedText": "BMAD, NYSE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 17,
+        "column": 6
+      },
+      "cleanedText": "declining systemic importance"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 17,
+        "column": 7
+      },
+      "cleanedText": "10.5% (CET1\u003dmin.7%)"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 18,
+        "column": 0
+      },
+      "cleanedText": "Santander"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 18,
+        "column": 1
+      },
+      "cleanedText": "Europe"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 18,
+        "column": 2
+      },
+      "cleanedText": "23x15px Spain"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 18,
+        "column": 3
+      },
+      "cleanedText": "€, Euro"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 18,
+        "column": 4
+      },
+      "cleanedText": "BdE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 18,
+        "column": 5
+      },
+      "cleanedText": "BMAD, LSE, NYSE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 18,
+        "column": 6
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 18,
+        "column": 7
+      },
+      "cleanedText": "11.5% (CET1\u003dmin.8%)"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 19,
+        "column": 0
+      },
+      "cleanedText": "Nordea"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 19,
+        "column": 1
+      },
+      "cleanedText": "Europe"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 19,
+        "column": 2
+      },
+      "cleanedText": "23x15px Sweden"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 19,
+        "column": 3
+      },
+      "cleanedText": "Kr, Krona"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 19,
+        "column": 4
+      },
+      "cleanedText": "SFAs"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 19,
+        "column": 5
+      },
+      "cleanedText": "OMX"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 19,
+        "column": 6
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 19,
+        "column": 7
+      },
+      "cleanedText": "11.5% (CET1\u003dmin.8%)"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 20,
+        "column": 0
+      },
+      "cleanedText": "Credit Suisse"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 20,
+        "column": 1
+      },
+      "cleanedText": "Europe"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 20,
+        "column": 2
+      },
+      "cleanedText": "23x16px Switzerland"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 20,
+        "column": 3
+      },
+      "cleanedText": "Fr, Swiss franc"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 20,
+        "column": 4
+      },
+      "cleanedText": "FINMA"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 20,
+        "column": 5
+      },
+      "cleanedText": "SIX, NYSE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 20,
+        "column": 6
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 20,
+        "column": 7
+      },
+      "cleanedText": "12.0% (CET1\u003dmin.8.5%)"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 21,
+        "column": 0
+      },
+      "cleanedText": "UBS"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 21,
+        "column": 1
+      },
+      "cleanedText": "Europe"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 21,
+        "column": 2
+      },
+      "cleanedText": "23x16px Switzerland"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 21,
+        "column": 3
+      },
+      "cleanedText": "Fr, Swiss franc"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 21,
+        "column": 4
+      },
+      "cleanedText": "FINMA"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 21,
+        "column": 5
+      },
+      "cleanedText": "SIX, NYSE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 21,
+        "column": 6
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 21,
+        "column": 7
+      },
+      "cleanedText": "11.5% (CET1\u003dmin.8%)"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 22,
+        "column": 0
+      },
+      "cleanedText": "Royal Bank of Scotland"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 22,
+        "column": 1
+      },
+      "cleanedText": "Europe"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 22,
+        "column": 2
+      },
+      "cleanedText": "23x15px United Kingdom"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 22,
+        "column": 3
+      },
+      "cleanedText": "£, GBP"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 22,
+        "column": 4
+      },
+      "cleanedText": "FCA/PRA"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 22,
+        "column": 5
+      },
+      "cleanedText": "LSE, NYSE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 22,
+        "column": 6
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 22,
+        "column": 7
+      },
+      "cleanedText": "12.0% (CET1\u003dmin.8.5%)"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 23,
+        "column": 0
+      },
+      "cleanedText": "Barclays"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 23,
+        "column": 1
+      },
+      "cleanedText": "Europe"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 23,
+        "column": 2
+      },
+      "cleanedText": "23x15px United Kingdom"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 23,
+        "column": 3
+      },
+      "cleanedText": "£, GBP"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 23,
+        "column": 4
+      },
+      "cleanedText": "FCA/PRA"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 23,
+        "column": 5
+      },
+      "cleanedText": "LSE, NYSE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 23,
+        "column": 6
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 23,
+        "column": 7
+      },
+      "cleanedText": "12.5% (CET1\u003dmin.9%)"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 24,
+        "column": 0
+      },
+      "cleanedText": "HSBC"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 24,
+        "column": 1
+      },
+      "cleanedText": "Europe"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 24,
+        "column": 2
+      },
+      "cleanedText": "23x15px United Kingdom"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 24,
+        "column": 3
+      },
+      "cleanedText": "$, USD"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 24,
+        "column": 4
+      },
+      "cleanedText": "FCA/PRA"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 24,
+        "column": 5
+      },
+      "cleanedText": "LSE, NYSE, Euronext, SEHK"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 24,
+        "column": 6
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 24,
+        "column": 7
+      },
+      "cleanedText": "13.0% (CET1\u003dmin.9.5%)"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 25,
+        "column": 0
+      },
+      "cleanedText": "Lloyds Banking Group"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 25,
+        "column": 1
+      },
+      "cleanedText": "Europe"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 25,
+        "column": 2
+      },
+      "cleanedText": "23x15px United Kingdom"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 25,
+        "column": 3
+      },
+      "cleanedText": "£, GBP"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 25,
+        "column": 4
+      },
+      "cleanedText": "FCA/PRA"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 25,
+        "column": 5
+      },
+      "cleanedText": "LSE, NYSE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 25,
+        "column": 6
+      },
+      "cleanedText": "declining systemic importance"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 25,
+        "column": 7
+      },
+      "cleanedText": "10.5% (CET1\u003dmin.7%)"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 26,
+        "column": 0
+      },
+      "cleanedText": "Standard Chartered"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 26,
+        "column": 1
+      },
+      "cleanedText": "Europe"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 26,
+        "column": 2
+      },
+      "cleanedText": "23x15px United Kingdom"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 26,
+        "column": 3
+      },
+      "cleanedText": "$, USD"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 26,
+        "column": 4
+      },
+      "cleanedText": "FCA/PRA"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 26,
+        "column": 5
+      },
+      "cleanedText": "LSE, SEHK, NSE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 26,
+        "column": 6
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 26,
+        "column": 7
+      },
+      "cleanedText": "11.5% (CET1\u003dmin.8%)"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 27,
+        "column": 0
+      },
+      "cleanedText": "Bank of America"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 27,
+        "column": 1
+      },
+      "cleanedText": "Americas"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 27,
+        "column": 2
+      },
+      "cleanedText": "23x15px United States"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 27,
+        "column": 3
+      },
+      "cleanedText": "$, USD"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 27,
+        "column": 4
+      },
+      "cleanedText": "FSOC"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 27,
+        "column": 5
+      },
+      "cleanedText": "NYSE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 27,
+        "column": 6
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 27,
+        "column": 7
+      },
+      "cleanedText": "12.0% (CET1\u003dmin.8.5%)"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 28,
+        "column": 0
+      },
+      "cleanedText": "Bank of New York Mellon"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 28,
+        "column": 1
+      },
+      "cleanedText": "Americas"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 28,
+        "column": 2
+      },
+      "cleanedText": "23x15px United States"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 28,
+        "column": 3
+      },
+      "cleanedText": "$, USD"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 28,
+        "column": 4
+      },
+      "cleanedText": "FSOC"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 28,
+        "column": 5
+      },
+      "cleanedText": "NYSE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 28,
+        "column": 6
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 28,
+        "column": 7
+      },
+      "cleanedText": "11.5% (CET1\u003dmin.8%)"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 29,
+        "column": 0
+      },
+      "cleanedText": "Citigroup"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 29,
+        "column": 1
+      },
+      "cleanedText": "Americas"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 29,
+        "column": 2
+      },
+      "cleanedText": "23x15px United States"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 29,
+        "column": 3
+      },
+      "cleanedText": "$, USD"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 29,
+        "column": 4
+      },
+      "cleanedText": "FSOC"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 29,
+        "column": 5
+      },
+      "cleanedText": "NYSE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 29,
+        "column": 6
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 29,
+        "column": 7
+      },
+      "cleanedText": "12.5% (CET1\u003dmin.9%)"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 30,
+        "column": 0
+      },
+      "cleanedText": "Goldman Sachs"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 30,
+        "column": 1
+      },
+      "cleanedText": "Americas"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 30,
+        "column": 2
+      },
+      "cleanedText": "23x15px United States"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 30,
+        "column": 3
+      },
+      "cleanedText": "$, USD"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 30,
+        "column": 4
+      },
+      "cleanedText": "FSOC"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 30,
+        "column": 5
+      },
+      "cleanedText": "NYSE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 30,
+        "column": 6
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 30,
+        "column": 7
+      },
+      "cleanedText": "12.0% (CET1\u003dmin.8.5%)"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 31,
+        "column": 0
+      },
+      "cleanedText": "JP Morgan Chase"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 31,
+        "column": 1
+      },
+      "cleanedText": "Americas"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 31,
+        "column": 2
+      },
+      "cleanedText": "23x15px United States"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 31,
+        "column": 3
+      },
+      "cleanedText": "$, USD"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 31,
+        "column": 4
+      },
+      "cleanedText": "FSOC"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 31,
+        "column": 5
+      },
+      "cleanedText": "NYSE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 31,
+        "column": 6
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 31,
+        "column": 7
+      },
+      "cleanedText": "13.0% (CET1\u003dmin.9.5%)"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 32,
+        "column": 0
+      },
+      "cleanedText": "Morgan Stanley"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 32,
+        "column": 1
+      },
+      "cleanedText": "Americas"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 32,
+        "column": 2
+      },
+      "cleanedText": "23x15px United States"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 32,
+        "column": 3
+      },
+      "cleanedText": "$, USD"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 32,
+        "column": 4
+      },
+      "cleanedText": "FSOC"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 32,
+        "column": 5
+      },
+      "cleanedText": "NYSE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 32,
+        "column": 6
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 32,
+        "column": 7
+      },
+      "cleanedText": "12.0% (CET1\u003dmin.8.5%)"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 33,
+        "column": 0
+      },
+      "cleanedText": "State Street"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 33,
+        "column": 1
+      },
+      "cleanedText": "Americas"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 33,
+        "column": 2
+      },
+      "cleanedText": "23x15px United States"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 33,
+        "column": 3
+      },
+      "cleanedText": "$, USD"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 33,
+        "column": 4
+      },
+      "cleanedText": "FSOC"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 33,
+        "column": 5
+      },
+      "cleanedText": "NYSE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 33,
+        "column": 6
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 33,
+        "column": 7
+      },
+      "cleanedText": "11.5% (CET1\u003dmin.8%)"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 34,
+        "column": 0
+      },
+      "cleanedText": "Wells Fargo"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 34,
+        "column": 1
+      },
+      "cleanedText": "Americas"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 34,
+        "column": 2
+      },
+      "cleanedText": "23x15px United States"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 34,
+        "column": 3
+      },
+      "cleanedText": "$, USD"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 34,
+        "column": 4
+      },
+      "cleanedText": "FSOC"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 34,
+        "column": 5
+      },
+      "cleanedText": "NYSE, BMV, FWB"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 34,
+        "column": 6
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 34,
+        "column": 7
+      },
+      "cleanedText": "11.5% (CET1\u003dmin.8%)"
+    }
+  ],
+  "maxDimensions": {
+    "row": 34,
+    "column": 7
+  },
+  "columns": [
+    {
+      "tableName": "http://dbpedia.org/resource/List_of_systemically_important_banks?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d1_2",
+      "columnName": "Entity",
+      "fields": [
+        "Mizuho FG",
+        "Sumitomo Mitsui",
+        "Mitsubishi UFJ FG",
+        "Bank of China",
+        "ICBC",
+        "Agricultural Bank of China",
+        "China Construction Bank",
+        "Dexia Group",
+        "BNP Paribas",
+        "Crédit Agricole",
+        "Banque Populaire CE",
+        "Société Générale",
+        "Commerzbank",
+        "Deutsche Bank",
+        "Unicredit Group",
+        "ING Bank",
+        "Banco Bilbao Vizcaya Argentaria",
+        "Santander",
+        "Nordea",
+        "Credit Suisse",
+        "UBS",
+        "Royal Bank of Scotland",
+        "Barclays",
+        "HSBC",
+        "Lloyds Banking Group",
+        "Standard Chartered",
+        "Bank of America",
+        "Bank of New York Mellon",
+        "Citigroup",
+        "Goldman Sachs",
+        "JP Morgan Chase",
+        "Morgan Stanley",
+        "State Street",
+        "Wells Fargo"
+      ]
+    },
+    {
+      "tableName": "http://dbpedia.org/resource/List_of_systemically_important_banks?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d1_2",
+      "columnName": "Region",
+      "fields": [
+        "Asia",
+        "Asia",
+        "Asia",
+        "Asia",
+        "Asia",
+        "Asia",
+        "Asia",
+        "Europe",
+        "Europe",
+        "Europe",
+        "Europe",
+        "Europe",
+        "Europe",
+        "Europe",
+        "Europe",
+        "Europe",
+        "Europe",
+        "Europe",
+        "Europe",
+        "Europe",
+        "Europe",
+        "Europe",
+        "Europe",
+        "Europe",
+        "Europe",
+        "Europe",
+        "Americas",
+        "Americas",
+        "Americas",
+        "Americas",
+        "Americas",
+        "Americas",
+        "Americas",
+        "Americas"
+      ]
+    },
+    {
+      "tableName": "http://dbpedia.org/resource/List_of_systemically_important_banks?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d1_2",
+      "columnName": "HQ country",
+      "fields": [
+        "23x15px Japan",
+        "23x15px Japan",
+        "23x15px Japan",
+        "23x15px China",
+        "23x15px China",
+        "23x15px China",
+        "23x15px China",
+        "23x15px Belgium",
+        "23x15px France",
+        "23x15px France",
+        "23x15px France",
+        "23x15px France",
+        "23x15px Germany",
+        "23x15px Germany",
+        "23x15px Italy",
+        "23x15px Netherlands",
+        "23x15px Spain",
+        "23x15px Spain",
+        "23x15px Sweden",
+        "23x16px Switzerland",
+        "23x16px Switzerland",
+        "23x15px United Kingdom",
+        "23x15px United Kingdom",
+        "23x15px United Kingdom",
+        "23x15px United Kingdom",
+        "23x15px United Kingdom",
+        "23x15px United States",
+        "23x15px United States",
+        "23x15px United States",
+        "23x15px United States",
+        "23x15px United States",
+        "23x15px United States",
+        "23x15px United States",
+        "23x15px United States"
+      ]
+    },
+    {
+      "tableName": "http://dbpedia.org/resource/List_of_systemically_important_banks?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d1_2",
+      "columnName": "HQ currency",
+      "fields": [
+        "¥, Yen",
+        "¥, Yen",
+        "¥, Yen",
+        "¥ or 元, Renminbi",
+        "¥ or 元, Renminbi",
+        "¥ or 元, Renminbi",
+        "¥ or 元, Renminbi",
+        "€, Euro",
+        "€, Euro",
+        "€, Euro",
+        "€, Euro",
+        "€, Euro",
+        "€, Euro",
+        "€, Euro",
+        "€, Euro",
+        "€, Euro",
+        "€, Euro",
+        "€, Euro",
+        "Kr, Krona",
+        "Fr, Swiss franc",
+        "Fr, Swiss franc",
+        "£, GBP",
+        "£, GBP",
+        "$, USD",
+        "£, GBP",
+        "$, USD",
+        "$, USD",
+        "$, USD",
+        "$, USD",
+        "$, USD",
+        "$, USD",
+        "$, USD",
+        "$, USD",
+        "$, USD"
+      ]
+    },
+    {
+      "tableName": "http://dbpedia.org/resource/List_of_systemically_important_banks?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d1_2",
+      "columnName": "HQ regulator",
+      "fields": [
+        "FSAj",
+        "FSAj",
+        "FSAj",
+        "CBRC",
+        "CBRC",
+        "CBRC",
+        "CBRC",
+        "FSMA",
+        "AMF",
+        "AMF",
+        "AMF",
+        "AMF",
+        "BaFin",
+        "BaFin",
+        "CONSOB",
+        "AFMn",
+        "BdE",
+        "BdE",
+        "SFAs",
+        "FINMA",
+        "FINMA",
+        "FCA/PRA",
+        "FCA/PRA",
+        "FCA/PRA",
+        "FCA/PRA",
+        "FCA/PRA",
+        "FSOC",
+        "FSOC",
+        "FSOC",
+        "FSOC",
+        "FSOC",
+        "FSOC",
+        "FSOC",
+        "FSOC"
+      ]
+    },
+    {
+      "tableName": "http://dbpedia.org/resource/List_of_systemically_important_banks?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d1_2",
+      "columnName": "Major exchange(s)",
+      "fields": [
+        "TYO, NYSE",
+        "TYO, NYSE",
+        "TYO",
+        "SEHK, SSE",
+        "SEHK, SSE",
+        "SEHK, SSE",
+        "SEHK, SSE",
+        "Euronext",
+        "Euronext",
+        "Euronext",
+        "cooperative",
+        "Euronext",
+        "XETRA, FWB",
+        "FWB, NYSE",
+        "BIT, FWB",
+        "Euronext, NYSE",
+        "BMAD, NYSE",
+        "BMAD, LSE, NYSE",
+        "OMX",
+        "SIX, NYSE",
+        "SIX, NYSE",
+        "LSE, NYSE",
+        "LSE, NYSE",
+        "LSE, NYSE, Euronext, SEHK",
+        "LSE, NYSE",
+        "LSE, SEHK, NSE",
+        "NYSE",
+        "NYSE",
+        "NYSE",
+        "NYSE",
+        "NYSE",
+        "NYSE",
+        "NYSE",
+        "NYSE, BMV, FWB"
+      ]
+    },
+    {
+      "tableName": "http://dbpedia.org/resource/List_of_systemically_important_banks?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d1_2",
+      "columnName": "Notes",
+      "fields": [
+        "",
+        "",
+        "",
+        "majority state owned",
+        "majority state owned",
+        "majority state owned",
+        "majority state owned",
+        "Resolution was ordered Oct 2011. Dexia Belgium was bought out from the group by the Belgian state, and continue to exist as Belfius. Remaining part of the group was left in a \"bad bank\" to be liquidated.",
+        "",
+        "",
+        "",
+        "",
+        "declining systemic importance",
+        "",
+        "",
+        "",
+        "declining systemic importance",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "declining systemic importance",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "tableName": "http://dbpedia.org/resource/List_of_systemically_important_banks?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d1_2",
+      "columnName": "Total capital ratio requirement (% of RWA)",
+      "fields": [
+        "11.5% (CET1\u003dmin.8%)",
+        "11.5% (CET1\u003dmin.8%)",
+        "12.0% (CET1\u003dmin.8.5%)",
+        "11.5% (CET1\u003dmin.8%)",
+        "11.5% (CET1\u003dmin.8%)",
+        "11.5% (CET1\u003dmin.8%)",
+        "11.5% (CET1\u003dmin.8%)",
+        "-",
+        "12.5% (CET1\u003dmin.9%)",
+        "11.5% (CET1\u003dmin.8%)",
+        "11.5% (CET1\u003dmin.8%)",
+        "11.5% (CET1\u003dmin.8%)",
+        "10.5% (CET1\u003dmin.7%)",
+        "12.5% (CET1\u003dmin.9%)",
+        "11.5% (CET1\u003dmin.8%)",
+        "11.5% (CET1\u003dmin.8%)",
+        "10.5% (CET1\u003dmin.7%)",
+        "11.5% (CET1\u003dmin.8%)",
+        "11.5% (CET1\u003dmin.8%)",
+        "12.0% (CET1\u003dmin.8.5%)",
+        "11.5% (CET1\u003dmin.8%)",
+        "12.0% (CET1\u003dmin.8.5%)",
+        "12.5% (CET1\u003dmin.9%)",
+        "13.0% (CET1\u003dmin.9.5%)",
+        "10.5% (CET1\u003dmin.7%)",
+        "11.5% (CET1\u003dmin.8%)",
+        "12.0% (CET1\u003dmin.8.5%)",
+        "11.5% (CET1\u003dmin.8%)",
+        "12.5% (CET1\u003dmin.9%)",
+        "12.0% (CET1\u003dmin.8.5%)",
+        "13.0% (CET1\u003dmin.9.5%)",
+        "12.0% (CET1\u003dmin.8.5%)",
+        "11.5% (CET1\u003dmin.8%)",
+        "11.5% (CET1\u003dmin.8%)"
+      ]
+    }
+  ]
+}

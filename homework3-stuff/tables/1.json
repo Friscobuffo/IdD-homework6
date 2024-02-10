@@ -1,0 +1,1615 @@
+{
+  "id": "http://dbpedia.org/resource/List_of_companies_of_Japan?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d12_2",
+  "cells": [
+    {
+      "isHeader": true,
+      "Coordinates": {
+        "row": 0,
+        "column": 0
+      },
+      "cleanedText": "English"
+    },
+    {
+      "isHeader": true,
+      "Coordinates": {
+        "row": 0,
+        "column": 1
+      },
+      "cleanedText": "Japanese"
+    },
+    {
+      "isHeader": true,
+      "Coordinates": {
+        "row": 0,
+        "column": 2
+      },
+      "cleanedText": "Rōmaji"
+    },
+    {
+      "isHeader": true,
+      "Coordinates": {
+        "row": 0,
+        "column": 3
+      },
+      "cleanedText": "TSE"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 1,
+        "column": 0
+      },
+      "cleanedText": "K Line"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 1,
+        "column": 1
+      },
+      "cleanedText": "川崎汽船株式会社"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 1,
+        "column": 2
+      },
+      "cleanedText": "Kawasaki Kisen Kabushiki-gaisha"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 1,
+        "column": 3
+      },
+      "cleanedText": "TYO: 9107"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 2,
+        "column": 0
+      },
+      "cleanedText": "Kadokawa Shoten"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 2,
+        "column": 1
+      },
+      "cleanedText": "株式会社角川書店"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 2,
+        "column": 2
+      },
+      "cleanedText": "Kabushiki-gaisha Kadokawa Shoten"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 2,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 3,
+        "column": 0
+      },
+      "cleanedText": "Kagome"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 3,
+        "column": 1
+      },
+      "cleanedText": "カゴメ株式会社"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 3,
+        "column": 2
+      },
+      "cleanedText": "Kagome Kabushiki-gaisha"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 3,
+        "column": 3
+      },
+      "cleanedText": "TYO: 2811"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 4,
+        "column": 0
+      },
+      "cleanedText": "Kajima Construction"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 4,
+        "column": 1
+      },
+      "cleanedText": "鹿島建設株式会社"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 4,
+        "column": 2
+      },
+      "cleanedText": "Kajima Kensetsu Kabushiki Kaisha"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 4,
+        "column": 3
+      },
+      "cleanedText": "TYO: 1812"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 5,
+        "column": 0
+      },
+      "cleanedText": "Kaneka Corporation"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 5,
+        "column": 1
+      },
+      "cleanedText": "株式会社カネカ"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 5,
+        "column": 2
+      },
+      "cleanedText": "Kabushiki-gaisha Kaneka"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 5,
+        "column": 3
+      },
+      "cleanedText": "TYO: 4118"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 6,
+        "column": 0
+      },
+      "cleanedText": "Kanesue"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 6,
+        "column": 1
+      },
+      "cleanedText": "株式会社カネスエ"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 6,
+        "column": 2
+      },
+      "cleanedText": "Kabushiki Kaisha Kanesue"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 6,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 7,
+        "column": 0
+      },
+      "cleanedText": "Kansai Electric Power Company"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 7,
+        "column": 1
+      },
+      "cleanedText": "関西電力株式会社"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 7,
+        "column": 2
+      },
+      "cleanedText": "Kansai Denryoku Kabushiki-gaisha"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 7,
+        "column": 3
+      },
+      "cleanedText": "TYO: 9503"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 8,
+        "column": 0
+      },
+      "cleanedText": "Kansai Paint"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 8,
+        "column": 1
+      },
+      "cleanedText": "関西ペイント株式会社"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 8,
+        "column": 2
+      },
+      "cleanedText": "Kansai Peinto Kabushiki-gaisha"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 8,
+        "column": 3
+      },
+      "cleanedText": "TYO: 4613"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 9,
+        "column": 0
+      },
+      "cleanedText": "Kao Corporation"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 9,
+        "column": 1
+      },
+      "cleanedText": "花王株式会社"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 9,
+        "column": 2
+      },
+      "cleanedText": "Kaō Kabushiki-gaisha"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 9,
+        "column": 3
+      },
+      "cleanedText": "TYO: 4452"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 10,
+        "column": 0
+      },
+      "cleanedText": "Kawai Musical Instruments Manufacturing"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 10,
+        "column": 1
+      },
+      "cleanedText": "株式会社河合楽器製作所"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 10,
+        "column": 2
+      },
+      "cleanedText": "Kabushiki-gaisha Kawai Gakkiseisakusho"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 10,
+        "column": 3
+      },
+      "cleanedText": "TYO: 7952"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 11,
+        "column": 0
+      },
+      "cleanedText": "Kawasaki Heavy Industries"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 11,
+        "column": 1
+      },
+      "cleanedText": "川崎重工業株式会社"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 11,
+        "column": 2
+      },
+      "cleanedText": "Kawasaki Jūkōgyō Kabushiki-gaisha"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 11,
+        "column": 3
+      },
+      "cleanedText": "TYO: 7012"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 12,
+        "column": 0
+      },
+      "cleanedText": "KDDI"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 12,
+        "column": 1
+      },
+      "cleanedText": "KDDI株式会社"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 12,
+        "column": 2
+      },
+      "cleanedText": "Keidīdīai Kabushiki Kaisha"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 12,
+        "column": 3
+      },
+      "cleanedText": "TYO: 9433"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 13,
+        "column": 0
+      },
+      "cleanedText": "Keihin Electric Express Railway"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 13,
+        "column": 1
+      },
+      "cleanedText": "京浜急行電鉄株式会社"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 13,
+        "column": 2
+      },
+      "cleanedText": "Keihin Kyūkō Dentetsu Kabushiki-gaisha"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 13,
+        "column": 3
+      },
+      "cleanedText": "TYO: 9006"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 14,
+        "column": 0
+      },
+      "cleanedText": "Keio Corporation"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 14,
+        "column": 1
+      },
+      "cleanedText": "京王電鉄株式会社"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 14,
+        "column": 2
+      },
+      "cleanedText": "Keiō Dentetsu Kabushiki-gaisha"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 14,
+        "column": 3
+      },
+      "cleanedText": "TYO: 9008"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 15,
+        "column": 0
+      },
+      "cleanedText": "Keisei Electric Railway"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 15,
+        "column": 1
+      },
+      "cleanedText": "京成電鉄株式会社"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 15,
+        "column": 2
+      },
+      "cleanedText": "Keisei Dentetsu Kabushiki-gaisha"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 15,
+        "column": 3
+      },
+      "cleanedText": "TYO: 9009"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 16,
+        "column": 0
+      },
+      "cleanedText": "Kenwood Electronics"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 16,
+        "column": 1
+      },
+      "cleanedText": "株式会社ケンウッド"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 16,
+        "column": 2
+      },
+      "cleanedText": "Kabushiki-gaisha Kenuddo"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 16,
+        "column": 3
+      },
+      "cleanedText": "TYO: 6765"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 17,
+        "column": 0
+      },
+      "cleanedText": "Keyence"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 17,
+        "column": 1
+      },
+      "cleanedText": "株式会社キーエンス"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 17,
+        "column": 2
+      },
+      "cleanedText": "Kabushiki-gaisha Kīensu"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 17,
+        "column": 3
+      },
+      "cleanedText": "TYO: 6861"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 18,
+        "column": 0
+      },
+      "cleanedText": "Kikkoman"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 18,
+        "column": 1
+      },
+      "cleanedText": "キッコーマン株式会社"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 18,
+        "column": 2
+      },
+      "cleanedText": "Kikkōman Kabushiki-gaisha"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 18,
+        "column": 3
+      },
+      "cleanedText": "TYO: 2801"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 19,
+        "column": 0
+      },
+      "cleanedText": "Kintetsu Group"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 19,
+        "column": 1
+      },
+      "cleanedText": "近鉄グループホールディングス"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 19,
+        "column": 2
+      },
+      "cleanedText": "Kintetsu gurūpu hōrudeingusu kabushiki gaisha"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 19,
+        "column": 3
+      },
+      "cleanedText": "TYO: 9041"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 20,
+        "column": 0
+      },
+      "cleanedText": "Kirin Brewery Company"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 20,
+        "column": 1
+      },
+      "cleanedText": "麒麟麦酒株式会社"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 20,
+        "column": 2
+      },
+      "cleanedText": "Kirin Bīru Kabushiki-gaisha"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 20,
+        "column": 3
+      },
+      "cleanedText": "TYO: 2503"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 21,
+        "column": 0
+      },
+      "cleanedText": "Kita-Osaka Kyuko Railway"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 21,
+        "column": 1
+      },
+      "cleanedText": "北大阪急行電鉄株式会社"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 21,
+        "column": 2
+      },
+      "cleanedText": "Kita Ōsaka Kyūkō Dentetsu Kabushiki Kaisha"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 21,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 22,
+        "column": 0
+      },
+      "cleanedText": "Kobe Electric Railway"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 22,
+        "column": 1
+      },
+      "cleanedText": "神戸電鉄株式会社"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 22,
+        "column": 2
+      },
+      "cleanedText": "Kōbe Dentetsu Kabushiki Kaisha"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 22,
+        "column": 3
+      },
+      "cleanedText": "TYO: 9046"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 23,
+        "column": 0
+      },
+      "cleanedText": "Kobe New Transit"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 23,
+        "column": 1
+      },
+      "cleanedText": "神戸新交通株式会社"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 23,
+        "column": 2
+      },
+      "cleanedText": "Kōbe Shinkōtsū Kabushiki Kaisha"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 23,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 24,
+        "column": 0
+      },
+      "cleanedText": "Kobe Steel"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 24,
+        "column": 1
+      },
+      "cleanedText": "株式会社神戸製鋼所"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 24,
+        "column": 2
+      },
+      "cleanedText": "Kabushiki-gaisha Kōbe Seikō-sho"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 24,
+        "column": 3
+      },
+      "cleanedText": "TYO: 5406"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 25,
+        "column": 0
+      },
+      "cleanedText": "Kodansha"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 25,
+        "column": 1
+      },
+      "cleanedText": "株式会社講談社"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 25,
+        "column": 2
+      },
+      "cleanedText": "Kabushiki-gaisha Kōdansha"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 25,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 26,
+        "column": 0
+      },
+      "cleanedText": "Koei"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 26,
+        "column": 1
+      },
+      "cleanedText": "株式会社コーエー"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 26,
+        "column": 2
+      },
+      "cleanedText": "Kabushiki-gaisha Kōē"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 26,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 27,
+        "column": 0
+      },
+      "cleanedText": "Komatsu Limited"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 27,
+        "column": 1
+      },
+      "cleanedText": "株式会社小松製作所"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 27,
+        "column": 2
+      },
+      "cleanedText": "Kabushiki-gaisha Komatsu Seisakusho"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 27,
+        "column": 3
+      },
+      "cleanedText": "TYO: 6301"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 28,
+        "column": 0
+      },
+      "cleanedText": "Komori"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 28,
+        "column": 1
+      },
+      "cleanedText": "株式会社小森コーポレーション"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 28,
+        "column": 2
+      },
+      "cleanedText": "Kabushiki-gaisha Komori kōporēshon"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 28,
+        "column": 3
+      },
+      "cleanedText": "TYO: 6349"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 29,
+        "column": 0
+      },
+      "cleanedText": "Konami"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 29,
+        "column": 1
+      },
+      "cleanedText": "コナミ株式会社"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 29,
+        "column": 2
+      },
+      "cleanedText": "Konami Kabushiki-gaisha"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 29,
+        "column": 3
+      },
+      "cleanedText": "TYO: 9766"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 30,
+        "column": 0
+      },
+      "cleanedText": "Kondo Kagaku"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 30,
+        "column": 1
+      },
+      "cleanedText": "近藤科学株式会社"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 30,
+        "column": 2
+      },
+      "cleanedText": "Kondo Kagaku"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 30,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 31,
+        "column": 0
+      },
+      "cleanedText": "Kongō Gumi"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 31,
+        "column": 1
+      },
+      "cleanedText": "株式会社金剛組"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 31,
+        "column": 2
+      },
+      "cleanedText": "Kabushiki Gaisha Kongō Gumi"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 31,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 32,
+        "column": 0
+      },
+      "cleanedText": "Konica Minolta"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 32,
+        "column": 1
+      },
+      "cleanedText": "コニカミノルタホールディングス"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 32,
+        "column": 2
+      },
+      "cleanedText": "Konika Minoruta Hōrudingusu"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 32,
+        "column": 3
+      },
+      "cleanedText": "TYO: 4902"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 33,
+        "column": 0
+      },
+      "cleanedText": "Korg"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 33,
+        "column": 1
+      },
+      "cleanedText": "株式会社コルグ"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 33,
+        "column": 2
+      },
+      "cleanedText": "Kabushiki-gaisha Korugu"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 33,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 34,
+        "column": 0
+      },
+      "cleanedText": "Kubota"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 34,
+        "column": 1
+      },
+      "cleanedText": "株式会社クボタ"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 34,
+        "column": 2
+      },
+      "cleanedText": "Kabushiki-gaisha Kubota"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 34,
+        "column": 3
+      },
+      "cleanedText": "TYO: 6326"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 35,
+        "column": 0
+      },
+      "cleanedText": "Kumagai Gumi"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 35,
+        "column": 1
+      },
+      "cleanedText": "株式会社熊谷組"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 35,
+        "column": 2
+      },
+      "cleanedText": "Kabushiki-gaisha Kumagai Gumi"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 35,
+        "column": 3
+      },
+      "cleanedText": "TYO: 1861"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 36,
+        "column": 0
+      },
+      "cleanedText": "Kumon"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 36,
+        "column": 1
+      },
+      "cleanedText": "株式会社日本公文教育研究会"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 36,
+        "column": 2
+      },
+      "cleanedText": "Kabushiki-gaisha Nihon Kōbun Kyōiku Kenkyūkai"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 36,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 37,
+        "column": 0
+      },
+      "cleanedText": "Kuraray"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 37,
+        "column": 1
+      },
+      "cleanedText": "株式会社クラレ"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 37,
+        "column": 2
+      },
+      "cleanedText": "Kabushiki-gaisha Kurare"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 37,
+        "column": 3
+      },
+      "cleanedText": "TYO: 3405"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 38,
+        "column": 0
+      },
+      "cleanedText": "Kurita Water Industries"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 38,
+        "column": 1
+      },
+      "cleanedText": "栗田工業株式会社"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 38,
+        "column": 2
+      },
+      "cleanedText": "Kurita Kōgyō Kabushiki-gaisha"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 38,
+        "column": 3
+      },
+      "cleanedText": "TYO: 6370"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 39,
+        "column": 0
+      },
+      "cleanedText": "Kyocera"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 39,
+        "column": 1
+      },
+      "cleanedText": "栗田工業株式会社"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 39,
+        "column": 2
+      },
+      "cleanedText": "Kyōsera Kabushiki-gaisha"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 39,
+        "column": 3
+      },
+      "cleanedText": "TYO: 6971"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 40,
+        "column": 0
+      },
+      "cleanedText": "KYB Corporation"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 40,
+        "column": 1
+      },
+      "cleanedText": "カヤバ工業株式会社"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 40,
+        "column": 2
+      },
+      "cleanedText": "Kayaba Kogyo Kabushiki-gaisha"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 40,
+        "column": 3
+      },
+      "cleanedText": "TYO: 7242"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 41,
+        "column": 0
+      },
+      "cleanedText": "Kyosho"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 41,
+        "column": 1
+      },
+      "cleanedText": "京商株式会社"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 41,
+        "column": 2
+      },
+      "cleanedText": "Kyōshō Kabushiki Kaisha"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 41,
+        "column": 3
+      },
+      "cleanedText": ""
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 42,
+        "column": 0
+      },
+      "cleanedText": "Kyushu Electric Power"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 42,
+        "column": 1
+      },
+      "cleanedText": "九州電力株式会社"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 42,
+        "column": 2
+      },
+      "cleanedText": "Kyūshū Denryoku Kabushiki Kaisha"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 42,
+        "column": 3
+      },
+      "cleanedText": "TYO: 9508"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 43,
+        "column": 0
+      },
+      "cleanedText": "Kyushu Railway Company"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 43,
+        "column": 1
+      },
+      "cleanedText": "九州旅客鉄道株式会社"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 43,
+        "column": 2
+      },
+      "cleanedText": "Kyūshū Ryokaku Tetsudō Kabushiki-gaisha"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 43,
+        "column": 3
+      },
+      "cleanedText": ""
+    }
+  ],
+  "maxDimensions": {
+    "row": 43,
+    "column": 3
+  },
+  "columns": [
+    {
+      "tableName": "http://dbpedia.org/resource/List_of_companies_of_Japan?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d12_2",
+      "columnName": "English",
+      "fields": [
+        "K Line",
+        "Kadokawa Shoten",
+        "Kagome",
+        "Kajima Construction",
+        "Kaneka Corporation",
+        "Kanesue",
+        "Kansai Electric Power Company",
+        "Kansai Paint",
+        "Kao Corporation",
+        "Kawai Musical Instruments Manufacturing",
+        "Kawasaki Heavy Industries",
+        "KDDI",
+        "Keihin Electric Express Railway",
+        "Keio Corporation",
+        "Keisei Electric Railway",
+        "Kenwood Electronics",
+        "Keyence",
+        "Kikkoman",
+        "Kintetsu Group",
+        "Kirin Brewery Company",
+        "Kita-Osaka Kyuko Railway",
+        "Kobe Electric Railway",
+        "Kobe New Transit",
+        "Kobe Steel",
+        "Kodansha",
+        "Koei",
+        "Komatsu Limited",
+        "Komori",
+        "Konami",
+        "Kondo Kagaku",
+        "Kongō Gumi",
+        "Konica Minolta",
+        "Korg",
+        "Kubota",
+        "Kumagai Gumi",
+        "Kumon",
+        "Kuraray",
+        "Kurita Water Industries",
+        "Kyocera",
+        "KYB Corporation",
+        "Kyosho",
+        "Kyushu Electric Power",
+        "Kyushu Railway Company"
+      ]
+    },
+    {
+      "tableName": "http://dbpedia.org/resource/List_of_companies_of_Japan?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d12_2",
+      "columnName": "Japanese",
+      "fields": [
+        "川崎汽船株式会社",
+        "株式会社角川書店",
+        "カゴメ株式会社",
+        "鹿島建設株式会社",
+        "株式会社カネカ",
+        "株式会社カネスエ",
+        "関西電力株式会社",
+        "関西ペイント株式会社",
+        "花王株式会社",
+        "株式会社河合楽器製作所",
+        "川崎重工業株式会社",
+        "KDDI株式会社",
+        "京浜急行電鉄株式会社",
+        "京王電鉄株式会社",
+        "京成電鉄株式会社",
+        "株式会社ケンウッド",
+        "株式会社キーエンス",
+        "キッコーマン株式会社",
+        "近鉄グループホールディングス",
+        "麒麟麦酒株式会社",
+        "北大阪急行電鉄株式会社",
+        "神戸電鉄株式会社",
+        "神戸新交通株式会社",
+        "株式会社神戸製鋼所",
+        "株式会社講談社",
+        "株式会社コーエー",
+        "株式会社小松製作所",
+        "株式会社小森コーポレーション",
+        "コナミ株式会社",
+        "近藤科学株式会社",
+        "株式会社金剛組",
+        "コニカミノルタホールディングス",
+        "株式会社コルグ",
+        "株式会社クボタ",
+        "株式会社熊谷組",
+        "株式会社日本公文教育研究会",
+        "株式会社クラレ",
+        "栗田工業株式会社",
+        "栗田工業株式会社",
+        "カヤバ工業株式会社",
+        "京商株式会社",
+        "九州電力株式会社",
+        "九州旅客鉄道株式会社"
+      ]
+    },
+    {
+      "tableName": "http://dbpedia.org/resource/List_of_companies_of_Japan?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d12_2",
+      "columnName": "Rōmaji",
+      "fields": [
+        "Kawasaki Kisen Kabushiki-gaisha",
+        "Kabushiki-gaisha Kadokawa Shoten",
+        "Kagome Kabushiki-gaisha",
+        "Kajima Kensetsu Kabushiki Kaisha",
+        "Kabushiki-gaisha Kaneka",
+        "Kabushiki Kaisha Kanesue",
+        "Kansai Denryoku Kabushiki-gaisha",
+        "Kansai Peinto Kabushiki-gaisha",
+        "Kaō Kabushiki-gaisha",
+        "Kabushiki-gaisha Kawai Gakkiseisakusho",
+        "Kawasaki Jūkōgyō Kabushiki-gaisha",
+        "Keidīdīai Kabushiki Kaisha",
+        "Keihin Kyūkō Dentetsu Kabushiki-gaisha",
+        "Keiō Dentetsu Kabushiki-gaisha",
+        "Keisei Dentetsu Kabushiki-gaisha",
+        "Kabushiki-gaisha Kenuddo",
+        "Kabushiki-gaisha Kīensu",
+        "Kikkōman Kabushiki-gaisha",
+        "Kintetsu gurūpu hōrudeingusu kabushiki gaisha",
+        "Kirin Bīru Kabushiki-gaisha",
+        "Kita Ōsaka Kyūkō Dentetsu Kabushiki Kaisha",
+        "Kōbe Dentetsu Kabushiki Kaisha",
+        "Kōbe Shinkōtsū Kabushiki Kaisha",
+        "Kabushiki-gaisha Kōbe Seikō-sho",
+        "Kabushiki-gaisha Kōdansha",
+        "Kabushiki-gaisha Kōē",
+        "Kabushiki-gaisha Komatsu Seisakusho",
+        "Kabushiki-gaisha Komori kōporēshon",
+        "Konami Kabushiki-gaisha",
+        "Kondo Kagaku",
+        "Kabushiki Gaisha Kongō Gumi",
+        "Konika Minoruta Hōrudingusu",
+        "Kabushiki-gaisha Korugu",
+        "Kabushiki-gaisha Kubota",
+        "Kabushiki-gaisha Kumagai Gumi",
+        "Kabushiki-gaisha Nihon Kōbun Kyōiku Kenkyūkai",
+        "Kabushiki-gaisha Kurare",
+        "Kurita Kōgyō Kabushiki-gaisha",
+        "Kyōsera Kabushiki-gaisha",
+        "Kayaba Kogyo Kabushiki-gaisha",
+        "Kyōshō Kabushiki Kaisha",
+        "Kyūshū Denryoku Kabushiki Kaisha",
+        "Kyūshū Ryokaku Tetsudō Kabushiki-gaisha"
+      ]
+    },
+    {
+      "tableName": "http://dbpedia.org/resource/List_of_companies_of_Japan?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d12_2",
+      "columnName": "TSE",
+      "fields": [
+        "TYO: 9107",
+        "",
+        "TYO: 2811",
+        "TYO: 1812",
+        "TYO: 4118",
+        "",
+        "TYO: 9503",
+        "TYO: 4613",
+        "TYO: 4452",
+        "TYO: 7952",
+        "TYO: 7012",
+        "TYO: 9433",
+        "TYO: 9006",
+        "TYO: 9008",
+        "TYO: 9009",
+        "TYO: 6765",
+        "TYO: 6861",
+        "TYO: 2801",
+        "TYO: 9041",
+        "TYO: 2503",
+        "",
+        "TYO: 9046",
+        "",
+        "TYO: 5406",
+        "",
+        "",
+        "TYO: 6301",
+        "TYO: 6349",
+        "TYO: 9766",
+        "",
+        "",
+        "TYO: 4902",
+        "",
+        "TYO: 6326",
+        "TYO: 1861",
+        "",
+        "TYO: 3405",
+        "TYO: 6370",
+        "TYO: 6971",
+        "TYO: 7242",
+        "",
+        "TYO: 9508",
+        ""
+      ]
+    }
+  ]
+}

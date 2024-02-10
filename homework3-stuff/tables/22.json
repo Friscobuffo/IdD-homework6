@@ -1,0 +1,296 @@
+{
+  "id": "http://dbpedia.org/resource/Historical_components_of_the_Dow_Jones_Industrial_Average?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d1_2",
+  "cells": [
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 0,
+        "column": 0
+      },
+      "cleanedText": "3M Company"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 0,
+        "column": 1
+      },
+      "cleanedText": "General Electric Company"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 0,
+        "column": 2
+      },
+      "cleanedText": "Nike, Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 1,
+        "column": 0
+      },
+      "cleanedText": "American Express Company"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 1,
+        "column": 1
+      },
+      "cleanedText": "The Goldman Sachs Group, Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 1,
+        "column": 2
+      },
+      "cleanedText": "Pfizer Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 2,
+        "column": 0
+      },
+      "cleanedText": "Apple Inc. ↑"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 2,
+        "column": 1
+      },
+      "cleanedText": "The Home Depot, Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 2,
+        "column": 2
+      },
+      "cleanedText": "The Procter \u0026 Gamble Company"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 3,
+        "column": 0
+      },
+      "cleanedText": "The Boeing Company"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 3,
+        "column": 1
+      },
+      "cleanedText": "Intel Corporation"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 3,
+        "column": 2
+      },
+      "cleanedText": "The Travelers Companies, Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 4,
+        "column": 0
+      },
+      "cleanedText": "Caterpillar Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 4,
+        "column": 1
+      },
+      "cleanedText": "International Business Machines Corporation"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 4,
+        "column": 2
+      },
+      "cleanedText": "UnitedHealth Group Incorporated"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 5,
+        "column": 0
+      },
+      "cleanedText": "Chevron Corporation"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 5,
+        "column": 1
+      },
+      "cleanedText": "Johnson \u0026 Johnson"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 5,
+        "column": 2
+      },
+      "cleanedText": "United Technologies Corporation"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 6,
+        "column": 0
+      },
+      "cleanedText": "Cisco Systems, Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 6,
+        "column": 1
+      },
+      "cleanedText": "JPMorgan Chase \u0026 Co."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 6,
+        "column": 2
+      },
+      "cleanedText": "Verizon Communications Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 7,
+        "column": 0
+      },
+      "cleanedText": "The Coca-Cola Company"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 7,
+        "column": 1
+      },
+      "cleanedText": "McDonald\u0027s Corporation"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 7,
+        "column": 2
+      },
+      "cleanedText": "Visa Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 8,
+        "column": 0
+      },
+      "cleanedText": "E.I. du Pont de Nemours \u0026 Company"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 8,
+        "column": 1
+      },
+      "cleanedText": "Merck \u0026 Co., Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 8,
+        "column": 2
+      },
+      "cleanedText": "Wal-Mart Stores, Inc."
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 9,
+        "column": 0
+      },
+      "cleanedText": "Exxon Mobil Corporation"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 9,
+        "column": 1
+      },
+      "cleanedText": "Microsoft Corporation"
+    },
+    {
+      "isHeader": false,
+      "Coordinates": {
+        "row": 9,
+        "column": 2
+      },
+      "cleanedText": "The Walt Disney Company"
+    }
+  ],
+  "maxDimensions": {
+    "row": 9,
+    "column": 2
+  },
+  "columns": [
+    {
+      "tableName": "http://dbpedia.org/resource/Historical_components_of_the_Dow_Jones_Industrial_Average?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d1_2",
+      "fields": [
+        "3M Company",
+        "American Express Company",
+        "Apple Inc. ↑",
+        "The Boeing Company",
+        "Caterpillar Inc.",
+        "Chevron Corporation",
+        "Cisco Systems, Inc.",
+        "The Coca-Cola Company",
+        "E.I. du Pont de Nemours \u0026 Company",
+        "Exxon Mobil Corporation"
+      ]
+    },
+    {
+      "tableName": "http://dbpedia.org/resource/Historical_components_of_the_Dow_Jones_Industrial_Average?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d1_2",
+      "fields": [
+        "General Electric Company",
+        "The Goldman Sachs Group, Inc.",
+        "The Home Depot, Inc.",
+        "Intel Corporation",
+        "International Business Machines Corporation",
+        "Johnson \u0026 Johnson",
+        "JPMorgan Chase \u0026 Co.",
+        "McDonald\u0027s Corporation",
+        "Merck \u0026 Co., Inc.",
+        "Microsoft Corporation"
+      ]
+    },
+    {
+      "tableName": "http://dbpedia.org/resource/Historical_components_of_the_Dow_Jones_Industrial_Average?dbpv\u003d2016-10\u0026nif\u003dtable\u0026ref\u003d1_2",
+      "fields": [
+        "Nike, Inc.",
+        "Pfizer Inc.",
+        "The Procter \u0026 Gamble Company",
+        "The Travelers Companies, Inc.",
+        "UnitedHealth Group Incorporated",
+        "United Technologies Corporation",
+        "Verizon Communications Inc.",
+        "Visa Inc.",
+        "Wal-Mart Stores, Inc.",
+        "The Walt Disney Company"
+      ]
+    }
+  ]
+}
