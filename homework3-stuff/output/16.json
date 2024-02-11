@@ -1,0 +1,102 @@
+[
+    {
+        "company_name":"Industrial and Commercial Bank of China",
+        "country":"Beijing",
+        "industry":"Banking"
+    },
+    {
+        "company_name":"China Construction Bank",
+        "country":"Beijing",
+        "industry":"Banking"
+    },
+    {
+        "company_name":"Agricultural Bank of China",
+        "country":"Beijing",
+        "industry":"Banking"
+    },
+    {
+        "company_name":"Bank of China",
+        "country":"Beijing",
+        "industry":"Banking"
+    },
+    {
+        "company_name":"PetroChina",
+        "country":"Beijing",
+        "industry":"Oil"
+    },
+    {
+        "company_name":"Sinopec",
+        "country":"Beijing",
+        "industry":"Oil"
+    },
+    {
+        "company_name":"Ping An Insurance",
+        "country":"Shenzhen",
+        "industry":"Insurance"
+    },
+    {
+        "company_name":"Bank of Communications",
+        "country":"Shanghai",
+        "industry":"Banking"
+    },
+    {
+        "company_name":"China Life",
+        "country":"Beijing",
+        "industry":"Insurance"
+    },
+    {
+        "company_name":"China Merchants Bank",
+        "country":"Shenzhen",
+        "industry":"Banking"
+    },
+    {
+        "company_name":"China Minsheng Banking",
+        "country":"Beijing",
+        "industry":"Banking"
+    },
+    {
+        "company_name":"China Shenhua Energy",
+        "country":"Beijing",
+        "industry":"Mining"
+    },
+    {
+        "company_name":"Industrial Bank Co.",
+        "country":"Fuzhou",
+        "industry":"Banking"
+    },
+    {
+        "company_name":"Shanghai Pudong Development Bank",
+        "country":"Shanghai",
+        "industry":"Banking"
+    },
+    {
+        "company_name":"China CITIC Bank",
+        "country":"Beijing",
+        "industry":"Banking"
+    },
+    {
+        "company_name":"China Telecom",
+        "country":"Beijing",
+        "industry":"Telecommunications"
+    },
+    {
+        "company_name":"SAIC Motor",
+        "country":"Shanghai",
+        "industry":"Automotive"
+    },
+    {
+        "company_name":"China Everbright Bank",
+        "country":"Beijing",
+        "industry":"Banking"
+    },
+    {
+        "company_name":"China State Construction Engineering",
+        "country":"Beijing",
+        "industry":"Construction"
+    },
+    {
+        "company_name":"China Pacific Insurance",
+        "country":"Shanghai",
+        "industry":"Insurance"
+    }
+]

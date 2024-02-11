@@ -1,0 +1,1094 @@
+[
+    {
+        "company_name":"1C Company",
+        "Russian":"\u0424\u0438\u0440\u043c\u0430 \"1\u0421\"",
+        "country":"Moscow",
+        "sales":"Software and video games"
+    },
+    {
+        "company_name":"ABBYY",
+        "Russian":"\u041a\u043e\u043c\u043f\u0430\u043d\u0438\u044f ABBYY",
+        "country":"Moscow",
+        "sales":"OCR"
+    },
+    {
+        "company_name":"Acron Group",
+        "Russian":"\u0410\u043a\u0440\u043e\u043d",
+        "country":"Nizhny Novgorod",
+        "sales":"MCX: AKRN LSE: AKRN"
+    },
+    {
+        "company_name":"Aeroflot",
+        "Russian":"\u0410\u044d\u0440\u043e\u0444\u043b\u043e\u0442",
+        "country":"Moscow",
+        "sales":"MCX: AFLT"
+    },
+    {
+        "company_name":"Airport Tolmachevo",
+        "Russian":"\u0410\u044d\u0440\u043e\u043f\u043e\u0440\u0442 \u00ab\u0422\u043e\u043b\u043c\u0430\u0447\u0435\u0432\u043e\u00bb",
+        "country":"Novosibirsk",
+        "sales":"MCX: ATLM"
+    },
+    {
+        "company_name":"Akella",
+        "Russian":"\u0410\u043a\u0435\u043b\u043b\u0430",
+        "country":"Moscow",
+        "sales":"Video games"
+    },
+    {
+        "company_name":"Alawar Entertainment",
+        "Russian":"\u041a\u043e\u043c\u043f\u0430\u043d\u0438\u044f Alawar Entertainment",
+        "country":"Novosibirsk|",
+        "sales":"Video games"
+    },
+    {
+        "company_name":"Alfa Group",
+        "Russian":"\u0410\u043b\u044c\u0444\u0430-\u0413\u0440\u0443\u043f\u043f",
+        "country":"Moscow",
+        "sales":"Banks, insurance, water"
+    },
+    {
+        "company_name":"All-Russia State Television and Radio Broadcasting Company (VGTRK)|",
+        "Russian":"\u0412\u0441\u0435\u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0433\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u0442\u0435\u043b\u0435\u0432\u0438\u0437\u0438\u043e\u043d\u043d\u0430\u044f \u0438 \u0440\u0430\u0434\u0438\u043e\u0432\u0435\u0449\u0430\u0442\u0435\u043b\u044c\u043d\u0430\u044f \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f (\u0412\u0413\u0422\u0420\u041a)",
+        "country":"Moscow",
+        "sales":"State-owned media"
+    },
+    {
+        "company_name":"Almaz-Antey",
+        "Russian":"\u0410\u043b\u043c\u0430\u0437-\u0410\u043d\u0442\u0435\u0439",
+        "country":"Moscow",
+        "sales":""
+    },
+    {
+        "company_name":"ALROSA",
+        "Russian":"\u0410\u041b\u0420\u041e\u0421\u0410",
+        "country":"Mirny",
+        "sales":"Diamonds & gemstones"
+    },
+    {
+        "company_name":"AST",
+        "Russian":"\u0410\u0421\u0422",
+        "country":"Moscow",
+        "sales":""
+    },
+    {
+        "company_name":"Atomenergoprom",
+        "Russian":"\u0410\u0442\u043e\u043c\u044d\u043d\u0435\u0440\u0433\u043e\u043f\u0440\u043e\u043c",
+        "country":"Moscow",
+        "sales":""
+    },
+    {
+        "company_name":"ATV",
+        "Russian":"\u0410\u0422\u0412 \u041f\u0440\u043e\u0434\u0430\u043a\u0448\u043d",
+        "country":"Moscow",
+        "sales":""
+    },
+    {
+        "company_name":"Aviakor",
+        "Russian":"\u0410\u0432\u0438\u0430\u043a\u043e\u0440",
+        "country":"Samara",
+        "sales":""
+    },
+    {
+        "company_name":"Aviastar-SP",
+        "Russian":"\u0410\u0432\u0438\u0430\u0441\u0442\u0430\u0440-\u0421\u041f",
+        "country":"Ulyanovsk",
+        "sales":""
+    },
+    {
+        "company_name":"Avtotor",
+        "Russian":"\u0410\u0432\u0442\u043e\u0442\u043e\u0440",
+        "country":"Kaliningrad",
+        "sales":""
+    },
+    {
+        "company_name":"AvtoVAZ",
+        "Russian":"\u0410\u0432\u0442\u043e\u0412\u0410\u0417",
+        "country":"Tolyatti",
+        "sales":"MCX: AVAZ"
+    },
+    {
+        "company_name":"Baltika Breweries",
+        "Russian":"\u041f\u0438\u0432\u043e\u0432\u0430\u0440\u0435\u043d\u043d\u0430\u044f \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f \u0411\u0430\u043b\u0442\u0438\u043a\u0430",
+        "country":"Saint Petersburg",
+        "sales":"MCX: PKBA, brewers"
+    },
+    {
+        "company_name":"Bank Rossiya",
+        "Russian":"\u0410\u043a\u0446\u0438\u043e\u043d\u0435\u0440\u043d\u044b\u0439 \u0411\u0430\u043d\u043a \u00ab\u0420\u041e\u0421\u0421\u0418\u042f\u00bb",
+        "country":"Saint Petersburg",
+        "sales":""
+    },
+    {
+        "company_name":"Bank Saint Petersburg",
+        "Russian":"\u0411\u0430\u043d\u043a \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
+        "country":"Saint Petersburg",
+        "sales":"MCX: STBK"
+    },
+    {
+        "company_name":"Bryansk Avtomobile Plant",
+        "Russian":"\u0411\u0440\u044f\u043d\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0439 \u0437\u0430\u0432\u043e\u0434",
+        "country":"Bryansk",
+        "sales":"Commercial vehicles and trucks, defence"
+    },
+    {
+        "company_name":"Channel One",
+        "Russian":"\u041f\u0435\u0440\u0432\u044b\u0439 \u043a\u0430\u043d\u0430\u043b",
+        "country":"Moscow",
+        "sales":"Broadcasting & entertainment"
+    },
+    {
+        "company_name":"Chelyabinsk Pipe Rolling Plant",
+        "Russian":"\u0413\u0440\u0443\u043f\u043f\u0430 \u0427\u0422\u041f\u0417",
+        "country":"Moscow",
+        "sales":"MCX: CHEP, iron & steel, nonferrous metals"
+    },
+    {
+        "company_name":"Chelyabinsk Tractor Plant",
+        "Russian":"\u0427\u0435\u043b\u044f\u0431\u0438\u043d\u0441\u043a\u0438\u0439 \u0442\u0440\u0430\u043a\u0442\u043e\u0440\u043d\u044b\u0439 \u0437\u0430\u0432\u043e\u0434",
+        "country":"Chelyabinsk",
+        "sales":"Commercial vehicles & trucks"
+    },
+    {
+        "company_name":"Cherkizovo",
+        "Russian":"\u0413\u0440\u0443\u043f\u043f\u0430 \u201e\u0427\u0435\u0440\u043a\u0438\u0301\u0437\u043e\u0432\u043e\u201c",
+        "country":"Moscow",
+        "sales":""
+    },
+    {
+        "company_name":"Concern Tractor Plants",
+        "Russian":"\u0422\u0440\u0430\u043a\u0442\u043e\u0440\u043d\u044b\u0435 \u0437\u0430\u0432\u043e\u0434\u044b",
+        "country":"Cheboksary",
+        "sales":"Commercial vehicles & trucks, defence"
+    },
+    {
+        "company_name":"CTC Media",
+        "Russian":"\u0421\u0422\u0421 \u041c\u0435\u0434\u0438\u0430",
+        "country":"Moscow",
+        "sales":"Broadcasting & entertainment, NASDAQ: CTCM"
+    },
+    {
+        "company_name":"Dalsvyaz",
+        "Russian":"\u0414\u0430\u043b\u044c\u0441\u0432\u044f\u0437\u044c",
+        "country":"Vladivostok",
+        "sales":"MCX: DLSV MCX: ESPK, acquired by Rostelecom"
+    },
+    {
+        "company_name":"Derways Automobile Company",
+        "Russian":"Derways",
+        "country":"Cherkessk",
+        "sales":""
+    },
+    {
+        "company_name":"E4 Group",
+        "Russian":"\u0413\u0440\u0443\u043f\u043f\u0430 \u04154",
+        "country":"Moscow",
+        "sales":"Heavy construction"
+    },
+    {
+        "company_name":"Eksmo",
+        "Russian":"\u042d\u043a\u0441\u043c\u043e",
+        "country":"Moscow",
+        "sales":"Publishing, specialty retailers"
+    },
+    {
+        "company_name":"En+ Group",
+        "Russian":"En+ Group",
+        "country":"Moscow",
+        "sales":""
+    },
+    {
+        "company_name":"ER-Telecom",
+        "Russian":"\u042d\u0420-\u0422\u0435\u043b\u0435\u043a\u043e\u043c",
+        "country":"Perm",
+        "sales":""
+    },
+    {
+        "company_name":"Eurocement group",
+        "Russian":"\u0415\u0432\u0440\u043e\u0446\u0435\u043c\u0435\u043d\u0442 \u0433\u0440\u0443\u043f",
+        "country":"Moscow",
+        "sales":""
+    },
+    {
+        "company_name":"Euroset",
+        "Russian":"\u0415\u0432\u0440\u043e\u0441\u0435\u0442\u044c",
+        "country":"Moscow",
+        "sales":""
+    },
+    {
+        "company_name":"Evalar",
+        "Russian":"\u042d\u0432\u0430\u043b\u0430\u0440",
+        "country":"Biysk",
+        "sales":""
+    },
+    {
+        "company_name":"GAZ Group",
+        "Russian":"\u0413\u0440\u0443\u043f\u043f\u0430 \u0413\u0410\u0417",
+        "country":"Nizhny Novgorod",
+        "sales":""
+    },
+    {
+        "company_name":"Gazprom",
+        "Russian":"\u0413\u0430\u0437\u043f\u0440\u043e\u043c",
+        "country":"Moscow",
+        "sales":"MCX: GAZP"
+    },
+    {
+        "company_name":"Gazprom Media",
+        "Russian":"\u0413\u0430\u0437\u043f\u0440\u043e\u043c-\u041c\u0435\u0434\u0438\u0430",
+        "country":"Moscow",
+        "sales":"Part of Gazprom"
+    },
+    {
+        "company_name":"Gazprom Neft",
+        "Russian":"\u0413\u0430\u0437\u043f\u0440\u043e\u043c \u043d\u0435\u0444\u0442\u044c",
+        "country":"Moscow",
+        "sales":"MCX: SIBN, part of Gazprom"
+    },
+    {
+        "company_name":"Gazprombank",
+        "Russian":"Financials",
+        "country":"Moscow",
+        "sales":"Part of Gazprom"
+    },
+    {
+        "company_name":"Gorky Film Studio",
+        "Russian":"\u041a\u0438\u043d\u043e\u0441\u0442\u0443\u0434\u0438\u044f \u0438\u043c\u0435\u043d\u0438 \u041c. \u0413\u043e\u0440\u044c\u043a\u043e\u0433\u043e",
+        "country":"Moscow",
+        "sales":""
+    },
+    {
+        "company_name":"International Industrial Bank",
+        "Russian":"\u041c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u044b\u0439 \u041f\u0440\u043e\u043c\u044b\u0448\u043b\u0435\u043d\u043d\u044b\u0439 \u0411\u0430\u043d\u043a",
+        "country":"Moscow",
+        "sales":""
+    },
+    {
+        "company_name":"Ilyushin",
+        "Russian":"\u0410\u0432\u0438\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0439 \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0441 \u0438\u043c\u0435\u043d\u0438 \u0421. \u0412. \u0418\u043b\u044c\u044e\u0448\u0438\u043d\u0430",
+        "country":"Moscow",
+        "sales":""
+    },
+    {
+        "company_name":"Ingosstrakh",
+        "Russian":"\u0418\u043d\u0433\u043e\u0441\u0441\u0442\u0440\u0430\u0445",
+        "country":"Moscow",
+        "sales":"Full line insurance, life, reinsurance"
+    },
+    {
+        "company_name":"Interfax",
+        "Russian":"\u0418\u043d\u0442\u0435\u0440\u0444\u0430\u043a\u0441",
+        "country":"Moscow",
+        "sales":"News agency"
+    },
+    {
+        "company_name":"Intourist",
+        "Russian":"\u0418\u043d\u0442\u0443\u0440\u0438\u0441\u0442",
+        "country":"Moscow",
+        "sales":"Former state travel agency, now private"
+    },
+    {
+        "company_name":"Irkut Corporation",
+        "Russian":"\u0418\u0440\u043a\u0443\u0442",
+        "country":"Irkutsk",
+        "sales":"MCX: IRKT"
+    },
+    {
+        "company_name":"Irkutskenergo",
+        "Russian":"\u0418\u0440\u043a\u0443\u0442\u0441\u043a\u044d\u043d\u0435\u0440\u0433\u043e",
+        "country":"Irkutsk",
+        "sales":"Hydroelectric, MCX: IRGZ"
+    },
+    {
+        "company_name":"Izhevsk Mechanical Plant",
+        "Russian":"\u0418\u0436\u0435\u0432\u0441\u043a\u0438\u0439 \u043c\u0435\u0445\u0430\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0437\u0430\u0432\u043e\u0434",
+        "country":"Izhevsk",
+        "sales":""
+    },
+    {
+        "company_name":"Kalashnikov Concern",
+        "Russian":"\u0410\u041e \u041a\u043e\u043d\u0446\u0435\u0440\u043d \u041a\u0430\u043b\u0430\u0448\u043d\u0438\u043a\u043e\u0432",
+        "country":"Izhevsk",
+        "sales":"MCX: IGMA"
+    },
+    {
+        "company_name":"Kamaz",
+        "Russian":"\u041a\u0430\u043c\u0410\u0417",
+        "country":"Naberezhnye Chelny",
+        "sales":"MCX: KMAZ"
+    },
+    {
+        "company_name":"Kazan Helicopter Plant",
+        "Russian":"Industrials",
+        "country":"Kazan",
+        "sales":"MCX: KHEL"
+    },
+    {
+        "company_name":"Kazanorgsintez",
+        "Russian":"\u041a\u0430\u0437\u0430\u043d\u044c\u043e\u0440\u0433\u0441\u0438\u043d\u0442\u0435\u0437",
+        "country":"Kazan",
+        "sales":"MCX: KZOS"
+    },
+    {
+        "company_name":"Kaspersky Lab",
+        "Russian":"\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u044f \u041a\u0430\u0441\u043f\u0435\u0440\u0441\u043a\u043e\u0433\u043e",
+        "country":"Moscow",
+        "sales":""
+    },
+    {
+        "company_name":"Kirov Plant",
+        "Russian":"\u041a\u0438\u0440\u043e\u0432\u0441\u043a\u0438\u0439 \u0437\u0430\u0432\u043e\u0434",
+        "country":"Saint Petersburg",
+        "sales":"MCX: KIRZ"
+    },
+    {
+        "company_name":"Komus",
+        "Russian":"\u041a\u043e\u043c\u0443\u0441",
+        "country":"Moscow",
+        "sales":""
+    },
+    {
+        "company_name":"Krasnoye Sormovo Factory",
+        "Russian":"\u041a\u0440\u0430\u0441\u043d\u043e\u0435 \u0421\u043e\u0440\u043c\u043e\u0432\u043e",
+        "country":"Nizhny Novgorod",
+        "sales":"Marine Transportation"
+    },
+    {
+        "company_name":"Kuzbassenergo",
+        "Russian":"\u041a\u0443\u0437\u0431\u0430\u0441\u0441\u044d\u043d\u0435\u0440\u0433\u043e",
+        "country":"Barnaul",
+        "sales":"MCX: KZBE"
+    },
+    {
+        "company_name":"Kuznetsov",
+        "Russian":"\u041a\u0443\u0437\u043d\u0435\u0446\u043e\u0432",
+        "country":"Samara",
+        "sales":""
+    },
+    {
+        "company_name":"Lebedyansky",
+        "Russian":"\u041b\u0435\u0431\u0435\u0434\u044f\u043d\u0441\u043a\u0438\u0439",
+        "country":"Lebedyan",
+        "sales":"MCX: LBDO MCX: LEKZ"
+    },
+    {
+        "company_name":"Lenfilm",
+        "Russian":"\u041a\u0438\u043d\u043e\u0441\u0442\u0443\u0434\u0438\u044f \u00ab\u041b\u0435\u043d\u0444\u0438\u043b\u044c\u043c\u00bb",
+        "country":"Saint Petersburg",
+        "sales":"Film studio"
+    },
+    {
+        "company_name":"LOMO",
+        "Russian":"\u041b\u041e\u041c\u041e",
+        "country":"Saint Petersburg",
+        "sales":""
+    },
+    {
+        "company_name":"LUKoil",
+        "Russian":"\u041b\u0423\u041a\u041e\u0419\u041b",
+        "country":"Moscow",
+        "sales":"MCX: LKOH LSE: LKOD OTC Pink: LUKOY FWB: LUK"
+    },
+    {
+        "company_name":"Magnit",
+        "Russian":"\u041c\u0430\u0433\u043d\u0438\u0442",
+        "country":"Krasnodar",
+        "sales":"MCX: MGNT LSE: MGNT"
+    },
+    {
+        "company_name":"Magnitogorsk Iron and Steel Works",
+        "Russian":"\u041c\u0430\u0433\u043d\u0438\u0442\u043e\u0433\u043e\u0440\u0441\u043a\u0438\u0439 \u043c\u0435\u0442\u0430\u043b\u043b\u0443\u0440\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043a\u043e\u043c\u0431\u0438\u043d\u0430\u0442",
+        "country":"Magnitogorsk",
+        "sales":"Iron and steel, MCX: MAGN"
+    },
+    {
+        "company_name":"Mail.Ru Group",
+        "Russian":"Mail.Ru Group",
+        "country":"Moscow",
+        "sales":"Internet, software, publishing, LSE: MAIL"
+    },
+    {
+        "company_name":"Makeyev Rocket Design Bureau",
+        "Russian":"\u0413\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0440\u0430\u043a\u0435\u0442\u043d\u044b\u0439 \u0446\u0435\u043d\u0442\u0440 \u0438\u043c\u0435\u043d\u0438 \u0430\u043a\u0430\u0434\u0435\u043c\u0438\u043a\u0430 \u0412. \u041f. \u041c\u0430\u043a\u0435\u0435\u0432\u0430",
+        "country":"Miass",
+        "sales":"Missile design"
+    },
+    {
+        "company_name":"Mechel",
+        "Russian":"\u041c\u0435\u0447\u0435\u043b",
+        "country":"Moscow",
+        "sales":"Coal, iron and steel, MCX: MTLR NYSE: MTL"
+    },
+    {
+        "company_name":"MegaFon",
+        "Russian":"\u041c\u0435\u0433\u0430\u0424\u043e\u043d",
+        "country":"Moscow",
+        "sales":"LSE: MFON MCX: MFON"
+    },
+    {
+        "company_name":"Melodiya",
+        "Russian":"\u041c\u0435\u043b\u043e\u0434\u0438\u044f",
+        "country":"Moscow",
+        "sales":"Record label"
+    },
+    {
+        "company_name":"Metalloinvest",
+        "Russian":"\u041c\u0435\u0442\u0430\u043b\u043b\u043e\u0438\u043d\u0432\u0435\u0441\u0442",
+        "country":"Moscow",
+        "sales":"Steel"
+    },
+    {
+        "company_name":"Mil Moscow Helicopter Plant",
+        "Russian":"\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u0432\u0435\u0440\u0442\u043e\u043b\u0435\u0442\u043d\u044b\u0439 \u0437\u0430\u0432\u043e\u0434 \u0438\u043c. \u041c.\u041b. \u041c\u0438\u043b\u044f",
+        "country":"Moscow",
+        "sales":"MCX: MVZM"
+    },
+    {
+        "company_name":"Molodaya Gvardiya",
+        "Russian":"Consumer services",
+        "country":"Moscow",
+        "sales":"Publishing"
+    },
+    {
+        "company_name":"Moscow City Telephone Network",
+        "Russian":"\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0430\u044f \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u043d\u0430\u044f \u0441\u0435\u0442\u044c",
+        "country":"Moscow",
+        "sales":"MCX: MGTS"
+    },
+    {
+        "company_name":"Mosfilm",
+        "Russian":"\u041a\u0438\u043d\u043e\u043a\u043e\u043d\u0446\u0435\u0301\u0440\u043d \u00ab\u041c\u043e\u0441\u0444\u0438\u0301\u043b\u044c\u043c\u00bb",
+        "country":"Moscow",
+        "sales":"Film studio"
+    },
+    {
+        "company_name":"Motovilikha Plants",
+        "Russian":"\u041c\u043e\u0442\u043e\u0432\u0438\u043b\u0438\u0445\u0438\u043d\u0441\u043a\u0438\u0435 \u0437\u0430\u0432\u043e\u0434\u044b",
+        "country":"Perm",
+        "sales":"MCX: MOTZ"
+    },
+    {
+        "company_name":"MTS",
+        "Russian":"\u041c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0435 \u0422\u0435\u043b\u0435\u0421\u0438\u0441\u0442\u0435\u043c\u044b",
+        "country":"Moscow",
+        "sales":"MCX: MTSI MCX: MTSS"
+    },
+    {
+        "company_name":"M.video",
+        "Russian":"\u041c.\u0412\u0438\u0434\u0435\u043e",
+        "country":"Moscow",
+        "sales":"Retail electronics chain, MCX: MVID"
+    },
+    {
+        "company_name":"NEWSru",
+        "Russian":"NEWSru.com",
+        "country":"Moscow",
+        "sales":"News agency"
+    },
+    {
+        "company_name":"Nizhnekamskneftekhim",
+        "Russian":"\u041d\u0438\u0436\u043d\u0435\u043a\u0430\u043c\u0441\u043a\u043d\u0435\u0444\u0442\u0435\u0445\u0438\u043c",
+        "country":"Nizhnekamsk",
+        "sales":"MCX: NKNC"
+    },
+    {
+        "company_name":"Norilsk Nickel",
+        "Russian":"\u041d\u043e\u0440\u0438\u043b\u044c\u0441\u043a\u0438\u0439 \u043d\u0438\u043a\u0435\u043b\u044c",
+        "country":"Moscow",
+        "sales":"MCX: GMKN LSE: MNOD"
+    },
+    {
+        "company_name":"North-West Telecom",
+        "Russian":"\u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0422\u0435\u043b\u0435\u043a\u043e\u043c",
+        "country":"Saint Petersburg",
+        "sales":"MCX: SPTL"
+    },
+    {
+        "company_name":"Novatek",
+        "Russian":"\u041d\u043e\u0432\u0430\u0442\u044d\u043a",
+        "country":"Tarko-Sale",
+        "sales":"MCX: NVTK MCX: NVTK"
+    },
+    {
+        "company_name":"Novolipetsk Steel",
+        "Russian":"\u041d\u043e\u0432\u043e\u043b\u0438\u043f\u0435\u0446\u043a\u0438\u0439 \u043c\u0435\u0442\u0430\u043b\u043b\u0443\u0440\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043a\u043e\u043c\u0431\u0438\u043d\u0430\u0442",
+        "country":"Lipetsk",
+        "sales":"MCX: NLMK"
+    },
+    {
+        "company_name":"Novoroscement",
+        "Russian":"\u041d\u043e\u0432\u043e\u0440\u043e\u0441\u0446\u0435\u043c\u0435\u043d\u0442",
+        "country":"Novorossiysk",
+        "sales":""
+    },
+    {
+        "company_name":"OAO Kondopoga",
+        "Russian":"\u041e\u0410\u041e \u00ab\u041a\u043e\u0301\u043d\u0434\u043e\u043f\u043e\u0433\u0430\u00bb",
+        "country":"Kondopoga",
+        "sales":"Paper"
+    },
+    {
+        "company_name":"OAO TMK",
+        "Russian":"\u0422\u0440\u0443\u0431\u043d\u0430\u044f \u043c\u0435\u0442\u0430\u043b\u043b\u0443\u0440\u0433\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f",
+        "country":"Moscow",
+        "sales":"Iron & steel, LSE: TMKS MCX: TRMK"
+    },
+    {
+        "company_name":"Oboronprom",
+        "Russian":"\u041e\u0431\u044a\u0435\u0434\u0438\u043d\u0451\u043d\u043d\u0430\u044f \u043f\u0440\u043e\u043c\u044b\u0448\u043b\u0435\u043d\u043d\u0430\u044f \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0446\u0438\u044f \u00ab\u041e\u0431\u043e\u0440\u043e\u043d\u043f\u0440\u043e\u043c\u00bb",
+        "country":"Moscow",
+        "sales":""
+    },
+    {
+        "company_name":"OGK-1",
+        "Russian":"\u041e\u043f\u0442\u043e\u0432\u0430\u044f \u0433\u0435\u043d\u0435\u0440\u0438\u0440\u0443\u044e\u0449\u0430\u044f \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f \u2116 1",
+        "country":"Tyumen",
+        "sales":"MCX: OGK1 MCX: OGKA"
+    },
+    {
+        "company_name":"OGK-2",
+        "Russian":"\u041e\u043f\u0442\u043e\u0432\u0430\u044f \u0433\u0435\u043d\u0435\u0440\u0438\u0440\u0443\u044e\u0449\u0430\u044f \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f \u2116 2",
+        "country":"Moscow",
+        "sales":"MCX: OGKB"
+    },
+    {
+        "company_name":"OGK-3",
+        "Russian":"\u041e\u043f\u0442\u043e\u0432\u0430\u044f \u0433\u0435\u043d\u0435\u0440\u0438\u0440\u0443\u044e\u0449\u0430\u044f \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f \u2116 3",
+        "country":"Ulan-Ude",
+        "sales":"MCX: OGKC"
+    },
+    {
+        "company_name":"OGK-4",
+        "Russian":"\u041e\u043f\u0442\u043e\u0432\u0430\u044f \u0433\u0435\u043d\u0435\u0440\u0438\u0440\u0443\u044e\u0449\u0430\u044f \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f \u2116 4",
+        "country":"Surgut",
+        "sales":"MCX: OGKD"
+    },
+    {
+        "company_name":"OGK-5",
+        "Russian":"\u041e\u043f\u0442\u043e\u0432\u0430\u044f \u0433\u0435\u043d\u0435\u0440\u0438\u0440\u0443\u044e\u0449\u0430\u044f \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f \u2116 5",
+        "country":"Ekaterinburg",
+        "sales":"MCX: OGKE"
+    },
+    {
+        "company_name":"OGK-6",
+        "Russian":"\u041e\u043f\u0442\u043e\u0432\u0430\u044f \u0433\u0435\u043d\u0435\u0440\u0438\u0440\u0443\u044e\u0449\u0430\u044f \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f \u2116 6",
+        "country":"Rostov-on-Don",
+        "sales":"MCX: OGKF"
+    },
+    {
+        "company_name":"Omsk Engine Design Bureau",
+        "Russian":"\u041e\u043c\u0441\u043a\u043e\u0435 \u043c\u043e\u0442\u043e\u0440\u043e\u0441\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0435 \u043a\u043e\u043d\u0441\u0442\u0440\u0443\u043a\u0442\u043e\u0440\u0441\u043a\u043e\u0435 \u0431\u044e\u0440\u043e",
+        "country":"Omsk",
+        "sales":""
+    },
+    {
+        "company_name":"OMZ",
+        "Russian":"\u041e\u0431\u044a\u0435\u0434\u0438\u043d\u0451\u043d\u043d\u044b\u0435 \u043c\u0430\u0448\u0438\u043d\u043e\u0441\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0435 \u0437\u0430\u0432\u043e\u0434\u044b",
+        "country":"Moscow",
+        "sales":"LSE: OMZD"
+    },
+    {
+        "company_name":"Ozon.ru",
+        "Russian":"Ozon.ru",
+        "country":"Moscow",
+        "sales":"Internet, apparel, specialty, home improvement"
+    },
+    {
+        "company_name":"Petersburg - Channel 5",
+        "Russian":"\u041f\u044f\u0442\u044b\u0439 \u043a\u0430\u043d\u0430\u043b",
+        "country":"Saint Petersburg",
+        "sales":""
+    },
+    {
+        "company_name":"Petersburg Fuel Company",
+        "Russian":"\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433\u0441\u043a\u0430\u044f \u0442\u043e\u043f\u043b\u0438\u0432\u043d\u0430\u044f \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f",
+        "country":"Saint Petersburg",
+        "sales":""
+    },
+    {
+        "company_name":"Petrodvorets Watch Factory",
+        "Russian":"\u041f\u0435\u0442\u0440\u043e\u0434\u0432\u043e\u0440\u0446\u043e\u0432\u044b\u0439 \u0447\u0430\u0441\u043e\u0432\u043e\u0439 \u0437\u0430\u0432\u043e\u0434",
+        "country":"Petergof",
+        "sales":"Clothing & accessories"
+    },
+    {
+        "company_name":"Pharmstandard",
+        "Russian":"\u0424\u0430\u0440\u043c\u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442",
+        "country":"Dolgoprudny",
+        "sales":"LSE: PHST MCX: PHST"
+    },
+    {
+        "company_name":"PIK Group",
+        "Russian":"\u0413\u0440\u0443\u043f\u043f\u0430 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439 \u041f\u0418\u041a",
+        "country":"Moscow",
+        "sales":"MCX: PIKK"
+    },
+    {
+        "company_name":"Polyus Gold",
+        "Russian":"\u041f\u043e\u043b\u044e\u0441 \u0417\u043e\u043b\u043e\u0442\u043e",
+        "country":"Moscow",
+        "sales":"MCX: PLZL LSE: PLZL NASDAQ: OPYGY"
+    },
+    {
+        "company_name":"Power Machines",
+        "Russian":"\u0421\u0438\u043b\u043e\u0432\u044b\u0435 \u043c\u0430\u0448\u0438\u043d\u044b",
+        "country":"Saint Petersburg",
+        "sales":"RTSI:SILM"
+    },
+    {
+        "company_name":"Progress State Research and Production Rocket Space Center",
+        "Russian":"\u0420\u0430\u043a\u0435\u0442\u043d\u043e-\u043a\u043e\u0441\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0446\u0435\u043d\u0442\u0440 \u00ab\u041f\u0440\u043e\u0433\u0440\u0435\u0441\u0441\u00bb",
+        "country":"Samara",
+        "sales":""
+    },
+    {
+        "company_name":"PROMT",
+        "Russian":"PROMT",
+        "country":"Moscow",
+        "sales":""
+    },
+    {
+        "company_name":"Rambler-Afisha-SUP",
+        "Russian":"\u0420\u0430\u043c\u0431\u043b\u0435\u0440-\u0410\u0444\u0438\u0448\u0430-SUP",
+        "country":"Moscow",
+        "sales":""
+    },
+    {
+        "company_name":"Razgulay",
+        "Russian":"\u0420\u0430\u0437\u0433\u0443\u043b\u044f\u0301\u0439",
+        "country":"Moscow",
+        "sales":"MCX: GRAZ"
+    },
+    {
+        "company_name":"RBC",
+        "Russian":"\u0420\u0411\u041a",
+        "country":"Moscow",
+        "sales":""
+    },
+    {
+        "company_name":"REGNUM",
+        "Russian":"Regnum",
+        "country":"Moscow",
+        "sales":""
+    },
+    {
+        "company_name":"Rive Gauche",
+        "Russian":"\u0420\u0438\u0432 \u0413\u043e\u0448",
+        "country":"Saint Petersburg",
+        "sales":""
+    },
+    {
+        "company_name":"Rolf",
+        "Russian":"\u0420\u043e\u043b\u044c\u0444",
+        "country":"Moscow",
+        "sales":""
+    },
+    {
+        "company_name":"Rosenergomash",
+        "Russian":"\u0420\u043e\u0441\u044d\u043d\u0435\u0440\u0433\u043e\u043c\u0430\u0448",
+        "country":"Moscow",
+        "sales":""
+    },
+    {
+        "company_name":"Rosgosstrakh",
+        "Russian":"\u0420\u043e\u0441\u0433\u043e\u0441\u0441\u0442\u0440\u0430\u0445",
+        "country":"Moscow",
+        "sales":"Life insurance, MCX: RGSS"
+    },
+    {
+        "company_name":"Rosneft",
+        "Russian":"\u0420\u043e\u0441\u043d\u0435\u0444\u0442\u044c",
+        "country":"Moscow",
+        "sales":"MCX: ROSN"
+    },
+    {
+        "company_name":"Rostelecom",
+        "Russian":"\u0420\u043e\u0441\u0442\u0435\u043b\u0435\u043a\u043e\u043c",
+        "country":"Moscow",
+        "sales":"MCX: RTKM NYSE: ROS"
+    },
+    {
+        "company_name":"Rostselmash",
+        "Russian":"\u0420\u043e\u0441\u0442\u0441\u0435\u043b\u044c\u043c\u0430\u0448",
+        "country":"Rostov-on-Don",
+        "sales":"Commercial vehicles & trucks, RTSI:RTLM"
+    },
+    {
+        "company_name":"RUSAL",
+        "Russian":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0430\u043b\u044e\u043c\u0438\u043d\u0438\u0439",
+        "country":"Moscow",
+        "sales":""
+    },
+    {
+        "company_name":"Russian Helicopters",
+        "Russian":"\u0412\u0435\u0440\u0442\u043e\u043b\u0451\u0442\u044b \u0420\u043e\u0441\u0441\u0438\u0438",
+        "country":"Moscow",
+        "sales":""
+    },
+    {
+        "company_name":"Russian Railways",
+        "Russian":"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0438\u0435 \u0436\u0435\u043b\u0435\u0437\u043d\u044b\u0435 \u0434\u043e\u0440\u043e\u0433\u0438",
+        "country":"Moscow",
+        "sales":""
+    },
+    {
+        "company_name":"Sberbank",
+        "Russian":"\u0421\u0431\u0435\u0440\u0431\u0430\u043d\u043a",
+        "country":"Moscow",
+        "sales":"MCX: SBER"
+    },
+    {
+        "company_name":"Severnaya Verf",
+        "Russian":"\u0421\u0443\u0434\u043e\u0441\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u0437\u0430\u0432\u043e\u0434 \u00ab\u0421\u0435\u0432\u0435\u0440\u043d\u0430\u044f \u0432\u0435\u0440\u0444\u044c\u00bb",
+        "country":"Saint Petersburg",
+        "sales":"RTSI:SZVE"
+    },
+    {
+        "company_name":"Severstal",
+        "Russian":"\u0421\u0435\u0432\u0435\u0440\u0441\u0442\u0430\u043b\u044c",
+        "country":"Cherepovets",
+        "sales":"MCX: CHMF"
+    },
+    {
+        "company_name":"SeverStal-Auto",
+        "Russian":"\u0421\u0435\u0432\u0435\u0440\u0441\u0442\u0430\u043b\u044c-\u0410\u0432\u0442\u043e",
+        "country":"Cherepovets",
+        "sales":"MCX: SVAV"
+    },
+    {
+        "company_name":"Siberia Airlines",
+        "Russian":"\u0410\u0432\u0438\u0430\u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f \u00ab\u0421\u0438\u0431\u0438\u0440\u044c\u00bb",
+        "country":"Novosibirsk",
+        "sales":"Airline"
+    },
+    {
+        "company_name":"Siberian Coal Energy Company",
+        "Russian":"\u0421\u0438\u0431\u0438\u0440\u0441\u043a\u0430\u044f \u0443\u0433\u043e\u043b\u044c\u043d\u0430\u044f \u044d\u043d\u0435\u0440\u0433\u0435\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f",
+        "country":"Moscow",
+        "sales":""
+    },
+    {
+        "company_name":"Sibirtelecom",
+        "Russian":"\u0421\u0438\u0431\u0438\u0440\u044c\u0442\u0435\u043b\u0435\u043a\u043e\u043c",
+        "country":"Novosibirsk",
+        "sales":"MCX: STKM MCX: ENCO"
+    },
+    {
+        "company_name":"Sinara Group",
+        "Russian":"\u0413\u0440\u0443\u043f\u043f\u0430 \u0421\u0438\u043d\u0430\u0440\u0430",
+        "country":"Ekaterinburg",
+        "sales":"Commercial vehicles & trucks, real estate, hotels"
+    },
+    {
+        "company_name":"Sistema",
+        "Russian":"\u0421\u0438\u0441\u0442\u0435\u043c\u0430",
+        "country":"Moscow",
+        "sales":"MCX: AFKS LSE: SSA"
+    },
+    {
+        "company_name":"Sitronics",
+        "Russian":"\u0421\u0438\u0442\u0440\u043e\u043d\u0438\u043a\u0441",
+        "country":"Moscow",
+        "sales":"LSE: SITR RTSI:SITRG"
+    },
+    {
+        "company_name":"Sollers JSC",
+        "Russian":"Sollers",
+        "country":"Moscow",
+        "sales":"MCX: SVAV"
+    },
+    {
+        "company_name":"Southern Telecom",
+        "Russian":"\u042e\u0436\u043d\u0430\u044f \u0442\u0435\u043b\u0435\u043a\u043e\u043c\u043c\u0443\u043d\u0438\u043a\u0430\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f",
+        "country":"Krasnodar",
+        "sales":"MCX: UTEL MCX: KUBN"
+    },
+    {
+        "company_name":"Sovkomflot",
+        "Russian":"\u0421\u043e\u0432\u043a\u043e\u043c\u0444\u043b\u043e\u0442",
+        "country":"Saint Petersburg",
+        "sales":""
+    },
+    {
+        "company_name":"Sozvezdie",
+        "Russian":"\u041a\u043e\u043d\u0446\u0435\u0440\u043d \u00ab\u0421\u043e\u0437\u0432\u0435\u0437\u0434\u0438\u0435\u00bb",
+        "country":"Voronezh",
+        "sales":"Electronic Equipment, Defence"
+    },
+    {
+        "company_name":"S.P. Korolev Rocket and Space Corporation Energia",
+        "Russian":"\u0420\u0430\u043a\u0435\u0442\u043d\u043e-\u043a\u043e\u0441\u043c\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0446\u0438\u044f \u00ab\u042d\u043d\u0435\u0301\u0440\u0433\u0438\u044f\u00bb \u0438\u043c\u0435\u043d\u0438 \u0421. \u041f. \u041a\u043e\u0440\u043e\u043b\u0451\u0432\u0430",
+        "country":"Korolyov, Moscow Oblast",
+        "sales":"MCX: RKKE"
+    },
+    {
+        "company_name":"SU-155",
+        "Russian":"\u0421\u0423-155",
+        "country":"Moscow",
+        "sales":"Real estate, building materials, commercial vehicles, industrial machinery"
+    },
+    {
+        "company_name":"Sukhoi",
+        "Russian":"\u0421\u0443\u0445\u043e\u0439",
+        "country":"Moscow",
+        "sales":""
+    },
+    {
+        "company_name":"Surgutneftegaz",
+        "Russian":"\u0421\u0443\u0440\u0433\u0443\u0442\u043d\u0435\u0444\u0442\u0435\u0433\u0430\u0437",
+        "country":"Surgut",
+        "sales":"MCX: SNGS"
+    },
+    {
+        "company_name":"Svyazinvest",
+        "Russian":"\u0421\u0432\u044f\u0437\u044c\u0438\u043d\u0432\u0435\u0441\u0442",
+        "country":"Moscow",
+        "sales":""
+    },
+    {
+        "company_name":"Svyaznoy",
+        "Russian":"\u0421\u0432\u044f\u0437\u043d\u043e\u0439",
+        "country":"Moscow",
+        "sales":"Specialty retailer"
+    },
+    {
+        "company_name":"Tactical Missiles Corporation",
+        "Russian":"\u041a\u043e\u0440\u043f\u043e\u0440\u0430\u0446\u0438\u044f \u201e\u0422\u0430\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u0440\u0430\u043a\u0435\u0442\u043d\u043e\u0435 \u0432\u043e\u043e\u0440\u0443\u0436\u0435\u043d\u0438\u0435\u201c",
+        "country":"Korolyov, Moscow Oblast",
+        "sales":""
+    },
+    {
+        "company_name":"Tasma",
+        "Russian":"\u0422\u0430\u0441\u043c\u0430",
+        "country":"Kazan",
+        "sales":"Specialty chemicals"
+    },
+    {
+        "company_name":"Tatneft",
+        "Russian":"\u0422\u0430\u0442\u043d\u0435\u0444\u0442\u044c",
+        "country":"Almetyevsk",
+        "sales":"MCX: TATN LSE: ATAD FWB: TTFB"
+    },
+    {
+        "company_name":"TEZ Tour",
+        "Russian":"TEZ Tour",
+        "country":"Moscow",
+        "sales":""
+    },
+    {
+        "company_name":"TNK-BP",
+        "Russian":"\u0422\u041d\u041a-BP",
+        "country":"Moscow",
+        "sales":"MCX: TNBP"
+    },
+    {
+        "company_name":"TogliattiAzot",
+        "Russian":"\u0422\u043e\u043b\u044c\u044f\u0442\u0442\u0438\u0430\u0437\u043e\u0442",
+        "country":"Togliatti",
+        "sales":"Commodity chemicals"
+    },
+    {
+        "company_name":"Transmashholding",
+        "Russian":"\u0422\u0440\u0430\u043d\u0441\u043c\u0430\u0448\u0445\u043e\u043b\u0434\u0438\u043d\u0433",
+        "country":"Moscow",
+        "sales":"Commercial vehicles & trucks"
+    },
+    {
+        "company_name":"Transneft",
+        "Russian":"\u0422\u0440\u0430\u043d\u0441\u043d\u0435\u0444\u0442\u044c",
+        "country":"Moscow",
+        "sales":""
+    },
+    {
+        "company_name":"Trolza",
+        "Russian":"\u0422\u0440\u043e\u043b\u0437\u0430",
+        "country":"Engels, Saratov Oblast",
+        "sales":""
+    },
+    {
+        "company_name":"TsUM Trading House",
+        "Russian":"\u0422\u043e\u0440\u0433\u043e\u0432\u044b\u0439 \u0434\u043e\u043c \u0426\u0423\u041c",
+        "country":"Moscow",
+        "sales":"MCX: TZUM"
+    },
+    {
+        "company_name":"Tupolev",
+        "Russian":"\u0422\u0443\u043f\u043e\u043b\u0435\u0432",
+        "country":"Moscow",
+        "sales":""
+    },
+    {
+        "company_name":"Tverskoy Vagonostroitelniy Zavod",
+        "Russian":"\u0422\u0432\u0435\u0440\u0441\u043a\u043e\u0439 \u0432\u0430\u0433\u043e\u043d\u043e\u0441\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u0437\u0430\u0432\u043e\u0434",
+        "country":"Tver",
+        "sales":"MCX: TVAG"
+    },
+    {
+        "company_name":"TV Tsentr",
+        "Russian":"\u0422\u0435\u043b\u0435\u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f \u201e\u0422\u0412 \u0426\u0435\u043d\u0442\u0440\u201c",
+        "country":"Moscow",
+        "sales":""
+    },
+    {
+        "company_name":"Inter RAO",
+        "Russian":"\u0418\u043d\u0442\u0435\u0440 \u0420\u0430\u043e",
+        "country":"Moscow",
+        "sales":"MCX: EESR"
+    },
+    {
+        "company_name":"United Aircraft Corporation",
+        "Russian":"\u041e\u0431\u044a\u0435\u0434\u0438\u043d\u0451\u043d\u043d\u0430\u044f \u0430\u0432\u0438\u0430\u0441\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c\u043d\u0430\u044f \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0446\u0438\u044f",
+        "country":"Moscow",
+        "sales":"MCX: UNAC"
+    },
+    {
+        "company_name":"United Shipbuilding Corporation",
+        "Russian":"\u041e\u0431\u044a\u0435\u0434\u0438\u043d\u0451\u043d\u043d\u0430\u044f \u0441\u0443\u0434\u043e\u0441\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c\u043d\u0430\u044f \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0446\u0438\u044f",
+        "country":"Saint Petersburg",
+        "sales":"Shipyards"
+    },
+    {
+        "company_name":"Uralkali",
+        "Russian":"\u0423\u0440\u0430\u043b\u043a\u0430\u043b\u0438\u0439",
+        "country":"Berezniki",
+        "sales":"MCX: URKA LSE: URKA"
+    },
+    {
+        "company_name":"Uralmash",
+        "Russian":"\u041c\u0430\u0448\u0438\u043d\u043e\u0441\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c\u043d\u0430\u044f \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0446\u0438\u044f \u201e\u0423\u0440\u0430\u043b\u043c\u0430\u0448\u201c, \u0423\u0417\u0422\u041c",
+        "country":"Ekaterinburg",
+        "sales":""
+    },
+    {
+        "company_name":"Ural Mining and Metallurgical Company",
+        "Russian":"\u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0430\u044f \u0433\u043e\u0440\u043d\u043e-\u043c\u0435\u0442\u0430\u043b\u043b\u0443\u0440\u0433\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f",
+        "country":"Verkhnyaya Pyshma",
+        "sales":""
+    },
+    {
+        "company_name":"Uralsib",
+        "Russian":"\u0421\u0442\u0440\u0430\u0445\u043e\u0432\u0430\u044f \u0433\u0440\u0443\u043f\u043f\u0430 \u00ab\u0423\u0440\u0430\u043b\u0441\u0438\u0431\u00bb",
+        "country":"Moscow",
+        "sales":"Life, property & casualty insurance"
+    },
+    {
+        "company_name":"UAZ",
+        "Russian":"\u0423\u0410\u0417",
+        "country":"Ulyanovsk",
+        "sales":"MCX: UAZA"
+    },
+    {
+        "company_name":"Uralsvyazinform",
+        "Russian":"\u0423\u0440\u0430\u043b\u0441\u0432\u044f\u0437\u044c\u0438\u043d\u0444\u043e\u0440\u043c",
+        "country":"Ekaterinburg",
+        "sales":"MCX: URSI"
+    },
+    {
+        "company_name":"Uralvagonzavod",
+        "Russian":"\u041d\u0430\u0443\u0447\u043d\u043e-\u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0446\u0438\u044f \u201e\u0423\u0440\u0430\u043b\u0432\u0430\u0433\u043e\u043d\u0437\u0430\u0432\u043e\u0434\u201c \u0438\u043c\u0435\u043d\u0438 \u0424. \u042d. \u0414\u0437\u0435\u0440\u0436\u0438\u043d\u0441\u043a\u043e\u0433\u043e",
+        "country":"Nizhny Tagil",
+        "sales":"Railroads, RTSI:URVZ"
+    },
+    {
+        "company_name":"UTair Aviation",
+        "Russian":"\u0410\u0432\u0438\u0430\u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f \u00ab\u042e\u0422\u044d\u0439\u0440\u00bb",
+        "country":"Khanty-Mansiysk",
+        "sales":"Airline, MCX: UTAR MCX: TMAT"
+    },
+    {
+        "company_name":"VAZInterService",
+        "Russian":"\u0412\u0430\u0437\u0438\u043d\u0442\u0435\u0440\u0441\u0435\u0440\u0432\u0438\u0441",
+        "country":"Togliatti",
+        "sales":""
+    },
+    {
+        "company_name":"Vologodskiy mechanical plant",
+        "Russian":"\u0412\u043e\u043b\u043e\u0433\u043e\u0434\u0441\u043a\u0438\u0439 \u043c\u0435\u0445\u0430\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0437\u0430\u0432\u043e\u0434",
+        "country":"Vologda",
+        "sales":""
+    },
+    {
+        "company_name":"Vkontakte",
+        "Russian":"\u0412\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u0435",
+        "country":"Saint Petersburg",
+        "sales":""
+    },
+    {
+        "company_name":"Voenizdat",
+        "Russian":"\u0412\u043e\u0435\u043d\u0438\u0437\u0434\u0430\u0442",
+        "country":"Moscow",
+        "sales":"Publishing"
+    },
+    {
+        "company_name":"VolgaTelecom",
+        "Russian":"Telecommunications",
+        "country":"Nizhny Novgorod",
+        "sales":"MCX: VTEL MCX: NNSI"
+    },
+    {
+        "company_name":"Volgotanker",
+        "Russian":"\u0412\u043e\u043b\u0433\u043e\u0442\u0430\u043d\u043a\u0435\u0440",
+        "country":"Samara",
+        "sales":""
+    },
+    {
+        "company_name":"Volzhanin",
+        "Russian":"\u0412\u043e\u043b\u0436\u0430\u043d\u0438\u043d",
+        "country":"Volzhsky, Volgograd Oblast",
+        "sales":""
+    },
+    {
+        "company_name":"Voronezh Aircraft Production Association",
+        "Russian":"\u0412\u043e\u0440\u043e\u043d\u0435\u0436\u0441\u043a\u043e\u0435 \u0430\u043a\u0446\u0438\u043e\u043d\u0435\u0440\u043d\u043e\u0435 \u0441\u0430\u043c\u043e\u043b\u0451\u0442\u043e\u0441\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0435 \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u043e",
+        "country":"Voronezh",
+        "sales":"RTSI:VASOP"
+    },
+    {
+        "company_name":"VSMPO-AVISMA",
+        "Russian":"\u0412\u0421\u041c\u041f\u041e-\u0410\u0412\u0418\u0421\u041c\u0410",
+        "country":"Verkhnyaya Salda",
+        "sales":"MCX: VSMO"
+    },
+    {
+        "company_name":"VTB Bank",
+        "Russian":"\u0411\u0430\u043d\u043a \u0412\u0422\u0411",
+        "country":"Moscow",
+        "sales":"MCX: VTBR"
+    },
+    {
+        "company_name":"Wimm-Bill-Dann Foods",
+        "Russian":"\u0412\u0438\u043c\u043c-\u0411\u0438\u043b\u043b\u044c-\u0414\u0430\u043d\u043d \u041f\u0440\u043e\u0434\u0443\u043a\u0442\u044b \u043f\u0438\u0442\u0430\u043d\u0438\u044f",
+        "country":"Moscow",
+        "sales":"MCX: WBDF NYSE: WBD"
+    },
+    {
+        "company_name":"X5 Retail Group",
+        "Russian":"X5 Retail Group",
+        "country":"Moscow",
+        "sales":"LSE: FIVE"
+    },
+    {
+        "company_name":"Yakovlev",
+        "Russian":"\u041e\u043f\u044b\u0442\u043d\u043e-\u043a\u043e\u043d\u0441\u0442\u0440\u0443\u043a\u0442\u043e\u0440\u0441\u043a\u043e\u0435 \u0431\u044e\u0440\u043e \u0438\u043c. \u0410. \u0421. \u042f\u043a\u043e\u0432\u043b\u0435\u0432\u0430",
+        "country":"Moscow",
+        "sales":"RTSI:OKBY"
+    },
+    {
+        "company_name":"Yandex",
+        "Russian":"\u042f\u043d\u0434\u0435\u043a\u0441",
+        "country":"Moscow",
+        "sales":"MCX: YNDX NASDAQ: YNDX"
+    },
+    {
+        "company_name":"Yuganskneftegaz",
+        "Russian":"\u042e\u0433\u0430\u043d\u0441\u043a\u043d\u0435\u0444\u0442\u0435\u0433\u0430\u0437",
+        "country":"Nefteyugansk",
+        "sales":""
+    },
+    {
+        "company_name":"ZiL",
+        "Russian":"\u0417\u0418\u041b",
+        "country":"Moscow",
+        "sales":"MCX: ZILL"
+    }
+]

@@ -1,0 +1,532 @@
+[
+    {
+        "company_name":"Volkswagen",
+        "country":"Germany",
+        "industry":"Automotive"
+    },
+    {
+        "company_name":"Daimler",
+        "country":"Germany",
+        "industry":"Automotive"
+    },
+    {
+        "company_name":"Exor",
+        "country":"Italy",
+        "industry":"Automotive"
+    },
+    {
+        "company_name":"BASF",
+        "country":"Germany",
+        "industry":"Chemicals"
+    },
+    {
+        "company_name":"Nestle",
+        "country":"Switzerland",
+        "industry":"Food"
+    },
+    {
+        "company_name":"Siemens",
+        "country":"Germany",
+        "industry":"Engineering, various"
+    },
+    {
+        "company_name":"BMW",
+        "country":"Germany",
+        "industry":"Automotive"
+    },
+    {
+        "company_name":"ArcelorMittal",
+        "country":"Luxembourg",
+        "industry":"Metals"
+    },
+    {
+        "company_name":"Airbus",
+        "country":"France  Germany",
+        "industry":"Aerospace & Defence"
+    },
+    {
+        "company_name":"Peugeot",
+        "country":"France",
+        "industry":"Automotive"
+    },
+    {
+        "company_name":"Bosch*",
+        "country":"Germany",
+        "industry":"Engineering, various"
+    },
+    {
+        "company_name":"Unilever",
+        "country":"United Kingdom\/ Netherlands",
+        "industry":"Food, Household & Personal Care"
+    },
+    {
+        "company_name":"Repsol",
+        "country":"Spain",
+        "industry":"Oil & Gas"
+    },
+    {
+        "company_name":"Saint-Gobain",
+        "country":"France",
+        "industry":"Building materials"
+    },
+    {
+        "company_name":"Novartis",
+        "country":"Switzerland",
+        "industry":"Pharmaceuticals"
+    },
+    {
+        "company_name":"Renault",
+        "country":"France",
+        "industry":"Automotive"
+    },
+    {
+        "company_name":"Bayer",
+        "country":"Germany",
+        "industry":"Pharmaceuticals, Chemicals"
+    },
+    {
+        "company_name":"ThyssenKrupp",
+        "country":"Germany",
+        "industry":"Metals"
+    },
+    {
+        "company_name":"Rio Tinto",
+        "country":"United Kingdom",
+        "industry":"Metals"
+    },
+    {
+        "company_name":"Hoffmann-La Roche",
+        "country":"Switzerland",
+        "industry":"Pharmaceuticals"
+    },
+    {
+        "company_name":"Koc Holding",
+        "country":"Turkey",
+        "industry":"Consumer durables"
+    },
+    {
+        "company_name":"Volvo",
+        "country":"Sweden",
+        "industry":"Automotive"
+    },
+    {
+        "company_name":"LyondellBasell",
+        "country":"Netherlands",
+        "industry":"Chemicals"
+    },
+    {
+        "company_name":"Sanofi",
+        "country":"France",
+        "industry":"Pharmaceuticals"
+    },
+    {
+        "company_name":"Continental",
+        "country":"Germany",
+        "industry":"Tyres"
+    },
+    {
+        "company_name":"GlaxoSmithKline",
+        "country":"United Kingdom",
+        "industry":"Pharmaceuticals"
+    },
+    {
+        "company_name":"ABB",
+        "country":"Switzerland",
+        "industry":"Engineering, various"
+    },
+    {
+        "company_name":"Inditex",
+        "country":"Spain",
+        "industry":"Textile"
+    },
+    {
+        "company_name":"Anheuser-Busch InBev",
+        "country":"Belgium",
+        "industry":"Beverages"
+    },
+    {
+        "company_name":"Nokia",
+        "country":"Finland",
+        "industry":"Telecommunications equipment"
+    },
+    {
+        "company_name":"Christian Dior",
+        "country":"France",
+        "industry":"Apparel & Accessories"
+    },
+    {
+        "company_name":"Heraeus Holding*",
+        "country":"Germany",
+        "industry":"Engineering, various"
+    },
+    {
+        "company_name":"Ericsson",
+        "country":"Sweden",
+        "industry":"Telecommunications equipment"
+    },
+    {
+        "company_name":"Ineos*",
+        "country":"United Kingdom",
+        "industry":"Chemicals"
+    },
+    {
+        "company_name":"Philips",
+        "country":"Netherlands",
+        "industry":"Electronics"
+    },
+    {
+        "company_name":"Schneider Electric",
+        "country":"France",
+        "industry":"Engineering, various"
+    },
+    {
+        "company_name":"Anglo American",
+        "country":"United Kingdom",
+        "industry":"Metals"
+    },
+    {
+        "company_name":"L'Oreal",
+        "country":"France",
+        "industry":"Cosmetics"
+    },
+    {
+        "company_name":"AstraZeneca",
+        "country":"United Kingdom",
+        "industry":"Pharmaceuticals"
+    },
+    {
+        "company_name":"Michelin",
+        "country":"France",
+        "industry":"Tyres"
+    },
+    {
+        "company_name":"Danone",
+        "country":"France",
+        "industry":"Food"
+    },
+    {
+        "company_name":"Alstom",
+        "country":"France",
+        "industry":"Engineering, various"
+    },
+    {
+        "company_name":"BAE Systems",
+        "country":"United Kingdom",
+        "industry":"Aerospace & Defence"
+    },
+    {
+        "company_name":"Fresenius",
+        "country":"Germany",
+        "industry":"Medical equipment"
+    },
+    {
+        "company_name":"CRH",
+        "country":"Ireland",
+        "industry":"Building materials"
+    },
+    {
+        "company_name":"Heineken Holding",
+        "country":"Netherlands",
+        "industry":"Beverages"
+    },
+    {
+        "company_name":"British American Tobacco",
+        "country":"United Kingdom",
+        "industry":"Tobacco"
+    },
+    {
+        "company_name":"Imperial Tobacco Group",
+        "country":"United Kingdom",
+        "industry":"Tobacco"
+    },
+    {
+        "company_name":"Holcim",
+        "country":"Switzerland",
+        "industry":"Building materials"
+    },
+    {
+        "company_name":"Leonardo-Finmeccanica",
+        "country":"Italy",
+        "industry":"Aerospace & Defence"
+    },
+    {
+        "company_name":"Henkel",
+        "country":"Germany",
+        "industry":"Household & Personal Care"
+    },
+    {
+        "company_name":"Wolseley",
+        "country":"Switzerland",
+        "industry":"Building materials"
+    },
+    {
+        "company_name":"Lafarge",
+        "country":"France",
+        "industry":"Building materials"
+    },
+    {
+        "company_name":"Akzo Nobel",
+        "country":"Netherlands",
+        "industry":"Chemicals"
+    },
+    {
+        "company_name":"Air Liquide",
+        "country":"France",
+        "industry":"Chemicals"
+    },
+    {
+        "company_name":"Linde",
+        "country":"Germany",
+        "industry":"Chemicals"
+    },
+    {
+        "company_name":"Associated British Foods",
+        "country":"United Kingdom",
+        "industry":"Food"
+    },
+    {
+        "company_name":"Rolls-Royce plc",
+        "country":"United Kingdom",
+        "industry":"Aerospace & Defence"
+    },
+    {
+        "company_name":"Adidas",
+        "country":"Germany",
+        "industry":"Apparel & Accessories"
+    },
+    {
+        "company_name":"Johnson Matthey",
+        "country":"United Kingdom",
+        "industry":"Chemicals"
+    },
+    {
+        "company_name":"Alcatel-Lucent",
+        "country":"France",
+        "industry":"Telecommunications equipment"
+    },
+    {
+        "company_name":"Thales Group",
+        "country":"France",
+        "industry":"Aerospace & Defence"
+    },
+    {
+        "company_name":"Heidelberg Cement",
+        "country":"Germany",
+        "industry":"Building materials"
+    },
+    {
+        "company_name":"Safran",
+        "country":"France",
+        "industry":"Aerospace & Defence"
+    },
+    {
+        "company_name":"Aurubis",
+        "country":"Germany",
+        "industry":"Metals"
+    },
+    {
+        "company_name":"Diageo",
+        "country":"United Kingdom",
+        "industry":"Beverages"
+    },
+    {
+        "company_name":"Electrolux",
+        "country":"Sweden",
+        "industry":"Consumer durables"
+    },
+    {
+        "company_name":"SAB Miller",
+        "country":"United Kingdom",
+        "industry":"Beverages"
+    },
+    {
+        "company_name":"Umicore",
+        "country":"Belgium",
+        "industry":"Metals"
+    },
+    {
+        "company_name":"Evraz",
+        "country":"United Kingdom",
+        "industry":"Metals"
+    },
+    {
+        "company_name":"Solvay",
+        "country":"Belgium",
+        "industry":"Chemicals"
+    },
+    {
+        "company_name":"Eaton",
+        "country":"Ireland",
+        "industry":"Engineering, various"
+    },
+    {
+        "company_name":"Seagate Technology",
+        "country":"Ireland",
+        "industry":"Electronics"
+    },
+    {
+        "company_name":"Voestalpine",
+        "country":"Austria",
+        "industry":"Metals"
+    },
+    {
+        "company_name":"Reckitt Benckiser",
+        "country":"United Kingdom",
+        "industry":"Household & Personal Care"
+    },
+    {
+        "company_name":"Delphi Automotive",
+        "country":"United Kingdom",
+        "industry":"Automotive components"
+    },
+    {
+        "company_name":"Sandvik",
+        "country":"Sweden",
+        "industry":"Engineering, various"
+    },
+    {
+        "company_name":"Valeo",
+        "country":"France",
+        "industry":"Automotive components"
+    },
+    {
+        "company_name":"Yara International",
+        "country":"Norway",
+        "industry":"Chemicals"
+    },
+    {
+        "company_name":"Syngenta",
+        "country":"Switzerland",
+        "industry":"Chemicals"
+    },
+    {
+        "company_name":"Stora Enso",
+        "country":"Finland",
+        "industry":"Pulp & Paper"
+    },
+    {
+        "company_name":"Severstal",
+        "country":"Russia",
+        "industry":"Metals"
+    },
+    {
+        "company_name":"Ingersoll-Rand",
+        "country":"Ireland",
+        "industry":"Engineering, various"
+    },
+    {
+        "company_name":"Vedanta Resources",
+        "country":"United Kingdom",
+        "industry":"Metals"
+    },
+    {
+        "company_name":"Merck",
+        "country":"Germany",
+        "industry":"Pharmaceuticals"
+    },
+    {
+        "company_name":"Novo Nordisk",
+        "country":"Denmark",
+        "industry":"Pharmaceuticals"
+    },
+    {
+        "company_name":"UPM Kymmene",
+        "country":"Finland",
+        "industry":"Pulp & Paper"
+    },
+    {
+        "company_name":"Atlas Copco",
+        "country":"Sweden",
+        "industry":"Engineering, various"
+    },
+    {
+        "company_name":"Salzgitter AG",
+        "country":"Germany",
+        "industry":"Metals"
+    },
+    {
+        "company_name":"TE Connectivity",
+        "country":"Switzerland",
+        "industry":"Electronics"
+    },
+    {
+        "company_name":"SCA",
+        "country":"Sweden",
+        "industry":"Pulp & Paper"
+    },
+    {
+        "company_name":"Kering",
+        "country":"France",
+        "industry":"Apparel & Accessories"
+    },
+    {
+        "company_name":"Norilsk Nickel",
+        "country":"Russia",
+        "industry":"Metals"
+    },
+    {
+        "company_name":"Novolipetsk Steel",
+        "country":"Russia",
+        "industry":"Metals"
+    },
+    {
+        "company_name":"Covidien",
+        "country":"Ireland",
+        "industry":"Medical equipment"
+    },
+    {
+        "company_name":"DSM",
+        "country":"Netherlands",
+        "industry":"Chemicals"
+    },
+    {
+        "company_name":"Lanxess",
+        "country":"Germany",
+        "industry":"Chemicals"
+    },
+    {
+        "company_name":"Norsk Hydro",
+        "country":"Norway",
+        "industry":"Metals"
+    },
+    {
+        "company_name":"Carlsberg",
+        "country":"Denmark",
+        "industry":"Beverages"
+    },
+    {
+        "company_name":"Mechel",
+        "country":"Russia",
+        "industry":"Metals"
+    },
+    {
+        "company_name":"Tenaris",
+        "country":"Luxembourg",
+        "industry":"Oil & Gas equipment"
+    },
+    {
+        "company_name":"UC Rusal",
+        "country":"Russia",
+        "industry":"Metals"
+    },
+    {
+        "company_name":"GKN",
+        "country":"United Kingdom",
+        "industry":"Automotive components"
+    },
+    {
+        "company_name":"Tyco International",
+        "country":"Switzerland",
+        "industry":"Engineering, various"
+    },
+    {
+        "company_name":"Pernod Ricard",
+        "country":"France",
+        "industry":"Beverages"
+    },
+    {
+        "company_name":"Prysmian Group",
+        "country":"Italy",
+        "industry":"Cable"
+    }
+]

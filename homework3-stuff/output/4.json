@@ -1,0 +1,52 @@
+[
+    {
+        "company_name":"ICBC",
+        "country":"Beijing",
+        "industry":"Banking, financial services"
+    },
+    {
+        "company_name":"China Construction Bank",
+        "country":"Beijing",
+        "industry":"Banking, financial services"
+    },
+    {
+        "company_name":"Agricultural Bank of China",
+        "country":"Beijing",
+        "industry":"Banking, financial services"
+    },
+    {
+        "company_name":"Berkshire Hathaway",
+        "country":"Omaha",
+        "industry":"Conglomerate"
+    },
+    {
+        "company_name":"JPMorgan Chase",
+        "country":"New York",
+        "industry":"Banking, financial services"
+    },
+    {
+        "company_name":"Bank of China",
+        "country":"Beijing",
+        "industry":"Banking, financial services"
+    },
+    {
+        "company_name":"Wells Fargo",
+        "country":"San Francisco",
+        "industry":"Banking, financial services"
+    },
+    {
+        "company_name":"Apple",
+        "country":"Cupertino",
+        "industry":"Computing"
+    },
+    {
+        "company_name":"Exxon Mobil",
+        "country":"Irving",
+        "industry":"Oil and gas"
+    },
+    {
+        "company_name":"Toyota Motor",
+        "country":"Toyota",
+        "industry":"Automotive"
+    }
+]

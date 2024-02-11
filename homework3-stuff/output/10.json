@@ -1,0 +1,207 @@
+[
+    {
+        "company_name":"ABB",
+        "Countries listed":"Sweden",
+        "sector":"industrial machinery"
+    },
+    {
+        "company_name":"Alfa Laval",
+        "Countries listed":"Sweden",
+        "sector":"industrial machinery"
+    },
+    {
+        "company_name":"A.P. M\u00f8ller-M\u00e6rsk (class B)",
+        "Countries listed":"Denmark",
+        "sector":"marine"
+    },
+    {
+        "company_name":"Assa Abloy",
+        "Countries listed":"Sweden",
+        "sector":"building products"
+    },
+    {
+        "company_name":"Autoliv",
+        "Countries listed":"Sweden",
+        "sector":"automotive safety systems"
+    },
+    {
+        "company_name":"AstraZeneca",
+        "Countries listed":"Sweden",
+        "sector":"pharmaceuticals"
+    },
+    {
+        "company_name":"Atlas Copco (class A)",
+        "Countries listed":"Sweden",
+        "sector":"industrial machinery"
+    },
+    {
+        "company_name":"Carlsberg Group",
+        "Countries listed":"Denmark",
+        "sector":"brewers"
+    },
+    {
+        "company_name":"Danske Bank",
+        "Countries listed":"Denmark",
+        "sector":"diversified banks"
+    },
+    {
+        "company_name":"Electrolux",
+        "Countries listed":"Sweden",
+        "sector":"household appliances"
+    },
+    {
+        "company_name":"Ericsson",
+        "Countries listed":"Sweden",
+        "sector":"communications equipment"
+    },
+    {
+        "company_name":"Fortum",
+        "Countries listed":"Finland",
+        "sector":"electric utilities"
+    },
+    {
+        "company_name":"Getinge",
+        "Countries listed":"Sweden",
+        "sector":"health care equipment"
+    },
+    {
+        "company_name":"Hennes & Mauritz",
+        "Countries listed":"Sweden",
+        "sector":"apparel retail"
+    },
+    {
+        "company_name":"Investor",
+        "Countries listed":"Sweden",
+        "sector":"multi-sector holdings"
+    },
+    {
+        "company_name":"Kone",
+        "Countries listed":"Finland",
+        "sector":"industrial machinery"
+    },
+    {
+        "company_name":"Metso",
+        "Countries listed":"Finland",
+        "sector":"industrial machinery"
+    },
+    {
+        "company_name":"Nordea",
+        "Countries listed":"Denmark\/Finland\/Sweden",
+        "sector":"diversified banks"
+    },
+    {
+        "company_name":"Nokia",
+        "Countries listed":"Finland\/Sweden",
+        "sector":"communications equipment"
+    },
+    {
+        "company_name":"Novo Nordisk",
+        "Countries listed":"Denmark",
+        "sector":"pharmaceuticals"
+    },
+    {
+        "company_name":"Novozymes",
+        "Countries listed":"Denmark",
+        "sector":"specialty chemicals"
+    },
+    {
+        "company_name":"Outokumpu",
+        "Countries listed":"Finland",
+        "sector":"steel"
+    },
+    {
+        "company_name":"Sampo",
+        "Countries listed":"Finland",
+        "sector":"multi-line insurance"
+    },
+    {
+        "company_name":"Sandvik",
+        "Countries listed":"Sweden",
+        "sector":"industrial machinery"
+    },
+    {
+        "company_name":"SCA",
+        "Countries listed":"Sweden",
+        "sector":"paper products"
+    },
+    {
+        "company_name":"SCANIA",
+        "Countries listed":"Sweden",
+        "sector":"construction and farm machinery; heavy trucks"
+    },
+    {
+        "company_name":"SEB",
+        "Countries listed":"Sweden",
+        "sector":"diversified banks"
+    },
+    {
+        "company_name":"Securitas",
+        "Countries listed":"Sweden",
+        "sector":"diversified commercial and professional services"
+    },
+    {
+        "company_name":"Skanska",
+        "Countries listed":"Sweden",
+        "sector":"construction and engineering"
+    },
+    {
+        "company_name":"SKF",
+        "Countries listed":"Sweden",
+        "sector":"industrial machinery"
+    },
+    {
+        "company_name":"SSAB",
+        "Countries listed":"Sweden",
+        "sector":"steel"
+    },
+    {
+        "company_name":"Svenska Handelsbanken",
+        "Countries listed":"Sweden",
+        "sector":"diversified banks"
+    },
+    {
+        "company_name":"Stora Enso",
+        "Countries listed":"Finland\/Sweden",
+        "sector":"paper products"
+    },
+    {
+        "company_name":"Swedbank",
+        "Countries listed":"Sweden",
+        "sector":"diversified banks"
+    },
+    {
+        "company_name":"Swedish Match",
+        "Countries listed":"Sweden",
+        "sector":"tobacco"
+    },
+    {
+        "company_name":"Tele2",
+        "Countries listed":"Sweden",
+        "sector":"integrated telecommunication services"
+    },
+    {
+        "company_name":"TeliaSonera",
+        "Countries listed":"Finland\/Sweden",
+        "sector":"integrated telecommunication services"
+    },
+    {
+        "company_name":"UPM",
+        "Countries listed":"Finland",
+        "sector":"paper products"
+    },
+    {
+        "company_name":"Volvo Group",
+        "Countries listed":"Sweden",
+        "sector":"construction and farm machinery; heavy trucks"
+    },
+    {
+        "company_name":"Vestas Wind Systems",
+        "Countries listed":"Denmark",
+        "sector":"heavy electrical equipment"
+    },
+    {
+        "company_name":"W\u00e4rtsil\u00e4",
+        "Countries listed":"Finland",
+        "sector":"industrial machinery"
+    }
+]

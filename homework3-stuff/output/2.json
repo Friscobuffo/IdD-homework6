@@ -1,0 +1,296 @@
+[
+    {
+        "company_name":"Walmart",
+        "industry":"Retail",
+        "country":"Bentonville, Arkansas",
+        "ceo":"Doug McMillon"
+    },
+    {
+        "company_name":"Sinopec Group",
+        "industry":"Oil and gas",
+        "country":"Beijing",
+        "ceo":"Wang Tianpu"
+    },
+    {
+        "company_name":"China National Petroleum Corporation",
+        "industry":"Oil and gas",
+        "country":"Beijing",
+        "ceo":"Wang Yilin"
+    },
+    {
+        "company_name":"Saudi Aramco",
+        "industry":"Oil and gas",
+        "country":"Dhahran",
+        "ceo":"Amin H. Nasser"
+    },
+    {
+        "company_name":"State Grid",
+        "industry":"Electric utility",
+        "country":"Beijing",
+        "ceo":"Liu Zhenya"
+    },
+    {
+        "company_name":"Samsung",
+        "industry":"Conglomerate",
+        "country":"Suwon",
+        "ceo":"Lee Kun-hee"
+    },
+    {
+        "company_name":"Royal Dutch Shell",
+        "industry":"Oil and gas",
+        "country":"The Hague  London",
+        "ceo":"Ben van Beurden"
+    },
+    {
+        "company_name":"ExxonMobil",
+        "industry":"Oil and gas",
+        "country":"Irving, Texas",
+        "ceo":"Rex W. Tillerson"
+    },
+    {
+        "company_name":"Vitol",
+        "industry":"Commodities",
+        "country":"Rotterdam;  Geneva",
+        "ceo":"Ian Taylor"
+    },
+    {
+        "company_name":"Kuwait Petroleum Corporation",
+        "industry":"Oil and gas",
+        "country":"Al Shuwaikh",
+        "ceo":"Nizar Al-Adsani"
+    },
+    {
+        "company_name":"Volkswagen",
+        "industry":"Automotive",
+        "country":"Wolfsburg",
+        "ceo":"Matthias M\u00fcller"
+    },
+    {
+        "company_name":"Apple",
+        "industry":"Consumer electronics",
+        "country":"Cupertino, California",
+        "ceo":"Tim Cook"
+    },
+    {
+        "company_name":"Toyota",
+        "industry":"Automotive",
+        "country":"Toyota, Aichi",
+        "ceo":"Akio Toyoda"
+    },
+    {
+        "company_name":"BP",
+        "industry":"Oil and gas",
+        "country":"London",
+        "ceo":"Bob Dudley"
+    },
+    {
+        "company_name":"Glencore",
+        "industry":"Commodities",
+        "country":"Baar",
+        "ceo":"Ivan Glasenberg"
+    },
+    {
+        "company_name":"Total",
+        "industry":"Oil and gas",
+        "country":"Courbevoie",
+        "ceo":"Patrick Pouyanne"
+    },
+    {
+        "company_name":"Berkshire Hathaway",
+        "industry":"Conglomerate",
+        "country":"Omaha, Nebraska",
+        "ceo":"Warren Buffett"
+    },
+    {
+        "company_name":"McKesson",
+        "industry":"Pharmaceuticals",
+        "country":"San Francisco, California",
+        "ceo":"John Hammergren"
+    },
+    {
+        "company_name":"China Railway",
+        "industry":"Transport",
+        "country":"Beijing",
+        "ceo":"Sheng Guangzu"
+    },
+    {
+        "company_name":"Phillips 66",
+        "industry":"Oil and gas",
+        "country":"Houston, Texas",
+        "ceo":"Greg Garland"
+    },
+    {
+        "company_name":"Japan Post",
+        "industry":"Conglomerate",
+        "country":"Tokyo",
+        "ceo":"Jiro Saito"
+    },
+    {
+        "company_name":"Daimler",
+        "industry":"Automotive",
+        "country":"Stuttgart",
+        "ceo":"Dieter Zetsche"
+    },
+    {
+        "company_name":"General Motors",
+        "industry":"Automotive",
+        "country":"Detroit, Michigan",
+        "ceo":"Mary Barra"
+    },
+    {
+        "company_name":"General Electric",
+        "industry":"Conglomerate",
+        "country":"Boston, Massachusetts",
+        "ceo":"Jeffrey Immelt"
+    },
+    {
+        "company_name":"Exor",
+        "industry":"Financial services",
+        "country":"Turin",
+        "ceo":"John Elkann"
+    },
+    {
+        "company_name":"Allianz",
+        "industry":"Financial services",
+        "country":"Munich",
+        "ceo":"Oliver B\u00e4te"
+    },
+    {
+        "company_name":"Ford Motor Company",
+        "industry":"Automotive",
+        "country":"Dearborn, Michigan",
+        "ceo":"Mark Fields"
+    },
+    {
+        "company_name":"Petrobras",
+        "industry":"Oil and gas",
+        "country":"Rio de Janeiro",
+        "ceo":"Pedro Parente"
+    },
+    {
+        "company_name":"Lukoil",
+        "industry":"Oil and gas",
+        "country":"Moscow",
+        "ceo":"Vagit Alekperov"
+    },
+    {
+        "company_name":"Honda",
+        "industry":"Automotive",
+        "country":"Tokyo",
+        "ceo":"Takahiro Hachigo"
+    },
+    {
+        "company_name":"CVS Health",
+        "industry":"Retail",
+        "country":"Woonsocket, Rhode Island",
+        "ceo":"Larry Merlo"
+    },
+    {
+        "company_name":"Chevron",
+        "industry":"Oil and gas",
+        "country":"San Ramon, California",
+        "ceo":"John Watson"
+    },
+    {
+        "company_name":"Industrial and Commercial Bank of China",
+        "industry":"Financial services",
+        "country":"Beijing",
+        "ceo":"Jiang Jianqing"
+    },
+    {
+        "company_name":"E\u00b7ON",
+        "industry":"Electric utility",
+        "country":"D\u00fcsseldorf",
+        "ceo":"Johannes Teyssen"
+    },
+    {
+        "company_name":"Foxconn",
+        "industry":"Electronics",
+        "country":"Taiwan",
+        "ceo":"Terry Gou"
+    },
+    {
+        "company_name":"Eni",
+        "industry":"Oil and gas",
+        "country":"Rome",
+        "ceo":"Claudio Descalzi"
+    },
+    {
+        "company_name":"AT&T",
+        "industry":"Telecommunications",
+        "country":"Dallas, Texas",
+        "ceo":"Randall L. Stephenson"
+    },
+    {
+        "company_name":"Valero",
+        "industry":"Oil and gas",
+        "country":"San Antonio, Texas",
+        "ceo":"William R. Klesse"
+    },
+    {
+        "company_name":"United Health",
+        "industry":"Health care",
+        "country":"Minnetonka, Minnesota",
+        "ceo":"Stephen Hemsley"
+    },
+    {
+        "company_name":"PDVSA",
+        "industry":"Oil and gas",
+        "country":"Caracas",
+        "ceo":"Rafael Ram\u00edrez"
+    },
+    {
+        "company_name":"Trafigura",
+        "industry":"Commodities",
+        "country":"Lucerne",
+        "ceo":"Claude Dauphin"
+    },
+    {
+        "company_name":"Verizon",
+        "industry":"Telecommunications",
+        "country":"New York City, New York",
+        "ceo":"Lowell McAdam"
+    },
+    {
+        "company_name":"China Construction Engineering",
+        "industry":"Construction",
+        "country":"Beijing",
+        "ceo":"Yi Jun"
+    },
+    {
+        "company_name":"Cargill",
+        "industry":"Food processing",
+        "country":"Wayzata, Minnesota",
+        "ceo":"Dave MacLennan"
+    },
+    {
+        "company_name":"AmerisourceBergen",
+        "industry":"Pharmaceuticals",
+        "country":"Chesterbrook, Pennsylvania",
+        "ceo":"Steven H. Collis"
+    },
+    {
+        "company_name":"Koch Industries",
+        "industry":"Conglomerate",
+        "country":"Wichita, Kansas",
+        "ceo":"Charles Koch"
+    },
+    {
+        "company_name":"Costco",
+        "industry":"Retail",
+        "country":"Issaquah, Washington",
+        "ceo":"W. Craig Jelinek"
+    },
+    {
+        "company_name":"Hewlett Packard Enterprise",
+        "industry":"Electronics",
+        "country":"Palo Alto, California",
+        "ceo":"Meg Whitman"
+    },
+    {
+        "company_name":"Tata Group",
+        "industry":"Conglomerate",
+        "country":"Mumbai, India",
+        "ceo":"Cyrus Pallonji Mistry"
+    }
+]

@@ -1,0 +1,644 @@
+[
+    {
+        "company_name":"ACRO Inc",
+        "sector":"Defense",
+        "Products \/ Solutions":"",
+        "sales":""
+    },
+    {
+        "company_name":"ACS Motion Control Ltd.",
+        "sector":"Electronic components",
+        "Products \/ Solutions":"",
+        "sales":""
+    },
+    {
+        "company_name":"Alcobra Ltd.",
+        "sector":"Pharmaceuticals",
+        "Products \/ Solutions":"Drug Development for Cognitive Dysfunctions",
+        "sales":""
+    },
+    {
+        "company_name":"Allot Communications Ltd.",
+        "sector":"Networking & communication",
+        "Products \/ Solutions":"Broadband service optimization",
+        "sales":"Dual listed on TASE"
+    },
+    {
+        "company_name":"Alvarion Ltd.",
+        "sector":"Wireless technology",
+        "Products \/ Solutions":"WiMax",
+        "sales":"Dual listed on TASE"
+    },
+    {
+        "company_name":"Ampal-American Israel Corporation",
+        "sector":"Holding Company",
+        "Products \/ Solutions":"",
+        "sales":""
+    },
+    {
+        "company_name":"Attunity Ltd.",
+        "sector":"Software",
+        "Products \/ Solutions":"Data integration, Big Data",
+        "sales":""
+    },
+    {
+        "company_name":"AudioCodes Ltd.",
+        "sector":"Networking & communication",
+        "Products \/ Solutions":"VoIP",
+        "sales":"Dual listed on TASE"
+    },
+    {
+        "company_name":"B Communications",
+        "sector":"Telecommunications",
+        "Products \/ Solutions":"",
+        "sales":"Dual listed on TASE"
+    },
+    {
+        "company_name":"B.O.S. Better Online Solutions",
+        "sector":"Wireless technology",
+        "Products \/ Solutions":"RFID and Supply Chain solutions",
+        "sales":""
+    },
+    {
+        "company_name":"BioLineRx Ltd.",
+        "sector":"Biopharmaceuticals",
+        "Products \/ Solutions":"",
+        "sales":"Dual listed on TASE"
+    },
+    {
+        "company_name":"BiondVax Pharmaceuticals Ltd",
+        "sector":"Pharmaceuticals",
+        "Products \/ Solutions":"Universal Influenza Vaccine",
+        "sales":"Dual listed on TASE"
+    },
+    {
+        "company_name":"BluePhoenix Solutions Ltd.",
+        "sector":"Software",
+        "Products \/ Solutions":"Legacy modernization",
+        "sales":"Dual listed on TASE"
+    },
+    {
+        "company_name":"Brainstorm Cell Therapeutics Inc",
+        "sector":"Biotech",
+        "Products \/ Solutions":"",
+        "sales":""
+    },
+    {
+        "company_name":"Caesarstone Sdot-Yam",
+        "sector":"Home building",
+        "Products \/ Solutions":"Quartz surfaces",
+        "sales":""
+    },
+    {
+        "company_name":"Camtek Intelligent Imaging Ltd.",
+        "sector":"Industrial equipment",
+        "Products \/ Solutions":"Automated optical inspection for PCB manufacturing",
+        "sales":"Dual listed on TASE"
+    },
+    {
+        "company_name":"Cell Kinetics Ltd.",
+        "sector":"Biotech",
+        "Products \/ Solutions":"",
+        "sales":""
+    },
+    {
+        "company_name":"Cellcom Israel Ltd.",
+        "sector":"Wireless",
+        "Products \/ Solutions":"",
+        "sales":"Dual listed on TASE"
+    },
+    {
+        "company_name":"Ceragon Networks Ltd.",
+        "sector":"Wireless technology",
+        "Products \/ Solutions":"",
+        "sales":"Dual listed on TASE"
+    },
+    {
+        "company_name":"CEVA, Inc.",
+        "sector":"Semiconductors",
+        "Products \/ Solutions":"Silicon intellectual property provider for DSP solutions",
+        "sales":""
+    },
+    {
+        "company_name":"Check-Cap Ltd.",
+        "sector":"Medical equipment",
+        "Products \/ Solutions":"",
+        "sales":""
+    },
+    {
+        "company_name":"Check Point Software Technologies Ltd.",
+        "sector":"IT Security",
+        "Products \/ Solutions":"",
+        "sales":""
+    },
+    {
+        "company_name":"Cimatron, Limited",
+        "sector":"Software",
+        "Products \/ Solutions":"CAD\/ CAM",
+        "sales":""
+    },
+    {
+        "company_name":"ClickSoftware Technologies Ltd.",
+        "sector":"Software",
+        "Products \/ Solutions":"Workforce and service management",
+        "sales":""
+    },
+    {
+        "company_name":"CYREN Ltd. (previously Commtouch)",
+        "sector":"Internet Security",
+        "Products \/ Solutions":"Web Security, Email Security, Anti-Malware",
+        "sales":"Dual listed on TASE"
+    },
+    {
+        "company_name":"Compugen Ltd.",
+        "sector":"Biotech",
+        "Products \/ Solutions":"",
+        "sales":"Dual listed on TASE"
+    },
+    {
+        "company_name":"Comverse Technology, Inc.",
+        "sector":"Networking & communication",
+        "Products \/ Solutions":"",
+        "sales":""
+    },
+    {
+        "company_name":"Crow Technologies 1977 Ltd.",
+        "sector":"Security Systems",
+        "Products \/ Solutions":"Alarms",
+        "sales":""
+    },
+    {
+        "company_name":"CyberArk",
+        "sector":"Software",
+        "Products \/ Solutions":"",
+        "sales":""
+    },
+    {
+        "company_name":"DSP Group, Inc.",
+        "sector":"Semiconductors",
+        "Products \/ Solutions":"Fabless DSP solutions",
+        "sales":""
+    },
+    {
+        "company_name":"Elbit Medical Imaging Ltd.",
+        "sector":"Holding Company",
+        "Products \/ Solutions":"",
+        "sales":""
+    },
+    {
+        "company_name":"Elbit Systems Ltd.",
+        "sector":"Defense",
+        "Products \/ Solutions":"",
+        "sales":"Dual listed on TASE"
+    },
+    {
+        "company_name":"Eltek Ltd.",
+        "sector":"Electronic components",
+        "Products \/ Solutions":"Printed circuit boards (PCB) manufacturer",
+        "sales":""
+    },
+    {
+        "company_name":"Enzymotec Ltd",
+        "sector":"Biotech",
+        "Products \/ Solutions":"",
+        "sales":""
+    },
+    {
+        "company_name":"EZchip Semiconductor Ltd.",
+        "sector":"Semiconductors",
+        "Products \/ Solutions":"Fabless chip design",
+        "sales":"Dual listed on TASE"
+    },
+    {
+        "company_name":"Foamix Pharmaceuticals Ltd",
+        "sector":"Pharmaceuticals",
+        "Products \/ Solutions":"",
+        "sales":""
+    },
+    {
+        "company_name":"Formula Systems (1985) Ltd.",
+        "sector":"Holding Company",
+        "Products \/ Solutions":"",
+        "sales":"Dual listed on TASE"
+    },
+    {
+        "company_name":"G. Willi-Food International, Ltd.",
+        "sector":"Food dist",
+        "Products \/ Solutions":"",
+        "sales":"Dual listed on TASE"
+    },
+    {
+        "company_name":"GammaCan International, Inc.",
+        "sector":"Biotech",
+        "Products \/ Solutions":"",
+        "sales":""
+    },
+    {
+        "company_name":"Gilat Satellite Networks Ltd.",
+        "sector":"Networking & communication",
+        "Products \/ Solutions":"Satellite receivers",
+        "sales":"Dual listed on TASE"
+    },
+    {
+        "company_name":"Given Imaging Ltd.",
+        "sector":"Medical equipment",
+        "Products \/ Solutions":"Diagnostic solutions",
+        "sales":"Dual listed on TASE"
+    },
+    {
+        "company_name":"ICTS International N.V.",
+        "sector":"Security services",
+        "Products \/ Solutions":"",
+        "sales":""
+    },
+    {
+        "company_name":"Inksure Technologies Inc.",
+        "sector":"Security Systems",
+        "Products \/ Solutions":"",
+        "sales":""
+    },
+    {
+        "company_name":"Intelligent Information Systems Ltd.",
+        "sector":"Software",
+        "Products \/ Solutions":"",
+        "sales":""
+    },
+    {
+        "company_name":"Internet Gold Golden Lines Ltd.",
+        "sector":"Communication services",
+        "Products \/ Solutions":"",
+        "sales":"Dual listed on TASE"
+    },
+    {
+        "company_name":"Isramco, Inc.",
+        "sector":"Oil exploration",
+        "Products \/ Solutions":"",
+        "sales":""
+    },
+    {
+        "company_name":"Ituran Location and Control Ltd.",
+        "sector":"Communication services",
+        "Products \/ Solutions":"location-based services",
+        "sales":"Dual listed on TASE"
+    },
+    {
+        "company_name":"IXI Mobile, Inc.",
+        "sector":"Networking & communication",
+        "Products \/ Solutions":"",
+        "sales":""
+    },
+    {
+        "company_name":"Jacada Ltd.",
+        "sector":"Software",
+        "Products \/ Solutions":"Contact center desktop and process optimization solutions",
+        "sales":""
+    },
+    {
+        "company_name":"Kamada Ltd.",
+        "sector":"Biopharmaceuticals",
+        "Products \/ Solutions":"",
+        "sales":""
+    },
+    {
+        "company_name":"Kornit Digital",
+        "sector":"Printing",
+        "Products \/ Solutions":"Inkjet printers for the garment and apparel decorating industry",
+        "sales":""
+    },
+    {
+        "company_name":"Macrocure Ltd",
+        "sector":"Biotech",
+        "Products \/ Solutions":"",
+        "sales":""
+    },
+    {
+        "company_name":"Magal Security Systems",
+        "sector":"Security Systems",
+        "Products \/ Solutions":"",
+        "sales":""
+    },
+    {
+        "company_name":"magicJack VocalTec Ltd.",
+        "sector":"Networking & communication",
+        "Products \/ Solutions":"VoIP solutions",
+        "sales":"Formerly VocalTec Communications Ltd."
+    },
+    {
+        "company_name":"Magic Software Enterprises Ltd.",
+        "sector":"Software",
+        "Products \/ Solutions":"",
+        "sales":"Dual listed on TASE"
+    },
+    {
+        "company_name":"Mazor Robotics",
+        "sector":"Medical equipment",
+        "Products \/ Solutions":"",
+        "sales":"Dual listed on TASE"
+    },
+    {
+        "company_name":"Medigus Ltd.",
+        "sector":"Medical equipment",
+        "Products \/ Solutions":"Minimally invasive endosurgical tools",
+        "sales":"Dual listed on TASE"
+    },
+    {
+        "company_name":"Mediwound Ltd",
+        "sector":"Biotech",
+        "Products \/ Solutions":"",
+        "sales":""
+    },
+    {
+        "company_name":"Mellanox Technologies, Ltd.",
+        "sector":"Semiconductors",
+        "Products \/ Solutions":"InfiniBand",
+        "sales":"Dual listed on TASE"
+    },
+    {
+        "company_name":"MER Telemanagement Solutions Ltd.",
+        "sector":"Networking & communication",
+        "Products \/ Solutions":"",
+        "sales":""
+    },
+    {
+        "company_name":"Micronet Enertec Technologies Inc",
+        "sector":"Defense",
+        "Products \/ Solutions":"",
+        "sales":""
+    },
+    {
+        "company_name":"Mind CTI Ltd.",
+        "sector":"Networking & communication",
+        "Products \/ Solutions":"Billing solutions",
+        "sales":""
+    },
+    {
+        "company_name":"m-Wise, Inc.",
+        "sector":"Wireless technology",
+        "Products \/ Solutions":"",
+        "sales":""
+    },
+    {
+        "company_name":"Nano Dimension Ltd.",
+        "sector":"Printing",
+        "Products \/ Solutions":"Digital printers for Printed circuit boards",
+        "sales":""
+    },
+    {
+        "company_name":"NexGen Biofuels Ltd.",
+        "sector":"Alternative Energy",
+        "Products \/ Solutions":"",
+        "sales":""
+    },
+    {
+        "company_name":"NICE Systems Limited",
+        "sector":"Networking & communication",
+        "Products \/ Solutions":"",
+        "sales":"Dual listed on TASE"
+    },
+    {
+        "company_name":"Nova Measuring Instruments Ltd.",
+        "sector":"Industrial equipment",
+        "Products \/ Solutions":"",
+        "sales":"Dual listed on TASE"
+    },
+    {
+        "company_name":"On Track Innovations Ltd",
+        "sector":"Security Systems",
+        "Products \/ Solutions":"Smart card technology",
+        "sales":""
+    },
+    {
+        "company_name":"Optibase Ltd.",
+        "sector":"Networking & communication",
+        "Products \/ Solutions":"Internet protocol television (IPTV)",
+        "sales":""
+    },
+    {
+        "company_name":"Oramed Pharmaceuticals, Inc.",
+        "sector":"Pharmaceuticals",
+        "Products \/ Solutions":"Oral insulin capsule",
+        "sales":""
+    },
+    {
+        "company_name":"Orbotech Ltd.",
+        "sector":"Industrial equipment",
+        "Products \/ Solutions":"Automated optical inspection solutions",
+        "sales":""
+    },
+    {
+        "company_name":"Orckit Communications, Limited",
+        "sector":"Networking & communication",
+        "Products \/ Solutions":"",
+        "sales":"Dual listed on TASE"
+    },
+    {
+        "company_name":"OrganiTECH USA, Inc.",
+        "sector":"Biotech",
+        "Products \/ Solutions":"",
+        "sales":""
+    },
+    {
+        "company_name":"Partner Communications Company Ltd.",
+        "sector":"Communication services",
+        "Products \/ Solutions":"",
+        "sales":"Dual listed on TASE"
+    },
+    {
+        "company_name":"Perion Network Ltd.",
+        "sector":"Software",
+        "Products \/ Solutions":"",
+        "sales":"Dual listed on TASE"
+    },
+    {
+        "company_name":"Perrigo Company",
+        "sector":"Pharmaceuticals",
+        "Products \/ Solutions":"Generic pharmaceutical products",
+        "sales":"Dual listed on TASE"
+    },
+    {
+        "company_name":"Pluristem Therapeutics Inc.",
+        "sector":"Biotech",
+        "Products \/ Solutions":"Stem cell therapeutic products",
+        "sales":"Dual listed on TASE"
+    },
+    {
+        "company_name":"Pointer Telocation Ltd.",
+        "sector":"Security services",
+        "Products \/ Solutions":"Automatic vehicle location",
+        "sales":"Dual listed on TASE"
+    },
+    {
+        "company_name":"PROLOR Biotech, Inc.",
+        "sector":"Biotech",
+        "Products \/ Solutions":"",
+        "sales":"Dual listed on TASE"
+    },
+    {
+        "company_name":"RADA Electronic Industries Ltd.",
+        "sector":"Aerospace",
+        "Products \/ Solutions":"",
+        "sales":""
+    },
+    {
+        "company_name":"Radcom Ltd.",
+        "sector":"Networking & communication",
+        "Products \/ Solutions":"",
+        "sales":"Part of the RAD Group"
+    },
+    {
+        "company_name":"RadView Software Ltd.",
+        "sector":"Software",
+        "Products \/ Solutions":"Load testing tool WebLOAD for web and mobile applications",
+        "sales":""
+    },
+    {
+        "company_name":"RADVision Ltd.",
+        "sector":"Networking & communication",
+        "Products \/ Solutions":"",
+        "sales":"Part of the RAD Group"
+    },
+    {
+        "company_name":"Radware Ltd.",
+        "sector":"Networking & communication",
+        "Products \/ Solutions":"",
+        "sales":"Part of the RAD Group"
+    },
+    {
+        "company_name":"ReWalk",
+        "sector":"Medical equipment",
+        "Products \/ Solutions":"",
+        "sales":""
+    },
+    {
+        "company_name":"RiT Technologies Ltd.",
+        "sector":"Networking & communication",
+        "Products \/ Solutions":"",
+        "sales":"Part of the RAD Group"
+    },
+    {
+        "company_name":"Rosetta Genomics",
+        "sector":"Biotech",
+        "Products \/ Solutions":"",
+        "sales":""
+    },
+    {
+        "company_name":"RR Media Ltd.",
+        "sector":"Digital media services",
+        "Products \/ Solutions":"",
+        "sales":""
+    },
+    {
+        "company_name":"Sapiens International Corporation N.V.",
+        "sector":"Software",
+        "Products \/ Solutions":"",
+        "sales":"Dual listed on TASE"
+    },
+    {
+        "company_name":"Silicom Ltd",
+        "sector":"Networking & communication",
+        "Products \/ Solutions":"",
+        "sales":"Part of the RAD Group"
+    },
+    {
+        "company_name":"Sodastream International",
+        "sector":"Food and beverage",
+        "Products \/ Solutions":"Carbonation systems",
+        "sales":""
+    },
+    {
+        "company_name":"SolarEdge",
+        "sector":"Renewable energy",
+        "Products \/ Solutions":"Photovoltaic systems",
+        "sales":""
+    },
+    {
+        "company_name":"Supercom Ltd",
+        "sector":"Security Systems",
+        "Products \/ Solutions":"",
+        "sales":""
+    },
+    {
+        "company_name":"Syneron Medical Ltd.",
+        "sector":"Medical equipment",
+        "Products \/ Solutions":"",
+        "sales":""
+    },
+    {
+        "company_name":"TAT Technologies Ltd.",
+        "sector":"Defense",
+        "Products \/ Solutions":"Environmental control systems",
+        "sales":"Dual listed on TASE"
+    },
+    {
+        "company_name":"Technoprises Ltd.",
+        "sector":"Holding Company",
+        "Products \/ Solutions":"",
+        "sales":""
+    },
+    {
+        "company_name":"Tefron Ltd.",
+        "sector":"Manufacturing",
+        "Products \/ Solutions":"Apparel manufacturing",
+        "sales":""
+    },
+    {
+        "company_name":"Tikcro Technologies, Ltd.",
+        "sector":"Biotech",
+        "Products \/ Solutions":"",
+        "sales":""
+    },
+    {
+        "company_name":"Tissera Inc.",
+        "sector":"Biotech",
+        "Products \/ Solutions":"",
+        "sales":""
+    },
+    {
+        "company_name":"Top Image Systems, Ltd.",
+        "sector":"Software",
+        "Products \/ Solutions":"",
+        "sales":""
+    },
+    {
+        "company_name":"Tower Semiconductor Ltd.",
+        "sector":"Semiconductors",
+        "Products \/ Solutions":"",
+        "sales":"Dual listed on TASE"
+    },
+    {
+        "company_name":"Varonis Systems",
+        "sector":"IT Security",
+        "Products \/ Solutions":"Data and access control",
+        "sales":""
+    },
+    {
+        "company_name":"Veraz Networks",
+        "sector":"Networking & communication",
+        "Products \/ Solutions":"VoIP solutions",
+        "sales":""
+    },
+    {
+        "company_name":"Verint Systems Inc.",
+        "sector":"Networking & communication",
+        "Products \/ Solutions":"",
+        "sales":""
+    },
+    {
+        "company_name":"Wix.com",
+        "sector":"Internet",
+        "Products \/ Solutions":"",
+        "sales":""
+    },
+    {
+        "company_name":"XTL Biopharmaceuticals Ltd.",
+        "sector":"Biotech",
+        "Products \/ Solutions":"",
+        "sales":""
+    },
+    {
+        "company_name":"Zion Oil & Gas, Inc.",
+        "sector":"Oil Exploration",
+        "Products \/ Solutions":"",
+        "sales":""
+    }
+]

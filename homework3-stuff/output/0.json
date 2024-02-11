@@ -1,0 +1,182 @@
+[
+    {
+        "company_name":"3M",
+        "Exchange":"NYSE",
+        "industry":"Conglomerate",
+        "sales":"as Minnesota Mining and Manufacturing"
+    },
+    {
+        "company_name":"American Express",
+        "Exchange":"NYSE",
+        "industry":"Consumer finance",
+        "sales":""
+    },
+    {
+        "company_name":"Apple",
+        "Exchange":"NASDAQ",
+        "industry":"Consumer electronics",
+        "sales":""
+    },
+    {
+        "company_name":"Boeing",
+        "Exchange":"NYSE",
+        "industry":"Aerospace and defense",
+        "sales":""
+    },
+    {
+        "company_name":"Caterpillar",
+        "Exchange":"NYSE",
+        "industry":"Construction and mining equipment",
+        "sales":""
+    },
+    {
+        "company_name":"Chevron",
+        "Exchange":"NYSE",
+        "industry":"Oil & gas",
+        "sales":"also 1930-07-18 to 1999-11-01"
+    },
+    {
+        "company_name":"Cisco Systems",
+        "Exchange":"NASDAQ",
+        "industry":"Computer networking",
+        "sales":""
+    },
+    {
+        "company_name":"Coca-Cola",
+        "Exchange":"NYSE",
+        "industry":"Beverages",
+        "sales":"also 1932-05-26 to 1935-11-20"
+    },
+    {
+        "company_name":"Du Pont",
+        "Exchange":"NYSE",
+        "industry":"Chemical industry",
+        "sales":"also 1924-01-22 to 1925-08-31"
+    },
+    {
+        "company_name":"ExxonMobil",
+        "Exchange":"NYSE",
+        "industry":"Oil & gas",
+        "sales":"as Standard Oil of New Jersey"
+    },
+    {
+        "company_name":"General Electric",
+        "Exchange":"NYSE",
+        "industry":"Conglomerate",
+        "sales":"also 1896-05-26 to 1898-10 and 1899-04-21 to 1901-04-01"
+    },
+    {
+        "company_name":"Goldman Sachs",
+        "Exchange":"NYSE",
+        "industry":"Banking, Financial services",
+        "sales":""
+    },
+    {
+        "company_name":"The Home Depot",
+        "Exchange":"NYSE",
+        "industry":"Home improvement retailer",
+        "sales":""
+    },
+    {
+        "company_name":"IBM",
+        "Exchange":"NYSE",
+        "industry":"Computers and technology",
+        "sales":"also 1932-05-26 to 1939-03-04"
+    },
+    {
+        "company_name":"Intel",
+        "Exchange":"NASDAQ",
+        "industry":"Semiconductors",
+        "sales":""
+    },
+    {
+        "company_name":"Johnson & Johnson",
+        "Exchange":"NYSE",
+        "industry":"Pharmaceuticals",
+        "sales":""
+    },
+    {
+        "company_name":"JPMorgan Chase",
+        "Exchange":"NYSE",
+        "industry":"Banking",
+        "sales":""
+    },
+    {
+        "company_name":"McDonald's",
+        "Exchange":"NYSE",
+        "industry":"Fast food",
+        "sales":""
+    },
+    {
+        "company_name":"Merck",
+        "Exchange":"NYSE",
+        "industry":"Pharmaceuticals",
+        "sales":""
+    },
+    {
+        "company_name":"Microsoft",
+        "Exchange":"NASDAQ",
+        "industry":"Software",
+        "sales":""
+    },
+    {
+        "company_name":"Nike",
+        "Exchange":"NYSE",
+        "industry":"Apparel",
+        "sales":""
+    },
+    {
+        "company_name":"Pfizer",
+        "Exchange":"NYSE",
+        "industry":"Pharmaceuticals",
+        "sales":""
+    },
+    {
+        "company_name":"Procter & Gamble",
+        "Exchange":"NYSE",
+        "industry":"Consumer goods",
+        "sales":""
+    },
+    {
+        "company_name":"Travelers",
+        "Exchange":"NYSE",
+        "industry":"Insurance",
+        "sales":""
+    },
+    {
+        "company_name":"UnitedHealth Group",
+        "Exchange":"NYSE",
+        "industry":"Managed health care",
+        "sales":""
+    },
+    {
+        "company_name":"United Technologies",
+        "Exchange":"NYSE",
+        "industry":"Conglomerate",
+        "sales":"as United Aircraft"
+    },
+    {
+        "company_name":"Verizon",
+        "Exchange":"NYSE",
+        "industry":"Telecommunication",
+        "sales":""
+    },
+    {
+        "company_name":"Visa",
+        "Exchange":"NYSE",
+        "industry":"Consumer banking",
+        "sales":""
+    },
+    {
+        "company_name":"Wal-Mart",
+        "Exchange":"NYSE",
+        "industry":"Retail",
+        "sales":""
+    },
+    {
+        "company_name":"Walt Disney",
+        "Exchange":"NYSE",
+        "industry":"Broadcasting and entertainment",
+        "sales":""
+    }
+]

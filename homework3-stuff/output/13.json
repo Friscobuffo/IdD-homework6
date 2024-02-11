@@ -1,0 +1,602 @@
+[
+    {
+        "Brand Name(s)":"Abilify",
+        "Generic Name":"Aripiprazole",
+        "company_name":"Generic",
+        "Disease\/Medical Use":"Psychosis; depression"
+    },
+    {
+        "Brand Name(s)":"Humira",
+        "Generic Name":"Adalimumab",
+        "company_name":"AbbVie",
+        "Disease\/Medical Use":"Crohn's disease; Rheumatoid arthritis"
+    },
+    {
+        "Brand Name(s)":"Nexium",
+        "Generic Name":"Esomeprazole",
+        "company_name":"Generic",
+        "Disease\/Medical Use":"Gastrointestinal disorders"
+    },
+    {
+        "Brand Name(s)":"Crestor",
+        "Generic Name":"Rosuvastatin",
+        "company_name":"AstraZeneca, Shionogi",
+        "Disease\/Medical Use":"Cholesterol"
+    },
+    {
+        "Brand Name(s)":"Enbrel",
+        "Generic Name":"Etanercept",
+        "company_name":"Amgen",
+        "Disease\/Medical Use":"Rheumatoid arthritis"
+    },
+    {
+        "Brand Name(s)":"Advair Diskus, Seretide",
+        "Generic Name":"Fluticasone\/salmeterol",
+        "company_name":"GlaxoSmithKline",
+        "Disease\/Medical Use":"Asthma"
+    },
+    {
+        "Brand Name(s)":"Remicade",
+        "Generic Name":"Infliximab",
+        "company_name":"Centocor Ortho Biotech, Inc., Mitsubishi Tanabe Pharma",
+        "Disease\/Medical Use":"Crohn's disease; rheumatoid arthritis"
+    },
+    {
+        "Brand Name(s)":"Lantus Solostar",
+        "Generic Name":"Insulin glargine",
+        "company_name":"Sanofi-Aventis",
+        "Disease\/Medical Use":"Diabetes mellitus type 1 and 2"
+    },
+    {
+        "Brand Name(s)":"Neulasta",
+        "Generic Name":"Filgrastim",
+        "company_name":"Amgen",
+        "Disease\/Medical Use":"Neutropenia"
+    },
+    {
+        "Brand Name(s)":"Copaxone",
+        "Generic Name":"Glatiramer",
+        "company_name":"Generic",
+        "Disease\/Medical Use":"Multiple sclerosis"
+    },
+    {
+        "Brand Name(s)":"Rituxan, MabThera",
+        "Generic Name":"Rituximab",
+        "company_name":"Biogen Idec, Chugai Pharmaceutical, Genentech\/Roche",
+        "Disease\/Medical Use":"Non-Hodgkin\u2019s lymphoma; rheumatoid arthritis"
+    },
+    {
+        "Brand Name(s)":"Spiriva",
+        "Generic Name":"Tiotropium bromide",
+        "company_name":"Boehringer Ingelheim",
+        "Disease\/Medical Use":"Chronic obstructive pulmonary disease"
+    },
+    {
+        "Brand Name(s)":"Januvia",
+        "Generic Name":"Sitagliptin",
+        "company_name":"Merck & Co., Inc.",
+        "Disease\/Medical Use":"Diabetes mellitus type 2"
+    },
+    {
+        "Brand Name(s)":"Lantus",
+        "Generic Name":"Insulin glargine",
+        "company_name":"Sanofi-Aventis",
+        "Disease\/Medical Use":"Diabetes mellitus type 1 and 2"
+    },
+    {
+        "Brand Name(s)":"Atripla",
+        "Generic Name":"Emtricitabine\/tenofovir\/efavirenz",
+        "company_name":"Gilead Sciences, Inc.",
+        "Disease\/Medical Use":"HIV infection"
+    },
+    {
+        "Brand Name(s)":"Cymbalta",
+        "Generic Name":"Duloxetine",
+        "company_name":"Generic",
+        "Disease\/Medical Use":"Depression; anxiety disorders"
+    },
+    {
+        "Brand Name(s)":"Avastin",
+        "Generic Name":"Bevacizumab",
+        "company_name":"Genentech\/Roche",
+        "Disease\/Medical Use":"Cancer"
+    },
+    {
+        "Brand Name(s)":"Lyrica",
+        "Generic Name":"Pregabalin",
+        "company_name":"Pfizer",
+        "Disease\/Medical Use":"Neuropathic pain"
+    },
+    {
+        "Brand Name(s)":"OxyContin",
+        "Generic Name":"Oxycodone",
+        "company_name":"Generic",
+        "Disease\/Medical Use":"Pain"
+    },
+    {
+        "Brand Name(s)":"Celebrex",
+        "Generic Name":"Celecoxib",
+        "company_name":"Generic",
+        "Disease\/Medical Use":"Osteoarthritis; rheumatoid arthritis"
+    },
+    {
+        "Brand Name(s)":"Epogen",
+        "Generic Name":"Epoetin alfa",
+        "company_name":"Amgen",
+        "Disease\/Medical Use":"Anemia"
+    },
+    {
+        "Brand Name(s)":"Truvada",
+        "Generic Name":"Tenofovir\/emtricitabine",
+        "company_name":"Gilead Sciences",
+        "Disease\/Medical Use":"HIV infection"
+    },
+    {
+        "Brand Name(s)":"Diovan",
+        "Generic Name":"Valsartan",
+        "company_name":"Generic",
+        "Disease\/Medical Use":"Hypertension"
+    },
+    {
+        "Brand Name(s)":"Levemir",
+        "Generic Name":"Insulin detemir",
+        "company_name":"Novo Nordisk",
+        "Disease\/Medical Use":"Diabetes mellitus type 1 and 2"
+    },
+    {
+        "Brand Name(s)":"Gleevec, Glivec",
+        "Generic Name":"Imatinib",
+        "company_name":"Novartis",
+        "Disease\/Medical Use":"Leukemia"
+    },
+    {
+        "Brand Name(s)":"Herceptin",
+        "Generic Name":"Trastuzumab",
+        "company_name":"Chugai Pharmaceutical, Genentech\/Roche",
+        "Disease\/Medical Use":"Breast cancer"
+    },
+    {
+        "Brand Name(s)":"Vyvanse",
+        "Generic Name":"Lisdexamfetamine",
+        "company_name":"Shire",
+        "Disease\/Medical Use":"Attention deficit hyperactivity disorder"
+    },
+    {
+        "Brand Name(s)":"Lucentis",
+        "Generic Name":"Ranibizumab",
+        "company_name":"Genentech",
+        "Disease\/Medical Use":"Macular degeneration"
+    },
+    {
+        "Brand Name(s)":"Zetia",
+        "Generic Name":"Ezetimibe",
+        "company_name":"Merck & Co., Schering-Plough",
+        "Disease\/Medical Use":"Cholesterol"
+    },
+    {
+        "Brand Name(s)":"Combivent",
+        "Generic Name":"Ipratropium bromide\/salbutamol",
+        "company_name":"Boehringer Ingelheim",
+        "Disease\/Medical Use":"Chronic obstructive pulmonary disease"
+    },
+    {
+        "Brand Name(s)":"Symbicort",
+        "Generic Name":"Budesonide\/formoterol",
+        "company_name":"AstraZeneca",
+        "Disease\/Medical Use":"Asthma"
+    },
+    {
+        "Brand Name(s)":"Namenda",
+        "Generic Name":"Memantine",
+        "company_name":"Generic",
+        "Disease\/Medical Use":"Alzheimer's disease"
+    },
+    {
+        "Brand Name(s)":"NovoLog FlexPen",
+        "Generic Name":"Insulin aspart",
+        "company_name":"Novo Nordisk",
+        "Disease\/Medical Use":"Diabetes mellitus type 1 and 2"
+    },
+    {
+        "Brand Name(s)":"Xarelto",
+        "Generic Name":"Rivaroxaban",
+        "company_name":"Bayer",
+        "Disease\/Medical Use":"Oral anticoagulant"
+    },
+    {
+        "Brand Name(s)":"NovoLog",
+        "Generic Name":"Insulin aspart",
+        "company_name":"Novo Nordisk",
+        "Disease\/Medical Use":"Diabetes mellitus type 1 and 2"
+    },
+    {
+        "Brand Name(s)":"Humalog",
+        "Generic Name":"Insulin lispro",
+        "company_name":"Eli Lilly and Company",
+        "Disease\/Medical Use":"Diabetes mellitus type 1 and 2"
+    },
+    {
+        "Brand Name(s)":"Suboxone",
+        "Generic Name":"Buprenorphine",
+        "company_name":"Reckitt Benckiser Pharmaceuticals Inc.",
+        "Disease\/Medical Use":"Pain; opioid addiction"
+    },
+    {
+        "Brand Name(s)":"Viagra",
+        "Generic Name":"Sildenafil",
+        "company_name":"Pfizer",
+        "Disease\/Medical Use":"Erectile dysfunction"
+    },
+    {
+        "Brand Name(s)":"Seroquel XR",
+        "Generic Name":"Quetiapine",
+        "company_name":"Generic",
+        "Disease\/Medical Use":"Psychosis; depression"
+    },
+    {
+        "Brand Name(s)":"ONE TOUCH ULTRA",
+        "Generic Name":"Telaprevir",
+        "company_name":"Johnson & Johnson",
+        "Disease\/Medical Use":"Hepatitis C"
+    },
+    {
+        "Brand Name(s)":"AndroGel",
+        "Generic Name":"Testosterone gel",
+        "company_name":"Generic",
+        "Disease\/Medical Use":"Low testosterone levels"
+    },
+    {
+        "Brand Name(s)":"Enoxaparin",
+        "Generic Name":"Enoxaparin",
+        "company_name":"Generic",
+        "Disease\/Medical Use":"Deep-vein thrombosis"
+    },
+    {
+        "Brand Name(s)":"Methylphenidate",
+        "Generic Name":"Methylphenidate",
+        "company_name":"Generic",
+        "Disease\/Medical Use":"Attention deficit hyperactivity disorder"
+    },
+    {
+        "Brand Name(s)":"ProAir HFA",
+        "Generic Name":"Salbutamol",
+        "company_name":"Teva Pharmaceuticals",
+        "Disease\/Medical Use":"Asthma; chronic obstructive pulmonary disease"
+    },
+    {
+        "Brand Name(s)":"Alimta",
+        "Generic Name":"Pemetrexed",
+        "company_name":"Eli Lilly and Company",
+        "Disease\/Medical Use":"Cancer"
+    },
+    {
+        "Brand Name(s)":"Victoza",
+        "Generic Name":"Liraglutide",
+        "company_name":"Novo Nordisk",
+        "Disease\/Medical Use":"Diabetes mellitus type 2"
+    },
+    {
+        "Brand Name(s)":"Synagis",
+        "Generic Name":"Palivizumab",
+        "company_name":"MedImmune",
+        "Disease\/Medical Use":"RSV infection"
+    },
+    {
+        "Brand Name(s)":"Avonex",
+        "Generic Name":"Interferon beta 1a",
+        "company_name":"Biogen Idec",
+        "Disease\/Medical Use":"Multiple sclerosis"
+    },
+    {
+        "Brand Name(s)":"Renvela",
+        "Generic Name":"Sevelamer",
+        "company_name":"Generic",
+        "Disease\/Medical Use":"Hyperphosphatemia"
+    },
+    {
+        "Brand Name(s)":"Rebif",
+        "Generic Name":"Interferon beta 1a",
+        "company_name":"Serono",
+        "Disease\/Medical Use":"Multiple sclerosis"
+    },
+    {
+        "Brand Name(s)":"Cialis",
+        "Generic Name":"Tadalafil",
+        "company_name":"Eli Lilly and Company, Lilly Icos",
+        "Disease\/Medical Use":"Erectile dysfunction"
+    },
+    {
+        "Brand Name(s)":"Gilenya",
+        "Generic Name":"fingolimod",
+        "company_name":"Novartis Corporation",
+        "Disease\/Medical Use":"Multiple sclerosis"
+    },
+    {
+        "Brand Name(s)":"Nasonex",
+        "Generic Name":"Mometasone",
+        "company_name":"Schering-Plough",
+        "Disease\/Medical Use":"Allergic rhinitis"
+    },
+    {
+        "Brand Name(s)":"Stelara",
+        "Generic Name":"Ustekinumab",
+        "company_name":"Johnson & Johnson",
+        "Disease\/Medical Use":"Psoriasis; psoriatic arthritis"
+    },
+    {
+        "Brand Name(s)":"Restasis",
+        "Generic Name":"Ciclosporin ophthalmic emulsion",
+        "company_name":"Allergan, Inc, Lilly Icos",
+        "Disease\/Medical Use":"Dry eye syndrome"
+    },
+    {
+        "Brand Name(s)":"Budesonide",
+        "Generic Name":"Budesonide",
+        "company_name":"Generic",
+        "Disease\/Medical Use":"Asthma"
+    },
+    {
+        "Brand Name(s)":"Acetaminophen\/hydrocodone",
+        "Generic Name":"Acetaminophen\/hydrocodone",
+        "company_name":"Generic",
+        "Disease\/Medical Use":"Pain"
+    },
+    {
+        "Brand Name(s)":"Flovent HFA",
+        "Generic Name":"Fluticasone propionate",
+        "company_name":"GlaxoSmithKline",
+        "Disease\/Medical Use":"Asthma"
+    },
+    {
+        "Brand Name(s)":"Lovaza",
+        "Generic Name":"Omega-3 fatty acid ethyl esters",
+        "company_name":"GlaxoSmithKline",
+        "Disease\/Medical Use":"Cholesterol"
+    },
+    {
+        "Brand Name(s)":"Prezista",
+        "Generic Name":"Darunavir",
+        "company_name":"Johnson & Johnson",
+        "Disease\/Medical Use":"HIV infection"
+    },
+    {
+        "Brand Name(s)":"Isentress",
+        "Generic Name":"Raltegravir",
+        "company_name":"Merck & Co., Inc.",
+        "Disease\/Medical Use":"HIV Infection"
+    },
+    {
+        "Brand Name(s)":"Janumet",
+        "Generic Name":"Sitagliptin\/metformin",
+        "company_name":"Merck & Co., Inc.",
+        "Disease\/Medical Use":"Diabetes mellitus type 2"
+    },
+    {
+        "Brand Name(s)":"Procrit, Eprex",
+        "Generic Name":"Epoetin alfa",
+        "company_name":"Johnson & Johnson",
+        "Disease\/Medical Use":"Anemia"
+    },
+    {
+        "Brand Name(s)":"Doxycycline",
+        "Generic Name":"Doxycycline",
+        "company_name":"Generic",
+        "Disease\/Medical Use":"Bacterial infections"
+    },
+    {
+        "Brand Name(s)":"Orencia",
+        "Generic Name":"Abatacept",
+        "company_name":"Bristol-Myers Squibb Company",
+        "Disease\/Medical Use":"Rheumatoid arthritis"
+    },
+    {
+        "Brand Name(s)":"Amphetamine\/dextroamphetamine",
+        "Generic Name":"Amphetamine mixed salts",
+        "company_name":"Generic",
+        "Disease\/Medical Use":"Attention deficit hyperactivity disorder; narcolepsy"
+    },
+    {
+        "Brand Name(s)":"Vesicare",
+        "Generic Name":"Solifenacin",
+        "company_name":"Astellas Pharma US",
+        "Disease\/Medical Use":"Overactive bladder"
+    },
+    {
+        "Brand Name(s)":"Dexilant",
+        "Generic Name":"Dexlansoprazole",
+        "company_name":"Takeda Pharmaceuticals North America, Inc",
+        "Disease\/Medical Use":"Gastrointestinal disorders"
+    },
+    {
+        "Brand Name(s)":"Humalog KwikPen",
+        "Generic Name":"Insulin lispro",
+        "company_name":"Eli Lilly and Company",
+        "Disease\/Medical Use":"Diabetes mellitus type 1 and 2"
+    },
+    {
+        "Brand Name(s)":"Neupogen",
+        "Generic Name":"Filgrastim",
+        "company_name":"Amgen",
+        "Disease\/Medical Use":"Neutropenia"
+    },
+    {
+        "Brand Name(s)":"Lidocaine",
+        "Generic Name":"Lidocaine",
+        "company_name":"Generic",
+        "Disease\/Medical Use":"Pain"
+    },
+    {
+        "Brand Name(s)":"Lunesta",
+        "Generic Name":"Eszopiclone",
+        "company_name":"Generic",
+        "Disease\/Medical Use":"Insomnia"
+    },
+    {
+        "Brand Name(s)":"Fenofibrate",
+        "Generic Name":"Fenofibrate",
+        "company_name":"Generic",
+        "Disease\/Medical Use":"Cholesterol"
+    },
+    {
+        "Brand Name(s)":"Zytiga",
+        "Generic Name":"Abiraterone",
+        "company_name":"Janssen Biotech, Inc.",
+        "Disease\/Medical Use":"Prostate Cancer"
+    },
+    {
+        "Brand Name(s)":"Reyataz",
+        "Generic Name":"Atazanavir",
+        "company_name":"Bristol-Myers Squibb",
+        "Disease\/Medical Use":"HIV infection"
+    },
+    {
+        "Brand Name(s)":"Sensipar",
+        "Generic Name":"Cinacalcet",
+        "company_name":"Amgen Inc.",
+        "Disease\/Medical Use":"Hyperparathyroidism"
+    },
+    {
+        "Brand Name(s)":"Metoprolol",
+        "Generic Name":"Metoprolol",
+        "company_name":"Generic",
+        "Disease\/Medical Use":"Hypertension"
+    },
+    {
+        "Brand Name(s)":"Invega Sustenna",
+        "Generic Name":"Rabeprazole",
+        "company_name":"Janssen Pharmaceuticals, Inc, Johnson & Johnson",
+        "Disease\/Medical Use":"Gastrointestinal disorders"
+    },
+    {
+        "Brand Name(s)":"Synthroid",
+        "Generic Name":"Levothyroxine",
+        "company_name":"Generic",
+        "Disease\/Medical Use":"Hypothyroidism"
+    },
+    {
+        "Brand Name(s)":"Avonex Pen",
+        "Generic Name":"Olmesartan",
+        "company_name":"Biogen Idec, Forest Laboratories",
+        "Disease\/Medical Use":"Hypertension"
+    },
+    {
+        "Brand Name(s)":"Prevnar 13",
+        "Generic Name":"Pneumococcal conjugate vaccine",
+        "company_name":"Pfizer",
+        "Disease\/Medical Use":"Pneumococcal disease"
+    },
+    {
+        "Brand Name(s)":"Xolair",
+        "Generic Name":"Omalizumab",
+        "company_name":"Genentech, Novartis",
+        "Disease\/Medical Use":"Asthma"
+    },
+    {
+        "Brand Name(s)":"Lipitor",
+        "Generic Name":"Atorvastatin",
+        "company_name":"Generic",
+        "Disease\/Medical Use":"Cholesterol"
+    },
+    {
+        "Brand Name(s)":"levothyroxine",
+        "Generic Name":"Levothyroxine",
+        "company_name":"Generic",
+        "Disease\/Medical Use":"Hypothyroidism"
+    },
+    {
+        "Brand Name(s)":"Benicar",
+        "Generic Name":"Olmesartan\/hydrochlorothiazide",
+        "company_name":"Daiichi Sankyo",
+        "Disease\/Medical Use":"Hypertension"
+    },
+    {
+        "Brand Name(s)":"Stribild",
+        "Generic Name":"Elvitegravir\/cobicistat\/emtricitabine\/tenofovir",
+        "company_name":"Gilead Sciences",
+        "Disease\/Medical Use":"HIV\/AIDS"
+    },
+    {
+        "Brand Name(s)":"Zostavax",
+        "Generic Name":"Zostavax",
+        "company_name":"Eisai, Merck & Co.",
+        "Disease\/Medical Use":"Herpes zoster"
+    },
+    {
+        "Brand Name(s)":"Pradaxa",
+        "Generic Name":"Dabigatran",
+        "company_name":"Boehringer Ingelheim, Lilly Icos",
+        "Disease\/Medical Use":"Oral anticoagulant"
+    },
+    {
+        "Brand Name(s)":"Vytorin",
+        "Generic Name":"Ezetimibe\/simvastatin",
+        "company_name":"Merck & Co., Schering-Plough",
+        "Disease\/Medical Use":"Cholesterol"
+    },
+    {
+        "Brand Name(s)":"Tamiflu",
+        "Generic Name":"Oseltamivir",
+        "company_name":"Chugai Pharmaceutical, Hetero Drugs, Roche",
+        "Disease\/Medical Use":"Influenza"
+    },
+    {
+        "Brand Name(s)":"Xgeva",
+        "Generic Name":"Denosumab",
+        "company_name":"Amgen",
+        "Disease\/Medical Use":"Osteoporosis"
+    },
+    {
+        "Brand Name(s)":"Evista",
+        "Generic Name":"Raloxifene",
+        "company_name":"Eli Lilly and Company, Chugai Pharmaceutical",
+        "Disease\/Medical Use":"Osteoporosis"
+    },
+    {
+        "Brand Name(s)":"Xeloda",
+        "Generic Name":"Capecitabine",
+        "company_name":"Generic",
+        "Disease\/Medical Use":"Cancer"
+    },
+    {
+        "Brand Name(s)":"Aranesp",
+        "Generic Name":"Darbepoetin alfa",
+        "company_name":"Amgen Inc.",
+        "Disease\/Medical Use":"Anemia"
+    },
+    {
+        "Brand Name(s)":"Ventolin HFA",
+        "Generic Name":"Salbutamol",
+        "company_name":"GlaxoSmithKline",
+        "Disease\/Medical Use":"Asthma; chronic obstructive pulmonary disease"
+    },
+    {
+        "Brand Name(s)":"divalproex sodium",
+        "Generic Name":"valproate",
+        "company_name":"Generic",
+        "Disease\/Medical Use":"Gastrointestinal disorders"
+    },
+    {
+        "Brand Name(s)":"Afinitor",
+        "Generic Name":"Everolimus",
+        "company_name":"Novartis",
+        "Disease\/Medical Use":"Cancer"
+    },
+    {
+        "Brand Name(s)":"Betaseron, Betaferon",
+        "Generic Name":"Interferon beta 1b",
+        "company_name":"Bayer",
+        "Disease\/Medical Use":"Multiple sclerosis"
+    },
+    {
+        "Brand Name(s)":"Adderall XR",
+        "Generic Name":"Amphetamine mixed salts",
+        "company_name":"Generic",
+        "Disease\/Medical Use":"Attention deficit hyperactivity disorder"
+    },
+    {
+        "Brand Name(s)":"Complera",
+        "Generic Name":"Emtricitabine\/Rilpivirine\/Tenofovir disoproxil fumarate",
+        "company_name":"Gilead Sciences, Inc.",
+        "Disease\/Medical Use":"AIDS"
+    }
+]

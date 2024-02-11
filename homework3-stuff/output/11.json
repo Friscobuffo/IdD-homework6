@@ -1,0 +1,112 @@
+[
+    {
+        "company_name":"AD Plastik",
+        "country":"Solin",
+        "sector":"Chemicals"
+    },
+    {
+        "company_name":"Adris Group",
+        "country":"Rovinj",
+        "sector":"Tobacco"
+    },
+    {
+        "company_name":"Atlantic Group",
+        "country":"Zagreb",
+        "sector":"Conglomerate"
+    },
+    {
+        "company_name":"Atlantska plovidba",
+        "country":"Dubrovnik",
+        "sector":"Marine transportation"
+    },
+    {
+        "company_name":"Belje",
+        "country":"Darda",
+        "sector":"Food products"
+    },
+    {
+        "company_name":"\u0110uro \u0110akovi\u0107 Holding",
+        "country":"Slavonski Brod",
+        "sector":""
+    },
+    {
+        "company_name":"Dalekovod",
+        "country":"Zagreb",
+        "sector":""
+    },
+    {
+        "company_name":"Ericsson Nikola Tesla",
+        "country":"Zagreb",
+        "sector":"Telecommunications equipment"
+    },
+    {
+        "company_name":"HT",
+        "country":"Zagreb",
+        "sector":"Telecommunications"
+    },
+    {
+        "company_name":"INA",
+        "country":"Zagreb",
+        "sector":""
+    },
+    {
+        "company_name":"INGRA",
+        "country":"Zagreb",
+        "sector":"Heavy construction"
+    },
+    {
+        "company_name":"Kon\u010dar",
+        "country":"Zagreb",
+        "sector":"Industrial machinery"
+    },
+    {
+        "company_name":"Valamar Adria Holding",
+        "country":"Zagreb",
+        "sector":""
+    },
+    {
+        "company_name":"Kra\u0161",
+        "country":"Zagreb",
+        "sector":"Food products"
+    },
+    {
+        "company_name":"Ledo",
+        "country":"Zagreb",
+        "sector":"Food products"
+    },
+    {
+        "company_name":"Luka Rijeka",
+        "country":"Rijeka",
+        "sector":""
+    },
+    {
+        "company_name":"Podravka",
+        "country":"Koprivnica",
+        "sector":"Food products"
+    },
+    {
+        "company_name":"Petrokemija",
+        "country":"Kutina",
+        "sector":"Specialty chemicals"
+    },
+    {
+        "company_name":"Tehnika",
+        "country":"Zagreb",
+        "sector":""
+    },
+    {
+        "company_name":"Uljanik plovidba",
+        "country":"Pula",
+        "sector":""
+    },
+    {
+        "company_name":"Vupik",
+        "country":"Vukovar",
+        "sector":""
+    },
+    {
+        "company_name":"Zagreba\u010dka banka",
+        "country":"Zagreb",
+        "sector":"Bank"
+    }
+]

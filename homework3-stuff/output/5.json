@@ -1,0 +1,252 @@
+[
+    {
+        "company_name":"AGL Energy Ltd",
+        "GICS":"55",
+        "sector":"Utilities"
+    },
+    {
+        "company_name":"Asciano Ltd",
+        "GICS":"20",
+        "sector":"Industrials"
+    },
+    {
+        "company_name":"Amcor Ltd",
+        "GICS":"15",
+        "sector":"Materials"
+    },
+    {
+        "company_name":"AMP Ltd",
+        "GICS":"40",
+        "sector":"Financials"
+    },
+    {
+        "company_name":"ANZ Banking Group",
+        "GICS":"40",
+        "sector":"Financials"
+    },
+    {
+        "company_name":"APA Group",
+        "GICS":"55",
+        "sector":"Utilities"
+    },
+    {
+        "company_name":"ASX Limited",
+        "GICS":"40",
+        "sector":"Financials"
+    },
+    {
+        "company_name":"Aurizon Holdings Limited",
+        "GICS":"20",
+        "sector":"Industrials"
+    },
+    {
+        "company_name":"BHP Billiton Ltd",
+        "GICS":"15",
+        "sector":"Materials"
+    },
+    {
+        "company_name":"Brambles Ltd",
+        "GICS":"20",
+        "sector":"Industrials"
+    },
+    {
+        "company_name":"Commonwealth Bank",
+        "GICS":"40",
+        "sector":"Financials"
+    },
+    {
+        "company_name":"Coca-Cola Amatil Ltd",
+        "GICS":"30",
+        "sector":"Consumer Staples"
+    },
+    {
+        "company_name":"Computershare Ltd",
+        "GICS":"45",
+        "sector":"Information Technology"
+    },
+    {
+        "company_name":"CSL Ltd",
+        "GICS":"35",
+        "sector":"Health Care"
+    },
+    {
+        "company_name":"Caltex Australia Ltd",
+        "GICS":"10",
+        "sector":"Energy"
+    },
+    {
+        "company_name":"Crown Resorts Ltd",
+        "GICS":"25",
+        "sector":"Consumer Discretionary"
+    },
+    {
+        "company_name":"Dexus Property Group",
+        "GICS":"?",
+        "sector":"Real Estate"
+    },
+    {
+        "company_name":"Goodman Group Limited",
+        "GICS":"40",
+        "sector":"Financials"
+    },
+    {
+        "company_name":"GPT Group",
+        "GICS":"40",
+        "sector":"Financials"
+    },
+    {
+        "company_name":"Insurance Australia Group Ltd",
+        "GICS":"40",
+        "sector":"Financials"
+    },
+    {
+        "company_name":"Incitec Pivot",
+        "GICS":"15",
+        "sector":"Materials"
+    },
+    {
+        "company_name":"James Hardie",
+        "GICS":"15",
+        "sector":"Materials"
+    },
+    {
+        "company_name":"Lend Lease Group",
+        "GICS":"40",
+        "sector":"Financials"
+    },
+    {
+        "company_name":"Macquarie Group Ltd",
+        "GICS":"40",
+        "sector":"Financials"
+    },
+    {
+        "company_name":"Medibank Private Limited",
+        "GICS":"40",
+        "sector":"Financials"
+    },
+    {
+        "company_name":"Mirvac Ltd",
+        "GICS":"40",
+        "sector":"Financials"
+    },
+    {
+        "company_name":"National Australia Bank Ltd",
+        "GICS":"40",
+        "sector":"Financials"
+    },
+    {
+        "company_name":"Newcrest Mining Ltd",
+        "GICS":"15",
+        "sector":"Materials"
+    },
+    {
+        "company_name":"Origin Energy Ltd",
+        "GICS":"10",
+        "sector":"Energy"
+    },
+    {
+        "company_name":"Orica Ltd",
+        "GICS":"15",
+        "sector":"Materials"
+    },
+    {
+        "company_name":"Oil Search Ltd",
+        "GICS":"10",
+        "sector":"Energy"
+    },
+    {
+        "company_name":"QBE Insurance Group Ltd",
+        "GICS":"40",
+        "sector":"Financials"
+    },
+    {
+        "company_name":"Ramsay Health Care Ltd",
+        "GICS":"40",
+        "sector":"Financials"
+    },
+    {
+        "company_name":"Rio Tinto Ltd",
+        "GICS":"15",
+        "sector":"Materials"
+    },
+    {
+        "company_name":"Scentre Group Ltd",
+        "GICS":"15",
+        "sector":"Materials"
+    },
+    {
+        "company_name":"Seek Limited",
+        "GICS":"20",
+        "sector":"Industrials"
+    },
+    {
+        "company_name":"Stockland",
+        "GICS":"40",
+        "sector":"Financials"
+    },
+    {
+        "company_name":"Sonic Healthcare Ltd",
+        "GICS":"35",
+        "sector":"Health Care"
+    },
+    {
+        "company_name":"South32 Ltd",
+        "GICS":"40",
+        "sector":"Financials"
+    },
+    {
+        "company_name":"Santos Ltd",
+        "GICS":"10",
+        "sector":"Energy"
+    },
+    {
+        "company_name":"Suncorp Group Ltd",
+        "GICS":"40",
+        "sector":"Financials"
+    },
+    {
+        "company_name":"Sydney Airport Holdings",
+        "GICS":"20",
+        "sector":"Industrials"
+    },
+    {
+        "company_name":"Transurban Group NPV",
+        "GICS":"20",
+        "sector":"Industrials"
+    },
+    {
+        "company_name":"Telstra Corp Ltd",
+        "GICS":"50",
+        "sector":"Telecommunications Services"
+    },
+    {
+        "company_name":"Vicinity Limited",
+        "GICS":"40",
+        "sector":"Financials"
+    },
+    {
+        "company_name":"Westpac Banking Corp",
+        "GICS":"40",
+        "sector":"Financials"
+    },
+    {
+        "company_name":"Wesfarmers Ltd",
+        "GICS":"20",
+        "sector":"Industrials"
+    },
+    {
+        "company_name":"Westfield Corporation Ltd",
+        "GICS":"40",
+        "sector":"Financials"
+    },
+    {
+        "company_name":"Woolworths Ltd",
+        "GICS":"30",
+        "sector":"Consumer Staples"
+    },
+    {
+        "company_name":"Woodside Petroleum Ltd",
+        "GICS":"10",
+        "sector":"Energy"
+    }
+]

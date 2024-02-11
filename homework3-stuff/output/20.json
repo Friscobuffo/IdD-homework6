@@ -1,0 +1,128 @@
+[
+    {
+        "company_name":"GlaxoSmithKline",
+        "Violation(s)":"Criminal: Off-label promotion, failure to disclose safety data. Civil: paying kickbacks to physicians, making false and misleading statements concerning the safety of Avandia, reporting false best prices and underpaying rebates owed under the Medicaid Drug Rebate Program",
+        "Product(s)":"Avandia, Wellbutrin, Paxil, Advair, Lamictal, Zofran, Imitrex, Lotronex, Flovent, Valtrex;",
+        "Laws allegedly violated (if applicable)":"False Claims Act\/FDCA"
+    },
+    {
+        "company_name":"Pfizer",
+        "Violation(s)":"Off-label promotion\/kickbacks",
+        "Product(s)":"Bextra\/Geodon\/ Zyvox\/Lyrica",
+        "Laws allegedly violated (if applicable)":"False Claims Act\/FDCA"
+    },
+    {
+        "company_name":"Johnson & Johnson",
+        "Violation(s)":"Off-label promotion\/kickbacks",
+        "Product(s)":"Risperdal\/Invega\/ Nesiritide",
+        "Laws allegedly violated (if applicable)":"False Claims Act\/FDCA"
+    },
+    {
+        "company_name":"Abbott Laboratories",
+        "Violation(s)":"Off-label promotion",
+        "Product(s)":"Depakote",
+        "Laws allegedly violated (if applicable)":"False Claims Act\/FDCA"
+    },
+    {
+        "company_name":"Eli Lilly",
+        "Violation(s)":"Off-label promotion",
+        "Product(s)":"Zyprexa",
+        "Laws allegedly violated (if applicable)":"False Claims Act\/FDCA"
+    },
+    {
+        "company_name":"TAP Pharmaceutical Products",
+        "Violation(s)":"Medicare fraud\/kickbacks",
+        "Product(s)":"Lupron",
+        "Laws allegedly violated (if applicable)":"False Claims Act\/ Prescription Drug Marketing Act"
+    },
+    {
+        "company_name":"Amgen",
+        "Violation(s)":"Off-label promotion\/kickbacks",
+        "Product(s)":"Aranesp",
+        "Laws allegedly violated (if applicable)":"False Claims Act\/FDCA"
+    },
+    {
+        "company_name":"GlaxoSmithKline",
+        "Violation(s)":"Poor manufacturing practices",
+        "Product(s)":"Kytril\/Bactroban\/ Paxil CR\/Avandamet",
+        "Laws allegedly violated (if applicable)":"False Claims Act\/FDCA"
+    },
+    {
+        "company_name":"Serono",
+        "Violation(s)":"Off-label promotion\/ kickbacks\/monopoly practices",
+        "Product(s)":"Serostim",
+        "Laws allegedly violated (if applicable)":"False Claims Act"
+    },
+    {
+        "company_name":"Merck",
+        "Violation(s)":"Medicare fraud\/kickbacks",
+        "Product(s)":"Zocor\/Vioxx\/Pepsid",
+        "Laws allegedly violated (if applicable)":"False Claims Act\/ Medicaid Rebate Statute"
+    },
+    {
+        "company_name":"Purdue Pharma",
+        "Violation(s)":"Off-label promotion",
+        "Product(s)":"Oxycontin",
+        "Laws allegedly violated (if applicable)":"False Claims Act"
+    },
+    {
+        "company_name":"Allergan",
+        "Violation(s)":"Off-label promotion",
+        "Product(s)":"Botox",
+        "Laws allegedly violated (if applicable)":"False Claims Act\/FDCA"
+    },
+    {
+        "company_name":"AstraZeneca",
+        "Violation(s)":"Off-label promotion\/kickbacks",
+        "Product(s)":"Seroquel",
+        "Laws allegedly violated (if applicable)":"False Claims Act"
+    },
+    {
+        "company_name":"Bristol-Myers Squibb",
+        "Violation(s)":"Off-label promotion\/ kickbacks\/Medicare fraud",
+        "Product(s)":"Abilify\/Serzone",
+        "Laws allegedly violated (if applicable)":"False Claims Act\/FDCA"
+    },
+    {
+        "company_name":"Schering-Plough",
+        "Violation(s)":"Poor manufacturing practices",
+        "Product(s)":"Claritin",
+        "Laws allegedly violated (if applicable)":"FDA Current Good Manufacturing Practices"
+    },
+    {
+        "company_name":"Schering-Plough",
+        "Violation(s)":"Off-label promotion\/ kickbacks\/Medicare fraud",
+        "Product(s)":"Temodar\/ Intron A\/K-Dur\/ Claritin RediTabs",
+        "Laws allegedly violated (if applicable)":"False Claims Act\/FDCA"
+    },
+    {
+        "company_name":"Pfizer",
+        "Violation(s)":"Off-label promotion",
+        "Product(s)":"Neurontin",
+        "Laws allegedly violated (if applicable)":"False Claims Act\/FDCA"
+    },
+    {
+        "company_name":"Cephalon",
+        "Violation(s)":"Off-label promotion",
+        "Product(s)":"Actiq\/Gabitril\/Provigil",
+        "Laws allegedly violated (if applicable)":"False Claims Act\/FDCA"
+    },
+    {
+        "company_name":"Novartis",
+        "Violation(s)":"Off-label promotion\/kickbacks",
+        "Product(s)":"Trileptal",
+        "Laws allegedly violated (if applicable)":"False Claims Act\/FDCA"
+    },
+    {
+        "company_name":"AstraZeneca",
+        "Violation(s)":"Medicare fraud",
+        "Product(s)":"Zoladex",
+        "Laws allegedly violated (if applicable)":"Prescription Drug Marketing Act"
+    },
+    {
+        "company_name":"Schering-Plough",
+        "Violation(s)":"Medicare fraud\/kickbacks",
+        "Product(s)":"Claritin",
+        "Laws allegedly violated (if applicable)":"False Claims Act\/ Anti-Kickback Statute"
+    }
+]

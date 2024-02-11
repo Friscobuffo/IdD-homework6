@@ -1,0 +1,252 @@
+[
+    {
+        "company_name":"AFK Sistema",
+        "stock":"Common",
+        "industry":"Conglomerate"
+    },
+    {
+        "company_name":"Aeroflot",
+        "stock":"Common",
+        "industry":"Transportation"
+    },
+    {
+        "company_name":"Acron",
+        "stock":"Common",
+        "industry":"Chemicals"
+    },
+    {
+        "company_name":"Bashneft",
+        "stock":"Common",
+        "industry":"Oil & gas"
+    },
+    {
+        "company_name":"Bashneft",
+        "stock":"Preferred",
+        "industry":"Oil & gas"
+    },
+    {
+        "company_name":"Bank Saint Petersburg",
+        "stock":"Common",
+        "industry":"Banking"
+    },
+    {
+        "company_name":"SeverStal",
+        "stock":"Common",
+        "industry":"Mining & Metallurgy"
+    },
+    {
+        "company_name":"DIXY",
+        "stock":"Common",
+        "industry":"Retail"
+    },
+    {
+        "company_name":"E.ON Russia",
+        "stock":"Common",
+        "industry":"Electric utility"
+    },
+    {
+        "company_name":"FGC UES",
+        "stock":"Common",
+        "industry":"Electric utility"
+    },
+    {
+        "company_name":"Gazprom",
+        "stock":"Common",
+        "industry":"Oil & gas"
+    },
+    {
+        "company_name":"Norilsk Nickel",
+        "stock":"Common",
+        "industry":"Mining & Metallurgy"
+    },
+    {
+        "company_name":"RusHydro",
+        "stock":"Common",
+        "industry":"Energy"
+    },
+    {
+        "company_name":"Inter RAO",
+        "stock":"Common",
+        "industry":"Energy"
+    },
+    {
+        "company_name":"Lukoil",
+        "stock":"Common",
+        "industry":"Oil & gas"
+    },
+    {
+        "company_name":"LSR Group",
+        "stock":"Common",
+        "industry":"Real estate development"
+    },
+    {
+        "company_name":"Magnitogorsk Iron and Steel Works",
+        "stock":"Common",
+        "industry":"Metallurgy"
+    },
+    {
+        "company_name":"OJSC Magnit",
+        "stock":"Common",
+        "industry":"Retail"
+    },
+    {
+        "company_name":"Holding IDGC",
+        "stock":"Common",
+        "industry":"Electric utility"
+    },
+    {
+        "company_name":"Mosenergo",
+        "stock":"Common",
+        "industry":"Energy"
+    },
+    {
+        "company_name":"MOESK",
+        "stock":"Common",
+        "industry":"Electric utility"
+    },
+    {
+        "company_name":"Mostotrest",
+        "stock":"Common",
+        "industry":"Construction"
+    },
+    {
+        "company_name":"Mechel",
+        "stock":"Common",
+        "industry":"Mining & Metallurgy"
+    },
+    {
+        "company_name":"Mobile TeleSystems",
+        "stock":"Common",
+        "industry":"Telecommunication"
+    },
+    {
+        "company_name":"M.video",
+        "stock":"Common",
+        "industry":"Retail"
+    },
+    {
+        "company_name":"Novolipetsk Steel",
+        "stock":"Common",
+        "industry":"Metallurgy"
+    },
+    {
+        "company_name":"Novorossiysk Commercial Sea Port",
+        "stock":"Common",
+        "industry":"Transportation"
+    },
+    {
+        "company_name":"Novatek",
+        "stock":"Common",
+        "industry":"Oil & gas"
+    },
+    {
+        "company_name":"OGK-1",
+        "stock":"Common",
+        "industry":"Energy"
+    },
+    {
+        "company_name":"OGK-2",
+        "stock":"Common",
+        "industry":"Energy"
+    },
+    {
+        "company_name":"WGC-3",
+        "stock":"Common",
+        "industry":"Energy"
+    },
+    {
+        "company_name":"Pharmstandard",
+        "stock":"Common",
+        "industry":"Pharmaceuticals"
+    },
+    {
+        "company_name":"PIK Group",
+        "stock":"Common",
+        "industry":"Real estate development"
+    },
+    {
+        "company_name":"Raspadskaya",
+        "stock":"Common",
+        "industry":"Mining"
+    },
+    {
+        "company_name":"Rosneft",
+        "stock":"Common",
+        "industry":"Oil & gas"
+    },
+    {
+        "company_name":"Rostelecom",
+        "stock":"Common",
+        "industry":"Telecommunication"
+    },
+    {
+        "company_name":"Sberbank",
+        "stock":"Russian depositary receipt (RDR)",
+        "industry":"Banking"
+    },
+    {
+        "company_name":"Sberbank",
+        "stock":"Common",
+        "industry":"Banking"
+    },
+    {
+        "company_name":"Sberbank",
+        "stock":"Preferred",
+        "industry":"Banking"
+    },
+    {
+        "company_name":"Gazprom Neft",
+        "stock":"Common",
+        "industry":"Oil & gas"
+    },
+    {
+        "company_name":"Surgutneftegas",
+        "stock":"Common",
+        "industry":"Oil & gas"
+    },
+    {
+        "company_name":"Surgutneftegas",
+        "stock":"Preferred",
+        "industry":"Oil & gas"
+    },
+    {
+        "company_name":"Tatneft",
+        "stock":"Common",
+        "industry":"Oil & gas"
+    },
+    {
+        "company_name":"TNK-BP",
+        "stock":"Common",
+        "industry":"Oil & gas"
+    },
+    {
+        "company_name":"TNK-BP",
+        "stock":"Preferred",
+        "industry":"Oil & gas"
+    },
+    {
+        "company_name":"Transneft",
+        "stock":"Preferred",
+        "industry":"Oil & gas"
+    },
+    {
+        "company_name":"Uralkali",
+        "stock":"Common",
+        "industry":"Chemicals"
+    },
+    {
+        "company_name":"VSMPO-AVISMA Corporation",
+        "stock":"Common",
+        "industry":"Mining & Metallurgy"
+    },
+    {
+        "company_name":"VTB Bank",
+        "stock":"Common",
+        "industry":"Banking"
+    },
+    {
+        "company_name":"Vozrozhdenie Bank",
+        "stock":"Common",
+        "industry":"Banking"
+    }
+]

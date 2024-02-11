@@ -1,0 +1,107 @@
+[
+    {
+        "company_name":"",
+        "sic_code":"",
+        "Name":""
+    },
+    {
+        "company_name":"AMP Limited",
+        "sic_code":"40",
+        "Name":"Financials"
+    },
+    {
+        "company_name":"Australia and New Zealand Banking Group Limited",
+        "sic_code":"40",
+        "Name":"Financials"
+    },
+    {
+        "company_name":"BHP Billiton Limited",
+        "sic_code":"15",
+        "Name":"Materials"
+    },
+    {
+        "company_name":"Brambles Limited",
+        "sic_code":"20",
+        "Name":"Industrials"
+    },
+    {
+        "company_name":"Commonwealth Bank of Australia Limited",
+        "sic_code":"40",
+        "Name":"Financials"
+    },
+    {
+        "company_name":"CSL Limited",
+        "sic_code":"35",
+        "Name":"Health Care"
+    },
+    {
+        "company_name":"Insurance Australia Group Limited",
+        "sic_code":"40",
+        "Name":"Financials"
+    },
+    {
+        "company_name":"Macquarie Group Limited",
+        "sic_code":"40",
+        "Name":"Financials"
+    },
+    {
+        "company_name":"National Australia Bank Limited",
+        "sic_code":"40",
+        "Name":"Financials"
+    },
+    {
+        "company_name":"Origin Energy Limited",
+        "sic_code":"10",
+        "Name":"Energy"
+    },
+    {
+        "company_name":"QBE Insurance Group Limited",
+        "sic_code":"40",
+        "Name":"Financials"
+    },
+    {
+        "company_name":"Rio Tinto Limited",
+        "sic_code":"15",
+        "Name":"Materials"
+    },
+    {
+        "company_name":"Scentre Group",
+        "sic_code":"40",
+        "Name":"Financials"
+    },
+    {
+        "company_name":"Suncorp Limited",
+        "sic_code":"40",
+        "Name":"Financials"
+    },
+    {
+        "company_name":"Telstra Corporation Limited",
+        "sic_code":"50",
+        "Name":"Telecommunication Services"
+    },
+    {
+        "company_name":"Westpac Banking Corporation Limited",
+        "sic_code":"40",
+        "Name":"Financials"
+    },
+    {
+        "company_name":"Wesfarmers Limited",
+        "sic_code":"30",
+        "Name":"Consumer Staples"
+    },
+    {
+        "company_name":"Westfield Corporation",
+        "sic_code":"40",
+        "Name":"Financials"
+    },
+    {
+        "company_name":"Woolworths Limited",
+        "sic_code":"30",
+        "Name":"Consumer Staples"
+    },
+    {
+        "company_name":"Woodside Petroleum Limited",
+        "sic_code":"10",
+        "Name":"Energy"
+    }
+]

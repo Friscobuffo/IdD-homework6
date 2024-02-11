@@ -1,0 +1,1002 @@
+[
+    {
+        "company_name":"Australian Agricultural Company Limited",
+        "GICS":"?",
+        "country":""
+    },
+    {
+        "company_name":"Ardent Leisure Group",
+        "GICS":"25",
+        "country":""
+    },
+    {
+        "company_name":"Adelaide Brighton Limited",
+        "GICS":"?",
+        "country":""
+    },
+    {
+        "company_name":"Abacus Property Group",
+        "GICS":"40",
+        "country":"Sydney"
+    },
+    {
+        "company_name":"AGL Energy Limited",
+        "GICS":"55",
+        "country":"Sydney"
+    },
+    {
+        "company_name":"Automotive Holdings Group Limited",
+        "GICS":"?",
+        "country":"Perth"
+    },
+    {
+        "company_name":"Asaleo Care Limited",
+        "GICS":"?",
+        "country":""
+    },
+    {
+        "company_name":"Asciano Limited",
+        "GICS":"?",
+        "country":""
+    },
+    {
+        "company_name":"Aristocrat Leisure Limited",
+        "GICS":"25",
+        "country":""
+    },
+    {
+        "company_name":"ALS Limited",
+        "GICS":"?",
+        "country":""
+    },
+    {
+        "company_name":"Altium Limited",
+        "GICS":"?",
+        "country":""
+    },
+    {
+        "company_name":"Amcor Limited",
+        "GICS":"15",
+        "country":"Melbourne"
+    },
+    {
+        "company_name":"AMP Limited",
+        "GICS":"40",
+        "country":"Sydney"
+    },
+    {
+        "company_name":"Ansell Limited",
+        "GICS":"?",
+        "country":""
+    },
+    {
+        "company_name":"Australia and New Zealand Banking Group Limited",
+        "GICS":"40",
+        "country":"Melbourne"
+    },
+    {
+        "company_name":"Aveo Group",
+        "GICS":"40",
+        "country":""
+    },
+    {
+        "company_name":"APA Group",
+        "GICS":"55",
+        "country":""
+    },
+    {
+        "company_name":"Australian Pharmaceutical Industries Limited",
+        "GICS":"?",
+        "country":""
+    },
+    {
+        "company_name":"APN News & Media Limited",
+        "GICS":"25",
+        "country":""
+    },
+    {
+        "company_name":"Apn Outdoor Group Limited",
+        "GICS":"25",
+        "country":""
+    },
+    {
+        "company_name":"ARB Corporation Limited",
+        "GICS":"10",
+        "country":""
+    },
+    {
+        "company_name":"Austal Limited",
+        "GICS":"?",
+        "country":"Perth"
+    },
+    {
+        "company_name":"Ausnet Services Limited",
+        "GICS":"55",
+        "country":""
+    },
+    {
+        "company_name":"ASX Limited",
+        "GICS":"40",
+        "country":"Sydney"
+    },
+    {
+        "company_name":"Alumina Limited",
+        "GICS":"15",
+        "country":""
+    },
+    {
+        "company_name":"AWE Limited",
+        "GICS":"10",
+        "country":""
+    },
+    {
+        "company_name":"Aurizon Holdings Limited",
+        "GICS":"20",
+        "country":"Brisbane"
+    },
+    {
+        "company_name":"Burson Group Limited",
+        "GICS":"25",
+        "country":""
+    },
+    {
+        "company_name":"Bendigo and Adelaide Bank Limited",
+        "GICS":"40",
+        "country":"Melbourne"
+    },
+    {
+        "company_name":"Bega Cheese Limited",
+        "GICS":"?",
+        "country":""
+    },
+    {
+        "company_name":"BHP Billiton Limited",
+        "GICS":"15",
+        "country":"Melbourne \/  London"
+    },
+    {
+        "company_name":"Blackmores Limited",
+        "GICS":"?",
+        "country":"Warriewood, New South Wales"
+    },
+    {
+        "company_name":"Boral Limited",
+        "GICS":"15",
+        "country":""
+    },
+    {
+        "company_name":"Bank of Queensland Limited",
+        "GICS":"40",
+        "country":"Brisbane"
+    },
+    {
+        "company_name":"Beach Energy Limited",
+        "GICS":"10",
+        "country":""
+    },
+    {
+        "company_name":"Breville Group Limited",
+        "GICS":"25",
+        "country":""
+    },
+    {
+        "company_name":"Broadspectrum Limited",
+        "GICS":"?",
+        "country":""
+    },
+    {
+        "company_name":"Bluescope Steel Limited",
+        "GICS":"15",
+        "country":""
+    },
+    {
+        "company_name":"BT Investment Management Limited",
+        "GICS":"40",
+        "country":""
+    },
+    {
+        "company_name":"BWP Trust Ord Units",
+        "GICS":"40",
+        "country":""
+    },
+    {
+        "company_name":"Brambles Limited",
+        "GICS":"20",
+        "country":"Sydney"
+    },
+    {
+        "company_name":"Cabcharge Australia Limited",
+        "GICS":"?",
+        "country":""
+    },
+    {
+        "company_name":"Carsales.com Limited",
+        "GICS":"?",
+        "country":""
+    },
+    {
+        "company_name":"Commonwealth Bank of Australia",
+        "GICS":"40",
+        "country":"Sydney"
+    },
+    {
+        "company_name":"Coca-Cola Amatil Limited",
+        "GICS":"30",
+        "country":"Sydney"
+    },
+    {
+        "company_name":"Credit Corp Group Limited",
+        "GICS":"?",
+        "country":""
+    },
+    {
+        "company_name":"Costa Group Holdings Limited",
+        "GICS":"40",
+        "country":""
+    },
+    {
+        "company_name":"Challenger Limited",
+        "GICS":"40",
+        "country":""
+    },
+    {
+        "company_name":"Charter Hall Group Forus",
+        "GICS":"40",
+        "country":""
+    },
+    {
+        "company_name":"CIMIC Group Limited",
+        "GICS":"?",
+        "country":""
+    },
+    {
+        "company_name":"Cromwell Property Group",
+        "GICS":"40",
+        "country":""
+    },
+    {
+        "company_name":"Cochlear Limited",
+        "GICS":"?",
+        "country":""
+    },
+    {
+        "company_name":"Computershare Limited",
+        "GICS":"45",
+        "country":"Melbourne"
+    },
+    {
+        "company_name":"Charter Hall Retail Reit Unit",
+        "GICS":"40",
+        "country":""
+    },
+    {
+        "company_name":"CSL Limited",
+        "GICS":"35",
+        "country":"Melbourne"
+    },
+    {
+        "company_name":"CSR Limited",
+        "GICS":"15",
+        "country":""
+    },
+    {
+        "company_name":"Corporate Travel Management Limited",
+        "GICS":"40",
+        "country":""
+    },
+    {
+        "company_name":"Caltex Australia Limited",
+        "GICS":"10",
+        "country":""
+    },
+    {
+        "company_name":"Cover-more Group Limited",
+        "GICS":"40",
+        "country":""
+    },
+    {
+        "company_name":"Crown Resorts Limited",
+        "GICS":"25",
+        "country":"Melbourne"
+    },
+    {
+        "company_name":"Duluxgroup Limited",
+        "GICS":"15",
+        "country":""
+    },
+    {
+        "company_name":"Domino's Pizza Enterprises Limited",
+        "GICS":"40",
+        "country":""
+    },
+    {
+        "company_name":"Downer Group Limited",
+        "GICS":"?",
+        "country":""
+    },
+    {
+        "company_name":"Duet Group Forus",
+        "GICS":"55",
+        "country":""
+    },
+    {
+        "company_name":"Dexus Property Group",
+        "GICS":"?",
+        "country":"Sydney"
+    },
+    {
+        "company_name":"Estia Health Limited",
+        "GICS":"35",
+        "country":""
+    },
+    {
+        "company_name":"Evolution Mining Limited",
+        "GICS":"15",
+        "country":""
+    },
+    {
+        "company_name":"Fletcher Building Limited NZ",
+        "GICS":"15",
+        "country":""
+    },
+    {
+        "company_name":"Flight Centre Travel Group Limited",
+        "GICS":"25",
+        "country":""
+    },
+    {
+        "company_name":"Fortescue Metals Group Limited",
+        "GICS":"15",
+        "country":"Perth"
+    },
+    {
+        "company_name":"Fisher & Paykel Healthcare Corporation Limited NZ",
+        "GICS":"?",
+        "country":""
+    },
+    {
+        "company_name":"Fairfax Media Limited",
+        "GICS":"40",
+        "country":""
+    },
+    {
+        "company_name":"Flexigroup Limited",
+        "GICS":"40",
+        "country":""
+    },
+    {
+        "company_name":"G8 Education Limited",
+        "GICS":"40",
+        "country":""
+    },
+    {
+        "company_name":"Genworth Mortgage Insurance Australia Limited",
+        "GICS":"40",
+        "country":""
+    },
+    {
+        "company_name":"Goodman Group",
+        "GICS":"40",
+        "country":"Sydney"
+    },
+    {
+        "company_name":"Graincorp Limited",
+        "GICS":"?",
+        "country":""
+    },
+    {
+        "company_name":"Growthpoint Properties Australia",
+        "GICS":"40",
+        "country":""
+    },
+    {
+        "company_name":"GPT Group",
+        "GICS":"40",
+        "country":"Sydney"
+    },
+    {
+        "company_name":"Gateway Lifestyle Group",
+        "GICS":"40",
+        "country":""
+    },
+    {
+        "company_name":"G.u.d. Holdings Limited",
+        "GICS":"40",
+        "country":""
+    },
+    {
+        "company_name":"GWA Group Limited",
+        "GICS":"?",
+        "country":""
+    },
+    {
+        "company_name":"Greencross Limited",
+        "GICS":"?",
+        "country":""
+    },
+    {
+        "company_name":"Henderson Group PLC",
+        "GICS":"40",
+        "country":""
+    },
+    {
+        "company_name":"Healthscope Limited",
+        "GICS":"?",
+        "country":""
+    },
+    {
+        "company_name":"Harvey Norman Holdings Limited",
+        "GICS":"25",
+        "country":""
+    },
+    {
+        "company_name":"Insurance Australia Group Limited",
+        "GICS":"40",
+        "country":"Sydney"
+    },
+    {
+        "company_name":"Ioof Holdings Limited",
+        "GICS":"40",
+        "country":""
+    },
+    {
+        "company_name":"Independence Group NL",
+        "GICS":"15",
+        "country":""
+    },
+    {
+        "company_name":"Iluka Resources Limited",
+        "GICS":"15",
+        "country":"Perth"
+    },
+    {
+        "company_name":"Investa Office Fund",
+        "GICS":"40",
+        "country":""
+    },
+    {
+        "company_name":"Incitec Pivot Limited",
+        "GICS":"15",
+        "country":"Melbourne"
+    },
+    {
+        "company_name":"Iress Limited",
+        "GICS":"?",
+        "country":""
+    },
+    {
+        "company_name":"Isentia Group Limited",
+        "GICS":"?",
+        "country":""
+    },
+    {
+        "company_name":"Invocare Limited",
+        "GICS":"25",
+        "country":""
+    },
+    {
+        "company_name":"JB Hi-fi Limited",
+        "GICS":"25",
+        "country":""
+    },
+    {
+        "company_name":"Japara Healthcare Limited",
+        "GICS":"35",
+        "country":""
+    },
+    {
+        "company_name":"James Hardie Industries PLC",
+        "GICS":"15",
+        "country":""
+    },
+    {
+        "company_name":"Karoon Gas Australia Limited",
+        "GICS":"10",
+        "country":""
+    },
+    {
+        "company_name":"Lendlease Group",
+        "GICS":"40",
+        "country":"Sydney"
+    },
+    {
+        "company_name":"Liquefied Natural Gas Limited",
+        "GICS":"10",
+        "country":""
+    },
+    {
+        "company_name":"Magellan Financial Group Limited",
+        "GICS":"40",
+        "country":""
+    },
+    {
+        "company_name":"Mirvac Group",
+        "GICS":"40",
+        "country":"Sydney"
+    },
+    {
+        "company_name":"Mineral Resources Limited",
+        "GICS":"?",
+        "country":"Perth"
+    },
+    {
+        "company_name":"Mcmillan Shakespeare Limited",
+        "GICS":"?",
+        "country":""
+    },
+    {
+        "company_name":"Monadelphous Group Limited",
+        "GICS":"?",
+        "country":"Perth"
+    },
+    {
+        "company_name":"Medibank Private Limited",
+        "GICS":"40",
+        "country":"Melbourne"
+    },
+    {
+        "company_name":"Macquarie Atlas Roads Group",
+        "GICS":"?",
+        "country":""
+    },
+    {
+        "company_name":"Macquarie Group Limited",
+        "GICS":"40",
+        "country":"Sydney"
+    },
+    {
+        "company_name":"Mesoblast Limited",
+        "GICS":"?",
+        "country":""
+    },
+    {
+        "company_name":"Mantra Group Limited",
+        "GICS":"25",
+        "country":""
+    },
+    {
+        "company_name":"Metcash Limited",
+        "GICS":"?",
+        "country":""
+    },
+    {
+        "company_name":"M2 Group Limited",
+        "GICS":"?",
+        "country":""
+    },
+    {
+        "company_name":"Myob Group Limited",
+        "GICS":"?",
+        "country":""
+    },
+    {
+        "company_name":"Myer Holdings Limited",
+        "GICS":"25",
+        "country":""
+    },
+    {
+        "company_name":"Mayne Pharma Group Limited",
+        "GICS":"?",
+        "country":""
+    },
+    {
+        "company_name":"National Australia Bank Limited",
+        "GICS":"40",
+        "country":"Melbourne"
+    },
+    {
+        "company_name":"Newcrest Mining Limited",
+        "GICS":"15",
+        "country":"Melbourne"
+    },
+    {
+        "company_name":"Nine Entertainment Co. Holdings Limited",
+        "GICS":"25",
+        "country":""
+    },
+    {
+        "company_name":"National Storage Reit",
+        "GICS":"40",
+        "country":""
+    },
+    {
+        "company_name":"Northern Star Resources Limited",
+        "GICS":"15",
+        "country":"Perth"
+    },
+    {
+        "company_name":"Nufarm Limited",
+        "GICS":"15",
+        "country":""
+    },
+    {
+        "company_name":"Navitas Limited",
+        "GICS":"25",
+        "country":"Perth"
+    },
+    {
+        "company_name":"News Corporation",
+        "GICS":"25",
+        "country":""
+    },
+    {
+        "company_name":"Ozforex Group Limited",
+        "GICS":"40",
+        "country":""
+    },
+    {
+        "company_name":"Orora Limited",
+        "GICS":"15",
+        "country":""
+    },
+    {
+        "company_name":"Origin Energy Limited",
+        "GICS":"10",
+        "country":"Sydney"
+    },
+    {
+        "company_name":"Orica Limited",
+        "GICS":"15",
+        "country":"Melbourne"
+    },
+    {
+        "company_name":"Oil Search Limited",
+        "GICS":"10",
+        "country":"Port Moresby"
+    },
+    {
+        "company_name":"Oz Minerals Limited",
+        "GICS":"15",
+        "country":""
+    },
+    {
+        "company_name":"Pacific Brands Limited",
+        "GICS":"25",
+        "country":""
+    },
+    {
+        "company_name":"Pact Group Holdings Limited",
+        "GICS":"15",
+        "country":""
+    },
+    {
+        "company_name":"Premier Investments Limited",
+        "GICS":"25",
+        "country":""
+    },
+    {
+        "company_name":"Perpetual Limited",
+        "GICS":"40",
+        "country":""
+    },
+    {
+        "company_name":"Programmed Maintenance Services Limited",
+        "GICS":"?",
+        "country":"Perth"
+    },
+    {
+        "company_name":"Primary Health Care Limited",
+        "GICS":"35",
+        "country":""
+    },
+    {
+        "company_name":"Platinum Asset Management Limited",
+        "GICS":"40",
+        "country":""
+    },
+    {
+        "company_name":"Qantas Airways Limited",
+        "GICS":"20",
+        "country":"Sydney"
+    },
+    {
+        "company_name":"QBE Insurance Group Limited",
+        "GICS":"40",
+        "country":"Sydney"
+    },
+    {
+        "company_name":"Qube Holdings Limited",
+        "GICS":"?",
+        "country":""
+    },
+    {
+        "company_name":"REA Group Limited",
+        "GICS":"25",
+        "country":""
+    },
+    {
+        "company_name":"Recall Holdings Limited",
+        "GICS":"?",
+        "country":""
+    },
+    {
+        "company_name":"Regis Healthcare Limited",
+        "GICS":"35",
+        "country":""
+    },
+    {
+        "company_name":"Retail Food Group Limited",
+        "GICS":"25",
+        "country":""
+    },
+    {
+        "company_name":"Ramsay Health Care Limited",
+        "GICS":"35",
+        "country":""
+    },
+    {
+        "company_name":"Rio Tinto Limited",
+        "GICS":"15",
+        "country":"Melbourne \/  London"
+    },
+    {
+        "company_name":"ResMed Inc",
+        "GICS":"?",
+        "country":""
+    },
+    {
+        "company_name":"Regis Resources Limited",
+        "GICS":"15",
+        "country":"Perth"
+    },
+    {
+        "company_name":"South32 Limited",
+        "GICS":"15",
+        "country":"Perth"
+    },
+    {
+        "company_name":"SAI Global Limited",
+        "GICS":"?",
+        "country":""
+    },
+    {
+        "company_name":"Scentre Group",
+        "GICS":"40",
+        "country":""
+    },
+    {
+        "company_name":"Shopping Centres Australasia Property Group",
+        "GICS":"40",
+        "country":""
+    },
+    {
+        "company_name":"Steadfast Group Limited",
+        "GICS":"40",
+        "country":""
+    },
+    {
+        "company_name":"Seek Limited",
+        "GICS":"20",
+        "country":"Melbourne"
+    },
+    {
+        "company_name":"Sandfire Resources NL",
+        "GICS":"15",
+        "country":"Perth"
+    },
+    {
+        "company_name":"Slater & Gordon Limited",
+        "GICS":"40",
+        "country":""
+    },
+    {
+        "company_name":"Sims Metal Management Limited",
+        "GICS":"15",
+        "country":""
+    },
+    {
+        "company_name":"Stockland",
+        "GICS":"40",
+        "country":"Sydney"
+    },
+    {
+        "company_name":"Star Entertainment Group Limited",
+        "GICS":"40",
+        "country":""
+    },
+    {
+        "company_name":"Sonic Healthcare Limited",
+        "GICS":"35",
+        "country":"Sydney"
+    },
+    {
+        "company_name":"Select Harvests Limited",
+        "GICS":"?",
+        "country":""
+    },
+    {
+        "company_name":"Sigma Pharmaceuticals Limited",
+        "GICS":"?",
+        "country":""
+    },
+    {
+        "company_name":"Skycity Entertainment Group Limited NZ",
+        "GICS":"25",
+        "country":""
+    },
+    {
+        "company_name":"Spark Infrastructure Group Forus",
+        "GICS":"55",
+        "country":""
+    },
+    {
+        "company_name":"SKY Network Television Limited NZ",
+        "GICS":"25",
+        "country":""
+    },
+    {
+        "company_name":"Spark New Zealand Limited NZX",
+        "GICS":"?",
+        "country":""
+    },
+    {
+        "company_name":"Spotless Group Holdings Limited",
+        "GICS":"?",
+        "country":""
+    },
+    {
+        "company_name":"Sirtex Medical Limited",
+        "GICS":"?",
+        "country":""
+    },
+    {
+        "company_name":"Santos Limited",
+        "GICS":"10",
+        "country":"Adelaide"
+    },
+    {
+        "company_name":"Super Retail Group Limited",
+        "GICS":"25",
+        "country":""
+    },
+    {
+        "company_name":"Suncorp Group Limited",
+        "GICS":"40",
+        "country":"Brisbane"
+    },
+    {
+        "company_name":"Seven Group Holdings Limited",
+        "GICS":"?",
+        "country":""
+    },
+    {
+        "company_name":"Seven West Media Limited",
+        "GICS":"25",
+        "country":"Perth"
+    },
+    {
+        "company_name":"Southern Cross Media Group Limited",
+        "GICS":"25",
+        "country":""
+    },
+    {
+        "company_name":"Sydney Airport Forus",
+        "GICS":"20",
+        "country":"Sydney"
+    },
+    {
+        "company_name":"Syrah Resources Limited",
+        "GICS":"15",
+        "country":""
+    },
+    {
+        "company_name":"Tabcorp Holdings Limited",
+        "GICS":"25",
+        "country":""
+    },
+    {
+        "company_name":"Transurban Group",
+        "GICS":"20",
+        "country":"Melbourne"
+    },
+    {
+        "company_name":"Ten Network Holdings Limited",
+        "GICS":"25",
+        "country":""
+    },
+    {
+        "company_name":"Tassal Group Limited",
+        "GICS":"?",
+        "country":""
+    },
+    {
+        "company_name":"Telstra Corporation Limited",
+        "GICS":"50",
+        "country":"Melbourne"
+    },
+    {
+        "company_name":"Trade Me Group Limited",
+        "GICS":"25",
+        "country":""
+    },
+    {
+        "company_name":"Technology One Limited",
+        "GICS":"?",
+        "country":""
+    },
+    {
+        "company_name":"Transpacific Industries Group Limited",
+        "GICS":"?",
+        "country":""
+    },
+    {
+        "company_name":"TPG Telecom Limited",
+        "GICS":"?",
+        "country":""
+    },
+    {
+        "company_name":"Tatts Group Limited",
+        "GICS":"25",
+        "country":""
+    },
+    {
+        "company_name":"Treasury Wine Estates Limited",
+        "GICS":"?",
+        "country":""
+    },
+    {
+        "company_name":"Vicinity Centres",
+        "GICS":"40",
+        "country":""
+    },
+    {
+        "company_name":"Veda Group Limited",
+        "GICS":"?",
+        "country":""
+    },
+    {
+        "company_name":"Vocus Communications Limited",
+        "GICS":"?",
+        "country":""
+    },
+    {
+        "company_name":"Village Roadshow Limited",
+        "GICS":"25",
+        "country":""
+    },
+    {
+        "company_name":"Virtus Health Limited",
+        "GICS":"35",
+        "country":""
+    },
+    {
+        "company_name":"Westpac Banking Corporation",
+        "GICS":"40",
+        "country":"Sydney"
+    },
+    {
+        "company_name":"Wesfarmers Limited",
+        "GICS":"20",
+        "country":"Perth"
+    },
+    {
+        "company_name":"Westfield Corporation",
+        "GICS":"40",
+        "country":"Sydney"
+    },
+    {
+        "company_name":"Whitehaven Coal Limited",
+        "GICS":"10",
+        "country":""
+    },
+    {
+        "company_name":"Worleyparsons Limited",
+        "GICS":"10",
+        "country":""
+    },
+    {
+        "company_name":"Woolworths Limited",
+        "GICS":"30",
+        "country":"Sydney"
+    },
+    {
+        "company_name":"Woodside Petroleum Limited",
+        "GICS":"10",
+        "country":"Perth"
+    },
+    {
+        "company_name":"Western Areas Limited",
+        "GICS":"15",
+        "country":""
+    }
+]

@@ -1,0 +1,422 @@
+[
+    {
+        "company_name":"3M",
+        "country":"United States",
+        "sector":"Electronics",
+        "Major acquisitions and activities":"Attenti"
+    },
+    {
+        "company_name":"Alcatel-Lucent",
+        "country":"France",
+        "sector":"Telecommunication",
+        "Major acquisitions and activities":"LANNET, Chromatis Networks, Mobilitec"
+    },
+    {
+        "company_name":"Amazon",
+        "country":"United States",
+        "sector":"Internet",
+        "Major acquisitions and activities":"Aannapurna Labs"
+    },
+    {
+        "company_name":"AOL",
+        "country":"United States",
+        "sector":"Internet",
+        "Major acquisitions and activities":"5min Media"
+    },
+    {
+        "company_name":"AMD",
+        "country":"United States",
+        "sector":"Semiconductors",
+        "Major acquisitions and activities":"Graphic Remedy"
+    },
+    {
+        "company_name":"Apple",
+        "country":"United States",
+        "sector":"Consumer electronics",
+        "Major acquisitions and activities":"Anobit, PrimeSense"
+    },
+    {
+        "company_name":"Applied Materials",
+        "country":"United States",
+        "sector":"Semiconductors",
+        "Major acquisitions and activities":"Orbot Instruments, Opal Technologies, Oramir Semiconductor"
+    },
+    {
+        "company_name":"ARM Holdings",
+        "country":"United Kingdom",
+        "sector":"Semiconductors",
+        "Major acquisitions and activities":"Sansa Security"
+    },
+    {
+        "company_name":"AT&T",
+        "country":"United States",
+        "sector":"Telecommunication",
+        "Major acquisitions and activities":"Interwise"
+    },
+    {
+        "company_name":"Autodesk",
+        "country":"United States",
+        "sector":"Software",
+        "Major acquisitions and activities":"R&D Center"
+    },
+    {
+        "company_name":"Barclays",
+        "country":"United Kingdom",
+        "sector":"Financial services",
+        "Major acquisitions and activities":"R&D Center"
+    },
+    {
+        "company_name":"BMC Software",
+        "country":"United States",
+        "sector":"Software",
+        "Major acquisitions and activities":"New Dimension Software, Identify Software"
+    },
+    {
+        "company_name":"Broadcom",
+        "country":"United States",
+        "sector":"Semiconductors",
+        "Major acquisitions and activities":"VisionTech, M-Stream, Siliquent Technologies, Dune Networks, Percello, Provigent, SC Square"
+    },
+    {
+        "company_name":"ChemChina",
+        "country":"China",
+        "sector":"Chemicals",
+        "Major acquisitions and activities":"Makhteshim Agan"
+    },
+    {
+        "company_name":"Citigroup",
+        "country":"United States",
+        "sector":"Financial services",
+        "Major acquisitions and activities":"R&D Center"
+    },
+    {
+        "company_name":"Cisco",
+        "country":"United States",
+        "sector":"Telecommunication",
+        "Major acquisitions and activities":"CLASS Data Systems, HyNEX, Seagull Semiconductor, PentaCom, P-Cube, Riverhead Networks, Intucell, Sheer Networks, NDS Group"
+    },
+    {
+        "company_name":"Dassault Syst\u00e8mes",
+        "country":"France",
+        "sector":"Software",
+        "Major acquisitions and activities":""
+    },
+    {
+        "company_name":"Dell",
+        "country":"United States",
+        "sector":"Computer technology",
+        "Major acquisitions and activities":"R&D center"
+    },
+    {
+        "company_name":"Dropbox",
+        "country":"United States",
+        "sector":"Internet",
+        "Major acquisitions and activities":"Cloudon (2015)"
+    },
+    {
+        "company_name":"ebay",
+        "country":"United States",
+        "sector":"Internet",
+        "Major acquisitions and activities":"Shopping.com, Fraud Sciences, The Gift Project"
+    },
+    {
+        "company_name":"EMC",
+        "country":"United States",
+        "sector":"Computer technology",
+        "Major acquisitions and activities":"Kashya, nLayers, proActivity, Illuminator, ZettaPoint, Cyota, XtremIO"
+    },
+    {
+        "company_name":"Facebook",
+        "country":"United States",
+        "sector":"Internet",
+        "Major acquisitions and activities":"Onavo, Pebbles Interfaces"
+    },
+    {
+        "company_name":"Gemalto",
+        "country":"France",
+        "sector":"Software",
+        "Major acquisitions and activities":""
+    },
+    {
+        "company_name":"General Electric",
+        "country":"United States",
+        "sector":"Medical technology",
+        "Major acquisitions and activities":"Nuclear and MR businesses of Elscint, Diasonics Vingmed"
+    },
+    {
+        "company_name":"General Motors",
+        "country":"United States",
+        "sector":"Automotive",
+        "Major acquisitions and activities":""
+    },
+    {
+        "company_name":"Google",
+        "country":"United States",
+        "sector":"Internet",
+        "Major acquisitions and activities":"LabPixies, Quiksee, modu (patents only), Waze"
+    },
+    {
+        "company_name":"Harman International Industries",
+        "country":"United States",
+        "sector":"Electronics",
+        "Major acquisitions and activities":"Red Bend Software"
+    },
+    {
+        "company_name":"HP",
+        "country":"United States",
+        "sector":"Computer technology",
+        "Major acquisitions and activities":"Indigo Digital Press, Scitex Vision, Nur Macroprints, Mercury Interactive, Shunra"
+    },
+    {
+        "company_name":"Huawei",
+        "country":"China",
+        "sector":"Telecommunication",
+        "Major acquisitions and activities":""
+    },
+    {
+        "company_name":"IBM",
+        "country":"United States",
+        "sector":"Computer technology",
+        "Major acquisitions and activities":"Ubique, I-Logix, XIV, Guardium, Diligent Technologies, Storwize, Worklight, Trusteer"
+    },
+    {
+        "company_name":"ICAP",
+        "country":"United Kingdom",
+        "sector":"Financial services",
+        "Major acquisitions and activities":"Traiana"
+    },
+    {
+        "company_name":"Infosys",
+        "country":"India",
+        "sector":"Information technology",
+        "Major acquisitions and activities":"Panaya"
+    },
+    {
+        "company_name":"Intel",
+        "country":"United States",
+        "sector":"Semiconductors",
+        "Major acquisitions and activities":"DSPC Envara, Comsys, InVision Biometrics, Telmap"
+    },
+    {
+        "company_name":"Jain Irrigation Systems",
+        "country":"India",
+        "sector":"Agricultural technology",
+        "Major acquisitions and activities":"NaanDan Irrigation Systems"
+    },
+    {
+        "company_name":"John Deere",
+        "country":"United States",
+        "sector":"Agricultural technology",
+        "Major acquisitions and activities":""
+    },
+    {
+        "company_name":"Johnson & Johnson",
+        "country":"United States",
+        "sector":"Medical technology",
+        "Major acquisitions and activities":""
+    },
+    {
+        "company_name":"Lenovo",
+        "country":"China",
+        "sector":"Consumer electronics",
+        "Major acquisitions and activities":""
+    },
+    {
+        "company_name":"LG",
+        "country":"South Korea",
+        "sector":"Consumer electronics",
+        "Major acquisitions and activities":""
+    },
+    {
+        "company_name":"Marvell Technology Group",
+        "country":"United States",
+        "sector":"Semiconductors",
+        "Major acquisitions and activities":"Galileo Technology"
+    },
+    {
+        "company_name":"McAfee",
+        "country":"United States",
+        "sector":"Software",
+        "Major acquisitions and activities":""
+    },
+    {
+        "company_name":"Micro Focus International",
+        "country":"United Kingdom",
+        "sector":"Software",
+        "Major acquisitions and activities":"NetManage"
+    },
+    {
+        "company_name":"Microsoft",
+        "country":"United States",
+        "sector":"Software",
+        "Major acquisitions and activities":"Maximal, Peach Networks, Whale Communications, Gteko, YaData, 3DV Systems"
+    },
+    {
+        "company_name":"Monsanto",
+        "country":"United States",
+        "sector":"Agricultural Technology",
+        "Major acquisitions and activities":"Rosetta Green (2013)"
+    },
+    {
+        "company_name":"Motorola",
+        "country":"United States",
+        "sector":"Telecommunication",
+        "Major acquisitions and activities":"Terayon, Bitband"
+    },
+    {
+        "company_name":"Oracle",
+        "country":"United States",
+        "sector":"Software",
+        "Major acquisitions and activities":""
+    },
+    {
+        "company_name":"Nestl\u00e9",
+        "country":"Switzerland",
+        "sector":"Food processing",
+        "Major acquisitions and activities":"Osem"
+    },
+    {
+        "company_name":"PayPal",
+        "country":"United States",
+        "sector":"Internet",
+        "Major acquisitions and activities":""
+    },
+    {
+        "company_name":"Philips",
+        "country":"Netherlands",
+        "sector":"Medical technology",
+        "Major acquisitions and activities":""
+    },
+    {
+        "company_name":"Polycom",
+        "country":"United States",
+        "sector":"Telecommunication",
+        "Major acquisitions and activities":""
+    },
+    {
+        "company_name":"Qualcomm",
+        "country":"United States",
+        "sector":"Semiconductors",
+        "Major acquisitions and activities":""
+    },
+    {
+        "company_name":"Samsung",
+        "country":"South Korea",
+        "sector":"Consumer electronics",
+        "Major acquisitions and activities":"Boxee"
+    },
+    {
+        "company_name":"SanDisk",
+        "country":"United States",
+        "sector":"Semiconductors",
+        "Major acquisitions and activities":"M-Systems"
+    },
+    {
+        "company_name":"SAP",
+        "country":"Germany",
+        "sector":"Software",
+        "Major acquisitions and activities":"OFEK-Tech, TopTier Software, TopManage, A2i"
+    },
+    {
+        "company_name":"Sears",
+        "country":"United States",
+        "sector":"Retail",
+        "Major acquisitions and activities":""
+    },
+    {
+        "company_name":"SeaGate",
+        "country":"United States",
+        "sector":"Computer storage",
+        "Major acquisitions and activities":""
+    },
+    {
+        "company_name":"Siemens",
+        "country":"Germany",
+        "sector":"Electronics",
+        "Major acquisitions and activities":""
+    },
+    {
+        "company_name":"Sinokrot",
+        "country":"Israel",
+        "sector":"Agriculture",
+        "Major acquisitions and activities":"Deyafa, Zadona"
+    },
+    {
+        "company_name":"Software AG",
+        "country":"Germany",
+        "sector":"Software",
+        "Major acquisitions and activities":""
+    },
+    {
+        "company_name":"Sony",
+        "country":"Japan",
+        "sector":"Electronics",
+        "Major acquisitions and activities":"Altair Semiconductor"
+    },
+    {
+        "company_name":"Sun Pharmaceutical",
+        "country":"India",
+        "sector":"Pharmaceuticals",
+        "Major acquisitions and activities":"Taro Pharmaceuticals"
+    },
+    {
+        "company_name":"SingTel",
+        "country":"Singapore",
+        "sector":"Telecommunications",
+        "Major acquisitions and activities":""
+    },
+    {
+        "company_name":"Syngenta",
+        "country":"Switzerland",
+        "sector":"Agribusiness",
+        "Major acquisitions and activities":"Zeraim Gedera"
+    },
+    {
+        "company_name":"Tata Group",
+        "country":"India",
+        "sector":"Information technology",
+        "Major acquisitions and activities":"Technology Innovation Momentum Fund"
+    },
+    {
+        "company_name":"Tech Mahindra",
+        "country":"India",
+        "sector":"Telecommunications",
+        "Major acquisitions and activities":"Comverse Technology"
+    },
+    {
+        "company_name":"Teradata",
+        "country":"United States",
+        "sector":"Data warehousing",
+        "Major acquisitions and activities":"Appoxee(2015) ~$20\u201325 mil"
+    },
+    {
+        "company_name":"Teva Pharmaceutical Industries",
+        "country":"Israel",
+        "sector":"Pharmaceuticals",
+        "Major acquisitions and activities":""
+    },
+    {
+        "company_name":"Texas Instruments",
+        "country":"United States",
+        "sector":"Semiconductors",
+        "Major acquisitions and activities":""
+    },
+    {
+        "company_name":"Xiaomi",
+        "country":"China",
+        "sector":"Consumer electronics",
+        "Major acquisitions and activities":""
+    },
+    {
+        "company_name":"Xerox",
+        "country":"United States",
+        "sector":"Information technology",
+        "Major acquisitions and activities":"XMpie"
+    },
+    {
+        "company_name":"Yahoo",
+        "country":"United States",
+        "sector":"Internet",
+        "Major acquisitions and activities":"ClarityRay, Dapper, RayV"
+    }
+]

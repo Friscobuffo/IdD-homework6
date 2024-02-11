@@ -1,0 +1,52 @@
+[
+    {
+        "company_name":"NorNickel",
+        "industry":"Precious and non-ferrous metals",
+        "stock":"Common"
+    },
+    {
+        "company_name":"Sberbank",
+        "industry":"Banking",
+        "stock":"Preferred"
+    },
+    {
+        "company_name":"Moscow Exchange",
+        "industry":"Finance",
+        "stock":"Common"
+    },
+    {
+        "company_name":"Gazprom",
+        "industry":"Oil & gas",
+        "stock":"Common"
+    },
+    {
+        "company_name":"Magnit",
+        "industry":"Retail",
+        "stock":"Common"
+    },
+    {
+        "company_name":"Lukoil",
+        "industry":"Oil & gas",
+        "stock":"Common"
+    },
+    {
+        "company_name":"Sberbank",
+        "industry":"Banking",
+        "stock":"Common"
+    },
+    {
+        "company_name":"Rosneft",
+        "industry":"Oil & gas",
+        "stock":"Common"
+    },
+    {
+        "company_name":"VTB",
+        "industry":"Banking",
+        "stock":"Common"
+    },
+    {
+        "company_name":"Surgutneftegas",
+        "industry":"Oil & gas",
+        "stock":"Preferred"
+    }
+]

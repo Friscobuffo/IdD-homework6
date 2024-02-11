@@ -1,0 +1,102 @@
+[
+    {
+        "company_name":"Sinopec",
+        "country":"Beijing",
+        "industry":"Oil"
+    },
+    {
+        "company_name":"China National Petroleum",
+        "country":"Beijing",
+        "industry":"Oil"
+    },
+    {
+        "company_name":"State Grid Corporation",
+        "country":"Beijing",
+        "industry":"Utilities"
+    },
+    {
+        "company_name":"Industrial and Commercial Bank of China",
+        "country":"Beijing",
+        "industry":"Banking"
+    },
+    {
+        "company_name":"China Construction Bank",
+        "country":"Beijing",
+        "industry":"Banking"
+    },
+    {
+        "company_name":"Agricultural Bank of China",
+        "country":"Beijing",
+        "industry":"Banking"
+    },
+    {
+        "company_name":"China State Construction Engineering",
+        "country":"Beijing",
+        "industry":"Construction"
+    },
+    {
+        "company_name":"China Mobile",
+        "country":"Beijing",
+        "industry":"Telecommunications"
+    },
+    {
+        "company_name":"Bank of China",
+        "country":"Beijing",
+        "industry":"Banking"
+    },
+    {
+        "company_name":"Noble Group",
+        "country":"Hong Kong",
+        "industry":"Conglomerate"
+    },
+    {
+        "company_name":"China National Offshore Oil",
+        "country":"Beijing",
+        "industry":"Oil"
+    },
+    {
+        "company_name":"China Railway Construction",
+        "country":"Beijing",
+        "industry":"Construction"
+    },
+    {
+        "company_name":"SAIC Motor",
+        "country":"Shanghai",
+        "industry":"Automotive"
+    },
+    {
+        "company_name":"China Railway Group",
+        "country":"Beijing",
+        "industry":"Construction"
+    },
+    {
+        "company_name":"China Life Insurance",
+        "country":"Beijing",
+        "industry":"Insurance"
+    },
+    {
+        "company_name":"Sinochem Group",
+        "country":"Beijing",
+        "industry":"Oil\/Chemicals"
+    },
+    {
+        "company_name":"FAW Group",
+        "country":"Changchun",
+        "industry":"Automotive"
+    },
+    {
+        "company_name":"Dongfeng Motor Group",
+        "country":"Wuhan",
+        "industry":"Automotive"
+    },
+    {
+        "company_name":"China Southern Power Grid",
+        "country":"Guangzhou",
+        "industry":"Utilities"
+    },
+    {
+        "company_name":"China Development Bank",
+        "country":"Beijing",
+        "industry":"Banking"
+    }
+]
