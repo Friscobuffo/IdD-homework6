@@ -1,32 +1,3 @@
-# import os
-# import json
-
-# ABS_PATH = os.path.dirname(os.path.abspath(__file__))
-# TABLE_PATH = os.path.join(ABS_PATH + '/sources-json')
-
-# files = os.listdir(TABLE_PATH)
-
-# total_files = 0
-# total_keys = 0
-
-# for file in files:
-#     with open(os.path.join(TABLE_PATH, file), 'r') as json_file:
-#         data = json.load(json_file)
-    
-    # # Number of entries for each file
-    # sum = 0
-    # for entry in data:
-    #     sum += 1
-    # print(f"Nome:{file}, entries:{sum}")
-    
-
-#     if data:  # Check if data is not empty
-#         num_keys = len(data[0].keys())
-#         total_keys += num_keys
-#         total_files += 1
-
-# print(total_keys/total_files)
-
 import os
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -62,10 +33,7 @@ def file_histogram(directory):
 
     # Iterate over sorted files
     for file, num_entries in sorted_files:
-        if num_entries < 200:
-            file_names.append("Less than 200 entries")
-        else:
-            file_names.append(file)
+        file_names.append(file)
         entry_counts.append(num_entries)
 
     # Plot the histogram
@@ -79,10 +47,10 @@ def file_histogram(directory):
     plt.grid(axis='y', linestyle='--', color='gray')  # Grid color
 
     # Calculate average number of entries
-    average_entries = sum(entry_counts) / len(entry_counts)
+    average_entries = sum(entry_counts) // len(entry_counts)
 
     # Plot average line
-    plt.axhline(y=average_entries, color='red', linestyle='--', linewidth=0.9, label=f'Average: {average_entries:.2f}')
+    plt.axhline(y=average_entries, color='red', linestyle='--', linewidth=0.9, label=f'Average: ~{average_entries:.2f}')
     plt.legend()
 
     plt.xticks(rotation=45, ha='right')  # Rotate x-axis labels for better readability
@@ -91,7 +59,5 @@ def file_histogram(directory):
 
 # Call the function with the directory path
 ABS_PATH = os.path.dirname(os.path.abspath(__file__))
-TABLE_PATH = os.path.join(ABS_PATH + '/pairwise-matching/output')
+TABLE_PATH = os.path.join(ABS_PATH + '/sources-json')
 file_histogram(TABLE_PATH)
-
-
