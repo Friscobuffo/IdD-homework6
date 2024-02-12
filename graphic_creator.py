@@ -28,7 +28,7 @@
 # print(total_keys/total_files)
 
 import os
-import json
+import pandas as pd
 import matplotlib.pyplot as plt
 
 def file_histogram(directory):
@@ -39,12 +39,13 @@ def file_histogram(directory):
 
     # Iterate over each file
     for file in files:
-        # Open the file and load data
-        with open(os.path.join(directory, file), 'r') as json_file:
-            print(file)
-            if file == "Brazil.json" or file == "Croatia.json" or file == "Czechia.json": continue
-            data = json.load(json_file)
-        
+        # Read the JSON file into a DataFrame
+        try:
+            data = pd.read_json(os.path.join(directory, file))
+        except ValueError:
+            print(f"Error reading file: {file}. Skipping...")
+            continue
+
         # Count the number of entries for the current file
         num_entries = len(data)
         
@@ -65,8 +66,6 @@ def file_histogram(directory):
             file_names.append("Less than 200 entries")
         else:
             file_names.append(file)
-        print(file)
-        print(entry_counts)
         entry_counts.append(num_entries)
 
     # Plot the histogram
@@ -80,10 +79,10 @@ def file_histogram(directory):
     plt.grid(axis='y', linestyle='--', color='gray')  # Grid color
 
     # Calculate average number of entries
-    # average_entries = sum(entry_counts) / len(entry_counts)
+    average_entries = sum(entry_counts) / len(entry_counts)
 
     # Plot average line
-    # plt.axhline(y=average_entries, color='red', linestyle='--', label=f'Average: {average_entries:.2f}')
+    plt.axhline(y=average_entries, color='red', linestyle='--', linewidth=0.9, label=f'Average: {average_entries:.2f}')
     plt.legend()
 
     plt.xticks(rotation=45, ha='right')  # Rotate x-axis labels for better readability
@@ -94,4 +93,5 @@ def file_histogram(directory):
 ABS_PATH = os.path.dirname(os.path.abspath(__file__))
 TABLE_PATH = os.path.join(ABS_PATH + '/pairwise-matching/output')
 file_histogram(TABLE_PATH)
+
 
