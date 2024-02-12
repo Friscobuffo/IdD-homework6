@@ -7,6 +7,7 @@
 #include <unistd.h>
 #include <sys/stat.h>
 #include <sys/types.h>
+#include <time.h>
 
 // to compile run:
 // gcc -o prova pairwiseMatching.c cJSON.c
@@ -137,10 +138,14 @@ void computePairwiseMatchingOnJson(char* jsonFilePath, char* outputFilePath, int
             char* company_name_inner_cleaned = removeNonAlphanumeric(company_name_inner);
             toLowercase(company_name_inner_cleaned);
             float distance = levenshteinDistance(company_name_outer_cleaned, company_name_inner_cleaned);
-            if (distance < 0.21) {
+            if (distance < 0.3) {
                 removed[j] = 1;
                 mergeSecondJsonIntoFirst(json_item_outer, json_item_inner);
                 matchesFound++;
+                // if (((double)rand() / RAND_MAX) < 0.01) {
+                //     printf("\nmatch, %s --- %s\n", company_name_inner, company_name_outer);
+                //     fflush(stdout);
+                // }
             }
             free(company_name_inner_cleaned);
         }
@@ -198,6 +203,7 @@ void computePairwiseMatchingOnJson(char* jsonFilePath, char* outputFilePath, int
 #define OUTPUT_DIRECTORY "output"
 
 int main() {
+    srand(time(NULL));
     char command[100];
     sprintf(command, "rm -r %s", OUTPUT_DIRECTORY);
     if (system(command) != 0) {
