@@ -3,6 +3,7 @@ import recordlinkage
 import pandas as pd
 import unicodedata as uc
 import Levenshtein
+from time import time
 
 def normalize_text(stringa):
     return uc.normalize('NFKD', stringa).encode('ascii', 'ignore').decode('utf-8')
@@ -17,10 +18,10 @@ def match(dfA, dfB, min_score = 3):
     compare_cl = recordlinkage.Compare()
 
     compare_cl.string("company_name", "company_name", threshold=0.85, label="company_name")
-    compare_cl.string("country", "country", threshold=0.85, label="country")
-    compare_cl.string("sector", "sector", threshold=0.85, label="sector")
-    compare_cl.string("revenue", "revenue", threshold=0.85, label="revenue")
-    compare_cl.string("founding_year", "founding_year", threshold=0.85, label="founding_year")
+    # compare_cl.string("country", "country", threshold=0.85, label="country")
+    # compare_cl.string("sector", "sector", threshold=0.85, label="sector")
+    # compare_cl.string("revenue", "revenue", threshold=0.85, label="revenue")
+    # compare_cl.string("founding_year", "founding_year", threshold=0.85, label="founding_year")
 
     features = compare_cl.compute(candidate_links, dfA, dfB)
     # Classification step
@@ -69,15 +70,22 @@ if __name__ == "__main__":
     tot_matches = 0
     dataSource = absPath + "/custom-blocks"
     files = os.listdir(dataSource)
+    totComparisons = 0
+    totTime = 0
     for file in files:
         if file == ".json":
             continue
         print(file)
+        start = time()
         json_file_path = absPath + '/custom-blocks/' + file
         dfA = pd.read_json(json_file_path)
         dfA = dfA.map(lambda x: normalize_text(x) if isinstance(x, str) else x)
         dfA = dfA.astype(str)
-        tot_matches += personal_match(dfA, dfA, ["company_name"], 0.1, 1)
+        # tot_matches += personal_match(dfA, dfA, ["company_name"], 0.1, 1)
+        tot_matches += match(dfA, dfA, min_score=1)
+        totTime += time()-start
+        totComparisons += len(dfA)*(len(dfA)-1)/2
+        print(totTime, totComparisons)
     
     print(tot_matches)
         
