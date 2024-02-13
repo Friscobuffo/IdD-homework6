@@ -1,6 +1,11 @@
 import os
 import json
 import shutil
+import re
+
+def cleanString(str):
+    str = str.lower()
+    return re.sub(r'[^a-zA-Z0-9]', '', str)
 
 def makeBlocks(keys, char_num, custom_chars):
     absPath = os.path.dirname(os.path.abspath(__file__))
@@ -13,9 +18,9 @@ def makeBlocks(keys, char_num, custom_chars):
     for key in keys:
         for row in finalTable:
             if custom_chars:
-                new_key = row[key][0:char_num]
+                new_key = cleanString(row[key])[0:char_num]
             else:
-                new_key = row[key]
+                new_key = cleanString(row[key])
 
             if new_key not in blocks:
                 blocks[new_key] = []
@@ -29,10 +34,7 @@ def makeBlocks(keys, char_num, custom_chars):
     os.mkdir(absPath + "/custom-blocks")
 
     for key in blocks.keys():
-        if "/" in key:
-            blockPath = absPath + "/custom-blocks/%s.json" %key.replace("/", "slash")
-        else:
-            blockPath = absPath + "/custom-blocks/%s.json" %key
+        blockPath = absPath + "/custom-blocks/%s.json" %key
         with open(blockPath, "w") as json_file:
             json.dump(blocks[key], json_file, indent=4)
 
