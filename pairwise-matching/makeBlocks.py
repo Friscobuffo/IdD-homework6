@@ -2,7 +2,7 @@ import os
 import json
 import shutil
 
-def makeBlocks(keys, char_num):
+def makeBlocks(keys, char_num, custom_chars):
     absPath = os.path.dirname(os.path.abspath(__file__))
     
     finaTablePath = absPath + "/../mediated-schema/processed-final-table2.json"
@@ -12,7 +12,10 @@ def makeBlocks(keys, char_num):
     blocks = dict()
     for key in keys:
         for row in finalTable:
-            new_key = row[key]
+            if custom_chars:
+                new_key = row[key][0:char_num]
+            else:
+                new_key = row[key]
 
             if new_key not in blocks:
                 blocks[new_key] = []
@@ -26,12 +29,13 @@ def makeBlocks(keys, char_num):
     os.mkdir(absPath + "/custom-blocks")
 
     for key in blocks.keys():
-        blockPath = absPath + "/custom-blocks/%s.json" %key
-        if os.path.exists(blockPath):
-            os.remove(blockPath)
+        if "/" in key:
+            blockPath = absPath + "/custom-blocks/%s.json" %key.replace("/", "slash")
+        else:
+            blockPath = absPath + "/custom-blocks/%s.json" %key
         with open(blockPath, "w") as json_file:
             json.dump(blocks[key], json_file, indent=4)
 
 
 if __name__ == "__main__":
-    makeBlocks(["country"], 2)
+    makeBlocks(["company_name"], 2, True)
