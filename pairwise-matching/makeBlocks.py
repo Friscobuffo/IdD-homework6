@@ -38,4 +38,5 @@ def makeBlocks(keys, char_num, custom_chars):
 
 
 if __name__ == "__main__":
-    makeBlocks(["company_name"], 2, True)
+    # makeBlocks(["company_name"], 2, True)
+    makeBlocks(["country"], 2, False)

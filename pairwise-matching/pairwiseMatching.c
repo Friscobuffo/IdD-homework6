@@ -80,7 +80,7 @@ void mergeSecondJsonIntoFirst(cJSON* first, cJSON* second) {
     }
 }
 
-void computePairwiseMatchingOnJson(char* jsonFilePath, char* outputFilePath, int* totalElementsRemoved) {
+int computePairwiseMatchingOnJson(char* jsonFilePath, char* outputFilePath, int* totalElementsRemoved) {
     printf("computing: %s\n", jsonFilePath);
     // reading json file
     FILE* file;
@@ -197,6 +197,7 @@ void computePairwiseMatchingOnJson(char* jsonFilePath, char* outputFilePath, int
     // freeing heap
     cJSON_Delete(json_array);
     cJSON_Delete(output_array);
+    return numberOfEntries;
 }
 
 #define BLOCKS_DIRECTORY "custom-blocks"
@@ -222,6 +223,10 @@ int main() {
     char path[200];
     char outputPath[200];
     int totalElementsRemoved = 0;
+    time_t current_time;
+    time(&current_time);
+    long totalTime = (long)current_time;
+    long comparisonsDone = 0;
     while ((entry = readdir(directory)) != NULL) {
         char* jsonName = entry->d_name;
         if (strcmp(jsonName,  ".json") == 0)
@@ -236,10 +241,15 @@ int main() {
             strcat(outputPath, OUTPUT_DIRECTORY);
             strcat(outputPath, "/");
             strcat(outputPath, jsonName);
-            computePairwiseMatchingOnJson(path, outputPath, &totalElementsRemoved);
+            int numberOfEntries = computePairwiseMatchingOnJson(path, outputPath, &totalElementsRemoved);
+            comparisonsDone += (long)((numberOfEntries * (numberOfEntries-1))/2);
         }
     }
     printf("total elements removed: %d\n", totalElementsRemoved);
+    time(&current_time);
+    totalTime = (long)current_time - totalTime;
+    printf("total time: %ld\n", totalTime);
+    printf("comparisons done: %ld\n", comparisonsDone);
     closedir(directory);
     return 0;
 }
