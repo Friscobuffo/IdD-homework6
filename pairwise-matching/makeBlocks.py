@@ -7,7 +7,7 @@ def cleanString(str):
     str = str.lower()
     return re.sub(r'[^a-zA-Z0-9]', '', str)
 
-def makeBlocks_company(keys, char_num, custom_chars):
+def makeBlocks(keys, char_num, custom_chars):
     absPath = os.path.dirname(os.path.abspath(__file__))
     
     finaTablePath = absPath + "/../mediated-schema/processed-final-table2.json"
@@ -27,6 +27,7 @@ def makeBlocks_company(keys, char_num, custom_chars):
             blocks[new_key].append(row)
     
     print(len(blocks))
+    print(max(len(block) for block in blocks.values()))
 
     
     if os.path.exists(absPath + "/custom-blocks"):
@@ -37,38 +38,13 @@ def makeBlocks_company(keys, char_num, custom_chars):
         blockPath = absPath + "/custom-blocks/%s.json" %key
         with open(blockPath, "w") as json_file:
             json.dump(blocks[key], json_file, indent=4)
-    
-def makeBlocks_country(keys, char_num):
-    absPath = os.path.dirname(os.path.abspath(__file__))
-    
-    finaTablePath = absPath + "/../mediated-schema/processed-final-table2.json"
-    with open(finaTablePath, 'r') as jsonfile:
-        finalTable = json.load(jsonfile)
 
-    blocks = dict()
-    for key in keys:
-        for row in finalTable:
-            new_key = row[key]
+def makeBlockCountry():
+    makeBlocks(["country"], 0, False)
 
-            if new_key not in blocks:
-                blocks[new_key] = []
-            blocks[new_key].append(row)
-    
-    print(len(blocks))
-
-    
-    if os.path.exists(absPath + "/custom-blocks"):
-        shutil.rmtree(absPath + "/custom-blocks")
-    os.mkdir(absPath + "/custom-blocks")
-
-    for key in blocks.keys():
-        blockPath = absPath + "/custom-blocks/%s.json" %key
-        if os.path.exists(blockPath):
-            os.remove(blockPath)
-        with open(blockPath, "w") as json_file:
-            json.dump(blocks[key], json_file, indent=4)
+def makeBlockCompany():
+    makeBlocks(["company_name"], 2, True)
 
 
 if __name__ == "__main__":
-    # makeBlocks(["company_name"], 2, True)
-    makeBlocks(["country"], 2, False)
+    makeBlockCompany()
