@@ -65,8 +65,6 @@ if __name__ == "__main__":
             proc.start()
         for proc in procs:
             proc.join()
-        totalTime = str(time() - start)
-        print(f"total time: {totalTime}")
     except KeyboardInterrupt:
         print("\nclosing all processes")
         for proc in procs:
@@ -116,6 +114,10 @@ if __name__ == "__main__":
             for elem in s:
                 f.write(str(elem) + '\n')
 
+    totalTime = str(time() - start)
+    print(f"total time automatic process: {totalTime}")
+
+    start = time()
     labelsMediatedSchema = []
     for s in sets:
         print(s)
@@ -149,6 +151,8 @@ if __name__ == "__main__":
         data["dataset"] = file
         schemas.append(data)
 
+    totalTime = str(time() - start)
+    print(f"total time manual process: {totalTime}")
     mediatedSchemaPath = ABS_PATH + "/mediated-schema.json"
     if os.path.exists(mediatedSchemaPath):
         os.remove(mediatedSchemaPath)
