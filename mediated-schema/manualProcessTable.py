@@ -111,8 +111,6 @@ if __name__ == "__main__":
             proc.start()
         for proc in procs:
             proc.join()
-        totalTime = str(time() - start)
-        print(f"total time: {totalTime}")
         files = os.listdir(OUTPUT_DIRECTORY)
         finalProcessedTable = []
         for file in files:
@@ -121,6 +119,8 @@ if __name__ == "__main__":
         saveJson(finalProcessedTable, finalProcessedTablePath)
         # if os.path.exists(OUTPUT_DIRECTORY):
         #     shutil.rmtree(OUTPUT_DIRECTORY)
+        totalTime = str(time() - start)
+        print(f"total time: {totalTime}")
     except KeyboardInterrupt:
         print("\nclosing all processes")
         for proc in procs:

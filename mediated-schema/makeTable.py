@@ -1,6 +1,8 @@
 import os
 import json
+from time import time
 
+start = time()
 ABS_PATH = os.path.dirname(os.path.abspath(__file__))
 DATA_PATH = ABS_PATH + "/valentine-ms/sources-json"
 
@@ -63,3 +65,5 @@ if os.path.exists(FINAL_TABLE_PATH):
     os.remove(FINAL_TABLE_PATH)
 with open(FINAL_TABLE_PATH, "w") as json_file:
     json.dump(finalTable, json_file, indent=4)
+
+print(f"total time {time()-start}")

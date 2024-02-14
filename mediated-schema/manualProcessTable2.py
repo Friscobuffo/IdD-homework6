@@ -6,6 +6,9 @@ import country_converter as coco
 import translators as ts
 import re
 import sys
+from time import time
+
+start = time()
 
 ABS_PATH = os.path.dirname(os.path.abspath(__file__))
 PROCESSED_FINAL_TABLE_PATH = ABS_PATH + "/processed-final-table.json"
@@ -103,3 +106,5 @@ with open(PROCESSED_FINAL_TABLE_PATH2, "w") as jsonFile:
 
 for country in allCountriesOccurrences:
     print(f"{country} occurrences: {allCountriesOccurrences[country]}")
+
+print(f"total time: {time()- start}")
