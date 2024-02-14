@@ -6,6 +6,9 @@ from valentine.algorithms import Coma
 import pickle
 import re
 import shutil
+from time import time
+
+start = time()
 
 def readJsonFile(filePath):
     with open(filePath, 'r') as jsonfile:
@@ -140,3 +143,5 @@ print(oldMediatedSchemaHeader)
 print()
 print(f"new mediated schema: {len(newMediatedSchemaHeader)}")
 print(newMediatedSchemaHeader)
+
+print(f"time: {time() - start}")

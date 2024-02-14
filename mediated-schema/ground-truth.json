@@ -1,5 +1,19 @@
 [
     {
+        "dataset": "DDD-cbinsight.com.json",
+        "": "id",
+        "name": "company_name",
+        "valuation": "valutation",
+        "dateJoined": "founding_date",
+        "country": "country",
+        "city": "location_city",
+        "industry": "industry",
+        "investors": "investors",
+        "founded": "founding_year",
+        "stage": "stage",
+        "totalRaised": "revenue"
+    },
+    {
         "dataset": "DDD-ft.com.json",
         "": "id",
         "name": "company_name",
@@ -94,7 +108,7 @@
         "dataset": "gren-value.today.json",
         "name": "company_name",
         "annual_revenue_USD": "revenue",
-        "annual_net_income_USD": "net_income",
+        "annual_net_income_USD": "income",
         "market_capitalization_2022": "market_cap",
         "employees_number": "employees_number",
         "CEO": "ceo",
@@ -178,5 +192,13 @@
         "ceo": "ceo",
         "employees": "employees_number",
         "revenue": "revenue"
+    },
+    {
+        "dataset": "FR_sole24ore.json",
+        "address": "address",
+        "location_city": "location_city",
+        "sector": "sector",
+        "revenue": "revenue",
+        "company_name": "company_name"
     }
 ]
